@@ -1,5 +1,15 @@
 import { ReviewData, GuideData } from "./types";
 import { site } from "./site";
+import { scientificReviewer } from "./reviewer";
+
+function reviewerPerson() {
+  return {
+    "@type": "Person",
+    name: scientificReviewer.name,
+    jobTitle: scientificReviewer.title,
+    sameAs: [scientificReviewer.linkedin],
+  };
+}
 
 export function reviewJsonLd(data: ReviewData) {
   return {
@@ -30,6 +40,7 @@ export function reviewJsonLd(data: ReviewData) {
           reviewBody: data.bottomLine,
         },
       },
+      reviewerPerson(),
       {
         "@type": "BreadcrumbList",
         itemListElement: [
@@ -61,6 +72,7 @@ export function guideJsonLd(data: GuideData, path: string) {
         datePublished: data.updatedDate,
         author: { "@type": "Organization", name: `${site.name} Editorial Team` },
       },
+      reviewerPerson(),
       {
         "@type": "BreadcrumbList",
         itemListElement: [

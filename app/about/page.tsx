@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { site } from "@/lib/site";
+import { scientificReviewer } from "@/lib/reviewer";
 
 export const metadata: Metadata = {
   title: "About Us & Editorial Process",
@@ -16,6 +17,14 @@ export default function AboutPage() {
           {site.name} is an independent publisher of hair loss and hair regrowth product reviews. We started this
           site because most product pages in this category are written by the brands themselves — we wanted a
           place that researches ingredients, evidence, and real customer sentiment before publishing a verdict.
+        </p>
+        <h2>Our Scientific Reviewer</h2>
+        <p>
+          Every article on this site is written by our editorial team and reviewed by{" "}
+          <a href={scientificReviewer.linkedin} target="_blank" rel="noopener noreferrer">
+            {scientificReviewer.name}
+          </a>
+          , {scientificReviewer.title}. {scientificReviewer.shortBio}
         </p>
         <h2 id="editorial-process">Our Editorial Process</h2>
         <p>For every product we review, our editorial team:</p>
