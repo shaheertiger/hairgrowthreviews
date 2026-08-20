@@ -145,6 +145,14 @@ export const viviscal: ReviewData = {
       q: "Can I take Viviscal along with iron or zinc supplements I already use?",
       a: "Doubling up on iron or zinc from multiple sources can push you toward excess intake, which isn't risk-free — particularly for iron. If you're already supplementing either nutrient, check your combined daily totals and talk to a doctor before adding Viviscal on top.",
     },
+    {
+      q: "Are there Viviscal alternatives without shellfish for allergic or vegan users?",
+      a: "Yes — the broader hair-supplement category includes plant-based and shellfish-free formulations built around similar supporting nutrients like biotin, zinc, and iron without a marine-derived complex. If shellfish allergy or a vegan diet applies to you, it's worth specifically confirming any alternative's full ingredient sourcing rather than assuming a competing brand is automatically shellfish-free.",
+    },
+    {
+      q: "Does Viviscal interact with medications like blood thinners?",
+      a: "Some of Viviscal's individual ingredients, including iron and certain botanicals, can theoretically interact with other medications or existing health conditions, which is true of most multi-ingredient supplements. Anyone on prescription medication, especially blood thinners or thyroid medication, should review the full ingredient list with a doctor or pharmacist before starting.",
+    },
   ],
   bottomLine:
     "Viviscal is a well-established, easy-to-find oral supplement with a fair refund policy, but its headline efficacy numbers are self-reported and company-funded — and its shellfish-derived ingredients rule it out entirely for allergic or vegan users.",

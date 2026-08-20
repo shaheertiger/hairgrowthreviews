@@ -153,6 +153,14 @@ export const amplixin: ReviewData = {
       q: "Is the Support System bundle worth it over the standalone serum?",
       a: "The bundled shampoo and conditioner mainly offer a gentle, complementary cleansing base rather than independent regrowth benefit, so starting with the standalone serum is a reasonable lower-cost way to test the product before committing to the full system.",
     },
+    {
+      q: "Does Amplixin work for women as well as men?",
+      a: "The product isn't marketed as gender-restricted, and its ingredients (caffeine, saw palmetto, biotin) aren't inherently male-specific. That said, saw palmetto's hormonal activity means women who are pregnant, breastfeeding, or on hormone-sensitive medication should check with a doctor before use, as with any saw-palmetto-containing formula.",
+    },
+    {
+      q: "What should I do if Amplixin irritates my scalp?",
+      a: "Stop use and give your scalp time to fully recover before trying again at a lower frequency, since ongoing irritation on top of new product use makes it hard to tell what's causing what. If irritation persists even at reduced frequency, discontinue and consider a simpler formula with fewer active ingredients, or consult a dermatologist if symptoms don't resolve.",
+    },
   ],
   bottomLine:
     "Amplixin's ingredient list is plausible and its spray format is convenient, but its headline efficacy statistic is an unverified manufacturer claim — go in expecting a reasonable DHT-blocking spray, not a clinically proven regrowth treatment.",

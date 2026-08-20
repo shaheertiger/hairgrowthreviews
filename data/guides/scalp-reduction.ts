@@ -27,6 +27,15 @@ export const scalpReduction: GuideData = {
         "The underlying logic was straightforward: rather than filling an entire bald crown with hundreds or thousands of individually transplanted grafts — a laborious, expensive, and at the time technically limited process — a surgeon could simply cut out a portion of the bald skin itself and close the gap by pulling hair-bearing scalp together, shrinking the total area that would ever need to be covered. For a period when follicular transplant technique was comparatively crude, this seemed like a sensible way to reduce the scope of the problem rather than solve all of it with grafts.",
         "Several variations existed. Simple excision-and-closure was the most basic form, but surgeons also developed more elaborate approaches — serial scalp reduction performed in multiple staged sessions to gradually take advantage of the scalp's elasticity, and later, techniques incorporating tissue expanders (inflatable devices placed under hair-bearing scalp to stretch it over several weeks before excision) intended to allow larger areas to be removed with less tension on the closure.",
       ],
+      subsections: [
+        {
+          heading: "Who Was Considered a Candidate",
+          body: [
+            "Surgeons generally evaluated candidates based on the size and location of the bald area, the laxity (looseness) of the surrounding hair-bearing scalp, and the density of the donor hair available. Patients with more elastic scalp skin and smaller, well-defined bald areas — often at the crown, where scalp mobility tends to be greater — were typically considered better candidates than those with extensive, tight, or diffusely thinning scalps, since the technique depended entirely on having enough loose hair-bearing skin nearby to pull together.",
+            "Scalp reduction was also frequently used as a staged, complementary procedure alongside traditional hair transplantation rather than as a total standalone solution — surgeons would reduce the size of the bald area first, then fill the remaining, now-smaller area with transplanted grafts, an approach intended to reduce the total number of grafts a patient would need given the technical limitations of graft harvesting at the time.",
+          ],
+        },
+      ],
     },
     {
       id: "why-abandoned",
@@ -98,6 +107,14 @@ export const scalpReduction: GuideData = {
     {
       q: "How can I tell if a clinic offering scalp reduction today is legitimate?",
       a: "Be cautious of any clinic recommending it as a first-line cosmetic treatment for ordinary pattern baldness in 2026 — reputable hair restoration surgeons today reserve it, if at all, for narrow reconstructive cases, and lead with FUE, FUT, or medical treatment for standard androgenetic alopecia.",
+    },
+    {
+      q: "Who used to be considered a good candidate for scalp reduction?",
+      a: "Historically, candidates with smaller, well-defined bald areas — often at the crown, where scalp mobility is greater — and looser, more elastic surrounding scalp skin were considered better suited to the procedure, since it depended on having enough loose hair-bearing skin nearby to close the excised area without excessive tension.",
+    },
+    {
+      q: "Was scalp reduction ever combined with hair transplants?",
+      a: "Yes — it was commonly used as a staged, complementary step alongside traditional grafting: surgeons would reduce the bald area's size first, then fill the smaller remaining area with transplanted grafts, an approach meant to reduce the total number of grafts needed given the technical limitations of graft harvesting at the time.",
     },
   ],
   bottomLine:

@@ -148,6 +148,14 @@ export const crinagen: ReviewData = {
       q: "Why isn't Crinagen sold more widely?",
       a: "The brand has never built out broad mainstream retail distribution, staying mostly known within dedicated hair-loss forum communities rather than through wide marketplace or drugstore presence. That's part of why pricing and stock can be inconsistent and why independent review volume stays thin compared to more heavily marketed competitors.",
     },
+    {
+      q: "Is Crinagen a good starting point for someone new to hair-loss treatments?",
+      a: "Probably not as a first choice. Its long recommended trial period, inconsistent availability, and thin independent review base make it a harder product to evaluate than a widely available, better-documented option like minoxidil. It's more suited to someone who has already tried mainstream options and specifically wants an alcohol-free alternative.",
+    },
+    {
+      q: "Does Crinagen have a money-back guarantee?",
+      a: "Our research didn't turn up a clearly and consistently advertised guarantee comparable to some competitors' return windows. Given the brand's inconsistent retail presence, confirm any return policy directly with the specific seller before purchasing rather than assuming a standard guarantee applies.",
+    },
   ],
   bottomLine:
     "Crinagen is a legitimate niche option for people who specifically want an alcohol-free, minoxidil-free spray — but its efficacy is unproven, its texture draws consistent complaints, and its availability is inconsistent enough that most people are better served by a better-documented treatment.",
