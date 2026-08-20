@@ -13,6 +13,13 @@ export interface ContentSection {
   heading: string;
   body: string[];
   subsections?: { heading: string; body: string[] }[];
+  /** A short, verbatim-or-near-verbatim line lifted from this section's body,
+   *  surfaced as a pull quote to break up long passages. */
+  pullQuote?: string;
+  /** The single most actionable takeaway from this section, shown as a callout. */
+  keyPoint?: string;
+  /** An optional comparison table rendered at the end of this section. */
+  table?: ComparisonTableData;
 }
 
 export interface IngredientRow {
@@ -48,6 +55,8 @@ export interface ReviewData {
   bestFor: string;
   quickFacts: QuickFact[];
   intro: string[];
+  /** 3-5 scannable bullets summarising the whole article, shown near the top. */
+  keyTakeaways?: string[];
   pros: string[];
   cons: string[];
   ingredients?: IngredientRow[];
@@ -70,7 +79,11 @@ export interface GuideData {
   h1: string;
   dek: string;
   intro: string[];
+  /** 3-5 scannable bullets summarising the whole article, shown near the top. */
+  keyTakeaways?: string[];
   quickFacts?: QuickFact[];
+  comparisonTable?: ComparisonTableData;
+  comparisonTableTitle?: string;
   sections: ContentSection[];
   faq: FaqItem[];
   bottomLine: string;

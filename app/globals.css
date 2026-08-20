@@ -56,28 +56,65 @@ body {
 }
 
 .prose-content h3 {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   font-weight: 700;
-  margin-top: 1.75rem;
+  margin-top: 2rem;
   margin-bottom: 0.75rem;
   scroll-margin-top: 6rem;
   color: var(--foreground);
+  letter-spacing: -0.01em;
 }
 
 .prose-content p {
-  margin-bottom: 1rem;
-  line-height: 1.75;
-  color: #44403c;
+  margin-bottom: 1.35rem;
+  font-size: 1.0625rem;
+  line-height: 1.8;
+  color: #3f3c39;
+  text-wrap: pretty;
+}
+
+/* Opening paragraph of an article reads a step larger to pull the eye in. */
+.prose-content .lead {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: #292524;
 }
 
 .prose-content ul {
-  margin-bottom: 1rem;
+  margin-bottom: 1.35rem;
   margin-left: 1.25rem;
   list-style-type: disc;
 }
 
 .prose-content li {
-  margin-bottom: 0.4rem;
-  line-height: 1.65;
-  color: #44403c;
+  margin-bottom: 0.5rem;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: #3f3c39;
+}
+
+.prose-content strong {
+  font-weight: 700;
+  color: #1c1917;
+}
+
+.prose-content a:not([class]) {
+  color: var(--brand-700);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose-content a:not([class]):hover {
+  color: var(--brand-800);
+}
+
+/* Long articles get generous section separation so scanning is easy. */
+.prose-content > section + section {
+  margin-top: 2.5rem;
+}
+
+@media (min-width: 640px) {
+  .prose-content h2 {
+    font-size: 1.7rem;
+  }
 }
