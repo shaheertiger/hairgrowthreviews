@@ -28,6 +28,13 @@ export const bloom: ReviewData = {
     "It's worth being upfront about what an oral hair supplement like this one can and can't realistically do. Every ingredient in this formula is a nutrient your body already needs in some amount, and nutrient supplementation has a well-established, well-documented role in hair health — but specifically for correcting an actual deficiency. When someone is low in a nutrient that hair follicles rely on for normal growth and cycling, replacing it can measurably help. When someone already gets adequate levels of that nutrient from diet, adding more on top rarely produces additional benefit, because the body isn't being limited by a shortage in the first place. That distinction — deficiency-correction versus general enhancement — is the single most important lens for evaluating any product in this category honestly, this one included.",
     "None of that makes Hair Bloom a bad product on its face. A low-commitment daily capsule with commonly-studied nutrients is a reasonable thing to try as a low-risk complement to a more evidence-backed treatment, provided you go in with calibrated expectations about what it's actually likely to do for someone without a diagnosed deficiency, and with clear eyes about the dosing-transparency and customer-experience issues covered in detail below.",
   ],
+  keyTakeaways: [
+    "This is nutrient supplementation, not a regrowth drug: biotin, vitamin A, and B12 help hair mainly when they're correcting a real deficiency, not topping up adequate levels.",
+    "Exact per-capsule dosages aren't disclosed, so there's no way to check the formula against the dose-specific research behind any single ingredient.",
+    "Excess vitamin A has itself been linked to increased shedding, which makes that missing dose information matter more here than for almost any other ingredient.",
+    "$28.87–$31.99 buys 60 veggie capsules — a one-month supply — with a 30-day refund policy and a recommended 21-day minimum cycle.",
+    "Its customer rating is lower than most products in this category, with reported billing and subscription complaints and at least one case of gastrointestinal side effects.",
+  ],
   pros: [
     "Easy, low-commitment oral capsule format — no topical application routine",
     "Contains commonly-studied hair-health nutrients (biotin, vitamin A, B12, silica)",
@@ -60,6 +67,10 @@ export const bloom: ReviewData = {
         "If you're already eating a varied diet, a bloodwork panel checking ferritin (iron), zinc, and vitamin D — nutrients with much stronger deficiency-to-hair-loss links than biotin — is a more targeted way to know if supplementation will actually help you, rather than taking a broad, undosed multivitamin-style capsule on faith.",
         "The lack of disclosed dosing also makes it functionally impossible to compare this product against the published research on any single ingredient, because dose is the variable that research is built around. A study showing benefit from a specific daily biotin amount, for instance, tells you nothing about whether a product containing an undisclosed 'biotin complex' delivers anywhere near that amount, more than it, or a fraction of it. That gap between ingredient-name marketing and dose-specific research is common across the supplement industry broadly, but it's worth naming plainly here rather than letting a familiar-sounding ingredient list imply a level of evidence the product hasn't actually earned.",
       ],
+      pullQuote:
+        "The lack of disclosed dosing also makes it functionally impossible to compare this product against the published research on any single ingredient, because dose is the variable that research is built around.",
+      keyPoint:
+        "Before buying an undosed capsule on faith, get a bloodwork panel checking ferritin (iron), zinc, and vitamin D — nutrients with much stronger deficiency-to-hair-loss links than biotin.",
     },
     {
       id: "ingredient-mechanisms",
@@ -70,6 +81,41 @@ export const bloom: ReviewData = {
         "Vitamin B12 and the broader B-complex blend support general cellular energy metabolism, which affects rapidly-dividing cells throughout the body, hair follicle cells among them. As with biotin, the clearest evidence for a hair-health benefit applies to correcting an actual B12 deficiency — a real possibility for some people, particularly those on a fully plant-based diet without supplementation or those with an absorption issue — rather than to boosting already-adequate levels further.",
         "Silica is included as a structural-support ingredient, marketed around the idea that it contributes to the strength and integrity of hair, skin, and nails. The independent clinical evidence specifically supporting oral silica supplementation for hair growth or strength is limited compared to the other ingredients here, and it functions in this formula more as a commonly-included category ingredient than as a well-established, mechanistically-proven active.",
       ],
+      pullQuote:
+        "Extrapolating that benefit to someone who isn't deficient is exactly the leap this formula's marketing implicitly asks you to make.",
+      table: {
+        columns: ["Mechanistic role", "Where the evidence actually applies"],
+        rows: [
+          {
+            label: "Biotin (B7)",
+            values: [
+              "Cofactor in producing keratin, the structural protein in hair",
+              "Mostly studies in people with a confirmed deficiency — uncommon on a varied diet",
+            ],
+          },
+          {
+            label: "Vitamin A",
+            values: [
+              "Supports normal cell growth and differentiation, including in follicles",
+              "Too little impairs follicle function; too much is documented to cause shedding",
+            ],
+          },
+          {
+            label: "Vitamin B12 & B-complex",
+            values: [
+              "Support cellular energy metabolism in rapidly-dividing cells",
+              "Clearest for correcting an actual B12 deficiency, as with plant-based diets or absorption issues",
+            ],
+          },
+          {
+            label: "Silica",
+            values: [
+              "Marketed as structural support for hair, skin, and nails",
+              "Limited independent clinical evidence compared with the other ingredients here",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "who-should-avoid",
@@ -79,6 +125,8 @@ export const bloom: ReviewData = {
         "People who already eat a varied, nutritionally adequate diet and have no diagnosed deficiency in any of this formula's ingredients are, realistically, the group least likely to see a meaningful benefit — not because the ingredients are ineffective in general, but because supplementing on top of already-sufficient levels typically doesn't produce the same effect that correcting a genuine shortfall does. For that group, a targeted bloodwork panel to check for an actual deficiency (in iron, zinc, vitamin D, or B12, for instance) is likely to be more informative than starting an undosed multivitamin-style capsule.",
         "Anyone with a history of gastrointestinal sensitivity to supplements should also go in cautious, given that at least one user has reported GI side effects with this product. And given the reported billing and subscription complaints discussed below, anyone who isn't comfortable double-checking the exact terms of a purchase before completing it — auto-renewal, cancellation steps, billing frequency — should read the fine print carefully at checkout rather than assuming a one-time purchase.",
       ],
+      keyPoint:
+        "If you have bloodwork coming up — especially a thyroid panel or cardiac troponin test — hold off on biotin beforehand or tell your doctor you're taking it, since it can produce falsely abnormal results.",
     },
     {
       id: "subscription-billing",
@@ -87,6 +135,8 @@ export const bloom: ReviewData = {
         "Some customers have reported billing or subscription-related complaints with this product — a common friction point across the broader supplement industry, where many products are sold through auto-renewing subscription models by default rather than as clearly-labeled one-time purchases. We weren't able to verify the specifics of every individual complaint, but the pattern itself is common enough in this category to be worth a general word of caution.",
         "Before purchasing, it's worth confirming directly with the seller or on the order page whether you're signing up for a recurring subscription or a single shipment, what the cancellation process looks like, and what the billing cadence is if it is recurring. This is generic, sensible advice for any supplement purchase in this space, not a claim about how this specific seller's checkout is structured today, since those details can change — but it's a reasonable step to take given the complaints that have been reported.",
       ],
+      keyPoint:
+        "Before completing the purchase, confirm with the seller or on the order page whether it's a recurring subscription or a single shipment, what the billing cadence is, and how cancellation works.",
     },
     {
       id: "realistic-timeline",
@@ -95,6 +145,10 @@ export const bloom: ReviewData = {
         "Hair grows in cycles — an active growth phase lasting years, a brief transition phase, and a resting phase before a strand sheds and a new one begins. Nutrient supplementation, when it helps at all, works by supporting the biochemical processes that keep that cycle running normally — it doesn't override the cycle or speed it up beyond its normal pace. That means even in the best case, where someone genuinely has a correctable deficiency, visible improvement in hair growth or shedding typically takes a matter of months to become apparent, not days or weeks.",
         "The product's own recommended 21-day minimum cycle is a reasonable minimum starting point for establishing a supplement habit, but it's short relative to the hair growth cycle itself, and it's worth not reading a lack of visible change at three weeks as a final verdict either way. At the same time, given the absence of a clinical trial on this finished formula and the undisclosed dosing, there's no strong, evidence-based reason to expect a dramatic outcome even after a longer, multi-month trial — the honest expectation for most users without a diagnosed deficiency is a modest-at-best effect, if any.",
       ],
+      pullQuote:
+        "The honest expectation for most users without a diagnosed deficiency is a modest-at-best effect, if any.",
+      keyPoint:
+        "Don't read a lack of change at 21 days as a verdict either way — but don't expect a dramatic outcome after a longer trial either, given the undisclosed dosing and absent finished-product research.",
     },
     {
       id: "broader-routine",

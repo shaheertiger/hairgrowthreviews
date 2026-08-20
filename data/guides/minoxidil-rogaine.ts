@@ -13,6 +13,13 @@ export const minoxidilRogaine: GuideData = {
     "Because it's been available for decades, sold under dozens of brand names at wildly different prices, and comes in multiple concentrations and formulations, minoxidil generates an unusual number of practical questions that have nothing to do with whether it works and everything to do with how to actually use it well — which brand to buy, foam or liquid, how to apply it without wasting product or irritating your scalp, and how to tell it apart from unrelated cosmetic products that share its brand name.",
     "This guide covers the full picture: how minoxidil actually works at the follicle level, its approval history, a practical breakdown of brand pricing, the foam-versus-liquid decision, correct application technique, what to expect at each stage of use, how it interacts with other treatments, and its side-effect profile — plus a clear explanation of why 'Rogaine hair fibers' is a completely different, non-medicated product that regularly confuses new shoppers.",
   ],
+  keyTakeaways: [
+    "Generic minoxidil is chemically equivalent to Rogaine — Kirkland Signature runs roughly $8/month versus Rogaine's $25-$50. The gap is brand markup, not formula quality.",
+    "\"Rogaine hair fibers\" are a cosmetic concealer that clings to existing hair and washes out. Zero regrowth effect, and unrelated to the medicated minoxidil line.",
+    "Minoxidil is a maintenance treatment, not a cure — stopping typically returns hair to its untreated loss trajectory over the following months.",
+    "Foam is the better-tolerated format: no propylene glycol (which irritates an estimated 5-12% of liquid users) and less unwanted facial hair (5.7% vs. 15.1%).",
+    "Expect 3-6 months of consistent, correctly applied use before judging results. An early increase in shedding is expected as the hair cycle resets.",
+  ],
   quickFacts: [
     { label: "FDA OTC Since", value: "1996 (men), 1996+ (women)" },
     { label: "Strength", value: "2% or 5%" },
@@ -27,6 +34,8 @@ export const minoxidilRogaine: GuideData = {
         "Notably, minoxidil's regrowth effect isn't tied to DHT suppression the way finasteride's is — it doesn't lower DHT or block its binding to androgen receptors. This is precisely why the two are considered complementary rather than redundant when used together: minoxidil works on the hair cycle and follicle directly, while finasteride works upstream on the hormonal driver of miniaturization. It also explains why minoxidil can provide some benefit even in hair loss with causes other than classic androgenetic alopecia, since its mechanism doesn't require DHT to be the underlying driver.",
         "An important practical consequence of this mechanism is that minoxidil's benefit is generally not self-sustaining — because it works by actively influencing the follicle cycle rather than permanently altering the follicle's biology, its effect largely depends on continued use. This is why dermatologists consistently describe it as a maintenance treatment rather than a cure: discontinuing it typically leads to a gradual return toward the hair loss trajectory that would have occurred without treatment, usually over a period of months.",
       ],
+      pullQuote:
+        "Dermatologists consistently describe it as a maintenance treatment rather than a cure: discontinuing it typically leads to a gradual return toward the hair loss trajectory that would have occurred without treatment.",
     },
     {
       id: "approval-history",
@@ -45,6 +54,39 @@ export const minoxidilRogaine: GuideData = {
         "Because minoxidil requires long-term, ongoing use to maintain results, the cost difference between name-brand Rogaine and a generic equivalent compounds significantly over a period of years rather than months. Someone maintaining treatment for five or ten years — a realistic timeframe for managing pattern hair loss long-term — sees the price gap between Rogaine and a generic like Kirkland Signature turn into a substantial cumulative sum, which is a meaningful practical reason to default to generic unless a specific formulation quirk (fragrance, inactive ingredients, foam texture) makes a particular branded product genuinely preferable to you personally.",
         "It's worth checking the 'other' or inactive ingredients when comparing brands, even though the active minoxidil concentration is what matters for efficacy — different manufacturers use different carrier formulations (varying levels of alcohol, propylene glycol, or fragrance), which can affect tolerability, scent, and drying time even when the core active ingredient and concentration are identical. If one generic brand causes more irritation than another, it's worth trying an alternative generic before concluding minoxidil itself doesn't agree with you.",
       ],
+      pullQuote:
+        "Since minoxidil is a generic active ingredient, the store-brand versions are chemically equivalent to Rogaine — the price difference is almost entirely brand markup.",
+      table: {
+        columns: ["Typical Price", "Roughly Per Month", "Active Ingredient"],
+        rows: [
+          {
+            label: "Rogaine (men's or women's, foam or liquid)",
+            values: [
+              "$25-$50 per month, depending on retailer",
+              "$25-$50",
+              "Minoxidil — the name-brand original",
+            ],
+          },
+          {
+            label: "Kirkland Signature (Costco)",
+            values: [
+              "~$49 for a 6-month supply",
+              "~$8",
+              "Minoxidil — chemically equivalent to Rogaine",
+            ],
+          },
+          {
+            label: "Equate (Walmart) / Walgreens brand",
+            values: [
+              "$13-$22 per bottle",
+              "Varies by bottle size",
+              "Minoxidil — comparable formulations",
+            ],
+          },
+        ],
+      },
+      keyPoint:
+        "Default to a generic unless a specific formulation quirk (fragrance, inactive ingredients, foam texture) makes a branded product genuinely preferable to you — minoxidil is a years-long commitment, so the price gap compounds.",
     },
     {
       id: "foam-vs-liquid",
@@ -55,6 +97,53 @@ export const minoxidilRogaine: GuideData = {
         "Drying time also differs: because foam contains less alcohol and no propylene glycol (in men's formulas), it can take slightly longer to fully dry and become non-transferable compared with liquid, which evaporates its higher alcohol content relatively quickly. For people who apply minoxidil in the morning before going out, this is worth factoring into how much time to leave between application and styling or lying down on a pillow.",
         "Neither format has been shown to be meaningfully more or less effective than the other at the same concentration — the choice mainly comes down to tolerability and personal application preference rather than expected regrowth outcome.",
       ],
+      table: {
+        columns: ["Foam", "Liquid"],
+        rows: [
+          {
+            label: "Propylene glycol",
+            values: ["None (men's formulas)", "Contains propylene glycol"],
+          },
+          {
+            label: "Alcohol",
+            values: ["Alcohol-free (men's formulas)", "Higher alcohol content"],
+          },
+          {
+            label: "Scalp irritation / contact dermatitis",
+            values: [
+              "Generally better tolerated",
+              "Estimated 5-12% of users react to the propylene glycol",
+            ],
+          },
+          {
+            label: "Unwanted facial hair (retrospective data)",
+            values: ["Roughly 5.7%", "Roughly 15.1%"],
+          },
+          {
+            label: "Application",
+            values: [
+              "Thicker and less prone to running — easier to target the scalp precisely",
+              "Dropper or pump; runs more easily onto hair strands rather than skin",
+            ],
+          },
+          {
+            label: "Drying time",
+            values: [
+              "Slightly longer to fully dry and become non-transferable",
+              "Evaporates its higher alcohol content relatively quickly",
+            ],
+          },
+          {
+            label: "Regrowth outcome",
+            values: [
+              "No meaningful difference at the same concentration",
+              "No meaningful difference at the same concentration",
+            ],
+          },
+        ],
+      },
+      keyPoint:
+        "If you have sensitive skin or are prone to irritation, start with foam. Neither format regrows more hair at the same concentration, so the decision is purely about tolerability and application preference.",
     },
     {
       id: "how-to-apply",
@@ -65,6 +154,8 @@ export const minoxidilRogaine: GuideData = {
         "After application, minoxidil needs to remain on the scalp, undisturbed and undiluted, for a manufacturer-specified period (commonly a few hours, and typically advised to avoid washing, swimming, or getting the area wet during that window) to allow adequate absorption. Applying it right before bed, after your last shower or hair-wash of the day, is a common strategy to maximize uninterrupted contact time and avoid transferring product onto pillows or clothing before it's dried.",
         "A few common technique mistakes are worth flagging directly: applying to wet or damp hair (which dilutes concentration reaching the scalp), applying immediately before swimming or heavy sweating (which washes it away before absorption), skipping the recommended twice-daily frequency inconsistently, and applying other leave-on scalp products immediately before or after minoxidil in a way that interferes with its absorption. Consistent, correct technique matters as much as simply remembering to use the product at all.",
       ],
+      keyPoint:
+        "Apply to a clean, dry scalp — not to hair — parting across the thinning area, then leave it undisturbed for the manufacturer's stated contact window. Applying before bed, after your last hair-wash of the day, is the easiest way to get that.",
     },
     {
       id: "what-to-expect",
@@ -74,6 +165,8 @@ export const minoxidilRogaine: GuideData = {
         "By roughly the three-to-four month mark, many users who are going to respond begin noticing early signs — often first as a sense that shedding has slowed or stopped, sometimes accompanied by fine new 'peach fuzz' regrowth in thinning areas before that hair thickens and lengthens further. Continuing consistent use through the six-month mark is generally the minimum reasonable window before drawing conclusions about whether minoxidil is working for you specifically.",
         "Fuller results, where they occur, often continue developing out to nine or twelve months, after which most users reach something close to their personal ceiling effect for a given concentration and formulation. If minimal improvement is seen by around the one-year mark despite consistent, correct use, that's a reasonable point to discuss alternatives or additions (higher concentration, switching formulation, adding finasteride if appropriate, or consulting a dermatologist about other causes) rather than continuing indefinitely on the assumption that more time alone will change the outcome.",
       ],
+      keyPoint:
+        "Six months of consistent use is the minimum reasonable window before judging whether minoxidil works for you. Fuller results often keep developing out to nine or twelve months.",
     },
     {
       id: "combining-with-other-treatments",
@@ -103,6 +196,8 @@ export const minoxidilRogaine: GuideData = {
         "The confusion is understandable given the shared brand name and shelf placement, but the two product categories work on entirely different principles and timelines. Medicated minoxidil is a drug that takes months of consistent use to produce a biological change in the hair cycle. Hair fiber products are a purely cosmetic, same-day styling aid — applied to dry, styled hair, they cling to existing strands via static charge to visually thicken the appearance of hair that's already there, and they wash out with the next shampoo, leaving nothing behind.",
         "Because they work on completely different problems, the two aren't mutually exclusive — some people use minoxidil as their actual treatment while also using fiber products for same-day cosmetic coverage during the months-long window before minoxidil's effects become visible. What matters is understanding that fibers are a concealer, not a substitute for treatment, and shouldn't be mistaken for evidence that regrowth has occurred.",
       ],
+      pullQuote:
+        "Don't confuse them with the medicated minoxidil line; they're a same-day cosmetic concealer, not a treatment.",
     },
   ],
   faq: [

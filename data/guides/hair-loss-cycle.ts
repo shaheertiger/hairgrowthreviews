@@ -13,12 +13,57 @@ export const hairLossCycle: GuideData = {
     "It helps to picture your scalp not as one synchronized system but as roughly 100,000 individual follicles, each running its own private timer, at its own stage, on its own schedule. At any given moment some are deep into years of active growth, some are winding down, some are resting, and a small number are letting go of an old hair while a new one is already forming beneath it. That constant, staggered turnover is exactly why healthy hair loss looks like a steady, low-level daily shed rather than a single dramatic event — and why a real change to the overall system takes time to become visible, since it depends on enough of those individual timers cycling through their phases before the aggregate picture in the mirror shifts.",
     "This guide walks through what each phase actually involves biologically, what pushes the cycle out of balance in the various forms of hair loss, and why that biology is the direct explanation for why every legitimate treatment — cosmetic or medical — asks for months of patience before you can fairly judge whether it's working.",
   ],
+  keyTakeaways: [
+    "Anagen, the growth phase, lasts 2-8 years and holds 85-90% of your scalp hairs at any moment — it's the phase minoxidil aims to extend.",
+    "Catagen runs just 2-4 weeks and telogen 2-4 months, so a single follicle can sit out of active growth for a season at a time.",
+    "Losing 50-100 hairs a day in the exogen phase is completely normal — each of your roughly 100,000 follicles runs its own independent timer.",
+    "Telogen effluvium sheds diffusely about 2-3 months after the trigger; that delay is simply the length of the telogen phase itself.",
+    "Give any treatment a 3-6 month minimum before judging it, and track change with standardized monthly photos rather than daily mirror checks.",
+  ],
   quickFacts: [
     { label: "Anagen (Growth)", value: "2-8 years" },
     { label: "Catagen (Transition)", value: "2-4 weeks" },
     { label: "Telogen (Resting)", value: "2-4 months" },
     { label: "Daily Shedding", value: "50-100 hairs" },
   ],
+  comparisonTableTitle: "The Four Phases at a Glance",
+  comparisonTable: {
+    columns: ["Typical duration", "Share of scalp hairs", "What's happening"],
+    rows: [
+      {
+        label: "Anagen (growth)",
+        values: [
+          "2-8 years",
+          "85-90%",
+          "Hair grows roughly 1-2 cm per month; this is the phase treatments like minoxidil aim to extend",
+        ],
+      },
+      {
+        label: "Catagen (transition)",
+        values: [
+          "2-4 weeks",
+          "Around 1%",
+          "The follicle shrinks and detaches from its blood supply — programmed regression, not damage",
+        ],
+      },
+      {
+        label: "Telogen (resting)",
+        values: [
+          "2-4 months",
+          "10-15%",
+          "The hair sits anchored and dormant while the follicle prepares to launch a new anagen phase",
+        ],
+      },
+      {
+        label: "Exogen (shedding)",
+        values: [
+          "Overlaps the start of a new anagen phase",
+          "50-100 hairs shed per day",
+          "The old resting hair is finally released, typically as a new hair is already growing beneath it",
+        ],
+      },
+    ],
+  },
   sections: [
     {
       id: "four-phases",
@@ -29,6 +74,10 @@ export const hairLossCycle: GuideData = {
         "Telogen (resting phase) lasts roughly 2-4 months, with about 10-15% of hairs resting at any time. The hair isn't actively growing but hasn't fallen out yet — it sits anchored in the follicle, essentially dormant, while beneath it the follicle prepares to eventually launch a new anagen phase. It's normal for a telogen hair to remain in place for weeks or months before it's finally shed, which is part of why a triggering event and the shedding it eventually causes can be separated by a noticeable delay.",
         "Exogen (shedding phase) is when the old resting hair is finally released — typically as a new anagen hair is already beginning to grow beneath it. Losing 50-100 hairs a day during this phase is completely normal, not a sign of a problem. Because exogen and the start of a new anagen phase typically overlap, healthy shedding is usually accompanied by regrowth happening at the same time in the same follicle, which is exactly why normal daily shedding doesn't translate into visible thinning for most people.",
       ],
+      pullQuote:
+        "Losing 50-100 hairs a day during this phase is completely normal, not a sign of a problem.",
+      keyPoint:
+        "Anagen is the phase that matters most: it lasts 2-8 years, accounts for 85-90% of your scalp hairs, and is what treatments like minoxidil are trying to extend.",
       subsections: [
         {
           heading: "Why the Phases Aren't Perfectly Synchronized",
@@ -47,6 +96,10 @@ export const hairLossCycle: GuideData = {
         "Alopecia areata is an autoimmune process that attacks anagen follicles directly, causing the immune system to mistakenly target hair follicles that are actively growing, which is why it can produce sudden, patchy loss rather than the gradual miniaturization typical of pattern hair loss. Nutritional deficiencies (iron, zinc, vitamin D, protein), thyroid dysfunction, certain medications, and scalp conditions can also shift the normal anagen-to-telogen ratio, each through its own mechanism — a nutritional deficiency, for instance, can deprive rapidly dividing follicle cells of the building blocks they need to sustain active growth, effectively nudging follicles toward an earlier transition into catagen and telogen than they'd otherwise take.",
         "Because so many different mechanisms funnel into the same handful of visible outcomes — diffuse shedding, patterned thinning, patchy loss — the underlying cause isn't always obvious from symptoms alone. A dermatologist can often distinguish between these categories through a combination of history, pattern of loss, and sometimes simple tests like a pull test or bloodwork, which is why a proper diagnosis matters more than guessing before committing to a specific treatment approach.",
       ],
+      pullQuote:
+        "The delay between the triggering event and the visible shedding is a direct consequence of the telogen phase's typical duration.",
+      keyPoint:
+        "Very different mechanisms produce similar-looking loss, so get a proper diagnosis — history, pattern of loss, sometimes a pull test or bloodwork — before committing to a treatment.",
     },
     {
       id: "why-it-takes-months",
@@ -56,6 +109,10 @@ export const hairLossCycle: GuideData = {
         "There's also a well-known, temporary complication that trips people up early in a new treatment: some users of minoxidil experience an initial shedding phase in the first several weeks. This happens because minoxidil can push some follicles that were lingering in an extended telogen phase to finally cycle into shedding and restart anagen sooner than they otherwise would have — in other words, it's often a sign the treatment is beginning to work on the cycle, not a sign it's failing, though it can understandably feel alarming if you don't know to expect it.",
         "Patience is also complicated by the fact that hair doesn't respond in a single, uniform wave. Because follicles are asynchronous, you might notice thinning slow in one area before another, or notice new fine hairs coming in unevenly across the scalp rather than as a single dramatic 'before and after' moment. Photographing your scalp under consistent lighting and from the same angle every few weeks is a far more reliable way to track gradual change than relying on day-to-day visual impressions, which are easily thrown off by lighting, hairstyle, or simply looking too closely too often.",
       ],
+      pullQuote:
+        "It's often a sign the treatment is beginning to work on the cycle, not a sign it's failing.",
+      keyPoint:
+        "Plan for a 3-6 month minimum trial before judging any treatment, and expect that an initial shed in minoxidil's first several weeks is usually temporary rather than a failure.",
     },
     {
       id: "hair-structure-and-growth-rate",
@@ -74,6 +131,8 @@ export const hairLossCycle: GuideData = {
         "A simple, informal shed count — for example, counting hairs collected from a shower drain or hairbrush over a representative period — can help establish a personal baseline, but it's inherently noisy and shouldn't be over-interpreted from a single day. Because normal daily shedding already spans a fairly wide range, a single unusually high or low count means far less than a sustained trend measured consistently over weeks.",
         "For anyone starting a new treatment, it's worth documenting a clear 'before' baseline in the first week, then comparing at the 3-month and 6-month marks rather than checking impatiently every few days. This aligns tracking with the biology described above: meaningful change requires enough follicles to complete enough of a cycle under the new treatment, and checking too frequently mostly just adds anxiety without adding useful information.",
       ],
+      keyPoint:
+        "Document a clear baseline in the first week of any new treatment — same lighting, angle, hairstyle, and time of day — then compare at the 3-month and 6-month marks instead of every few days.",
     },
   ],
   faq: [

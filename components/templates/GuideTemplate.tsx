@@ -22,7 +22,9 @@ export default function GuideTemplate({ data }: { data: GuideData }) {
   const tocItems = [
     { id: "overview", label: "Overview" },
     ...data.sections.map((s) => ({ id: s.id, label: s.heading })),
-    ...(data.comparisonTable ? [{ id: "comparison", label: "Compared Side by Side" }] : []),
+    ...(data.comparisonTable
+      ? [{ id: "comparison", label: data.comparisonTableTitle ?? "Compared Side by Side" }]
+      : []),
     { id: "faq", label: "Frequently Asked Questions" },
     { id: "bottom-line", label: "The Bottom Line" },
   ];

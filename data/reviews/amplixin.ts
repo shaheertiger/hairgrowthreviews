@@ -28,6 +28,13 @@ export const amplixin: ReviewData = {
     "That gap between a confident, specific-sounding statistic and a verifiable source is the central tension of this review. A precise number like \"13%\" reads as scientific and reassuring, and it may well be drawn from some internal or commissioned test — but without a published, peer-reviewed, or otherwise publicly accessible study behind it, there's no way for an outside reviewer, or a buyer, to check the methodology, sample size, or whether the result would replicate. That doesn't make the product useless; it means the number shouldn't carry more weight in your decision than any other piece of unverified marketing copy.",
     "Setting the disputed statistic aside, the underlying ingredient strategy — caffeine for circulation, saw palmetto for mild DHT inhibition, biotin for general hair-health support — is a familiar and reasonably grounded approach within the drug-free serum category. The question worth asking isn't whether Amplixin's ingredients could plausibly help at the margins (they could, modestly), but whether the price and confident marketing tone are proportionate to what's actually been demonstrated, which is where this review tries to draw an honest line.",
   ],
+  keyTakeaways: [
+    "The headline \"13% density / 29% less hair loss\" figure traces to a study we couldn't locate in any peer-reviewed database — treat it as marketing, not proof.",
+    "The proprietary Ampligro complex isn't disclosed in enough detail for anyone outside the company to evaluate or cross-check against published research.",
+    "Expect $30–$45 per 2 oz spray bottle, with the serum-plus-shampoo-and-conditioner Support System priced higher.",
+    "The underlying stack — caffeine, saw palmetto, biotin — is plausible and familiar, but there's no clinical trial on the finished formula.",
+    "Reasonable as a drug-free spray alongside minoxidil; a poor fit if you specifically want published, peer-reviewed efficacy data.",
+  ],
   pros: [
     "Convenient spray application, no dropper or dosing guesswork",
     "Sulfate- and paraben-free, usable across hair types",
@@ -65,6 +72,31 @@ export const amplixin: ReviewData = {
         "It's worth being specific about what \"unverified\" does and doesn't mean here. It doesn't mean the study was fabricated, and it doesn't mean the ingredients don't work at all — the individual components have some real supporting literature, as noted throughout this review. What it means is narrower and more mundane: a reviewer (or a curious buyer) cannot currently pull up the underlying paper, check the sample size, see whether it was placebo-controlled, or confirm the study measured what the marketing claims it measured. Every one of those details matters enormously for how much weight a statistic should carry, and none of them are available here.",
         "A useful mental exercise is to imagine the same claim attached to a well-established drug. Minoxidil's efficacy figures are traceable to specific, published, peer-reviewed randomized controlled trials that any dermatologist or researcher can pull up and scrutinize. Ampligro's 13%/29% figures currently can't be traced the same way. That asymmetry — not the plausibility of the ingredients — is the real gap between Amplixin and a clinically proven treatment.",
       ],
+      pullQuote:
+        "You should weigh it the way you'd weigh any unverified manufacturer statistic: as marketing, not proof.",
+      keyPoint:
+        "Until the underlying study is published, the 13%/29% figure should carry no more weight in your decision than any other unverified marketing line.",
+      table: {
+        columns: ["Amplixin's Ampligro Claim", "Minoxidil"],
+        rows: [
+          {
+            label: "Source of the efficacy figures",
+            values: ["Manufacturer-cited study", "Published, peer-reviewed randomized controlled trials"],
+          },
+          {
+            label: "Publicly locatable",
+            values: ["Not found in peer-reviewed databases", "Yes — any dermatologist or researcher can pull them up"],
+          },
+          {
+            label: "Methodology and sample size checkable",
+            values: ["No", "Yes"],
+          },
+          {
+            label: "How much weight it should carry",
+            values: ["Marketing, not proof", "Public, peer-reviewed trial data"],
+          },
+        ],
+      },
       subsections: [
         {
           heading: "What Would Change Our Assessment",
@@ -82,6 +114,10 @@ export const amplixin: ReviewData = {
         "The bundle logic is worth examining on its own terms. A shampoo and conditioner formulated to complement a leave-in serum can be a genuinely useful convenience — it removes the guesswork of picking compatible products and building a routine from scratch. But complementary shampoo and conditioner don't carry the same active-ingredient weight as the serum itself; most of what they contribute is a gentler, sulfate-free cleansing base that won't strip whatever the serum deposits, rather than independent regrowth benefit.",
         "If budget is a constraint, starting with the standalone serum rather than the full system is a reasonable way to test whether the format and routine work for you before committing to the higher bundle price. Given that any fair evaluation of this category takes several months regardless of which product you choose, there's little downside to starting smaller and scaling up only if early experience is positive.",
       ],
+      pullQuote:
+        "Complementary shampoo and conditioner don't carry the same active-ingredient weight as the serum itself.",
+      keyPoint:
+        "If budget matters, start with the standalone serum rather than the full Support System — you can always scale up if the format and early experience work for you.",
     },
     {
       id: "how-to-apply",
@@ -91,6 +127,8 @@ export const amplixin: ReviewData = {
         "After spraying, a brief scalp massage helps work the product past any surface hair and improves even distribution, similar to the rationale behind massaging in any leave-in scalp treatment. Because it's designed to dry down without rinsing, there's no need to towel it off — just allow a few minutes before applying other styling products or heat tools.",
         "Once or twice daily is the standard cadence, and as with any leave-in active, consistency matters more than any single application. Building it into an existing habit — after a shower, before bed — reduces the chance of skipped days undermining an otherwise fair trial period.",
       ],
+      keyPoint:
+        "Spray close to the scalp in parted sections rather than misting over hair, massage briefly, and give it a few minutes before styling products or heat.",
     },
     {
       id: "who-should-avoid",
@@ -100,6 +138,8 @@ export const amplixin: ReviewData = {
         "People experiencing sudden, patchy hair loss, or loss with an unclear or unusual pattern, should see a dermatologist for a proper diagnosis before assuming a cosmetic DHT-blocking spray is the right tool. Conditions like alopecia areata or acute telogen effluvium have different underlying mechanisms than androgenetic thinning and need medical evaluation rather than a scalp serum aimed at DHT and circulation.",
         "It's also worth being candid that anyone who specifically wants a treatment with published, peer-reviewed efficacy data is better served looking elsewhere, at least until Amplixin's Ampligro study (if it exists) becomes publicly verifiable. That's not a knock on the ingredients themselves so much as an honest statement about what level of proof this specific product can currently offer.",
       ],
+      keyPoint:
+        "If published, peer-reviewed efficacy data is what you need, look elsewhere — and get any sudden or patchy loss diagnosed by a dermatologist before reaching for a serum.",
     },
     {
       id: "broader-routine",
@@ -109,6 +149,8 @@ export const amplixin: ReviewData = {
         "If you do decide to combine it with a stronger, clinically proven active, introduce products one at a time rather than starting several at once. That makes it far easier to identify the source if any irritation shows up, and it also lets you evaluate whether the spray is adding anything noticeable on top of whatever the primary treatment is already doing.",
         "Beyond product stacking, general scalp health basics — gentle, sulfate-free cleansing, avoiding excessive heat styling, and managing stress, which is a well-documented contributor to telogen effluvium — matter regardless of which topical you choose. No serum, drug-free or otherwise, compensates for a routine that's otherwise hard on the scalp and hair.",
       ],
+      pullQuote:
+        "No serum, drug-free or otherwise, compensates for a routine that's otherwise hard on the scalp and hair.",
     },
   ],
   comparisonTable: {

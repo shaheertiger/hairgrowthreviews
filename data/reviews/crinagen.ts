@@ -28,6 +28,13 @@ export const crinagen: ReviewData = {
     "That forum-driven history is worth understanding, because it shapes how you should read the evidence that does exist. HairLossTalk and similar communities are populated by people who are unusually engaged with tracking their own hair loss over time — often photographing their scalp monthly, comparing notes across multiple products, and staying active in threads for years. That makes their anecdotal reports more detailed and longitudinal than a typical marketplace review, but it's still self-reported, unblinded, and not a substitute for a controlled trial. Crinagen's reputation is built almost entirely on this kind of long-form, community-level testimony rather than any independent measurement.",
     "It's also worth being upfront that Crinagen sits in an unusual spot in this category: neither a mainstream, heavily marketed brand with slick packaging and influencer reach, nor a completely obscure product with zero track record. It occupies a middle tier — known well within dedicated hair-loss circles, essentially invisible outside them — which is exactly the kind of product where marketing hype is low but so is the amount of independent scrutiny available to a new buyer trying to make a decision.",
   ],
+  keyTakeaways: [
+    "There's no clinical trial on the finished product, and the manufacturer is explicit that Crinagen isn't FDA-approved or clinically proven.",
+    "The brand's own recommended 6-12 month trial makes $54–$94 in bundles a long, expensive commitment to make on unverified efficacy.",
+    "The most consistent user complaint isn't efficacy — it's texture: sticky, strong-smelling, and slow to dry, which works against consistent daily use.",
+    "Mainstream review volume is too thin to compute a reliable average; its reputation rests almost entirely on scattered HairLossTalk forum testimony.",
+    "Worth considering only if you specifically want an alcohol-free, minoxidil-free spray and can secure stock for the full trial period.",
+  ],
   pros: [
     "Alcohol-free formula, which means less scalp dryness and irritation risk than alcohol-based minoxidil solutions",
     "Ingredient list is grounded in real (if limited) DHT-related research: saw palmetto, azelaic acid, zinc",
@@ -66,6 +73,10 @@ export const crinagen: ReviewData = {
         "It's worth noting how the texture complaints and the efficacy uncertainty interact with each other. A product that's unpleasant or inconvenient to apply twice daily is at higher risk of inconsistent use over a multi-month trial, and inconsistent use makes it even harder to fairly judge whether a mild-mechanism formula is doing anything. In other words, Crinagen's usability issues aren't just a comfort complaint — they plausibly work against the very long trial period the brand itself recommends for seeing results.",
         "The forum community around Crinagen also tends to discuss it in comparison to, or in combination with, other treatments — minoxidil, finasteride, microneedling — rather than as a standalone solution most people rely on exclusively. That context is useful: even among its most engaged users, Crinagen more often shows up as a secondary or minoxidil-avoidant option than as anyone's sole, confidently-recommended primary treatment.",
       ],
+      pullQuote:
+        "Crinagen's usability issues aren't just a comfort complaint — they plausibly work against the very long trial period the brand itself recommends for seeing results.",
+      keyPoint:
+        "There isn't enough independent review data to state a confident verdict on efficacy either way, and that absence is itself a reason to prefer a better-documented option.",
     },
     {
       id: "availability",
@@ -75,6 +86,8 @@ export const crinagen: ReviewData = {
         "The bundle-sized pricing structure lines up with the brand's own recommended long trial period — buying a single bottle doesn't get you anywhere close to the 6-12 months needed to fairly evaluate the product, so most of the available pricing tiers implicitly assume a multi-bottle commitment from the start.",
         "Limited distribution also means less price competition and fewer independent sellers keeping listings current, which is part of why pricing and availability for Crinagen have been more volatile over time than for mainstream competitors sold through many retailers simultaneously. If you can't find current, consistent stock at a given price, that's a sign to double check with multiple sources before committing to a purchase, rather than assuming the first listing you find reflects standard availability.",
       ],
+      keyPoint:
+        "Confirm current stock and price directly with the seller before ordering, and expect to buy a multi-bottle bundle — one bottle won't cover a fair trial.",
     },
     {
       id: "how-to-apply",
@@ -84,6 +97,10 @@ export const crinagen: ReviewData = {
         "Massaging it in thoroughly, section by section, helps offset the texture issue by working the product past surface hair to reach the scalp itself. Because dry time is reported as slower than lighter competitors, plan for it in your routine — applying well before you need to leave the house or go to bed, rather than right before, reduces the chance of transferring product to pillows or clothing.",
         "Given the brand's own recommended 6-12 month evaluation window, building a sustainable twice-daily habit matters more here than with shorter-trial products. If the scent or texture genuinely makes consistent use difficult for you, that's worth weighing seriously against the product's other merits — a treatment you stop using halfway through its own recommended trial period can't fairly be judged to have failed.",
       ],
+      pullQuote:
+        "A treatment you stop using halfway through its own recommended trial period can't fairly be judged to have failed.",
+      keyPoint:
+        "Apply to a clean, dry scalp in small sections without over-saturating, and schedule it well before bed or leaving the house — the slow dry time transfers to pillows and clothing.",
     },
     {
       id: "who-should-avoid",
@@ -102,6 +119,10 @@ export const crinagen: ReviewData = {
         "Practically, that means committing to Crinagen is a bigger investment of both time and money than most alternatives in this category before you'll have enough information to judge whether it's working for you. Given the additional uncertainty around limited availability, it's worth deciding upfront whether you're willing to secure enough stock to cover the full recommended trial period, rather than discovering partway through that the product is temporarily unavailable.",
         "If, after a genuine 6-12 month trial, you've seen no change in shedding or density, that's a reasonably strong (though still anecdotal, self-assessed) signal that the product isn't working for your specific case — at which point switching to a better-documented option, ideally with a dermatologist's input, is the more evidence-based next step.",
       ],
+      pullQuote:
+        "Committing to Crinagen is a bigger investment of both time and money than most alternatives in this category before you'll have enough information to judge whether it's working for you.",
+      keyPoint:
+        "Decide upfront whether you'll secure enough stock to cover the full 6-12 months — and if nothing has changed by then, move to a better-documented option with a dermatologist's input.",
     },
   ],
   comparisonTable: {

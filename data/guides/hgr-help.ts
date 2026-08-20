@@ -13,6 +13,13 @@ export const hgrHelp: GuideData = {
     "The problems covered here are overwhelmingly common, expected parts of starting a new routine rather than signs that something has gone wrong. Increased shedding, mild irritation, and a lack of visible change in the early months are all things dermatology sources describe as typical, not exceptions — the challenge is usually psychological (staying consistent through an uncertain-feeling stretch) rather than medical.",
     "That said, not every issue is one to simply wait out, and this page also covers where the line is — what's worth a quick adjustment to your routine, and what's worth an actual conversation with a dermatologist rather than more waiting. If you're looking for the underlying framework these troubleshooting answers are built on, see the HGR Regimen page, which this one is meant to complement.",
   ],
+  keyTakeaways: [
+    "Increased shedding in the first few weeks is an expected part of minoxidil resetting the hair cycle, and it typically resolves within 4-8 weeks.",
+    "Three months is the minimum, not the typical timeline — most sources describe 3-6 months before initial improvement and 9-12 months for fuller results.",
+    "Scalp irritation usually traces to liquid minoxidil's propylene glycol (try foam), ketoconazole shampoo overuse (cap it around 5x/week), or too many actives at once.",
+    "Introduce one new product at a time, a few weeks apart. Stack several and you genuinely cannot tell which one caused a change, good or bad.",
+    "See a dermatologist — don't wait it out — for patchy or sudden severe shedding, scalp pain, scaling, inflammation, a worsening reaction, or shedding past 8 weeks.",
+  ],
   sections: [
     {
       id: "increased-shedding",
@@ -31,6 +38,10 @@ export const hgrHelp: GuideData = {
           ],
         },
       ],
+      pullQuote:
+        "The hairs that shed during this window were already on their way out — the treatment is accelerating a transition that was going to happen anyway.",
+      keyPoint:
+        "Normal shedding is diffuse, tapers off within 4-8 weeks, and comes with otherwise-normal hair. Sudden, severe, or patchy shedding, scalp pain or scaling, or shedding that continues well past 8 weeks is a reason to see a dermatologist rather than wait.",
     },
     {
       id: "scalp-irritation",
@@ -48,6 +59,8 @@ export const hgrHelp: GuideData = {
           ],
         },
       ],
+      keyPoint:
+        "Pause newly added products, let your scalp settle for a few days to a week, then reintroduce one at a time with a few days between each. Stop outright and see a dermatologist for ongoing redness, rash, swelling, blistering, or irritation that worsens.",
     },
     {
       id: "no-results-yet",
@@ -65,6 +78,9 @@ export const hgrHelp: GuideData = {
           ],
         },
       ],
+      pullQuote: "Three months is the minimum, not the typical timeline for visible results.",
+      keyPoint:
+        "At month 3 you're at the earliest point results might start showing, not the point to conclude something failed. Judge it by comparing month 3 photos against month 6 — not by daily mirror checks.",
     },
     {
       id: "combining-products",
@@ -82,6 +98,8 @@ export const hgrHelp: GuideData = {
           ],
         },
       ],
+      pullQuote:
+        "Your ability to learn anything useful from a change depends entirely on isolating variables.",
     },
     {
       id: "when-to-see-a-dermatologist",
@@ -110,6 +128,62 @@ export const hgrHelp: GuideData = {
           ],
         },
       ],
+      table: {
+        columns: ["Typically Normal", "Worth Seeing a Dermatologist"],
+        rows: [
+          {
+            label: "Shedding pattern",
+            values: [
+              "Diffuse across the scalp",
+              "Patchy, or sudden and severe, or disconnected from starting a new product",
+            ],
+          },
+          {
+            label: "Shedding timeline",
+            values: [
+              "Tapers off within the 4-8 week window after starting",
+              "Heavy shedding that continues well past the typical 8-week window",
+            ],
+          },
+          {
+            label: "Scalp symptoms",
+            values: [
+              "Mild dryness, occasional flaking, or brief tingling after application",
+              "Scalp pain, scaling, visible inflammation, swelling, or blistering",
+            ],
+          },
+          {
+            label: "How the irritation trends",
+            values: [
+              "Improves as your scalp adjusts over the first couple of weeks",
+              "Ongoing redness or a rash that gets worse rather than better over time",
+            ],
+          },
+          {
+            label: "The rest of your hair",
+            values: [
+              "Otherwise normal — no unusual texture change, no patchy bald spots",
+              "Patchy bald spots or unusual texture change alongside the shedding",
+            ],
+          },
+          {
+            label: "Symptoms elsewhere",
+            values: [
+              "None",
+              "Fatigue, unusual weight change, or other signs pointing to a thyroid or systemic issue",
+            ],
+          },
+          {
+            label: "Lack of results",
+            values: [
+              "No visible change at 3 months — the normal window is 3-6 months",
+              "Zero change across any pillar well past the 9-12 month mark despite genuinely consistent use",
+            ],
+          },
+        ],
+      },
+      keyPoint:
+        "Waiting is the right call for common adjustment symptoms, not for these. Patchy or sudden severe shedding, scalp pain, scaling, inflammation, or hair loss alongside symptoms like fatigue or unusual weight change all warrant a diagnosis before more self-treatment.",
     },
     {
       id: "tracking-without-obsessing",
@@ -138,6 +212,8 @@ export const hgrHelp: GuideData = {
           ],
         },
       ],
+      pullQuote:
+        "The goal of tracking is to answer one question clearly every so often — is there a real trend — not to generate a daily verdict on whether things are going well.",
     },
     {
       id: "nothing-working-after-6-months",
@@ -171,6 +247,8 @@ export const hgrHelp: GuideData = {
           ],
         },
       ],
+      keyPoint:
+        "Before concluding the regimen failed at six months, check three things in order: whether adherence has genuinely been consistent, whether you're covering more than one pillar, and whether pattern hair loss is actually the confirmed diagnosis.",
     },
   ],
   faq: [

@@ -13,6 +13,13 @@ export const hairGrowthEncyclopedia: GuideData = {
     "Pattern hair loss (androgenetic alopecia) is the most common form of hair loss in both men and women, and it's also one of the most misunderstood — partly because the marketing around it is louder than the science, and partly because the underlying biology (a slow-motion hormonal process playing out over years) doesn't lend itself to quick before-and-after claims. Understanding the mechanism first makes every downstream decision — which treatment to start, how long to wait before judging it, and what a realistic outcome even looks like — much easier to reason about.",
     "The sections below walk through the chain of events from hormone to follicle to visible thinning, what current dermatological understanding says about how far that process can be reversed, and how to set expectations for timelines so you're not judging a treatment as a failure after six weeks when it needed six months.",
   ],
+  keyTakeaways: [
+    "Pattern hair loss comes from inherited follicle sensitivity to DHT, not from having more of it — circulating hormone levels are usually unremarkable.",
+    "DHT shortens each growth cycle so follicles produce finer, shorter hairs each time. That's miniaturization, and it plays out over years, not weeks.",
+    "Reversibility is a spectrum: early thinning responds best, mid-stage can sometimes be stabilized, and long-bald scalp generally needs transplantation rather than medication.",
+    "Give minoxidil or finasteride a 3-6 month minimum before judging it; fuller results can take 9-12 months, and early shedding is expected, not failure.",
+    "Judge progress with consistent, well-lit photos from the same angles — memory and day-to-day lighting hide both continued loss and real improvement.",
+  ],
   sections: [
     {
       id: "dht-role",
@@ -23,6 +30,8 @@ export const hairGrowthEncyclopedia: GuideData = {
         "It's worth being precise about what 'genetically susceptible' means here: it isn't that people who go bald have more DHT circulating in their bloodstream than people who don't. In most cases, circulating DHT and testosterone levels are unremarkable. What differs is the sensitivity of the androgen receptors in scalp follicles themselves — an inherited trait — which is why hair loss runs in families and why two men with identical hormone panels can have completely different outcomes for their hairline.",
         "DHT drives pattern hair loss in both sexes, which is why it's called androgenetic alopecia in men and women alike — though women generally have lower circulating DHT levels, and hair loss in women often involves additional hormonal and genetic factors, part of why female pattern hair loss tends to present as diffuse thinning rather than the frontal recession typical in men. This is also why anti-androgen approaches that work well in men don't automatically transfer to women in the same way, and why female pattern hair loss often gets evaluated alongside other possible contributors — thyroid function, iron status, and postpartum or perimenopausal hormonal shifts — rather than assumed to be DHT-driven by default.",
       ],
+      pullQuote:
+        "What differs is the sensitivity of the androgen receptors in scalp follicles themselves — an inherited trait — which is why hair loss runs in families.",
     },
     {
       id: "hair-cycle",
@@ -32,6 +41,8 @@ export const hairGrowthEncyclopedia: GuideData = {
         "In androgenetic alopecia, DHT's effect on genetically susceptible follicles is to progressively shorten the anagen phase with each successive cycle while lengthening the resting telogen phase. Each cycle, the follicle produces a slightly finer, shorter, less pigmented hair than the one before — this is the miniaturization process in action, visible over time as thick terminal hairs are gradually replaced by fine, short vellus-like hairs that provide little to no visible coverage.",
         "Because the cycle unfolds over years rather than days, the practical implication is significant: any topical or oral treatment that acts on this cycle needs enough time to influence at least one, and ideally several, full cycles before its effect becomes visible at the scalp surface. This is the single biggest source of frustration and premature treatment abandonment — people expect a linear, weekly improvement, when the biology is inherently slow and cyclical.",
       ],
+      pullQuote:
+        "This is the single biggest source of frustration and premature treatment abandonment — people expect a linear, weekly improvement, when the biology is inherently slow and cyclical.",
     },
     {
       id: "reversibility",
@@ -42,6 +53,10 @@ export const hairGrowthEncyclopedia: GuideData = {
         "This is also why dermatologists consistently emphasize starting treatment early rather than waiting to 'see how bad it gets first.' The biological window for a strong response narrows over time, not because treatments stop working chemically, but because there are fewer viable follicles left for them to act on. Someone who starts minoxidil or finasteride at the first sign of thinning is working with a very different biological substrate than someone who starts after a decade of untreated progression.",
         "None of this means later-stage hair loss is untreatable — it means the toolbox shifts. For advanced miniaturization or fully bald areas, surgical hair transplantation (relocating follicles that are resistant to DHT, typically from the back and sides of the scalp, to thinning or bald areas) is the standard approach, often combined with ongoing medical treatment to protect both the transplanted and the surrounding native hair from further DHT-driven loss.",
       ],
+      pullQuote:
+        "The biological window for a strong response narrows over time, not because treatments stop working chemically, but because there are fewer viable follicles left for them to act on.",
+      keyPoint:
+        "Start at the first sign of thinning rather than waiting to see how bad it gets. Treatments act on follicles that are still living and cycling, and the number of those only goes down over time.",
     },
     {
       id: "realistic-timelines",
@@ -52,6 +67,36 @@ export const hairGrowthEncyclopedia: GuideData = {
         "A practical consequence of this timeline is that self-assessment by memory is unreliable — most people don't accurately recall what their hairline or crown looked like six months ago, and normal day-to-day and lighting variation can mask both improvement and continued loss. Taking consistent, well-lit photos from the same angles at the same interval (monthly is common) before starting any treatment, and continuing throughout, is the most reliable way to actually judge whether a treatment is working, rather than relying on impression alone.",
         "It's also worth setting expectations about what 'working' looks like at the ceiling. Medical treatments for androgenetic alopecia are generally better at slowing or stopping further loss and at improving the thickness of existing thinning hair than they are at regrowing hair in areas that have been completely bald for years. A treatment that halts progression and thickens existing fine hair is, by the standards of the condition, a successful outcome — even if it doesn't fully restore a hairline to its appearance a decade earlier.",
       ],
+      pullQuote:
+        "A treatment that halts progression and thickens existing fine hair is, by the standards of the condition, a successful outcome.",
+      table: {
+        columns: ["What's Happening", "What You'll Notice"],
+        rows: [
+          {
+            label: "Months 1-2",
+            values: [
+              "The treatment is already acting on the follicle at a cellular level",
+              "Typically the least eventful visually; the initial shedding phase, if it occurs, tends to happen here",
+            ],
+          },
+          {
+            label: "Months 3-6",
+            values: [
+              "The minimum window dermatology sources describe before visible improvement",
+              "Most people who are going to respond start to notice reduced shedding and a sense that thinning has stopped progressing, before density visibly improves",
+            ],
+          },
+          {
+            label: "Months 9-12",
+            values: [
+              "Results generally plateau; fuller results, particularly for minoxidil, can take this long",
+              "Close to the maximum benefit that treatment or dose will provide for that individual",
+            ],
+          },
+        ],
+      },
+      keyPoint:
+        "Take consistent, well-lit photos from the same angles before you start and at a regular interval afterward — monthly is common. It's far more reliable than memory for judging whether a treatment is working.",
     },
     {
       id: "diagnosis-staging",
@@ -61,6 +106,8 @@ export const hairGrowthEncyclopedia: GuideData = {
         "Dermatologists commonly use standardized visual staging systems — the Norwood-Hamilton scale for men and the Ludwig scale for women — to describe how far pattern hair loss has progressed, from minimal recession at the earliest stages to extensive baldness at the most advanced. These scales are primarily descriptive and communicative tools rather than treatment thresholds, but they're useful for tracking your own progression over time and for having a shared vocabulary when discussing your hair with a dermatologist.",
         "A simple, low-cost way to get a rough read on whether shedding is currently active and abnormal is the 'pull test' — gently pulling a small section of hair (perhaps 50-60 strands) and counting how many come away in your hand — though this is a screening gesture, not a diagnosis, and its result should be interpreted cautiously rather than treated as definitive. If shedding is diffuse, sudden, or accompanied by other symptoms like fatigue, weight changes, or scalp pain or scarring, that's a stronger signal to see a dermatologist for bloodwork and a proper scalp exam before assuming it's garden-variety pattern hair loss and self-treating.",
       ],
+      keyPoint:
+        "Shedding that's sudden, patchy, or diffuse — or that comes with fatigue, weight changes, or scalp pain or scarring — warrants a dermatologist visit and bloodwork before you commit months to a pattern-hair-loss treatment.",
     },
     {
       id: "combining-treatments",
@@ -71,6 +118,8 @@ export const hairGrowthEncyclopedia: GuideData = {
         "Timing and application order also matter more than people expect. Minoxidil needs sufficient contact time with the scalp to absorb properly, so applying other leave-on products immediately before or after it can dilute or displace it before it's had a chance to work. Many dermatologists suggest applying minoxidil first, allowing it to dry fully, before layering anything else on top, and being cautious about combining it with products containing strong actives (retinoids, high-percentage acids) that could compound irritation on an already treatment-exposed scalp.",
         "Finally, combining treatments doesn't mean combining them forever without reassessment. Because both minoxidil and finasteride require ongoing use to maintain their effect — benefits generally reverse within months of stopping — a combined regimen is a long-term commitment, and periodic check-ins with a dermatologist (particularly around any new side effects, medication changes, or life stage changes like planning a pregnancy) are a reasonable part of using either drug responsibly over years rather than months.",
       ],
+      keyPoint:
+        "Introduce one new product at a time and give it a full multi-month evaluation window. Apply minoxidil first and let it dry fully before layering anything else on top, so it isn't diluted or displaced.",
     },
     {
       id: "common-mistakes",

@@ -13,6 +13,13 @@ export const theHgrRegimen: GuideData = {
     "Most of the disappointment we hear about doesn't actually trace back to the treatments themselves being ineffective. It traces back to a handful of repeatable mistakes: combining products in a way that makes it impossible to tell what's working, giving up during a normal adjustment period, or judging results on a timeline the biology was never going to meet. The Regimen exists specifically to prevent those failure modes, not to introduce new or unproven treatments.",
     "This page walks through the four pillars themselves, why combining them tends to outperform relying on any single product, how to sequence and track a regimen correctly, what a realistic first-year timeline looks like, the most common mistakes people make along the way, and how to think about choosing between prescription-strength and over-the-counter options within a given pillar.",
   ],
+  keyTakeaways: [
+    "Four pillars: a topical stimulant (minoxidil), a DHT-blocker (finasteride, or saw palmetto as a weaker natural option), scalp care, and nutrition for confirmed deficiencies.",
+    "Add pillars one at a time, roughly four to six weeks apart. It's the only way to know which one is responsible for a result or a side effect.",
+    "Give any regimen 3-6 months minimum before judging it, with fuller results around 9-12 months. Stopping generally reverses gains within a few months.",
+    "Combination therapy aims for better density and slower progression than any single pillar — it manages an ongoing process rather than curing it.",
+    "A good-enough regimen followed consistently beats a theoretically superior one followed sporadically. Track with standardized monthly photos, not daily mirror checks.",
+  ],
   quickFacts: [
     { label: "Core Pillars", value: "4" },
     { label: "Minimum Trial", value: "3-6 months" },
@@ -39,6 +46,45 @@ export const theHgrRegimen: GuideData = {
           ],
         },
       ],
+      table: {
+        columns: ["Example", "Evidence Strength", "Role in the Regimen"],
+        rows: [
+          {
+            label: "1. Topical growth stimulant",
+            values: [
+              "Minoxidil (over the counter)",
+              "Strongest — the only OTC ingredient with strong FDA-reviewed clinical trial support for regrowth",
+              "Stimulates the follicle directly; the pillar most people start with",
+            ],
+          },
+          {
+            label: "2. DHT-blocking agent",
+            values: [
+              "Oral or topical finasteride; saw palmetto as a weaker natural option",
+              "Strong for finasteride; weaker for saw palmetto, an honest tradeoff for avoiding a prescription drug",
+              "Slows further miniaturization — it does not regrow miniaturized follicles by itself",
+            ],
+          },
+          {
+            label: "3. Scalp care",
+            values: [
+              "Ketoconazole shampoo (like Nizoral A-D)",
+              "Supportive rather than standalone",
+              "Manages inflammation and buildup; used alongside, not instead of, your primary treatment",
+            ],
+          },
+          {
+            label: "4. Nutrition",
+            values: [
+              "Correcting bloodwork-confirmed iron, zinc, or vitamin D deficiency",
+              "Only relevant when a real, confirmed deficiency exists",
+              "Removes a deficiency that can independently limit hair quality",
+            ],
+          },
+        ],
+      },
+      keyPoint:
+        "Start with the topical stimulant and the DHT-blocker — the two pillars with the most direct clinical trial support — and add each new pillar on its own, roughly four to six weeks apart. Nutrition is the exception: correct a bloodwork-confirmed deficiency whenever you find one.",
     },
     {
       id: "why-combine",
@@ -49,6 +95,8 @@ export const theHgrRegimen: GuideData = {
         "This is also why people who try a single product in isolation — say, a topical alone, or a supplement alone — often report modest or inconsistent results even when that product is a legitimate, evidence-backed option. It's not necessarily that the product failed; it's that it was only ever addressing one piece of a multi-factor problem. Combining pillars doesn't mean stacking every product available — it means making sure the mechanisms that matter for your situation are actually being covered, rather than leaving obvious gaps.",
         "Combining treatments correctly also doesn't mean expecting a cure. Even a well-built four-pillar regimen is managing an ongoing process — slowing or partially reversing miniaturization — rather than permanently resetting the follicle back to a pre-loss state. Realistic expectations matter here: the goal of combination therapy is measurably better density and slower progression than any single pillar would achieve alone, not a full, permanent return to a much younger hairline.",
       ],
+      pullQuote:
+        "The goal of combination therapy is measurably better density and slower progression than any single pillar would achieve alone, not a full, permanent return to a much younger hairline.",
     },
     {
       id: "consistency",
@@ -66,6 +114,10 @@ export const theHgrRegimen: GuideData = {
           ],
         },
       ],
+      pullQuote:
+        "Treat a hair loss regimen as a long-term maintenance commitment, not a short course.",
+      keyPoint:
+        "Consistency beats optimization. Anchor your application to an existing daily habit and reorder before you run out — a good-enough regimen followed consistently outperforms a better one followed sporadically.",
     },
     {
       id: "tracking-progress",
@@ -84,6 +136,9 @@ export const theHgrRegimen: GuideData = {
           ],
         },
       ],
+      pullQuote: "Comparison over months, not days, is what reveals a real trend.",
+      keyPoint:
+        "Take monthly photos at the same time of day, same light source, same distance and angle, and consistently either wet or dry — hairline, crown, and part line. Compare against your earliest baseline, not just last month.",
     },
     {
       id: "first-six-months-timeline",
@@ -118,6 +173,8 @@ export const theHgrRegimen: GuideData = {
           ],
         },
       ],
+      keyPoint:
+        "At month 2 with nothing visible, you're on schedule — not failing. Well past month 9 with zero change across any pillar is the point to reassess with a dermatologist rather than wait indefinitely.",
     },
     {
       id: "common-mistakes",

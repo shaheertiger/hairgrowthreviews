@@ -28,6 +28,13 @@ export const spark: ReviewData = {
     "None of the caution below is a comment on whether Spark's underlying formula could work if you could actually get hold of it and use it consistently — DHT-blocking topicals as a category rely on generally the same premise as products like Revivogen: reducing local DHT activity at the follicle so that fewer hairs are pushed prematurely into a shortened growth cycle. What we can't do is separate any assessment of that formula from the very real, current uncertainty about whether the product is available at all, which is why this review leads with the availability issue rather than burying it.",
     "We're publishing this review anyway, rather than pulling it entirely, because people are still searching for information on Spark and Club Roots, and because a brand's site being unreachable during one research pass doesn't necessarily mean it's gone for good. What follows covers what we know about the product's stated formula and positioning, alongside a clear, upfront explanation of exactly what we could and couldn't verify, and some general guidance on how to check for yourself before you spend money here.",
   ],
+  keyTakeaways: [
+    "We couldn't confirm this product is currently being sold — verify availability directly with Club Roots before treating it as a purchase option.",
+    "Club Roots' own site returned repeated 503 server errors during our research, and Spark and the HydroBrush showed as sold out on Amazon and eBay.",
+    "Current pricing could not be verified at all, so there's no figure here we'd stand behind — check any price you find against official channels.",
+    "Separately from availability, we found no independent clinical data on the finished product, only the brand's marketing around its proprietary 'DHT-RX5' complex.",
+    "If you're building a routine now, build it around products you can confirm are in stock with a real return policy, and revisit Spark only once you've verified it.",
+  ],
   pros: [
     "Alcohol-free, dye-free, cruelty-free formulation per available product listings",
     "Positioned for both maintenance and prevention use",
@@ -51,6 +58,8 @@ export const spark: ReviewData = {
         "For someone building out a full routine, a companion applicator tool like Club Roots' HydroBrush is typically marketed as a way to improve how evenly a serum is distributed across the scalp, which can matter more than people expect — uneven application is a common, unglamorous reason a topical underperforms even when the formula itself is reasonable. That's a general point about application tools in this category, not a specific claim about the HydroBrush's effectiveness, which we also could not verify given the same availability concerns described above.",
         "None of this changes our core recommendation for Spark specifically: even a well-designed routine built around a product you can't reliably purchase, or that a company might not be actively supporting, isn't a routine you can depend on. If you're assembling a hair-loss routine right now, it makes more sense to build it around products in this review series that we could confirm are currently available, with a real, checkable return policy, and add something like Spark back in only once you've verified it's genuinely in stock.",
       ],
+      pullQuote:
+        "Even a well-designed routine built around a product you can't reliably purchase, or that a company might not be actively supporting, isn't a routine you can depend on.",
     },
     {
       id: "availability-update",
@@ -61,6 +70,35 @@ export const spark: ReviewData = {
         "There are a few different explanations that would all produce the exact symptoms we saw — a genuine business closure, a site migration or replatforming that temporarily takes a storefront offline, a change in fulfillment partner that empties retailer inventory during a transition, or simply a temporary hosting outage that happened to coincide with our research window. We have no way to distinguish between these possibilities from the outside, and it would be irresponsible to guess which one it is and present that guess as a finding.",
         "What we can say is that, taken together, an unreachable primary website and sold-out listings across multiple independent retail channels is a meaningfully stronger signal of a problem than either issue alone would be. A single sold-out listing is normal inventory churn. A company's own website returning server errors on repeated attempts, at the same time its wider product catalog is showing as unavailable elsewhere, is the kind of pattern that specifically warrants pausing before you buy — which is exactly what we're recommending here.",
       ],
+      pullQuote:
+        "An unreachable primary website and sold-out listings across multiple independent retail channels is a meaningfully stronger signal of a problem than either issue alone would be.",
+      keyPoint:
+        "Don't buy Spark until you've confirmed, through Club Roots' current official channels, that the product is actually in stock and being fulfilled.",
+      table: {
+        columns: ["Status", "What we saw"],
+        rows: [
+          {
+            label: "Club Roots official site",
+            values: ["Unreachable", "Repeated 503 server errors across multiple attempts"],
+          },
+          {
+            label: "Spark on Amazon / eBay",
+            values: ["Sold out", "No current price displayed on the listings we checked"],
+          },
+          {
+            label: "HydroBrush (companion product)",
+            values: ["Sold out", "Same availability pattern as Spark, not an isolated issue"],
+          },
+          {
+            label: "Club Roots Instagram",
+            values: ["Limited recent activity", "Suggestive, but not decisive on its own"],
+          },
+          {
+            label: "Current price",
+            values: ["Unverified", "Could not be confirmed through any channel we checked"],
+          },
+        ],
+      },
     },
     {
       id: "how-to-verify-availability",
@@ -71,6 +109,8 @@ export const spark: ReviewData = {
         "Look at third-party retailers separately from the brand's own site. If a product shows as available and shipping soon on Amazon or a similar marketplace even while the brand's own site is down, that's a reasonably strong signal the underlying business is still operating, just with a website problem. If it's sold out or delisted everywhere you check, that's a stronger signal to hold off.",
         "Finally, if you do decide to purchase, use a payment method with strong buyer protection (a credit card rather than a bank transfer or gift card), keep your confirmation email, and set a calendar reminder to check on shipping status within a reasonable window so you can dispute the charge if nothing arrives — sound practice for any online purchase from a smaller or newer brand, not specific to Club Roots.",
       ],
+      keyPoint:
+        "Run four checks before buying from any small brand: does the site load and check out reliably, is there recent social activity, do third-party retailers show stock, and can you pay by credit card so the charge is disputable.",
     },
     {
       id: "what-spark-claims",
@@ -80,6 +120,8 @@ export const spark: ReviewData = {
         "Resveratrol is a plant-derived antioxidant compound that's been studied at a preliminary level in general dermatological and hair-growth research contexts, generally for its antioxidant and potential anti-inflammatory properties rather than a direct DHT-blocking mechanism. Its inclusion here is broadly consistent with how the ingredient shows up across the wider hair-care category, though — as with the rest of Spark's formula — we can't verify its specific role or concentration in this product without more transparency from the brand.",
         "None of this description should be read as an endorsement of Spark's effectiveness. We're summarizing what the brand claims about its own formula so you have that context if you do track down a way to purchase it — not vouching for those claims, which is a distinction that matters more here than in almost any other review in this set, given that we can't even confirm the product is currently sold.",
       ],
+      pullQuote:
+        "We're summarizing what the brand claims about its own formula so you have that context if you do track down a way to purchase it — not vouching for those claims.",
     },
     {
       id: "general-precautions",
@@ -89,6 +131,8 @@ export const spark: ReviewData = {
         "Sudden, patchy, or rapidly progressing hair loss is not something to self-treat with any over-the-counter topical, Spark included — see a dermatologist first to rule out causes like alopecia areata, thyroid dysfunction, or telogen effluvium, which need a different kind of treatment than a DHT-focused product is designed to provide. And as with any hair-loss product, pregnant or breastfeeding women should check with a physician before use, since hormone-adjacent ingredients aren't always specifically studied for safety during pregnancy.",
         "Given everything above, we'd add one more Spark-specific precaution: if you do find a working purchase channel, keep your receipt and confirmation details somewhere accessible, and be prepared for the possibility that customer support responsiveness could be affected by whatever is causing the wider availability issues we encountered — plan your expectations around ongoing support accordingly.",
       ],
+      keyPoint:
+        "Patch-test on a small area before applying it across your scalp, and if you do find a working purchase channel, keep your receipt — customer support may be affected by whatever is causing the availability issues.",
     },
   ],
   faq: [

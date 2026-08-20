@@ -28,6 +28,13 @@ export const viviscal: ReviewData = {
     "The company cites its own studies showing perception-based improvements — around 97% of users reporting glossier-looking hair and 92% reporting thicker-looking hair at 6 months. That's company-funded, self-reported outcome data, not independent, peer-reviewed proof of actual regrowth — an important distinction given how prominently these numbers feature in Viviscal's marketing.",
     "This review treats Viviscal the way it treats every product in this category: taking the brand's own claims seriously enough to explain what they actually measure, while being direct about where the evidence is thinner than the marketing implies. Given the ingredient list, the allergy and dietary considerations here are not a footnote — they're one of the most important things to know before you buy, and they're covered first and in detail below.",
   ],
+  keyTakeaways: [
+    "Contains shark cartilage and oyster extract — unsafe with a shellfish allergy, and not vegan or vegetarian. Treat an allergy history as a hard stop, not something to test.",
+    "The headline 97% glossier / 92% thicker figures at 6 months are company-funded, self-reported perception data — not independent proof of actual regrowth.",
+    "At roughly $40 a month, a genuinely fair multi-month trial runs somewhere in the range of $150–$250 or more before you can judge results.",
+    "Get bloodwork first: iron and zinc have real deficiency-linked research behind them, but only if you're actually low. If your levels are normal, the rationale is much weaker.",
+    "The 90-day money-back guarantee applies to direct purchases only, and some customers report difficulty with refund-window enforcement — keep your records.",
+  ],
   pros: [
     "Non-drug oral option — no scalp application, mess, or daily topical routine required",
     "Widely sold at major pharmacies, easy to find and repurchase without special ordering",
@@ -70,6 +77,10 @@ export const viviscal: ReviewData = {
         "Shellfish allergy reactions can range from mild digestive discomfort or hives to serious, potentially life-threatening anaphylaxis, and reactions can occur even from small or indirect exposure to shellfish-derived proteins in a supplement rather than from eating shellfish directly. If you have any history of a shellfish allergy — even a mild one, or one you suspect but haven't formally confirmed — this is not a product to try 'just to see.' Speak with an allergist first, and treat a positive shellfish allergy history as a hard stop rather than something to test cautiously with a lower dose.",
         "It's also worth noting this isn't a minor labeling footnote buried in fine print — it's the defining characteristic of the product's active complex. Anyone recommending Viviscal to a friend or family member should mention the shellfish sourcing explicitly and up front, the same way you'd mention a peanut ingredient before handing someone a snack, rather than assuming they'll read the full ingredient panel themselves.",
       ],
+      pullQuote:
+        "If you have any history of a shellfish allergy — even a mild one, or one you suspect but haven't formally confirmed — this is not a product to try 'just to see.'",
+      keyPoint:
+        "If you have a shellfish allergy or follow a vegan or vegetarian diet, this product is out. Speak with an allergist and choose a plant-based alternative, confirming its full ingredient sourcing rather than assuming it's shellfish-free.",
     },
     {
       id: "the-data",
@@ -79,6 +90,10 @@ export const viviscal: ReviewData = {
         "There's an important distinction between a perception-based outcome and an objective one. An objective regrowth measure might involve standardized photography, hair counts within a fixed scalp area, or pull-test shedding counts recorded by an independent evaluator blinded to who received the active product versus a placebo. A perception-based outcome simply asks participants how their hair seems to them, which is useful information but is also vulnerable to expectation effects — people who've just spent money on a product marketed to make hair look glossier and thicker have a natural tendency to notice and report exactly that.",
         "None of this means the underlying nutrients in Viviscal's formula are inert — iron and zinc, in particular, have genuine research behind correcting deficiency-related shedding. What it means is that the specific 97%/92% figures quoted in Viviscal's marketing describe how people felt about their hair after taking a company-funded supplement, not a controlled measurement of follicle-level regrowth that an independent dermatology researcher would recognize as proof of efficacy.",
       ],
+      pullQuote:
+        "That doesn't make the numbers meaningless, but it does mean they should be read as 'many users felt their hair looked better,' not as clinical proof of new hair growth.",
+      keyPoint:
+        "Read 97%/92% as perception, not measurement: those figures describe how participants in a company-funded study felt about their hair at 6 months, not independently verified follicle-level regrowth.",
     },
     {
       id: "deficiency-vs-supplementation",
@@ -88,6 +103,10 @@ export const viviscal: ReviewData = {
         "The catch is that this logic only helps you if you're actually deficient. Taking extra iron or zinc when your levels are already adequate doesn't generally produce additional hair benefit beyond what a normal, sufficient level already provides — supplementation corrects a shortfall, it doesn't push growth past a normal baseline. Iron supplementation in someone who isn't deficient also isn't risk-free; excess iron can be harmful over time, particularly for men and postmenopausal women who don't lose iron the way menstruating women do.",
         "The practical implication is that a simple blood panel — ferritin, complete blood count, sometimes a thyroid panel and vitamin D — before starting an oral hair supplement is worth far more than guessing. If a deficiency shows up, correcting it (with medical guidance on dosing) may meaningfully help. If nothing shows up, a supplement like Viviscal is working from a much weaker rationale, and any benefit you notice is more likely coming from the placebo-adjacent perception effect described above than from filling a nutritional gap that didn't exist.",
       ],
+      pullQuote:
+        "Supplementation corrects a shortfall, it doesn't push growth past a normal baseline.",
+      keyPoint:
+        "Get a simple blood panel — ferritin, complete blood count, sometimes a thyroid panel and vitamin D — before starting. If a deficiency shows up, correcting it with medical guidance may genuinely help; if nothing does, this supplement is working from a much weaker rationale.",
     },
     {
       id: "how-oral-differs",
@@ -96,6 +115,47 @@ export const viviscal: ReviewData = {
         "Viviscal works through systemic ingestion rather than direct scalp application, which is a meaningfully different route than minoxidil (applied topically, absorbed locally at the follicle) or finasteride (an oral drug, but one with a specific, well-mapped hormonal mechanism that directly reduces DHT production). A nutrient-and-marine-complex tablet doesn't have an equivalently well-mapped mechanism connecting the ingredients to follicle-level biology — it's supporting general nutritional status rather than targeting a specific pathway known to drive pattern hair loss.",
         "That distinction matters for expectations. Minoxidil and finasteride both have large bodies of independent, peer-reviewed regrowth research behind them, including objective density and hair-count measurements. Viviscal's evidence base, by contrast, leans much more heavily on the company's own perception-survey data described above. Neither fact makes Viviscal 'bad' — but it does mean the two categories of product shouldn't be evaluated as interchangeable options with similar evidentiary footing.",
       ],
+      table: {
+        columns: [
+          "Viviscal (oral supplement)",
+          "Minoxidil (topical)",
+          "Finasteride (oral drug)",
+        ],
+        rows: [
+          {
+            label: "How it reaches the follicle",
+            values: [
+              "Systemic ingestion",
+              "Applied topically, absorbed locally at the follicle",
+              "Systemic ingestion",
+            ],
+          },
+          {
+            label: "Mechanism",
+            values: [
+              "General nutritional support, with no equivalently well-mapped follicle-level mechanism",
+              "A pathway with large, independent regrowth research behind it",
+              "A specific, well-mapped hormonal mechanism that directly reduces DHT production",
+            ],
+          },
+          {
+            label: "Evidence base",
+            values: [
+              "Company-funded, self-reported perception surveys",
+              "Large body of independent, peer-reviewed regrowth research",
+              "Large body of independent, peer-reviewed regrowth research",
+            ],
+          },
+          {
+            label: "What was measured",
+            values: [
+              "Users' perception of gloss and thickness at 6 months",
+              "Objective density and hair-count measurements",
+              "Objective density and hair-count measurements",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "cost-and-consistency",
@@ -104,6 +164,8 @@ export const viviscal: ReviewData = {
         "At roughly $40 per month, giving Viviscal a genuinely fair trial — long enough for the hair cycle to show any real difference, typically several months at minimum — represents a meaningful ongoing expense, likely in the range of $150–$250 or more before you have enough time elapsed to judge results honestly. That's worth budgeting for deliberately rather than treating as a casual, low-commitment purchase, especially compared to a lower-cost topical or oral prescription option with stronger independent evidence.",
         "Consistency matters as much as duration here: like virtually every hair-health intervention, sporadic or inconsistent use makes it much harder to judge whether anything is working, since the hair cycle doesn't respond to occasional dosing the way it might respond to a daily, sustained routine. If you decide to try it, committing to the full recommended daily dose for the entire trial period — and tracking your starting point with photos — will give you a far more honest read than stopping and starting.",
       ],
+      keyPoint:
+        "Budget $150–$250 or more up front for a fair trial, take the full recommended daily dose for the whole period, and photograph your starting point — sporadic use makes the result impossible to read.",
     },
   ],
   safetyNote:

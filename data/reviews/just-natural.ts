@@ -28,6 +28,13 @@ export const justNatural: ReviewData = {
     "It helps to be clear about what kind of product this is before diving into the ingredient list. This isn't a drug — it makes no pharmaceutical claim and hasn't gone through the kind of regulatory review that minoxidil or finasteride have. It's a cosmetic, botanically-formulated leave-in oil, and the case for it rests on the traditional and ingredient-level research behind its individual components (things like saw palmetto's mild DHT-related activity, or green tea's antioxidant profile) rather than any clinical trial run on the finished bottle. That's not automatically a knock against it — plenty of people are specifically looking for a non-drug option — but it does mean the burden of proof here is different, and lower, than for a product with FDA-reviewed clinical data behind it.",
     "The other thing worth setting expectations around upfront is the sensory experience. This is a genuinely oily, leave-in product by design — the whole point of an overnight or multi-hour oil treatment is prolonged scalp contact, which necessarily means a heavier, less cosmetically 'invisible' product than a quick-drying serum. Reviewers who go in expecting something that disappears in seconds tend to be disappointed regardless of how the formula performs; reviewers who go in wanting an actual oil treatment tend to rate the experience more positively. Knowing which camp you're in before buying will do more for your satisfaction than almost anything else in this review.",
   ],
+  keyTakeaways: [
+    "The real cost isn't the $46.99 — it's the routine: 2-3 hours on your scalp (or overnight), washed out afterward, at least twice a week, indefinitely.",
+    "The ingredient list is genuinely clean — sulfate-, paraben-, and artificial-fragrance-free — but there's no clinical trial on the finished formula, only ingredient-level research.",
+    "Expect oil transfer onto bedding and often a double shampoo to fully wash out; this is an oil treatment by design, not an invisible serum.",
+    "Basil and thyme essential oils create real irritation risk for sensitive skin — patch test 24-48 hours before your first full application.",
+    "The 30-day money-back guarantee requires returning the bottle at least 75% full, refund only, minus shipping.",
+  ],
   pros: [
     "All-natural formulation with no harsh chemicals",
     "Pleasant scent reported by reviewers (ylang ylang/geranium notes)",
@@ -65,6 +72,10 @@ export const justNatural: ReviewData = {
         "Application technique matters more with an oil-based leave-in than it does with a spray. Sectioning the hair and massaging the oil directly into the scalp — rather than just running it through the hair — is what actually gets the botanical ingredients into contact with skin, which is where any plausible benefit would occur. Working in small sections with your fingertips, rather than trying to cover the whole scalp in one pass, tends to produce more even coverage and is the technique most consistent with how leave-in scalp oils are traditionally used.",
         "Washing out afterward typically takes more than a single shampoo cycle given how oil-saturated the hair and scalp are after a multi-hour or overnight application — a number of reviewers mention a double-shampoo being necessary to fully remove the residue and avoid a lingering greasy feel. That's a normal characteristic of concentrated oil treatments generally, not a defect specific to this formula, but it's one more piece of the real time commitment worth factoring in alongside the application window itself.",
       ],
+      pullQuote:
+        "That's a meaningfully bigger time investment than a quick-drying serum, and it's worth being honest with yourself about whether you'll actually stick with it before buying.",
+      keyPoint:
+        "Budget the whole routine, not just the application: 2-3 hours or an overnight window at least twice weekly, a towel or old pillowcase to protect bedding, and often a double shampoo to get the oil out.",
     },
     {
       id: "ingredient-mechanisms",
@@ -75,6 +86,55 @@ export const justNatural: ReviewData = {
         "Sea buckthorn, burdock root, arnica, and green tea round out the formula more as supporting, general-scalp-health ingredients than as DHT-focused actives. Sea buckthorn and green tea both carry antioxidant compounds that, at a general dermatological level, are thought to help counter oxidative stress in skin tissue — a plausible, if non-specific, mechanism for supporting a healthier scalp environment rather than a direct hair-growth trigger. Burdock root and arnica both have long histories in traditional herbal skin care, arnica in particular for its reputed anti-inflammatory and soothing properties, which may be relevant for scalps prone to irritation or flakiness even if the growth-specific evidence for either is thin.",
         "Basil and thyme essential oils are the formula's stimulating and aromatic components, included both for scent and for a mild warming or tingling sensation on the scalp that some users associate with 'the product working.' It's worth being clear-eyed about that sensation: a tingling feeling from an essential oil is a sign of mild skin stimulation, not proof of increased blood flow or follicle activity, and for some users with sensitive skin that same stimulating quality crosses over into genuine irritation rather than a pleasant tingle — which is the main reason this formula carries a patch-test recommendation.",
       ],
+      pullQuote:
+        "A tingling feeling from an essential oil is a sign of mild skin stimulation, not proof of increased blood flow or follicle activity.",
+      table: {
+        columns: ["Thought to do", "Where the evidence sits"],
+        rows: [
+          {
+            label: "Avocado, pumpkin seed & jojoba oils",
+            values: [
+              "Condition the scalp; jojoba closely resembles natural sebum",
+              "Ingredient-level; pumpkin seed appears in some small hair-density studies, not in this formula",
+            ],
+          },
+          {
+            label: "Saw palmetto",
+            values: [
+              "Mild 5-alpha-reductase inhibition, limiting testosterone-to-DHT conversion",
+              "Ingredient-level research; not remotely as well-studied or potent as finasteride",
+            ],
+          },
+          {
+            label: "Nettle",
+            values: [
+              "Traditional scalp-health use, pointing in a similar DHT-related direction",
+              "Long traditional use plus more limited modern research",
+            ],
+          },
+          {
+            label: "Sea buckthorn & green tea",
+            values: [
+              "Antioxidant compounds thought to counter oxidative stress in skin",
+              "General dermatological reasoning; non-specific to hair growth",
+            ],
+          },
+          {
+            label: "Arnica & burdock root",
+            values: [
+              "Soothing, reputed anti-inflammatory support for irritation or flakiness",
+              "Long history in traditional herbal skin care; growth-specific evidence is thin",
+            ],
+          },
+          {
+            label: "Basil & thyme essential oils",
+            values: [
+              "Scent plus a mild warming or tingling sensation on the scalp",
+              "A sensation only — and a genuine irritation risk for sensitive skin",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "who-should-avoid",
@@ -84,6 +144,8 @@ export const justNatural: ReviewData = {
         "People with an active scalp condition — eczema, psoriasis flares, folliculitis, or any open irritation — should hold off on introducing a new multi-ingredient botanical oil treatment until the underlying issue is under control, ideally with a dermatologist's input. It's not that natural ingredients are inherently riskier than synthetic ones for compromised skin; if anything the opposite framing is a common myth. But any new leave-in product, applied for hours at a time, adds a variable that makes it harder to tell what's helping and what's aggravating an existing flare-up.",
         "And practically, if a twice-weekly, multi-hour leave-in routine simply doesn't fit your schedule or your hair-washing preferences, it's worth being honest that this may not be the right product regardless of how clean the ingredient list is. A great formula applied inconsistently, or abandoned after a few uses because the time commitment wasn't realistic, isn't going to outperform a lower-commitment option that actually gets used as directed.",
       ],
+      keyPoint:
+        "Patch test on the inside of your forearm or a small scalp section 24-48 hours before the first full application — the basil and thyme content makes that precaution worth taking seriously rather than skipping.",
     },
     {
       id: "realistic-timeline",
@@ -93,6 +155,10 @@ export const justNatural: ReviewData = {
         "Given that this product has no published clinical trial timeline of its own to point to, the most honest approach is to treat it the way you'd treat any unstudied cosmetic scalp treatment: give it a meaningful, consistent trial period — most people in this category look for a change somewhere in the three-to-six-month range, applied as directed — before drawing conclusions either way. A handful of uses over a few weeks, which is what a number of reviewers describe before giving feedback, simply isn't long enough to separate a real effect from normal week-to-week variation in shedding and hair appearance.",
         "It's also worth setting expectations about what kind of change, if any, is plausible here. This is a scalp-conditioning and mild-botanical-support formula, not a pharmaceutical growth stimulant — the more realistic hoped-for outcome is a healthier-feeling scalp, less dryness or flaking, and a supportive role alongside whatever else is in your routine, rather than a dramatic density change driven by this product in isolation.",
       ],
+      pullQuote:
+        "This is a scalp-conditioning and mild-botanical-support formula, not a pharmaceutical growth stimulant.",
+      keyPoint:
+        "Give it a consistent three-to-six-month trial applied as directed before judging it. A handful of uses over a few weeks — what many reviewers describe — isn't long enough to separate a real effect from normal week-to-week variation.",
     },
     {
       id: "broader-routine",
@@ -101,6 +167,8 @@ export const justNatural: ReviewData = {
         "Because this is a cosmetic oil treatment rather than a drug, it doesn't carry the same interaction concerns that come up when combining two active pharmaceutical treatments. That makes it a reasonably low-risk product to layer alongside something like minoxidil, provided you sequence the two sensibly — most people who combine an oil treatment with a leave-on liquid drug treatment apply the drug treatment on non-oil-treatment days, or make sure the oil is fully washed out before a minoxidil application, since an oily scalp surface can interfere with how evenly a thin liquid spreads and absorbs.",
         "For anyone already following a broader hair-health routine — a balanced diet, attention to scalp hygiene, minimizing tight hairstyles or excessive heat styling — this product is best thought of as one additional layer rather than a replacement for any of those fundamentals. Its clean ingredient list makes it a reasonable fit for people who are specifically trying to minimize synthetic ingredients across their whole routine, but that positioning is about ingredient philosophy, not about this product outperforming other approaches on regrowth specifically.",
       ],
+      keyPoint:
+        "If you also use minoxidil, apply it on non-oil-treatment days or only once the oil is fully washed out — an oily scalp surface interferes with how evenly a thin liquid spreads and absorbs.",
     },
   ],
   safetyNote:

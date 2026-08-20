@@ -28,6 +28,13 @@ export const revivogen: ReviewData = {
     "To understand why a product like Revivogen takes months to show any effect, it helps to understand the hair growth cycle itself. Each follicle cycles through three phases: a multi-year anagen (growth) phase, a brief catagen (transition) phase, and a resting telogen phase before the hair sheds and a new one begins. Androgenetic hair thinning happens gradually, as repeated cycles produce progressively finer, shorter-lived hairs — a process called miniaturization, driven primarily by dihydrotestosterone (DHT) binding to androgen receptors in genetically susceptible follicles. Because a topical treatment can only act on follicles that are entering or already in a growth phase, no DHT-blocking product — natural or pharmaceutical — can meaningfully change what you see in the mirror inside of a few weeks. That's the backdrop against which Revivogen's slow timeline should be judged.",
     "Revivogen falls into the 'natural alternative' category of hair-loss treatments, which appeals mostly to two kinds of buyers: people who've had a bad reaction to, or simply want to avoid, oral finasteride and its associated systemic hormonal risk profile, and people early in their thinning who want a lower-commitment first step before considering pharmaceutical options. It is not positioned, and shouldn't be treated, as a direct substitute for minoxidil or finasteride in terms of the depth of clinical evidence behind either of those two treatments — its case rests on a combination of ingredient-level science and a multi-year market presence rather than large randomized trials of the finished product.",
   ],
+  keyTakeaways: [
+    "The headline '88% success rate' is company-published data, not an independently verified trial — treat it as a marketing claim rather than clinical proof.",
+    "Expect 60-90+ days before anything changes, and reduced shedding is a more commonly reported outcome than visible new regrowth.",
+    "$99.95 buys the 90-day Scalp Therapy Kit (shampoo, conditioner, serum) — premium pricing next to OTC minoxidil.",
+    "The 90-day money-back guarantee covers the full window you need to judge it, but applies to MD-line products bought direct, minus shipping, one per household.",
+    "Natural 5-AR inhibitors avoid oral finasteride's systemic hormonal risks, at the cost of a milder ceiling on results.",
+  ],
   pros: [
     "No known systemic hormonal side effects, since it works topically rather than as an oral drug",
     "Long track record — the product has been sold for years with a stable formula",
@@ -61,6 +68,8 @@ export const revivogen: ReviewData = {
         "It's worth putting that figure in context against how this category of statistic usually works. Company-sponsored 'success rate' numbers are typically drawn from self-reported user surveys or open-label observational data — participants know they're using the product, there's no placebo comparison, and the criteria for what counts as a 'success' (any perceived reduction in shedding, versus objective photographic measurement of new terminal hair count) are set and interpreted by the company itself. That's a meaningfully lower evidentiary bar than a double-blind, placebo-controlled trial with independent photographic assessment, which is the standard used for FDA-approved treatments like topical minoxidil. None of this means the number is meaningless — it does suggest real user satisfaction at some level — but it's not the same category of evidence.",
         "If you're the kind of buyer who wants a specific number to anchor a purchase decision, we'd encourage you to mentally discount Revivogen's 88% claim to 'many users report benefit' rather than treating it as a measured probability that will apply to you personally. That's true of virtually every proprietary 'success rate' figure in this category, not a criticism unique to Revivogen — but Revivogen leans on this number harder in its marketing than most, which is why it earns its own section here.",
       ],
+      pullQuote:
+        "Revivogen's formula is a reasonable, evidence-informed combination — it's the specific 88% number that lacks independent verification.",
     },
     {
       id: "how-it-works",
@@ -69,6 +78,8 @@ export const revivogen: ReviewData = {
         "Revivogen's formula is built around a single core idea: block or reduce the local conversion of testosterone into DHT at the follicle, using plant-derived compounds rather than a pharmaceutical 5-alpha-reductase inhibitor like finasteride. DHT is the androgen most strongly implicated in genetically driven hair thinning — it binds androgen receptors in susceptible scalp follicles and, over repeated growth cycles, gradually shortens the anagen phase and shrinks the follicle, a process called miniaturization. In theory, reducing local DHT exposure at the follicle should slow or partially offset that miniaturization process, which is the same underlying rationale behind finasteride, just pursued here through weaker, natural inhibitors instead of a synthetic drug.",
         "The overall logic of stacking several mild, natural DHT-inhibiting compounds together, rather than relying on one strong pharmaceutical inhibitor, is a reasonable one — but it's worth being clear-eyed that several mild inhibitors are very unlikely to add up to the inhibitory strength of a single pharmaceutical 5-alpha-reductase inhibitor. If your hair loss is significantly DHT-driven and you want the strongest available inhibition, Revivogen is a gentler, slower alternative — not a natural equivalent.",
       ],
+      pullQuote:
+        "If your hair loss is significantly DHT-driven and you want the strongest available inhibition, Revivogen is a gentler, slower alternative — not a natural equivalent.",
       subsections: [
         {
           heading: "The DHT-Blocking Actives",
@@ -92,6 +103,8 @@ export const revivogen: ReviewData = {
         "A small number of drops or pumps, worked directly into the scalp at the areas of thinning rather than through the length of the hair, is the general approach recommended for leave-on scalp serums in this category. Massaging the product in gently for a minute or so may aid absorption and adds a modest circulation benefit of its own, independent of the formula. If you're using the full Scalp Therapy Kit, the shampoo is intended to be used first to clean the scalp and remove product buildup, with the leave-on serum applied afterward on a dry or towel-dried scalp rather than into wet hair.",
         "Because Revivogen is a leave-on product, think about how it interacts with anything else you put on your scalp. If you're also using a separate minoxidil treatment, a styling product, or a medicated shampoo for an unrelated scalp condition, apply them with enough separation that one product isn't diluting or being washed out by another, and watch for any signs of irritation that could indicate the combination — rather than either product alone — is the problem.",
       ],
+      keyPoint:
+        "Work a few drops directly into the thinning areas of a clean, dry scalp — not through the length of your hair — and do it consistently. Irregular use makes it impossible to tell at 90 days whether the product failed or your routine did.",
     },
     {
       id: "who-should-avoid",
@@ -101,6 +114,8 @@ export const revivogen: ReviewData = {
         "People experiencing sudden, patchy, or unusually rapid hair loss — as opposed to the slow, gradual thinning typical of androgenetic alopecia — should see a dermatologist before starting any over-the-counter treatment, natural or otherwise. Sudden or patchy shedding can have causes (autoimmune conditions like alopecia areata, thyroid dysfunction, iron deficiency, or telogen effluvium triggered by illness, stress, or medication changes) that a topical DHT-blocker won't address, and a proper diagnosis will save you months of trying the wrong approach.",
         "Pregnant or breastfeeding women should check with a physician before using any hair-loss product, including natural ones, since hormone-adjacent ingredients haven't necessarily been studied for safety in pregnancy even when they're generally well-tolerated outside of it. And anyone with an active scalp condition — psoriasis, seborrheic dermatitis, open sores, or a recent scalp procedure — should get clearance from a dermatologist first, since a leave-on product could aggravate an already-compromised scalp barrier.",
       ],
+      keyPoint:
+        "If your shedding is sudden, patchy, or unusually rapid rather than slow and gradual, see a dermatologist before buying anything. A proper diagnosis will save you months of trying the wrong approach.",
     },
     {
       id: "realistic-timeline",
@@ -110,6 +125,34 @@ export const revivogen: ReviewData = {
         "Around the 60-90 day mark is when many users in this category, including Revivogen's own customer base by its account, start to notice a difference — most commonly a reduction in the amount of hair coming out in the shower or on a pillow, which reflects fewer follicles being pushed prematurely into the shedding (telogen) phase. Visible new growth, if it happens, typically lags behind reduced shedding by weeks to months further, since a follicle has to complete a meaningful portion of a new growth cycle before the new hair is long and thick enough to be visually apparent.",
         "It's also worth being honest that, per the cons noted above, some users report the shedding-reduction benefit without seeing much in the way of new visible regrowth — which is a real, if partial, outcome rather than a failure of the product. Given the 90-day guarantee, the practical approach is to commit to consistent daily use for the full window, take comparable photos under the same lighting periodically so you're not relying on memory, and only make a keep-or-return decision once you've actually reached that 90-day mark.",
       ],
+      pullQuote:
+        "Some users report the shedding-reduction benefit without seeing much in the way of new visible regrowth — which is a real, if partial, outcome rather than a failure of the product.",
+      table: {
+        columns: ["What You Might Notice", "Why"],
+        rows: [
+          {
+            label: "First few weeks",
+            values: [
+              "No visible change at all",
+              "Existing hairs already in their growth phase aren't instantaneously affected",
+            ],
+          },
+          {
+            label: "60-90 days",
+            values: [
+              "Less hair in the shower or on your pillow",
+              "Fewer follicles being pushed prematurely into the shedding (telogen) phase",
+            ],
+          },
+          {
+            label: "Beyond 90 days",
+            values: [
+              "Visible new growth, if it happens at all",
+              "A follicle must complete much of a new growth cycle before the hair is long and thick enough to see",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "guarantee",
@@ -119,6 +162,10 @@ export const revivogen: ReviewData = {
         "A 90-day guarantee matters more in this category than it would for almost any other consumer product, precisely because the hair growth cycle makes it structurally impossible to know whether a topical treatment is working for you inside of a month or two. A shorter return window — 30 days, which is common among competitors — effectively forces a purchase decision before you could possibly have enough information to make one. Revivogen's willingness to extend that window to a full quarter is a meaningful, verifiable point in its favor, independent of whatever you think of the marketing claims.",
         "That said, read the fine print before relying on it: the 90-day window applies to MD-line products specifically, PRO-line products carry a shorter 60-day window, refunds are minus shipping costs, and the policy is limited to one redemption per household and to direct purchases from Revivogen rather than third-party marketplace sellers. If you buy through a retailer or reseller, you'll likely be bound by that retailer's own, typically shorter, return policy instead.",
       ],
+      pullQuote:
+        "A 90-day guarantee matters more in this category than it would for almost any other consumer product.",
+      keyPoint:
+        "Buy direct from Revivogen if you want the guarantee to apply. Through a retailer or reseller you're bound by that seller's own, typically much shorter, return policy instead.",
     },
   ],
   comparisonTable: {

@@ -13,6 +13,58 @@ export const stagesHairLoss: GuideData = {
     "Both scales described here exist for the same basic reason: to give patients and clinicians a shared, consistent vocabulary for describing how far pattern hair loss has progressed, so that 'my hair is thinning' can become something more specific and comparable over time — useful both for tracking your own change and for a dermatologist assessing whether a treatment plan is working. Neither scale measures the underlying biology directly; both are visual, photographic classification systems based on where and how hair has been lost, which makes them genuinely useful for communication but imperfect as a precise measurement tool.",
     "It's also worth setting expectations before diving into the specific stages: these scales describe a typical progression pattern, not a fixed timeline every person follows at the same speed. Some people plateau for years at an early stage; others progress more quickly. Genetics, age of onset, and — for men in particular — family history all influence the pace, and no scale can predict exactly how quickly any one individual will move from one stage to the next.",
   ],
+  keyTakeaways: [
+    "The Hamilton-Norwood scale grades male pattern baldness across stages 1-7; the Ludwig scale grades female pattern hair loss across three stages, I-III.",
+    "Start early: dermatologists point to the first signs of thinning or a widening part, roughly Norwood 2-3 or Ludwig I, as when treatment works best.",
+    "Minoxidil and finasteride work by preserving existing follicles and slowing miniaturization — they don't regenerate follicles that have gone fully dormant.",
+    "At Norwood 6-7 or Ludwig III, surgical transplantation becomes the primary route to density that topical or oral treatment alone can no longer provide.",
+    "Neither scale diagnoses a cause — telogen effluvium, thyroid dysfunction, and iron deficiency can all mimic early-stage pattern loss.",
+  ],
+  comparisonTableTitle: "Norwood vs. Ludwig at a Glance",
+  comparisonTable: {
+    columns: ["Hamilton-Norwood scale", "Ludwig scale"],
+    rows: [
+      {
+        label: "Who it applies to",
+        values: ["Male pattern baldness", "Female pattern hair loss"],
+      },
+      {
+        label: "Stages",
+        values: [
+          "1 through 7, plus a Type A variant for purely frontal progression",
+          "Three stages (I-III), sometimes broken into sub-grades in clinical use",
+        ],
+      },
+      {
+        label: "Pattern of loss",
+        values: [
+          "Bitemporal hairline recession plus crown thinning, merging at advanced stages",
+          "Diffuse, centralized thinning at the crown and part line",
+        ],
+      },
+      {
+        label: "Frontal hairline",
+        values: [
+          "Recedes; a horseshoe-shaped fringe at the sides and back remains at stages 6-7",
+          "Typically preserved, unlike the male pattern",
+        ],
+      },
+      {
+        label: "When to start treatment",
+        values: [
+          "At the first visible signs, roughly stage 2-3",
+          "At the first signs of thinning or a widening part, roughly stage I",
+        ],
+      },
+      {
+        label: "Advanced-stage option",
+        values: [
+          "Stages 6-7: surgical transplantation is the primary option",
+          "Stage III: surgical transplantation is the primary option",
+        ],
+      },
+    ],
+  },
   sections: [
     {
       id: "norwood-scale",
@@ -23,6 +75,10 @@ export const stagesHairLoss: GuideData = {
         "It's worth emphasizing that the numbered stages describe a visual snapshot, not a guaranteed future. Progression from one stage to the next isn't inevitable on a fixed timeline — some men remain stable at an early stage (2 or 3) for many years, particularly with treatment, while others progress more quickly, particularly with an earlier age of onset or a strong family history of advanced pattern loss. The scale is a description of where you are, not a prediction of where you're necessarily headed.",
         "The horseshoe-shaped fringe that remains even at the most advanced stages (6-7) isn't a coincidence of geography — hair in the back and sides of the scalp is generally much less sensitive to the DHT-driven miniaturization process than hair at the crown and frontal hairline. This differential sensitivity is also the biological basis for hair transplantation: donor hair taken from this DHT-resistant fringe area generally continues growing normally even after being relocated to a balding area, which is why transplant results tend to be durable rather than eventually falling out the same way the original hair in that spot did.",
       ],
+      pullQuote:
+        "The scale is a description of where you are, not a prediction of where you're necessarily headed.",
+      keyPoint:
+        "Note which pattern you're following — temple recession, crown thinning first, or the uniform front-to-back Type A variant — not just the stage number. That context is genuinely useful for a dermatologist assessing your case.",
       subsections: [
         {
           heading: "The Type A Variant",
@@ -41,6 +97,10 @@ export const stagesHairLoss: GuideData = {
         "The reason the frontal hairline is typically preserved in the Ludwig pattern, in contrast to Norwood, likely relates to differences in how androgens affect hair follicles across the scalp in women versus men, combined with the fact that female pattern hair loss often involves a broader, more varied set of contributing factors — hormonal shifts (including menopause and thyroid function), genetics, and sometimes iron status — rather than being driven by a single dominant androgen pathway to the same degree as the classic male pattern.",
         "Because the widening part and diffuse crown thinning of early Ludwig-stage hair loss can look similar on the surface to other causes of diffuse shedding — telogen effluvium, thyroid dysfunction, or a nutritional deficiency — a proper diagnosis in women often benefits more from bloodwork and a dermatologist's evaluation before assuming the cause is androgenetic, since the Ludwig scale itself only describes the pattern of visible loss rather than confirming the underlying cause.",
       ],
+      pullQuote:
+        "Stage III involves more pronounced diffuse thinning over the crown, though the frontal hairline is typically preserved — unlike the male pattern.",
+      keyPoint:
+        "Because early Ludwig-stage thinning can look like telogen effluvium, thyroid dysfunction, or low iron, bloodwork and a dermatologist's evaluation are worth getting before assuming the cause is androgenetic.",
     },
     {
       id: "when-to-treat",
@@ -51,6 +111,10 @@ export const stagesHairLoss: GuideData = {
         "The practical difficulty is that the earliest stages are also the easiest to dismiss or rationalize away — a slightly higher hairline, a part that seems marginally wider than it used to, more hair than usual on the pillow for a few weeks. Because meaningful biological intervention works best exactly when the visual signal is at its most ambiguous, there's an inherent tension between 'catching it early' and 'being sure enough that something has actually changed to act on it.' Tracking with consistent photos over a period of months, rather than relying on memory or a single anxious moment in the mirror, is one of the more reliable ways to resolve that ambiguity.",
         "It's also worth noting that starting treatment doesn't have to mean committing to a single option forever. Many people begin with a topical option like minoxidil, monitor response over several months, and then discuss adding or switching to an oral option with a dermatologist based on how things are progressing. The stages described here are a useful shorthand for that conversation, not a rigid protocol that dictates exactly one treatment per stage.",
       ],
+      pullQuote:
+        "Medical treatments like minoxidil and finasteride work primarily by preserving existing follicles and slowing miniaturization, rather than regenerating follicles that have gone fully dormant.",
+      keyPoint:
+        "Act on the earliest, most ambiguous signs — a slightly higher hairline, a marginally wider part — and use consistent photos over months rather than memory to confirm something has actually changed.",
     },
     {
       id: "beyond-the-scales",
@@ -60,6 +124,10 @@ export const stagesHairLoss: GuideData = {
         "They also don't capture rate of change, which is arguably at least as clinically important as the current stage itself. Someone who has been stable at Norwood 3 for a decade is in a very different situation than someone who moved from Norwood 1 to Norwood 3 in the past year, even though both would be described identically by the scale at a single point in time. A dermatologist assessing your case will typically want to know not just your current stage but how quickly you got there.",
         "Finally, neither scale is diagnostic on its own — a Norwood or Ludwig stage describes the pattern and extent of visible loss, but it doesn't by itself confirm that androgenetic alopecia is the actual cause. Diffuse thinning that looks superficially similar to early Ludwig-stage loss can sometimes stem from telogen effluvium, thyroid dysfunction, iron deficiency, or another treatable cause entirely, which is why a stage classification is best treated as a useful starting point for a conversation with a dermatologist rather than a self-diagnosis tool used in isolation.",
       ],
+      pullQuote:
+        "Someone who has been stable at Norwood 3 for a decade is in a very different situation than someone who moved from Norwood 1 to Norwood 3 in the past year.",
+      keyPoint:
+        "Bring your rate of change to a dermatologist, not just your current stage — how quickly you got here matters at least as much as where you are.",
     },
   ],
   faq: [

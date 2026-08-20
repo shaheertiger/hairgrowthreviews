@@ -28,6 +28,13 @@ export const ultraxHairLush: ReviewData = {
     "It's worth being clear up front about what category this product actually competes in, because the marketing language around 'thickening' and 'fuller-looking hair' can blur together with genuine regrowth claims if you're not reading carefully. This is a leave-in cosmetic and follicle-support serum, not a topical drug like minoxidil, and it's not positioned as a treatment for androgenetic alopecia the way a DHT-blocker or an FDA-approved active would be. Understanding that distinction upfront makes it much easier to judge whether the product is actually delivering on what it's designed to do, rather than measuring it against a different, higher bar it never claimed to clear.",
     "That said, 'cosmetic thickening' isn't a dismissive label — it's a real and useful category for a lot of people. Someone dealing with diffuse thinning, fine hair texture, or post-illness shedding recovery may get more day-to-day visual benefit from a strand-coating, volumizing approach than from waiting months for a regrowth-focused treatment to show measurable results, and the two approaches aren't mutually exclusive — many users layer a thickening serum like this on top of a separate minoxidil or DHT-blocking regimen rather than choosing one or the other.",
   ],
+  keyTakeaways: [
+    "'Hair Lush' and 'Hair Plush' are the same product line — confirm by the ingredient list (caffeine, keratin, niacinamide, menthol), not the name on the bottle.",
+    "This is a cosmetic thickening and strengthening serum, not a regrowth treatment — there's no DHT-blocking or minoxidil-type active in it.",
+    "$44–$80 depending on retailer, with a 30-day money-back guarantee limited to one return per household and a capped refund; shipping isn't refundable.",
+    "Expect less breakage and a fuller feel within a few weeks; any caffeine-driven follicle effect runs on the hair growth cycle's months-long clock.",
+    "No independent trial of the finished product exists — the evidence here is ingredient-level, primarily for caffeine.",
+  ],
   pros: [
     "Multiple actives with real ingredient-level science behind caffeine's follicle effects",
     "Quick-drying, non-greasy application per most reviewers",
@@ -56,6 +63,8 @@ export const ultraxHairLush: ReviewData = {
         "This kind of rebrand is common enough in the supplement and cosmetic space that it's worth building a habit around: whenever a product name changes, don't assume the formula changed with it, and don't assume it didn't. The ingredient list and concentration order (ingredients are typically listed by descending concentration) are the most reliable way to confirm you're getting a consistent product across a rebrand, rather than relying on the marketing copy or product photography, which can lag behind or get updated inconsistently across different retail listings.",
         "If you already own a bottle labeled 'Hair Lush' and are considering a repurchase under the 'Hair Plush' name, it's reasonable to expect a broadly similar experience, but treat any noticeable change in scent, texture, or drying time as a signal worth double-checking against the current ingredient list rather than assuming it's identical purely because the branding lineage is the same.",
       ],
+      pullQuote:
+        "Whenever a product name changes, don't assume the formula changed with it, and don't assume it didn't.",
     },
     {
       id: "how-it-works",
@@ -66,6 +75,41 @@ export const ultraxHairLush: ReviewData = {
         "This two-track mechanism is also why it's easy to overestimate or underestimate the product depending on what you're paying attention to. Someone judging results purely by how their hair feels and looks day-to-day may notice an early win from the strengthening effect and reasonably credit the whole product; someone specifically hoping for follicle-level regrowth and checking for that outcome in the first few weeks is likely to be disappointed, not because the product failed, but because that particular mechanism was never going to show up on that timeline.",
         "None of this is unique to Ultrax's formula — it reflects how caffeine and keratin function generally in topical hair products, independent of any single brand. The practical takeaway is to judge the strengthening and cosmetic-fullness benefits on a short timeline, and to treat any follicle-level, ground-up regrowth claim with the same multi-month patience (and the same skepticism about a finished-product trial that doesn't exist) you'd apply to any other unproven regrowth product in this category.",
       ],
+      pullQuote:
+        "It can make existing hair look and feel thicker relatively quickly, even though it isn't designed to reverse follicle miniaturization the way minoxidil or a DHT-blocker is.",
+      table: {
+        columns: ["Strand Strengthening (Keratin)", "Follicle Support (Caffeine)"],
+        rows: [
+          {
+            label: "What it does",
+            values: [
+              "Coats and reinforces the shaft, reducing breakage",
+              "Aims to support and extend the follicle's growth phase",
+            ],
+          },
+          {
+            label: "Timeline",
+            values: [
+              "Noticeable within the first few weeks",
+              "Months — tied to the hair growth cycle itself",
+            ],
+          },
+          {
+            label: "What you'd see",
+            values: [
+              "Less breakage, fuller feel, fewer flyaways",
+              "Any change in the new hair coming in",
+            ],
+          },
+          {
+            label: "Evidence behind it",
+            values: [
+              "Ingredient-level; a temporary effect that washes out",
+              "Ingredient-level only; no trial of the finished product",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "application",
@@ -75,6 +119,8 @@ export const ultraxHairLush: ReviewData = {
         "Because it's described as quick-drying and non-greasy by most reviewers, it's generally compatible with styling immediately afterward rather than requiring a separate drying period, which is a meaningful convenience advantage over some oil-based or heavier leave-in treatments that can leave hair looking limp or weighed down if styled too soon after application.",
         "Consistency matters more than any single application technique. Because the caffeine-driven mechanism works on the hair growth cycle's timescale, sporadic use — applying it for a week, skipping two, then resuming — is unlikely to produce a clear result either way, since you'd be interrupting exposure right around when any cumulative effect might start to build. Treat it the way you would any other maintenance step in a hair-care routine: as a daily habit rather than an occasional treatment.",
       ],
+      keyPoint:
+        "Apply it to a clean or towel-dried scalp and leave it in — and check the bottle for Ultrax's current recommended frequency. Consistency matters more than technique; stop-start use won't tell you anything either way.",
     },
     {
       id: "realistic-timeline",
@@ -84,6 +130,10 @@ export const ultraxHairLush: ReviewData = {
         "It's also worth setting expectations against what this product isn't: because there's no independent, finished-product clinical trial behind Hair Lush/Plush specifically, there's no published timeline or expected magnitude of effect to hold it against, the way there is for an ingredient like 2% ketoconazole or minoxidil. That makes patience and personal tracking — noting shedding, breakage, and perceived thickness at regular intervals, ideally with photos taken under consistent lighting — a more reliable way to judge your own results than expecting a specific milestone at a specific week.",
         "If you're not seeing any change in breakage or perceived fullness after a couple of months of consistent daily use, that's a reasonable point to reassess whether this particular formula is working for your hair type, rather than assuming you simply haven't waited long enough — Ultrax's 30-day guarantee window is worth keeping in mind as a practical checkpoint if you're unsatisfied early on.",
       ],
+      pullQuote:
+        "Because there's no independent, finished-product clinical trial behind Hair Lush/Plush specifically, there's no published timeline or expected magnitude of effect to hold it against.",
+      keyPoint:
+        "Judge breakage and fullness at a few weeks and anything follicle-level at a couple of months, tracking with photos under consistent lighting — and use the 30-day guarantee as your early checkpoint.",
     },
     {
       id: "routine-fit",
@@ -93,6 +143,8 @@ export const ultraxHairLush: ReviewData = {
         "If your hair loss is primarily driven by breakage, styling damage, or general strand fragility rather than androgenetic miniaturization, this type of product is arguably a better fit as a primary tool than it would be for someone with clear pattern-baldness-driven thinning, since its main strengths (breakage reduction, strand reinforcement) map directly onto that problem rather than onto follicle-level miniaturization.",
         "As with layering any two leave-in or topical products, introduce new additions one at a time when possible so you can attribute any change — positive or negative — to the right product, and watch for any combined irritation if you're applying multiple active-containing formulas to the same scalp area in a single routine.",
       ],
+      keyPoint:
+        "Layer this alongside a treatment targeting the androgenetic pathway rather than in place of one, and introduce it on its own so you can tell which product caused any change.",
     },
   ],
   faq: [

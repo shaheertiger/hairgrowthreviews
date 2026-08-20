@@ -13,6 +13,83 @@ export const supplements: GuideData = {
     "The hair-growth supplement category is one of the most heavily marketed corners of the entire hair-loss industry, in part because supplements face a much lighter regulatory bar than pharmaceutical treatments like minoxidil or finasteride — a company can sell a 'hair growth' formula without ever proving it regrows hair in a rigorous trial, as long as it avoids making explicit disease-treatment claims. That doesn't mean every ingredient in this category is useless; some have genuinely useful evidence behind them. It means the burden is on the buyer to sort ingredient-level evidence from brand-level marketing, which is exactly what this guide is for.",
     "Below, each major ingredient is evaluated on its own merits — what the mechanism is supposed to be, what the actual research supports, and where the evidence is thin. We've also added sections on reading supplement labels critically and understanding where supplements realistically fit relative to established medical treatments, since that context matters as much as any single ingredient's evidence profile.",
   ],
+  keyTakeaways: [
+    "Biotin is the most heavily marketed hair ingredient and the least evidenced — it hasn't been shown to help people who aren't genuinely deficient.",
+    "Saw palmetto has the most real support in the aisle: small trials at 100-320 mg/day suggest it modestly slows male pattern loss, well short of finasteride.",
+    "Iron, zinc, and vitamin D matter only if you're actually deficient — correcting a real deficit helps, topping up already-normal levels hasn't been shown to.",
+    "Get bloodwork (ferritin, zinc, vitamin D) before buying anything, so you're correcting a measured deficiency rather than guessing from a marketing claim.",
+    "Treat supplements as a possible complement to minoxidil and finasteride, not a replacement — those drugs have far larger, more consistent clinical evidence.",
+  ],
+  comparisonTableTitle: "Ingredient-by-Ingredient: Evidence vs. Marketing",
+  comparisonTable: {
+    columns: ["Evidence Strength", "Who It Actually Helps", "Main Caveat"],
+    rows: [
+      {
+        label: "Biotin",
+        values: [
+          "Weakest of the major ingredients — the most marketed, least evidenced",
+          "Only people with genuine biotin deficiency, which is rare on a normal diet",
+          "High doses interfere with some thyroid and cardiac lab tests; tell your doctor before bloodwork",
+        ],
+      },
+      {
+        label: "Saw palmetto",
+        values: [
+          "Modest but real — several small randomized trials and cohort studies at 100-320 mg/day",
+          "Men wanting a lower-intervention option acting on the DHT pathway; evidence in women is much more limited",
+          "Weaker and less targeted than finasteride, and extract potency varies between products",
+        ],
+      },
+      {
+        label: "Collagen",
+        values: [
+          "Promising but under-studied — cell and animal data plus a few small human trials",
+          "Reasonable to try, but shouldn't be expected to match established treatments",
+          "Large, rigorous human trials isolating collagen's effect on hair are still lacking",
+        ],
+      },
+      {
+        label: "Iron (ferritin)",
+        values: [
+          "Strong — but only for correcting deficiency; the best-documented nutritional cause of hair thinning",
+          "People with low ferritin, particularly women",
+          "Ferritin can be low enough to affect hair before it causes frank anemia, so ask for it specifically",
+        ],
+      },
+      {
+        label: "Zinc",
+        values: [
+          "Strong for deficiency — strongly associated with alopecia areata and telogen effluvium",
+          "People with a measured zinc deficiency",
+          "Megadosing carries its own risk, including interfering with copper absorption",
+        ],
+      },
+      {
+        label: "Vitamin D",
+        values: [
+          "Strong for deficiency — common among people with pattern and autoimmune hair loss",
+          "People with low levels, especially with limited sun exposure or darker skin tones",
+          "No added benefit shown once levels are already adequate",
+        ],
+      },
+      {
+        label: "Pumpkin seed oil",
+        values: [
+          "Limited — a small amount of clinical study, generally in small trials",
+          "Possible mild benefit for androgenetic alopecia, via a mechanism proposed to resemble saw palmetto's",
+          "Small evidence base, and the effect where present appears modest",
+        ],
+      },
+      {
+        label: "Marine / proprietary blends",
+        values: [
+          "Hard to evaluate — sold as trademarked blends rather than standardized single ingredients",
+          "Unclear from the available evidence",
+          "Undisclosed individual doses make it hard to judge the specific formulation rather than the general concept",
+        ],
+      },
+    ],
+  },
   sections: [
     {
       id: "biotin",
@@ -22,6 +99,10 @@ export const supplements: GuideData = {
         "The logic behind biotin's popularity is that it's a genuinely essential B-vitamin (B7) involved in keratin infrastructure, and severe biotin deficiency really can cause hair thinning and brittle nails — that part is medically accurate. The disconnect is that deficiency severe enough to affect hair is uncommon outside specific risk groups (certain genetic metabolic disorders, some anticonvulsant medications, chronic excessive raw egg white consumption, or malabsorption conditions), and marketing broadly implies that any hair shedding is a sign of low biotin, which isn't well supported.",
         "There's also a practical downside worth knowing regardless of whether biotin helps your hair: high-dose biotin supplementation is well documented to interfere with certain lab immunoassays, including some thyroid panels and cardiac biomarker tests, producing falsely abnormal or falsely normal results. Anyone taking a high-dose biotin supplement should mention it to their doctor before bloodwork, and ideally pause it for a few days beforehand, since this interference issue is unrelated to whether biotin is helping hair growth but can meaningfully confuse an unrelated diagnostic workup.",
       ],
+      pullQuote:
+        "True biotin deficiency is rare in people eating a normal diet, and standalone biotin supplementation has not been shown to improve hair growth in people who aren't deficient.",
+      keyPoint:
+        "Unless you have a diagnosed deficiency, biotin is unlikely to do anything for your hair. And if you are taking a high dose, mention it to your doctor before bloodwork — it can distort thyroid and cardiac test results.",
     },
     {
       id: "saw-palmetto",
@@ -32,6 +113,8 @@ export const supplements: GuideData = {
         "Formulation and quality matter more with saw palmetto than with a standardized pharmaceutical, since it's typically sold as a plant extract with variable potency depending on extraction method and standardization. Products aren't always tested to a consistent active-compound concentration, which makes comparing results across studies — and across commercial products — harder than it would be for a single-molecule drug at a defined milligram dose. This is a real limitation of the saw palmetto evidence base, not just a marketing quibble.",
         "For someone who wants a mechanism similar to finasteride but is hesitant about a pharmaceutical DHT blocker — whether due to side-effect concerns, personal preference, or simply wanting to try a lower-intervention option first — saw palmetto is one of the more reasonably evidenced choices in the supplement aisle. It is not, however, a substitute for finasteride in terms of expected magnitude of effect, and framing it as an equivalent alternative oversells what the research supports.",
       ],
+      pullQuote:
+        "It is not, however, a substitute for finasteride in terms of expected magnitude of effect, and framing it as an equivalent alternative oversells what the research supports.",
     },
     {
       id: "collagen",
@@ -51,6 +134,10 @@ export const supplements: GuideData = {
         "Iron deficiency deserves particular attention because it's common, frequently under-diagnosed, and disproportionately affects groups already prone to hair thinning — menstruating women, people with restrictive diets, and anyone with an underlying condition affecting iron absorption or causing chronic blood loss. Ferritin (the storage form of iron, and the most sensitive marker for depleted iron stores) can be low enough to affect hair growth before it's low enough to cause frank anemia, which is why hair-focused bloodwork panels often check ferritin specifically rather than relying on a standard complete blood count alone.",
         "Zinc and vitamin D deficiencies are worth checking for similar reasons — both are common in the general population (vitamin D deficiency especially so in people with limited sun exposure or darker skin tones, which reduces cutaneous vitamin D synthesis), and both have plausible, evidence-supported roles in healthy hair follicle cycling. But the same caveat applies to all three: supplementation is a correction for an actual deficit, not a growth enhancer for people whose levels are already adequate. Megadosing zinc in particular carries its own risk, since excessive zinc intake can interfere with copper absorption and cause its own set of problems.",
       ],
+      pullQuote:
+        "Supplementation is a correction for an actual deficit, not a growth enhancer for people whose levels are already adequate.",
+      keyPoint:
+        "Test before you supplement: ferritin, zinc, and vitamin D. Ferritin in particular can be low enough to affect hair growth before it's low enough to cause frank anemia, which is why hair-focused panels check it specifically.",
     },
     {
       id: "other-ingredients",
@@ -70,6 +157,8 @@ export const supplements: GuideData = {
         "A third thing worth checking is whether marketing claims are framed in terms of 'supporting healthy hair' or similarly vague structure-function language versus implying it will treat or reverse hair loss — the former is standard, legally required supplement-industry phrasing and doesn't necessarily reflect strong evidence, while an implication of guaranteed regrowth for a supplement (rather than an approved drug) should be treated with real skepticism regardless of how it's worded.",
         "Finally, it's reasonable to look for some form of third-party testing or certification (for purity and label-accuracy, not efficacy) given that dietary supplements aren't pre-approved by regulators the way medications are. This doesn't validate whether the ingredients work, but it does provide some assurance that what's on the label reflects what's actually in the capsule.",
       ],
+      keyPoint:
+        "Be skeptical of any product that buries its doses inside a 'proprietary blend' — you can't tell whether an evidenced ingredient like saw palmetto is present at anything near its studied dose, or just enough to appear on the label.",
     },
     {
       id: "supplements-vs-medical",
@@ -79,6 +168,10 @@ export const supplements: GuideData = {
         "That said, supplements can play a legitimate supporting role in specific situations: correcting a diagnosed deficiency (iron, zinc, vitamin D) that's contributing to shedding, providing modest additional support alongside a primary medical treatment, or serving as a starting point for someone who wants to address diet and nutrition status before or alongside considering pharmaceutical options. What supplements shouldn't be treated as is a first-line, standalone treatment for someone who already has a confirmed pattern hair loss diagnosis and access to better-evidenced options.",
         "It's also worth setting a realistic timeline expectation for supplements specifically: because most operate through slower, more indirect mechanisms (nutritional status, mild enzymatic inhibition) than a targeted pharmaceutical, any visible effect — where one exists at all — is likely to take at least as long to appear as it does with minoxidil or finasteride, if not longer, and the effect, honestly assessed, is likely to be smaller.",
       ],
+      pullQuote:
+        "Any visible effect — where one exists at all — is likely to take at least as long to appear as it does with minoxidil or finasteride, if not longer, and the effect, honestly assessed, is likely to be smaller.",
+      keyPoint:
+        "If you have a confirmed pattern hair loss diagnosis, lead with minoxidil or finasteride and treat supplements as a possible add-on — or as the fix for a deficiency your bloodwork actually found.",
     },
   ],
   faq: [

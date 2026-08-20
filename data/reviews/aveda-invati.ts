@@ -28,6 +28,13 @@ export const avedaInvati: ReviewData = {
     "It helps to separate two different things that can both show up as 'thinning hair': follicle-level miniaturization driven by DHT (androgenetic or pattern hair loss), and hair shaft breakage, where hair is falling out or snapping partway along its length rather than the follicle itself producing fewer or finer hairs. The visible result — a scalp that looks less full — can look similar at a glance, but the underlying cause, and therefore what actually helps, is different. Invati's Densiplex complex and its supporting ingredients are formulated primarily around the second category: strengthening the hair shaft and scalp environment to reduce breakage, rather than directly inhibiting the DHT-driven miniaturization process that products like topical minoxidil or a dedicated DHT-blocker target.",
     "The individual botanicals in Densiplex — turmeric, ginseng, amla, eclipta, alpinia, and ginger — draw on Ayurvedic herbal tradition, where several of these ingredients have long-standing use in hair and scalp care. That traditional-use history is a different kind of evidence than a modern randomized controlled trial, and it's worth being clear about that distinction: traditional use can suggest a good safety profile and plausible benefit, but it isn't a substitute for the kind of controlled clinical testing that would independently confirm a specific effect on hair breakage or density.",
   ],
+  keyTakeaways: [
+    "The '77% less hair loss' figure is company-commissioned data covering the full four-step Invati system over 12 weeks — not the Scalp Revitalizer serum on its own.",
+    "Invati works primarily by reducing breakage and supporting the scalp, not by blocking DHT, so it's a poor match for classic pattern hair loss.",
+    "Best fit: hair that's become fine, dry, or prone to snapping after coloring, chemical processing, heat styling, or age-related texture change.",
+    "At $54–$72 for 5 oz it's premium, and approaching the tested result means buying all four steps, which adds significant cost.",
+    "It's 91% 'top allergen free' per SkinSafe and sold through salons, so you can get in-person guidance before committing to the system.",
+  ],
   pros: [
     "Backed by a major, established brand (Estée Lauder-owned) with consistent formulation and quality control",
     "91% 'top allergen free' per SkinSafe — free of parabens, silicones, mineral oil, and synthetic fragrance",
@@ -56,6 +63,8 @@ export const avedaInvati: ReviewData = {
         "It's also worth understanding what '12-week, company-commissioned' means in practice. Aveda designed and funded the study, which creates an inherent incentive structure different from an independent academic or government-funded trial — that doesn't automatically invalidate the result, but it does mean the study wasn't designed, run, or reported by a fully disinterested third party, and we couldn't verify whether it was published in a peer-reviewed journal with the kind of external methodological scrutiny that implies.",
         "The more important nuance, though, is the one already noted: 77% describes the combined effect of the shampoo, conditioner, serum, and styling treatment used together as a coordinated system over 12 weeks, not the Scalp Revitalizer in isolation. Each product in the system likely contributes a different piece of the mechanism — the exfoliating shampoo addressing scalp buildup, the conditioner and styling product supporting the hair shaft externally, and the serum delivering Densiplex and its supporting actives directly to the scalp — which means an isolated serum-only routine is testing a meaningfully different, unstudied configuration.",
       ],
+      pullQuote:
+        "If you're only buying the serum, you should expect a more modest effect than the headline number implies.",
     },
     {
       id: "densiplex-ingredients",
@@ -86,6 +95,43 @@ export const avedaInvati: ReviewData = {
         "If your hair loss pattern looks like classic androgenetic alopecia — a receding hairline or thinning crown in men, or diffuse thinning concentrated at the part line in women, progressing gradually over years — a DHT-focused approach (minoxidil, a natural or pharmaceutical 5-alpha-reductase inhibitor) is targeting the actual mechanism driving that pattern in a way Invati's breakage-focused formula isn't primarily designed to do. That doesn't mean Invati would do nothing for pattern hair loss — a healthier scalp environment and stronger hair shafts can modestly support overall hair appearance regardless of cause — but it's not the tool built for that specific job.",
         "On the other hand, if your hair has become noticeably fine, dry, or prone to snapping — common after years of coloring, chemical processing, heat styling, or simply as hair texture changes with age — Invati's positioning around strengthening and reducing shaft breakage is a much better match for what's actually happening. In that case, the premium price is buying a coordinated, gentle, allergen-conscious system from an established brand, which is a reasonable value proposition even without the 77% figure applying directly to the serum you're buying.",
       ],
+      pullQuote:
+        "Invati's mechanism leans toward strengthening and reducing breakage rather than blocking DHT or stimulating dormant follicles the way minoxidil or a dedicated DHT-blocker does.",
+      keyPoint:
+        "Match the product to the cause. Breakage-driven thinning is what Invati is built for; a receding hairline or thinning crown points you toward a DHT-focused option instead.",
+      table: {
+        columns: ["Breakage / fragility", "Androgenetic (pattern) hair loss"],
+        rows: [
+          {
+            label: "What's happening",
+            values: [
+              "Hair snapping or falling out partway along the shaft",
+              "Follicles miniaturizing under DHT, producing finer, shorter-lived hairs",
+            ],
+          },
+          {
+            label: "Common causes",
+            values: [
+              "Coloring, chemical processing, heat styling, age-related texture change",
+              "Genetic susceptibility to DHT in scalp follicles",
+            ],
+          },
+          {
+            label: "What it looks like",
+            values: [
+              "Hair that feels fine, dry, and prone to snapping",
+              "Receding hairline or thinning crown in men; diffuse thinning at the part line in women",
+            ],
+          },
+          {
+            label: "Is Invati the right tool?",
+            values: [
+              "Yes — this is the category the formula is built around",
+              "Not primarily — minoxidil or a DHT-blocker targets the actual mechanism",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "how-to-use-system",
@@ -95,6 +141,8 @@ export const avedaInvati: ReviewData = {
         "If you want to approach the tested 77% result, you'd need to commit to the full four-step system as studied: the exfoliating shampoo to address scalp buildup, the thickening conditioner, the Scalp Revitalizer serum, and the styling treatment, used together consistently over at least the 12-week window Aveda's own study covered. Buying pieces individually, or substituting your existing shampoo and conditioner, means you're running a different, unstudied version of the routine — which may still be beneficial, just not something with the specific 77% figure attached to it.",
         "Because Invati is sold through both Aveda's own channels and salons, an in-person consultation is a genuinely useful option here in a way it isn't for most other products in this review series — a stylist trained on the line can look at your actual hair and scalp condition and advise on whether the breakage-focused approach fits your specific situation, or whether you'd be better served looking at a DHT-focused option instead.",
       ],
+      keyPoint:
+        "Apply the serum to a clean, towel-dried scalp and leave it in. If you want the tested result, run all four steps consistently for at least 12 weeks — substituting your own shampoo and conditioner makes it a different, unstudied routine.",
     },
     {
       id: "who-should-be-cautious",
@@ -104,6 +152,8 @@ export const avedaInvati: ReviewData = {
         "If your primary concern is classic androgenetic (pattern) hair loss rather than breakage, and you want the most evidence-backed option available, Invati is probably not where we'd point you first — a topical minoxidil or a dedicated DHT-blocking product with independent clinical support behind the specific mechanism driving your hair loss is likely to be a better-targeted first step, with Invati potentially useful as a complementary addition for overall hair and scalp condition rather than a primary treatment.",
         "As with any hair-loss product, sudden, patchy, or rapidly progressing shedding warrants a dermatologist visit rather than a self-directed trial of any over-the-counter product, Invati included, since that pattern can indicate an underlying condition that needs a specific diagnosis and treatment path Invati isn't designed to address.",
       ],
+      keyPoint:
+        "Patch-test first if you have botanical allergies — '91% top allergen free' refers to a defined list of common synthetic irritants, not a guarantee against reacting to turmeric, ginseng, amla, eclipta, alpinia, or ginger.",
     },
     {
       id: "realistic-timeline",
@@ -112,6 +162,8 @@ export const avedaInvati: ReviewData = {
         "Aveda's own study window was 12 weeks, which lines up with the general pattern across this entire product category: meaningful change in hair density or breakage takes at least one full quarter of consistent use before it's fair to judge, given how the underlying hair growth cycle works. Expecting a visible difference sooner than that, with Invati or any comparable product, is likely to lead to disappointment regardless of whether the product is actually helping.",
         "Because Invati's mechanism leans toward reduced breakage rather than new follicle-level growth, the earliest sign of benefit for many users is likely to be less hair loss during washing and styling, and hair that feels stronger or less prone to snapping — rather than a dramatic increase in visible density, which is a slower and less certain outcome given the product's positioning. Track your experience with that distinction in mind rather than watching only for new growth.",
       ],
+      pullQuote:
+        "Meaningful change in hair density or breakage takes at least one full quarter of consistent use before it's fair to judge.",
     },
   ],
   faq: [

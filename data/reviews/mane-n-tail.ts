@@ -28,6 +28,13 @@ export const maneNTail: ReviewData = {
     "The brand's origin matters for understanding the formula philosophy. Straight Arrow Products built the original line for horse coats and manes — surfaces that needed to be cleaned quickly, cheaply, and in bulk, with a thick lather that could cut through dirt, sweat, and grooming product buildup. That same lather-heavy, low-cost engineering carried over largely unchanged when the human hair care line launched, which is a big part of why it still costs a fraction of comparable salon shampoos while producing a noticeably richer foam than most gentler, sulfate-free formulas.",
     "We're covering it on a hair-loss-focused review site not because it treats thinning hair — it doesn't, and never claims to — but because a meaningful share of the people searching for it are trying to figure out whether it's safe to keep using while they're also managing a sensitive or already-stressed scalp. That's a different question from 'does this work,' and it deserves a straight answer grounded in what's actually documented rather than in forum anecdotes alone.",
   ],
+  keyTakeaways: [
+    "This is not a hair-loss treatment — it contains no DHT-blocking or follicle-stimulating actives, and the brand makes no growth claims.",
+    "A 2021 class action alleged certain formulas contained DMDM hydantoin, a formaldehyde-releasing preservative. It was voluntarily dismissed in February 2022 and never proven in court.",
+    "Patch-test behind the ear or on the inner forearm for 24-48 hours first if you have a history of contact dermatitis or fragrance sensitivity.",
+    "It also contains SLS, an effective but harsh surfactant that strips scalp oils and can leave reactive scalps tight, flaky, or irritated.",
+    "At $5–$11 it's genuinely cheap, but formulas change — read the ingredient list on the specific bottle you're buying, not an older one.",
+  ],
   pros: [
     "Very affordable relative to size — strong value per ounce",
     "Powerful lathering and detangling, especially praised for long or thick hair",
@@ -55,6 +62,41 @@ export const maneNTail: ReviewData = {
         "It helps to understand why formaldehyde-releasing preservatives are used at all, since the framing 'contains formaldehyde' can sound more alarming out of context than the underlying chemistry actually is. DMDM hydantoin doesn't sit in the bottle as free formaldehyde; it's a compound that breaks down gradually and releases minute quantities as a byproduct, which is what keeps the product's water-based formula from growing bacteria or mold over its shelf life. Regulatory bodies in the U.S. permit its use at low concentrations precisely because typical exposure levels are considered low-risk for the general population — the concern is specifically about the minority of people who develop a contact allergy to formaldehyde-releasing agents through repeated exposure, a phenomenon well documented in the dermatology literature independent of any one brand or lawsuit.",
         "What separates a true allergic contact dermatitis reaction from ordinary post-wash tightness or dryness is largely timing and pattern. Irritation from a harsh surfactant like SLS tends to show up quickly, during or right after the wash, and improves once the product is rinsed and the scalp recovers over a day or two. A true sensitization reaction to a preservative or fragrance component often develops more gradually — sometimes only after weeks or months of repeated exposure — and can produce a more persistent, spreading rash rather than isolated tightness. Neither pattern is exclusive to Mane 'n Tail specifically; both are generic risks of the ingredient classes involved, which is why the lawsuit's core allegation was plausible on the chemistry even though it was never litigated to a verdict.",
       ],
+      pullQuote:
+        "That's an important distinction: it doesn't confirm the claims, but it also doesn't clear the ingredient — DMDM hydantoin remains a known, if uncommon, sensitizer regardless of this specific case.",
+      table: {
+        columns: ["Ordinary Irritation (e.g. SLS)", "Possible Allergic Reaction"],
+        rows: [
+          {
+            label: "When it appears",
+            values: [
+              "Quickly — during or right after the wash",
+              "Gradually, sometimes after weeks or months of repeated use",
+            ],
+          },
+          {
+            label: "What it looks like",
+            values: [
+              "Tightness, dryness, isolated flaking",
+              "Persistent redness, itching, a spreading rash",
+            ],
+          },
+          {
+            label: "How it resolves",
+            values: [
+              "Improves over a day or two once rinsed",
+              "Persists or worsens between washes",
+            ],
+          },
+          {
+            label: "What to do",
+            values: [
+              "Wash less often, follow with a moisturizing conditioner",
+              "Discontinue and check the label for DMDM hydantoin or fragrance allergens",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "who-should-avoid",
@@ -72,6 +114,8 @@ export const maneNTail: ReviewData = {
           ],
         },
       ],
+      keyPoint:
+        "Patch-test on a small area for 24-48 hours before full use, and read the ingredient list on the exact bottle you're buying — not every variant contains DMDM hydantoin, and formulas get changed over time.",
     },
     {
       id: "sulfate-mechanism",
@@ -82,6 +126,8 @@ export const maneNTail: ReviewData = {
         "None of this means SLS is inherently unsafe for most users — it remains one of the most common surfactants in mass-market shampoo precisely because it's cheap, effective, and well tolerated by the majority of people who use it regularly. The tradeoff is genuinely a spectrum rather than a binary: someone with a naturally oily scalp and no history of irritation may barely notice any downside, while someone with an already-compromised or reactive scalp barrier may find that even occasional use leaves things feeling worse rather than better.",
         "If you do notice dryness or flaking after switching to (or continuing with) a high-SLS formula like this one, the fix isn't necessarily to abandon it entirely — reducing wash frequency, following with a moisturizing conditioner, or alternating with a gentler formula on non-wash days are all reasonable ways to keep the lathering and detangling benefits while limiting the cumulative stripping effect.",
       ],
+      pullQuote:
+        "The strength that makes SLS such an effective cleanser is also its main drawback.",
     },
     {
       id: "fit-for-hair-loss",
@@ -91,6 +137,10 @@ export const maneNTail: ReviewData = {
         "Where it can reasonably fit into a hair-loss-conscious routine is as a workhorse clarifying shampoo used occasionally — say, once every week or two — to cut through buildup from styling products, dry shampoo, or minoxidil residue that can otherwise accumulate on the scalp and, in theory, interfere with absorption of topical treatments. Some people specifically look for a strong-lathering clarifying shampoo for exactly this purpose, and Mane 'n Tail's cleaning power makes it a candidate for that narrow role, provided you don't have the sensitivities discussed above.",
         "Where it's a poorer fit is as your primary, everyday shampoo if your scalp is already irritated from a medicated treatment elsewhere in your routine, or if you're specifically hunting for a shampoo that does double duty as part of an active hair-loss regimen. In that case, a product built around an evidence-backed active ingredient — even a modest one — will do more useful work per wash than a shampoo whose entire value proposition is lather and detangling.",
       ],
+      pullQuote:
+        "It is not a hair-loss treatment, it does not contain any DHT-blocking, follicle-stimulating, or minoxidil-type active ingredient, and the brand itself makes no growth claims.",
+      keyPoint:
+        "If you're managing thinning hair, the only sensible role for this is an occasional clarifying wash — roughly once every week or two — to clear buildup. It's a poor everyday choice if your scalp is already irritated by a medicated treatment.",
     },
     {
       id: "getting-the-most-from-it",
@@ -100,6 +150,8 @@ export const maneNTail: ReviewData = {
         "Because of its stripping strength, following up with a conditioner — ideally one focused on moisture rather than more cleansing agents — helps offset some of the dryness that can otherwise follow. If you have color-treated hair, be aware that strong sulfate surfactants can also accelerate color fading somewhat faster than gentler formulas, which is a cosmetic tradeoff rather than a safety one, but worth knowing if vibrancy retention matters to you.",
         "If you're using it specifically as an occasional clarifying wash rather than a daily driver, once weekly or once every other week is a reasonable starting cadence for most hair types; you can adjust up or down based on how quickly your scalp and hair accumulate oil and product buildup between washes.",
       ],
+      keyPoint:
+        "Use less than you would with a gentler shampoo, concentrate it on the scalp and roots rather than the ends, and follow with a moisture-focused conditioner to offset the stripping.",
     },
   ],
   safetyNote:

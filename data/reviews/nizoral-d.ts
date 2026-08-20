@@ -28,6 +28,13 @@ export const nizoralD: ReviewData = {
     "It's worth explaining why a shampoo originally developed to treat dandruff and seborrheic dermatitis ended up with a reputation in hair-loss circles at all. Ketoconazole's core job is antifungal: it reduces populations of Malassezia, a yeast that naturally lives on the scalp but can overgrow and trigger the flaking, itching, and inflammation associated with dandruff and seborrheic dermatitis. Because chronic scalp inflammation is itself associated with hair thinning in some people, and because ketoconazole was separately observed in research to have a mild anti-androgenic effect at the follicle level, the ingredient ended up straddling two categories — dandruff treatment and hair-loss adjunct — that don't usually overlap.",
     "That dual identity is exactly why Nizoral A-D shows up constantly in hair-loss forums and dermatologist recommendations despite being sold, labeled, and marketed strictly as a dandruff shampoo. It never claims to treat hair loss on the bottle, and that's worth respecting — but the underlying science for its active ingredient genuinely does extend into hair-density research in a way that's unusual for anything you can buy over the counter without a prescription.",
   ],
+  keyTakeaways: [
+    "The headline research tested 2% prescription-strength ketoconazole; Nizoral A-D is the 1% OTC version, so expect a more modest version of those results.",
+    "In that 1998 trial, 2% ketoconazole improved hair density about 18% over six months versus roughly 11% for 2% minoxidil — at double the strength you can buy here.",
+    "Use it 1-2 times a week on a wet, lathered scalp with a 3-5 minute dwell time; washing more often adds dryness, not results.",
+    "At $15–$30 it's the best evidence-to-price ratio in the category — but an adjunct to minoxidil or finasteride, not a standalone pattern-hair-loss treatment.",
+    "The clearest fit is thinning alongside dandruff or seborrheic dermatitis. It's sold and labeled as a dandruff shampoo and makes no hair-loss claims.",
+  ],
   pros: [
     "Genuinely backed by published clinical research, at the 2% strength studied",
     "\"Gold standard\" reputation among dermatologists for dandruff and seborrheic dermatitis",
@@ -53,6 +60,40 @@ export const nizoralD: ReviewData = {
         "It's also worth understanding why that trial is so frequently cited given how much research in the hair-loss category is thin or product-specific: it directly compared ketoconazole against an already-established, FDA-approved treatment (minoxidil) rather than against a placebo alone, which is a stronger and more informative study design than most of what's available for competing products in this category. That head-to-head structure is a big part of why ketoconazole earned a durable reputation among dermatologists rather than fading as just another ingredient-level claim.",
         "None of this means 1% ketoconazole is equivalent to 2% minoxidil in real-world use — concentration matters, and halving the active ingredient's strength doesn't halve the effect in a simple linear way, but it does mean you should expect a meaningfully smaller benefit than the headline study numbers suggest. Framing Nizoral A-D as a genuinely evidence-backed supporting product, rather than as a drugstore substitute for prescription-strength treatment, is the most accurate way to think about what you're buying.",
       ],
+      pullQuote:
+        "The catch: Nizoral A-D sold over the counter is 1% ketoconazole, not the 2% prescription strength used in that trial.",
+      keyPoint:
+        "Treat the 18%-density figure as evidence for 2% ketoconazole, not for the bottle you're buying. Some benefit at 1% is reasonable to expect; the same density gains are not.",
+      table: {
+        columns: ["2% Ketoconazole (What Was Studied)", "Nizoral A-D (1%, What You Buy)"],
+        rows: [
+          {
+            label: "Concentration",
+            values: ["2% — prescription strength", "1% — over the counter"],
+          },
+          {
+            label: "Clinical evidence",
+            values: [
+              "1998 trial: roughly 18% hair density improvement over six months",
+              "No trial at this strength; benefit expected to be meaningfully smaller",
+            ],
+          },
+          {
+            label: "Compared against",
+            values: [
+              "Head-to-head with 2% minoxidil (about 11% in the same study)",
+              "Not tested head-to-head",
+            ],
+          },
+          {
+            label: "Practical role",
+            values: [
+              "Prescription-strength option to discuss with a dermatologist",
+              "Low-cost adjunct alongside a primary treatment",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "usage",
@@ -70,6 +111,8 @@ export const nizoralD: ReviewData = {
           ],
         },
       ],
+      keyPoint:
+        "Lather on a wet scalp and leave it on for 3-5 minutes before rinsing, 1-2 times a week. Alternate with a gentler shampoo on other wash days and follow with a regular conditioner to offset dryness.",
     },
     {
       id: "who-should-use",
@@ -79,6 +122,8 @@ export const nizoralD: ReviewData = {
         "The second group who reasonably benefit are people already on a primary hair-loss treatment — minoxidil, finasteride, or a similar approach — looking for a low-cost, low-risk adjunct with real evidence behind its core ingredient, even at reduced OTC strength. Because ketoconazole's mechanisms (antifungal, anti-inflammatory, and possibly mildly anti-androgenic) are distinct from how minoxidil or finasteride work, adding it to an existing routine is mechanistically sensible rather than redundant.",
         "It's a weaker fit as a sole intervention for someone with clearly advanced androgenetic hair loss who has no dandruff or scalp inflammation issues and is looking for the single most powerful treatment available — in that scenario, an FDA-approved primary treatment should come first, with Nizoral A-D layered in as a supporting piece rather than relied on as the main strategy.",
       ],
+      pullQuote:
+        "If flaking or an itchy, inflamed scalp is part of your picture alongside thinning hair, Nizoral A-D is addressing a plausible contributing factor directly, not just riding on a loosely related reputation.",
     },
     {
       id: "safety-and-side-effects",
@@ -89,6 +134,8 @@ export const nizoralD: ReviewData = {
         "There's no evidence presented here suggesting systemic (whole-body) risk from a topical, rinse-off OTC shampoo used as directed — the relevant safety considerations are local to the scalp and skin, which is a meaningfully different risk profile than an oral medication would carry.",
         "As with any topical product, a first-time patch test on a small area is a reasonable precaution if you have a history of sensitive skin or prior reactions to medicated shampoos, even though ketoconazole itself isn't associated with the kind of allergen profile that drives most cosmetic-shampoo contact dermatitis. If you're already using other active-ingredient products on your scalp — a minoxidil solution, a prescription topical, or another medicated shampoo — introduce Nizoral A-D gradually and watch for any combined irritation rather than layering everything at once.",
       ],
+      keyPoint:
+        "Dryness scales with how often you use it, so sticking to 1-2 washes a week makes it largely avoidable. Scale back or pause for irritation, unusual itching, or texture changes, and see a dermatologist if they persist.",
     },
     {
       id: "scalp-health-context",
@@ -98,6 +145,8 @@ export const nizoralD: ReviewData = {
         "This is part of why a product like Nizoral A-D can be a reasonable addition to a routine even for people whose main driver of hair loss is genetic pattern baldness rather than dandruff. Addressing an inflamed or flaky scalp doesn't reverse androgenetic hair loss on its own, but it removes one plausible contributing factor and creates a cleaner baseline against which a primary treatment like minoxidil or finasteride can do its work, rather than fighting an uphill battle against ongoing scalp inflammation at the same time.",
         "None of this should be read as claiming scalp health alone can meaningfully reverse pattern hair loss — it can't, and Nizoral A-D doesn't claim to. But it's a useful way to understand why a dandruff shampoo keeps showing up in hair-loss discussions: the underlying logic is about removing a contributing irritant, not about treating the hormonal or genetic root cause directly.",
       ],
+      pullQuote:
+        "The skin the hair actually grows out of is not a passive backdrop.",
     },
   ],
   comparisonTable: {

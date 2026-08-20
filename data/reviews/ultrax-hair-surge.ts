@@ -28,6 +28,13 @@ export const ultraxHairSurge: ReviewData = {
     "What makes Hair Surge stand out from most of the crowded 'hair growth shampoo' category isn't marketing polish — it's that one of its core ingredients has a real evidence trail behind it, independent of this specific product. Most shampoos in this space lean on proprietary botanical blends with little to no published research behind the finished formula or even the individual actives. Hair Surge's inclusion of ketoconazole means at least one component of the formula is genuinely well-studied, even though the finished multi-active shampoo itself hasn't been independently trialed as a whole.",
     "That distinction — evidence for an ingredient versus evidence for the finished product — matters throughout this review, and it's worth keeping in mind as you weigh whether the added caffeine, saw palmetto, and niacin justify the premium over a plain ketoconazole shampoo like Nizoral A-D.",
   ],
+  keyTakeaways: [
+    "Cap use at about five times a week, not daily — ketoconazole is drying, and most of the negative reviews trace back to overuse rather than the formula.",
+    "Ketoconazole is the one active with real published research behind it; the finished multi-active shampoo has never been independently clinically tested.",
+    "That research used 2% prescription strength, and Hair Surge's own concentration isn't independently published, so results shouldn't be assumed to transfer one-to-one.",
+    "At $48–$60 per 8 oz you're paying well above Nizoral A-D's $15–$30 — the premium buys caffeine, saw palmetto, and niacin, not stronger ketoconazole.",
+    "Best suited to early-stage diffuse thinning, especially with flaking or an inflamed scalp. Give it two to three months, with a 30-day guarantee as an earlier checkpoint.",
+  ],
   pros: [
     "Multi-mechanism formula: stimulant (caffeine) + antifungal (ketoconazole) + mild DHT-blocker (saw palmetto)",
     "Many reviewers report thicker, darker-looking hair and reduced shedding within weeks",
@@ -57,6 +64,43 @@ export const ultraxHairSurge: ReviewData = {
         "If you're new to ketoconazole-containing shampoos altogether, it's worth starting on the lower end of the recommended frequency — say, two to three times a week — and increasing gradually toward the five-times-a-week ceiling only if your scalp tolerates it well. This gives you a chance to identify your own sensitivity threshold before committing to heavier use, rather than starting at the maximum frequency and discovering irritation only after it's already developed.",
         "It's also worth distinguishing ordinary post-wash dryness, which most people experience occasionally with any active-containing shampoo, from a genuine irritation pattern — persistent redness, spreading flaking, or itching that doesn't resolve within a day or two of the wash. The latter is the signal to scale back frequency or pause use altogether, not push through it expecting the irritation to be a sign of the product 'working.'",
       ],
+      pullQuote:
+        "Most of the negative reviews we found trace back to overuse rather than a flaw in the formula itself.",
+      keyPoint:
+        "Cap frequency at roughly five times a week, and if you're new to ketoconazole, start at two to three times weekly and work up only if your scalp tolerates it.",
+      table: {
+        columns: ["Ordinary Post-Wash Dryness", "Irritation Worth Acting On"],
+        rows: [
+          {
+            label: "What you notice",
+            values: [
+              "Mild tightness or dryness after washing",
+              "Persistent redness, spreading flaking, or ongoing itch",
+            ],
+          },
+          {
+            label: "How long it lasts",
+            values: [
+              "Resolves within a day or two of the wash",
+              "Doesn't resolve between washes, or keeps worsening",
+            ],
+          },
+          {
+            label: "First response",
+            values: [
+              "Keep your current frequency; condition the lengths, not the scalp",
+              "Drop to two or three washes a week for a week or two",
+            ],
+          },
+          {
+            label: "Escalate when",
+            values: [
+              "It stops clearing up between washes",
+              "Symptoms continue despite reduced frequency — stop and see a dermatologist",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "evidence",
@@ -66,6 +110,10 @@ export const ultraxHairSurge: ReviewData = {
         "It's also worth being precise about what that 1998 study actually measured and didn't. It assessed hair density and shaft diameter over a defined study window using a specific 2% formulation, tested largely in isolation rather than combined with caffeine, saw palmetto, and niacin the way Hair Surge is. That means the strongest, most citable evidence in this entire review applies most directly to ketoconazole as a standalone ingredient at a specific concentration — not to the multi-active combination product being reviewed here, even though it's reasonable to expect the ketoconazole component to contribute a meaningful share of whatever benefit Hair Surge users experience.",
         "The other three actives — caffeine, saw palmetto, and niacin — each have plausible, mechanism-level rationales for inclusion, discussed in the ingredient notes above, but none carries the same weight of a controlled six-month trial the way ketoconazole does. That's a common pattern across this entire product category: manufacturers build formulas around ingredients with some scientific plausibility, but few finished multi-active products get independently trialed as a whole, which leaves consumers to weigh ingredient-level evidence rather than a single bottom-line efficacy number for the specific product they're buying.",
       ],
+      pullQuote:
+        "The strongest, most citable evidence in this entire review applies most directly to ketoconazole as a standalone ingredient at a specific concentration — not to the multi-active combination product being reviewed here.",
+      keyPoint:
+        "The published evidence covers 2% ketoconazole tested largely on its own — not this four-active formula at an unpublished concentration. Treat Hair Surge as promising but unproven as a finished product.",
     },
     {
       id: "who-should-consider",
@@ -75,6 +123,8 @@ export const ultraxHairSurge: ReviewData = {
         "It's a less clear-cut choice for someone with more advanced, clearly androgenetic pattern hair loss who's specifically looking for the strongest available option, since none of the actives here approach the strength of an FDA-approved treatment like topical minoxidil, and the formula is explicitly positioned as a shampoo-based adjunct rather than a frontline treatment. In that case, Hair Surge is more sensible layered alongside a primary treatment than relied on as the sole intervention.",
         "Cost-conscious buyers should also weigh the premium price against Nizoral A-D, a plain 1% ketoconazole shampoo available at a fraction of the cost — see the comparison below. If ketoconazole is the ingredient you actually want, and you're not convinced the added caffeine, saw palmetto, and niacin are worth a substantial price premium, the cheaper single-active option is a completely reasonable alternative to consider.",
       ],
+      pullQuote:
+        "Hair Surge is more sensible layered alongside a primary treatment than relied on as the sole intervention.",
     },
     {
       id: "avoiding-irritation",
@@ -92,6 +142,8 @@ export const ultraxHairSurge: ReviewData = {
         "Because the strongest evidence behind this formula (the ketoconazole research) comes from a six-month study window, it's reasonable to treat that as a rough benchmark for how long a fair trial of Hair Surge should run before drawing conclusions, rather than judging it after a few weeks. Caffeine's effect on the follicle growth cycle similarly operates on a multi-month timescale tied to how hair naturally cycles through growth and rest phases, so early impatience is one of the most common reasons people either abandon a product prematurely or credit it with a change that was really just normal week-to-week variation in shedding.",
         "A practical approach is to commit to a consistent, correctly-paced routine — respecting the frequency ceiling discussed above — for at least two to three months before assessing results, ideally tracking shedding and perceived density with photos taken under consistent lighting rather than relying purely on how your hair feels day to day. If you're not seeing any change by that point, that's a reasonable moment to reassess rather than assuming more time alone will resolve it, and Ultrax's 30-day guarantee is worth keeping in mind as an earlier checkpoint if you're unsatisfied well before the longer timeline plays out.",
       ],
+      keyPoint:
+        "Give it two to three months of consistent, correctly-paced use before judging, tracking shedding and density with photos under consistent lighting — but use the 30-day guarantee as your earlier decision point.",
     },
   ],
   comparisonTable: {

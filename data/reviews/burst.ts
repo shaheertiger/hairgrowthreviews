@@ -28,6 +28,13 @@ export const burst: ReviewData = {
     "To evaluate any regrowth claim — Burst's included — it helps to know what's actually being measured. Hair follicles cycle through a years-long growth (anagen) phase, a brief transitional (catagen) phase, and a resting (telogen) phase before the hair sheds and the cycle restarts. In androgenetic hair loss, this cycle doesn't stop — it degrades, with affected follicles producing progressively finer, shorter-lived hairs over successive cycles (miniaturization), driven mainly by DHT acting on genetically susceptible follicles. A serum's 'percent more regrowth' figure is only as meaningful as the study design behind it: was hair counted by a blinded, independent assessor from standardized photographs against a genuine placebo arm, or was it self-reported by users who knew which product they were using? That distinction is exactly where Burst's marketing claims run into trouble, which we cover in detail below.",
     "Burst sits in a crowded field of proprietary-blend serums that lean on a single differentiated ingredient — here, Redensyl — surrounded by supporting actives and bold comparative marketing. That's a common enough formula in this category that it's worth judging Burst on its own specific evidence rather than either dismissing it outright or taking its headline numbers at face value.",
   ],
+  keyTakeaways: [
+    "The '214% more regrowth' and '2x better than minoxidil' figures are unverified manufacturer marketing — we found no independent, peer-reviewed head-to-head trial behind either.",
+    "Redensyl is a real, patented active with its own supplier-sponsored research, which puts it ahead of most undisclosed proprietary blends in this category.",
+    "That research covers the raw ingredient, not the finished bottle — and Nourish Beaute doesn't disclose how much Redensyl is actually in Burst.",
+    "At $29.99–$49.99 per 1.7 oz bottle, Burst costs several times generic minoxidil (~$8/month), which carries decades of FDA-reviewed trial data.",
+    "The company states a 90-day 'happiness guarantee' and its own ~87-day results timeline — use the full window and track photos before deciding.",
+  ],
   pros: [
     "Redensyl is a real, patented ingredient with its own supplier-level research — more substantiated than many proprietary blends in this category",
     "Easy application, reportedly unscented",
@@ -60,6 +67,10 @@ export const burst: ReviewData = {
         "It's also worth understanding how a claim like '214% more regrowth' typically gets generated in this industry, even when we can't confirm the specific origin of Burst's number. Ingredient suppliers commission their own studies on the raw active (in this case, Redensyl) and report results in percentage terms relative to a control or, sometimes, relative to older actives like minoxidil tested in an entirely separate, non-head-to-head study — a comparison that's scientifically weaker than it sounds, since the two products were never tested against each other under the same conditions on the same population. When a finished-product brand then borrows or adapts a supplier's ingredient-level percentage as if it were a validated claim about the whole bottle, the number can end up several steps removed from an actual head-to-head trial, even though it's technically 'based on' real data somewhere upstream.",
         "We're not accusing Nourish Beaute of fabricating a number — we simply could not trace '214% more regrowth' or '2x better than minoxidil' to a specific, checkable, independent source, and that absence is itself the important finding here. If Burst's marketing team has a specific study to point to, we'd update this review to cite it directly. Until then, treat these two figures as marketing language rather than a number you can plan your expectations around.",
       ],
+      pullQuote:
+        "Minoxidil's efficacy is backed by decades of FDA-reviewed randomized controlled trials; Burst's superiority claim over it is not backed by evidence at that same level.",
+      keyPoint:
+        "Treat '214% more regrowth' and '2x better than minoxidil' as marketing language, not as numbers you can plan your expectations around. Neither traces to a checkable independent source.",
     },
     {
       id: "how-redensyl-works",
@@ -67,6 +78,34 @@ export const burst: ReviewData = {
       body: [
         "Redensyl is a real, patented cosmetic ingredient (not a Nourish Beaute invention), built around two component complexes that its ingredient supplier describes as targeting hair follicle stem cells and the dermal papilla — the structures believed to initiate and sustain each new hair growth cycle — rather than working primarily by blocking DHT the way saw palmetto or finasteride do. That's a meaningfully different proposed mechanism than most of the other DHT-blocking serums in this review set, which is part of why Redensyl gets singled out as Burst's most substantiated ingredient.",
       ],
+      pullQuote:
+        "That's a meaningfully different proposed mechanism than most of the other DHT-blocking serums in this review set, which is part of why Redensyl gets singled out as Burst's most substantiated ingredient.",
+      table: {
+        columns: ["Redensyl, the ingredient", "Burst, the finished product"],
+        rows: [
+          {
+            label: "Evidence available",
+            values: [
+              "Supplier-sponsored research on the raw active, with a dedicated study history",
+              "No independently published testing of the formulated product",
+            ],
+          },
+          {
+            label: "Concentration",
+            values: [
+              "Tested under the supplier's own study conditions",
+              "Not disclosed by Nourish Beaute",
+            ],
+          },
+          {
+            label: "What it supports",
+            values: [
+              "A genuinely differentiated, named, patented active",
+              "Not the '2x better than minoxidil' comparative claim",
+            ],
+          },
+        ],
+      },
       subsections: [
         {
           heading: "What the Supplier-Level Data Shows",
@@ -90,6 +129,8 @@ export const burst: ReviewData = {
         "Massaging the serum into the scalp for a minute or so after application may support both product absorption and local circulation, though the circulation benefit from massage alone is modest and shouldn't be mistaken for the serum's own effect. Because Burst contains caffeine and biotin alongside Redensyl and its DHT-blocking botanicals, there's no need to layer on separate caffeine or biotin products at the same time — doing so mostly adds redundant ingredients rather than a meaningfully stronger effect.",
         "If you're also using minoxidil or another leave-on scalp treatment, space the applications out rather than layering them back-to-back, and watch your scalp for signs of irritation over the first couple of weeks. Because Burst is described as unscented and formulated for daily use, most users shouldn't need to build up tolerance gradually, but anyone with a history of sensitive skin should still patch-test first.",
       ],
+      keyPoint:
+        "Burst already contains caffeine and biotin, so adding separate caffeine or biotin products alongside it buys redundancy, not a stronger effect. If you also use minoxidil, space the applications out rather than layering them.",
     },
     {
       id: "who-should-avoid",
@@ -99,6 +140,8 @@ export const burst: ReviewData = {
         "As with any over-the-counter hair-loss product, Burst is not an appropriate first response to sudden, patchy, or rapidly progressing hair loss — that pattern can signal conditions like alopecia areata, thyroid dysfunction, or telogen effluvium triggered by illness, stress, or medication changes, all of which need an actual diagnosis rather than a topical serum aimed at the slower, genetically driven thinning pattern Burst is designed for. If your hair loss came on quickly or in patches rather than gradually over months or years, see a dermatologist before spending months trialing any topical product.",
         "Pregnant or breastfeeding women, and anyone currently using a prescription hair-loss treatment like topical minoxidil or oral finasteride, should check with a doctor before adding Burst into the mix, both to rule out any ingredient-specific concerns and to avoid stacking multiple active scalp treatments without a plan for telling which one is doing what.",
       ],
+      keyPoint:
+        "Because the 'DHT-blocking botanicals' aren't individually named, patch-test before broad scalp use if you have any plant or botanical allergies — you can't screen in advance for an allergen you can't identify.",
     },
     {
       id: "realistic-timeline",
@@ -108,6 +151,10 @@ export const burst: ReviewData = {
         "A more useful way to track progress than waiting for a dramatic reveal is to take comparable photos — same lighting, same angle, same hair styling — every few weeks from day one, and to pay attention to shedding patterns (hair in the shower drain, on your pillow, in your brush) as an earlier and often more noticeable signal than visible new growth. Reduced shedding, if it happens, usually shows up before any new hair is long enough to be visually obvious.",
         "Given the 90-day 'happiness guarantee' the company states, the practical approach mirrors what we'd recommend for any product in this category: commit to daily, correct use for the guarantee period, track your results objectively rather than relying on memory, and use the return window if you don't see the kind of change — reduced shedding at minimum — that would justify continuing to buy it.",
       ],
+      pullQuote:
+        "Expecting a visible difference inside of a few weeks, regardless of what any bottle promises, sets you up for a false negative long before the product has had a fair chance to work.",
+      keyPoint:
+        "Take same-lighting, same-angle photos from day one and watch shedding as the earliest signal. If you don't see reduced shedding at minimum by the end of the stated 90-day window, use the return policy.",
     },
   ],
   safetyNote:

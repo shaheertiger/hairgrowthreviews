@@ -28,6 +28,13 @@ export const nunutrients: ReviewData = {
     "Positioning this product accurately matters. It's marketed into the same general space as minoxidil-based treatments — a daily-use topical aimed at supporting regrowth and slowing loss — but it takes a fundamentally different mechanistic approach. Minoxidil's exact mechanism isn't fully settled either, but it's understood to work at least partly by extending the active growth phase of the hair cycle and improving blood flow to follicles, independent of hormonal pathways. Biochanin A, by contrast, is positioned around the DHT pathway specifically — the same pathway pharmaceutical DHT blockers like finasteride target, just through a much less studied, plant-derived compound rather than a synthetic drug with a large clinical evidence base behind it.",
     "That distinction is worth holding onto throughout this review, because it explains a lot about who tends to be drawn to this product in the first place: people looking for a non-drug alternative that still targets DHT rather than the growth-cycle mechanism minoxidil relies on, often because they want to avoid minoxidil's known side effects (initial shedding, scalp irritation, unwanted facial hair in some users) or because they've already tried minoxidil without success and are looking for a different mechanistic angle. Whether that different angle actually delivers meaningfully different results is exactly the question the mixed review pattern below can't cleanly answer.",
   ],
+  keyTakeaways: [
+    "Feedback is genuinely polarized, not mildly mixed: loyal repeat buyers on one side, users reporting zero visible difference after committed use on the other.",
+    "Some glowing 5-star reviews come from accounts with unusually thin review history — a known signal of incentivized reviews, so treat the star rating as likely inflated.",
+    "The active idea is Biochanin A, a red clover compound aimed at the DHT pathway, but its support is laboratory-level, with no independent trial on this finished spray.",
+    "At $50–$60 for a 2 fl oz bottle used 4-5 sprays at a time, it runs out quickly — and we found no clearly documented return or refund policy.",
+    "Biochanin A is a phytoestrogen, so anyone pregnant, breastfeeding, or managing a hormone-sensitive condition should talk to a doctor before using it.",
+  ],
   pros: [
     "Non-drug, non-minoxidil option targeting the DHT pathway specifically",
     "Easy spray application",
@@ -61,6 +68,35 @@ export const nunutrients: ReviewData = {
         "The two peptide ingredients — Acetyl Tetrapeptide-3 and Biotinoyl Tripeptide-1 — are included as supporting actives rather than as the formula's central mechanism. Peptides in hair-care formulations are generally marketed around supporting the follicle's structural environment or nutrient signaling, but independent, product-level data on these specific peptides in a finished spray is limited, which is consistent with how thin the evidence base is across most peptide-based hair actives in this broader category, not a flaw unique to NuNutrients.",
         "None of this means the product can't work — plausible mechanism plus limited direct evidence is a common, honest starting point for a lot of products in this space, botanical and pharmaceutical alike, before larger trials are run. It does mean the fair way to evaluate a claim like 'targets DHT' here is as a mechanistically reasonable hypothesis behind the formula, not as an established, clinically-demonstrated outcome the way it would be for a prescription DHT blocker.",
       ],
+      pullQuote:
+        "Plausible mechanism plus limited direct evidence is a common, honest starting point for a lot of products in this space, botanical and pharmaceutical alike, before larger trials are run.",
+      keyPoint:
+        "Read 'targets DHT' here as a mechanistically reasonable hypothesis behind the formula, not as a demonstrated outcome — the supporting research is laboratory and ingredient-level, with no trial on this finished spray.",
+      table: {
+        columns: ["Biochanin A (this product)", "Finasteride", "Minoxidil"],
+        rows: [
+          {
+            label: "Type",
+            values: ["Red clover-derived plant compound", "Pharmaceutical 5-alpha-reductase inhibitor", "Pharmaceutical topical treatment"],
+          },
+          {
+            label: "Mechanism",
+            values: [
+              "Aimed at inhibiting 5-alpha reductase, limiting testosterone-to-DHT conversion",
+              "Inhibits 5-alpha reductase — the same DHT pathway",
+              "Non-hormonal: understood to extend the active growth phase and improve blood flow to follicles",
+            ],
+          },
+          {
+            label: "Evidence base",
+            values: [
+              "Laboratory and ingredient-level research; no independent trial on this finished formula",
+              "Effective treatment for pattern hair loss with a large clinical evidence base",
+              "Established treatment, though its exact mechanism isn't fully settled",
+            ],
+          },
+        ],
+      },
     },
     {
       id: "review-authenticity",
@@ -70,6 +106,10 @@ export const nunutrients: ReviewData = {
         "It's worth being specific about what this pattern does and doesn't tell you. A thin review history on its own isn't proof of anything — plenty of genuine buyers only ever leave one or two reviews across their entire time as a customer of any platform. What makes the pattern worth flagging here is the concentration: a cluster of 5-star, enthusiastically-worded reviews coming disproportionately from accounts with little other review activity is a recognized signature of incentivized review campaigns (free product in exchange for a positive review, for instance), which marketplaces generally discourage but don't always catch.",
         "The practical takeaway isn't to dismiss the product's positive reviews wholesale — there does appear to be a real base of long-term, repeat-purchasing customers whose feedback reads as more organic. It's to read the aggregate star rating as somewhat inflated relative to what it would likely be with that pattern filtered out, and to weight detailed, specific, longer-history reviews more heavily than short, superlative-heavy ones when deciding whether this product is likely to work for you specifically.",
       ],
+      pullQuote:
+        "A cluster of 5-star, enthusiastically-worded reviews coming disproportionately from accounts with little other review activity is a recognized signature of incentivized review campaigns.",
+      keyPoint:
+        "Read the aggregate star rating as somewhat inflated, and weight detailed, specific reviews from longer-history accounts more heavily than short, superlative-heavy ones.",
     },
     {
       id: "how-to-apply",
@@ -78,6 +118,8 @@ export const nunutrients: ReviewData = {
         "As a spray formula, application is more straightforward than an oil-based leave-in or a brush-applied liquid, but a few habits matter for getting consistent scalp contact. Spraying onto a clean, dry or towel-dried scalp — rather than soaking-wet hair — helps the formula land on skin rather than being diluted and running off wet strands. The brand's guidance of 4-5 sprays per use is meant to cover a typical treatment area; concentrating all of that in one spot rather than distributing it across thinning areas will use up the small 2 oz bottle just as quickly while covering less of the scalp that actually needs it.",
         "Because this is a leave-on spray rather than a wash-out treatment, working it in gently with clean fingertips after spraying — rather than leaving it to sit on the surface of the hair — helps ensure it reaches the scalp rather than mostly coating hair strands, which is where any plausible DHT-related benefit would need to occur. Consistency in timing (the same time each day, ideally tied to an existing habit like a morning routine) is a common practical tip for sticking with any long-term topical regimen, this one included.",
       ],
+      keyPoint:
+        "Spray onto a clean, dry or towel-dried scalp, spread the 4-5 sprays across the thinning areas rather than one spot, and work it in with clean fingertips so it reaches skin instead of coating hair.",
     },
     {
       id: "who-should-avoid",
@@ -95,6 +137,10 @@ export const nunutrients: ReviewData = {
         "Any treatment aimed at the DHT pathway — pharmaceutical or botanical — works on the same underlying biological clock as every other hair-growth intervention: hair cycles through active growth, transition, and resting phases over months, and a treatment that plausibly slows follicle miniaturization needs sustained use across multiple cycles before any difference, if there is one, becomes visible. There's no product-specific data here to point to for exact timing, so the most defensible approach is the same general guidance that applies across most unstudied or lightly-studied topicals in this category: a meaningful trial runs several months at minimum, with consistent daily use, before drawing a conclusion.",
         "Given how split the existing review base already is between satisfied long-term repeat buyers and users reporting no visible change, it's worth going in prepared for the real possibility that this specific product may simply not work for your particular case even with full adherence — that's the nature of a mechanism with a thinner evidence base and a genuinely mixed track record among actual users, and it's a more honest expectation to set than assuming a positive outcome is the likely one.",
       ],
+      pullQuote:
+        "It's worth going in prepared for the real possibility that this specific product may simply not work for your particular case even with full adherence.",
+      keyPoint:
+        "Plan on several months of consistent daily use before judging results — and go in accepting that even full adherence may produce no visible change, given the split review base.",
     },
     {
       id: "broader-routine",

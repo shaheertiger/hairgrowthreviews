@@ -28,6 +28,13 @@ export const murad: ReviewData = {
     "What makes this serum worth reviewing at all, despite its uncertain availability, is that its underlying approach is genuinely different from most of the category. Nearly every other product in this space — Biotopic, Amplixin, Crinagen included — leads with caffeine and a mild DHT-blocker. Murad instead treats the scalp the way the rest of its skincare line treats skin: as a surface that can accumulate buildup, get irritated, and benefit from gentle chemical exfoliation. That's a legitimately distinct mechanism, and understanding it helps explain both why some users with buildup-related scalp issues liked it, and why it was never marketed as a strong, direct regrowth treatment in the first place.",
       "Because Murad is a well-known, dermatologist-founded brand with a broad skincare catalog, this product also carries a kind of borrowed credibility that smaller, hair-specific brands don't have — a track record of quality control and formulation consistency across its wider line. That's a real, if indirect, point in its favor, but it's worth separating from the separate question of whether this specific serum has been shown to regrow hair, which it hasn't, independent of the brand's broader reputation.",
   ],
+  keyTakeaways: [
+    "This serum appears discontinued — it turns up mainly through leftover retailer stock (Kroger, Ralphs, eBay) rather than Murad's own current site.",
+    "Its mechanism is genuinely different from the category: salicylic and glycolic acid exfoliation to clear follicle-clogging buildup, not caffeine or a DHT-blocker.",
+    "Roughly $19.99–$30 where stock remains, but confirm price and availability directly, since what's left won't be restocked.",
+    "There's no independent clinical trial on the finished serum — Murad's brand reputation isn't evidence that this specific product regrows hair.",
+    "Best for oily or product-heavy scalps as one part of a broader routine; sensitive scalps may react to the acids, alcohol, and methylparaben.",
+  ],
   pros: [
     "Backed by a well-established, dermatologist-founded skincare brand with a strong quality-control track record",
     "AHA and salicylic acid exfoliation may genuinely help clear follicle-clogging buildup, unlike most pure hair-growth serums",
@@ -65,6 +72,10 @@ export const murad: ReviewData = {
         "It's worth being realistic about what buying from a discontinued-product retailer means in practice: stock is finite and won't be replenished once it sells out, listings can be inconsistent about batch age or remaining shelf life, and there's no guarantee the price you see today reflects what's actually available when you go to order. If you're considering this serum, it's more reasonable to treat it as a one-time purchase to try out an interesting mechanism than as the foundation of a long-term routine you're counting on being able to reorder indefinitely.",
         "This also affects how much weight to put on the review volume behind the rating in this review — a smaller, aging pool of reviews from when the product was actively sold is a different, generally less current kind of signal than the large, continuously refreshed review pools behind actively marketed competitors.",
       ],
+      pullQuote:
+        "It's more reasonable to treat it as a one-time purchase to try out an interesting mechanism than as the foundation of a long-term routine you're counting on being able to reorder indefinitely.",
+      keyPoint:
+        "Verify current stock and price with the retailer before ordering, and don't build a long-term routine around a product that won't be restocked.",
     },
     {
       id: "how-it-works",
@@ -74,6 +85,43 @@ export const murad: ReviewData = {
         "It's worth being clear about what exfoliation can and can't plausibly do. A scalp with heavy product buildup, excess oil, or flaking can create an environment that's less hospitable to healthy follicle function at the surface level, and regularly clearing that buildup is a reasonable, low-risk way to support overall scalp condition. That's meaningfully different from directly influencing the hormonal or circulatory processes that drive androgenetic hair loss — exfoliation addresses a contributing environmental factor, not the underlying genetic and hormonal drivers of pattern thinning.",
         "This is also why Murad's own positioning has historically been comparatively modest next to competitors that lead with confident regrowth percentages or before-and-after claims — the brand's skincare-first approach to this product seems to acknowledge, implicitly, that it's offering a scalp-condition benefit rather than claiming to match a DHT-blocker or vasodilator's more direct mechanism.",
       ],
+      pullQuote:
+        "Exfoliation addresses a contributing environmental factor, not the underlying genetic and hormonal drivers of pattern thinning.",
+      keyPoint:
+        "Expect a scalp-condition benefit rather than regrowth. The exfoliation clears buildup around the follicle; it doesn't touch the hormonal process driving pattern loss.",
+      table: {
+        columns: ["Murad Scalp Serum", "Typical Growth Serum"],
+        rows: [
+          {
+            label: "Primary mechanism",
+            values: [
+              "AHA/BHA exfoliation to clear follicle buildup",
+              "Caffeine stimulation and/or mild DHT-blocking",
+            ],
+          },
+          {
+            label: "What it addresses",
+            values: [
+              "Scalp-surface condition, oil and product residue",
+              "The hormonal and circulatory side of hair loss",
+            ],
+          },
+          {
+            label: "Most likely to benefit",
+            values: [
+              "Oily, product-heavy, or flaking scalps",
+              "Thinning driven by hormones rather than buildup",
+            ],
+          },
+          {
+            label: "Irritation risk",
+            values: [
+              "Higher — acids, notable alcohol content, methylparaben",
+              "Lower — simpler, exfoliant-free formulas",
+            ],
+          },
+        ],
+      },
       subsections: [
         {
           heading: "Why Scalp Buildup Matters in the First Place",
@@ -91,6 +139,8 @@ export const murad: ReviewData = {
         "That said, if you're hoping the exfoliation indirectly supports better follicle function and, eventually, visible density, the same underlying biology applies as with any other topical: follicles cycle through active growth, transition, and rest over a period of months, so meaningful density change — if it happens at all — wouldn't be reasonably expected before the three-month mark, and likely later.",
         "Given the sourcing uncertainty around this product, it's worth deciding in advance how you'll judge success. A reasonable approach is to track scalp condition (oiliness, flaking, comfort) as an earlier, faster signal, while treating any density change as a longer-term, more uncertain outcome that may or may not materialize — and not assuming that scalp improvement alone means the underlying hair-loss process has been meaningfully affected.",
       ],
+      pullQuote:
+        "Track scalp condition (oiliness, flaking, comfort) as an earlier, faster signal, while treating any density change as a longer-term, more uncertain outcome that may or may not materialize.",
     },
     {
       id: "broader-routine",
@@ -109,6 +159,8 @@ export const murad: ReviewData = {
         "Because it contains AHA/BHA exfoliants, it's worth being more conservative with frequency than with a pure caffeine or DHT-blocker serum — daily use of exfoliating acids on the scalp, just as on facial skin, can cause irritation or dryness in sensitive users if introduced too aggressively. Starting with every-other-day use and increasing to daily only if the scalp tolerates it well is a reasonably cautious approach, consistent with how AHA/BHA products are generally introduced in skincare more broadly.",
         "Given the notable alcohol content flagged among this product's drawbacks, pay attention to how your scalp responds in the first one to two weeks specifically — dryness or flaking that appears early is a signal to scale back frequency rather than push through it.",
       ],
+      keyPoint:
+        "Start every other day rather than daily. The AHA/BHA acids plus notable alcohol content can dry or irritate the scalp, and early flaking is a signal to scale back, not push through.",
     },
     {
       id: "who-should-avoid",
@@ -118,6 +170,8 @@ export const murad: ReviewData = {
         "People whose hair thinning isn't related to buildup, oiliness, or scalp-surface issues — for example, straightforward genetic pattern thinning with an otherwise healthy, clean scalp — are less likely to see much benefit from a product whose main differentiated mechanism is exfoliation, since there's less buildup for it to meaningfully clear.",
         "As with other products in this category, saw palmetto's hormonal activity means pregnant or breastfeeding users, or anyone on hormone-sensitive medication, should check with a doctor first. And given the sourcing uncertainty discussed above, anyone who wants a treatment they can reliably and predictably reorder for a long-term routine should look toward an actively, currently marketed alternative instead.",
       ],
+      keyPoint:
+        "Skip it if your scalp is easily irritated, or if your thinning is straightforward genetic pattern loss with no buildup or oiliness for the exfoliation to clear.",
     },
   ],
   faq: [

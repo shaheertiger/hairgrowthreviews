@@ -28,6 +28,13 @@ export const hydrobrush: ReviewData = {
     "That distinction matters more than it sounds like it should, because delivery is a genuinely underrated variable in how well a topical treatment performs in the real world. Minoxidil and most other liquid scalp treatments only work where they actually make skin contact — hair-shaft coverage doesn't count. Dropper application relies on the user to part hair evenly across the whole scalp and place drops consistently, which in practice is fiddly, slow, and easy to shortcut on a busy morning. A tool that makes that step faster and more consistent isn't a treatment upgrade, but it can be a real adherence upgrade, and adherence is one of the biggest predictors of whether any topical regimen actually gets followed long enough to matter.",
     "So the right frame for this review isn't 'does the HydroBrush grow hair' — it doesn't, and it was never designed to. The right question is narrower and more practical: if you're already committed to a liquid topical, does swapping your applicator for this one make the daily routine meaningfully easier, and is that convenience worth the tradeoffs (clogging risk, imprecise dosing, an extra cleaning chore) that come with it? That's the question this review actually answers.",
   ],
+  keyTakeaways: [
+    "This is an applicator, not a treatment — it has no active ingredient of its own, and any hair-growth benefit comes entirely from the liquid you put in it.",
+    "The $18–$25 price buys the device only. You still need to supply your own minoxidil or serum, and the brush won't make that treatment work faster.",
+    "Minoxidil can crystallize inside the fine bristle channels and clog them — the maker suggests diluting 50/50 with their own 'Spark' liquid, which means less than full-strength minoxidil.",
+    "The real payoff is adherence: roughly 10 seconds to cover the scalp is easier to sustain daily than a careful, multi-minute dropper session.",
+    "Budget for a monthly deep clean, and expect less dose precision than a dropper — a problem if your treatment is concentration-sensitive.",
+  ],
   pros: [
     "Fast application — roughly 10 seconds to cover the scalp, versus longer with a dropper",
     "More even distribution over larger areas than sprays or droppers, especially useful for longer hair",
@@ -62,6 +69,33 @@ export const hydrobrush: ReviewData = {
           ],
         },
       ],
+      keyPoint:
+        "Prime the brush over a sink or towel after every refill until liquid flows consistently through the bristle tips, and accept the tradeoff: release is tied to brushing pressure, not a measured drop.",
+      table: {
+        columns: ["HydroBrush", "Dropper"],
+        rows: [
+          {
+            label: "Application time",
+            values: ["Roughly 10 seconds to cover the scalp", "Longer — a careful, multi-minute session across a full scalp"],
+          },
+          {
+            label: "Coverage per pass",
+            values: ["One pass covers a wider strip of scalp", "One placed drop at a time, parting hair as you go"],
+          },
+          {
+            label: "Dose control",
+            values: ["Tied to brushing pressure and motion — harder to dose precisely", "Countable drops, so you know roughly how much you applied"],
+          },
+          {
+            label: "Minoxidil clogging",
+            values: ["Crystals can partially or fully block the fine bristle channels", "Crystallization is a minor nuisance in a wide-open bottle"],
+          },
+          {
+            label: "Upkeep",
+            values: ["Monthly deep clean: empty, flush, air-dry fully", "None — a bottle in a drawer with no upkeep required"],
+          },
+        ],
+      },
     },
     {
       id: "clogging-issue",
@@ -85,6 +119,10 @@ export const hydrobrush: ReviewData = {
           ],
         },
       ],
+      pullQuote:
+        "Minoxidil, over repeated use, can crystallize inside the fine bristle channels and clog the device — which is exactly the liquid most people would want to use it with.",
+      keyPoint:
+        "If you're pairing this with minoxidil, treat the monthly deep clean as part of the routine — empty the reservoir, flush the channels with warm water and a brief isopropyl alcohol rinse, and air-dry fully before refilling.",
     },
     {
       id: "how-to-use-correctly",
@@ -102,6 +140,8 @@ export const hydrobrush: ReviewData = {
           ],
         },
       ],
+      keyPoint:
+        "Work on a dry or towel-dried scalp, section your hair as you would with a dropper, and hold the brush closer to vertical so bristle tips touch skin — liquid on the hair shaft gets washed out later.",
     },
     {
       id: "who-should-avoid",
@@ -111,6 +151,8 @@ export const hydrobrush: ReviewData = {
         "People using a concentration-sensitive prescription treatment — a compounded topical finasteride solution, a higher-strength minoxidil formulation, or anything else where the labeled dose is calibrated precisely — should think carefully before switching from a dropper. A dropper lets you count drops and know roughly how much active ingredient you've applied; a pressure-activated brush doesn't offer that same level of control, and inconsistent dosing is a bigger problem for a prescription-strength product than for an over-the-counter one with more margin built in.",
         "Finally, anyone who knows they won't realistically keep up with monthly cleaning is a poor fit for this specific device, regardless of how appealing the convenience sounds upfront. The clogging problem described above isn't hypothetical — it's the single most repeated complaint about this product — and it's driven almost entirely by maintenance habits. If a dropper bottle sitting in a drawer with no upkeep required already sounds more realistic for your routine, that's a legitimate reason to skip this accessory rather than a personal failing.",
       ],
+      pullQuote:
+        "The clogging problem described above isn't hypothetical — it's the single most repeated complaint about this product — and it's driven almost entirely by maintenance habits.",
     },
     {
       id: "realistic-timeline",
@@ -120,6 +162,9 @@ export const hydrobrush: ReviewData = {
         "What better, more consistent application can plausibly affect is adherence — whether you actually keep applying the treatment twice a day, every day, for the three-to-six-month window most topical treatments need before results (if any) become visible, and well beyond that for maintaining any gains. A ten-second brushing routine is objectively easier to sustain on a hectic weekday morning than a careful, multi-minute dropper session across a full scalp, and missed or rushed applications are a common, quiet reason people conclude a treatment 'didn't work' when the real issue was inconsistent use.",
         "So the realistic expectation here is indirect: the HydroBrush itself won't shorten your timeline to visible results, but if it genuinely makes you more likely to apply your actual treatment correctly and consistently every single day, it can remove one of the practical obstacles that gets in the way of any topical regimen succeeding on its own normal timeline. That's a real, if modest, kind of value — just not the kind implied by marketing language that puts the spotlight on the brush rather than on the liquid inside it.",
       ],
+      pullQuote: "It's worth restating plainly: switching applicators does not change how fast hair grows.",
+      keyPoint:
+        "Expect an indirect benefit only. The brush won't shorten the three-to-six-month window a topical needs, but a ten-second routine is easier to sustain every day than a multi-minute dropper session.",
     },
   ],
   faq: [

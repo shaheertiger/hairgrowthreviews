@@ -13,11 +13,80 @@ export const scalpReduction: GuideData = {
     "Scalp reduction still shows up in search results, older forum threads, and even some outdated clinic websites, which can make it confusing to figure out whether it's a legitimate current option or a historical dead end. Part of the confusion is that the procedure was, for a time, a genuinely mainstream part of surgical hair restoration — it wasn't a fringe or fraudulent treatment, it was simply the best surgical tool available before follicular techniques matured. Understanding that history helps explain both why it was once popular and why it was so thoroughly abandoned once something better came along.",
     "This page covers what the procedure actually involved, the specific and well-documented reasons surgeons moved away from it, what largely replaced it, and what options exist today for people who had scalp reduction performed decades ago and are now dealing with its long-term cosmetic effects.",
   ],
+  keyTakeaways: [
+    "Scalp reduction cuts out bald scalp and stretches the surrounding hair-bearing skin over the gap. It was mainstream in the 1970s-80s and is largely obsolete now.",
+    "Stretch-back is the core failure: because scalp skin is elastic, the excised area gradually re-expands toward its original size, undoing much of the surgical benefit.",
+    "It also produced visible crown scarring, an unnatural converging or 'slot' growth pattern, and could leave less usable donor hair for a later transplant.",
+    "FUE and FUT relocate individual follicles instead of resecting skin, letting a surgeon control each graft's angle and direction — which is why the field moved on.",
+    "If you had it done decades ago, grafts placed into the old scar plus scalp micropigmentation can reduce its visibility, though the scar itself can't be undone.",
+  ],
   quickFacts: [
     { label: "Era of Popularity", value: "1970s–1980s" },
     { label: "Status Today", value: "Largely obsolete" },
     { label: "Main Successor", value: "FUE / FUT transplants" },
   ],
+  comparisonTableTitle: "Scalp Reduction vs. Modern FUE / FUT",
+  comparisonTable: {
+    columns: ["Scalp Reduction", "Modern FUE / FUT"],
+    rows: [
+      {
+        label: "Approach",
+        values: [
+          "Excises sections of bald scalp skin, then stretches and sutures hair-bearing scalp together to close the gap",
+          "Relocates individual follicular units — FUT via a donor strip dissected under magnification, FUE via small circular punches",
+        ],
+      },
+      {
+        label: "Invasiveness",
+        values: [
+          "Larger incisions, wider undermining of scalp tissue, closure under meaningful tension",
+          "Smaller, less invasive punch or strip incisions",
+        ],
+      },
+      {
+        label: "Scarring",
+        values: [
+          "Visible, sometimes wide or stretched scarring across the crown or top of the scalp",
+          "FUT leaves a linear donor-strip scar; FUE avoids a linear strip excision and its associated scar",
+        ],
+      },
+      {
+        label: "Stretch-back",
+        values: [
+          "Elastic scalp skin re-expands toward its original size over subsequent months",
+          "None — results don't depend on holding stretched skin in place",
+        ],
+      },
+      {
+        label: "Growth pattern",
+        values: [
+          "Can distort natural growth direction, creating an unnatural whorl or 'slot' where hair converges toward the scar",
+          "Each graft is placed with control over angle, direction, and density to match surrounding hair",
+        ],
+      },
+      {
+        label: "Effect on donor supply",
+        values: [
+          "Adds no hair; tension at the margins could reduce the usable donor hair available for a later transplant",
+          "Draws on the finite supply of DHT-resistant donor hair from the back and sides of the scalp",
+        ],
+      },
+      {
+        label: "Recovery",
+        values: [
+          "Longer recovery, more postoperative discomfort, higher risk of wound-healing complications",
+          "Shorter recovery from smaller, more localized incisions",
+        ],
+      },
+      {
+        label: "Status today",
+        values: [
+          "Largely obsolete; referenced as a historical milestone, or occasionally used for reconstructive (non-cosmetic) purposes",
+          "The standard approach in current surgical hair restoration",
+        ],
+      },
+    ],
+  },
   sections: [
     {
       id: "what-it-is",
@@ -46,6 +115,10 @@ export const scalpReduction: GuideData = {
         "The donor-supply issue in particular turned out to be a serious long-term problem. Hair restoration surgeons rely on a finite, non-renewable supply of donor hair (typically taken from the back and sides of the scalp, since those follicles are naturally resistant to DHT). Scalp reduction surgery didn't add any hair to that supply — it simply rearranged existing tissue — and in cases where the closure under tension damaged or stretched hair-bearing skin at the margins, it could actually reduce the amount of usable donor hair available for a later, more effective transplant procedure. Patients who'd had scalp reduction sometimes found themselves with fewer good options down the line specifically because of it.",
         "The unnatural growth pattern problem compounded the scarring issue rather than existing separately from it. Because the surgery pulled hair-bearing scalp from multiple directions toward a central closure line, the direction hair naturally grows from those areas could shift, producing a visible convergence or 'part' along the scar that looked distinctly surgical rather than natural — a cosmetic tell that was difficult or impossible to fully disguise with styling, and that follicular techniques, which preserve each hair's natural growth angle and direction, don't produce.",
       ],
+      pullQuote:
+        "Because scalp skin is elastic, the excised area tends to gradually re-expand toward its original size over subsequent months, undoing much of the surgical benefit.",
+      keyPoint:
+        "The most lasting cost isn't the scar — it's the donor supply. Scalp reduction added no hair, and closure under tension could reduce the amount of usable donor hair left for a later, more effective transplant.",
     },
     {
       id: "what-replaced-it",
@@ -55,6 +128,10 @@ export const scalpReduction: GuideData = {
         "FUT involves surgically removing a single strip of hair-bearing donor scalp (typically from the back of the head), then dissecting that strip under magnification into individual follicular units for transplantation into thinning or bald areas. FUE, developed later, instead extracts individual follicular units directly from the donor area one at a time using small circular punches, avoiding a linear strip excision and its associated scar. Both techniques let a surgeon place each graft with precise control over angle, direction, and density, which is what allows modern transplant results to look genuinely natural — something scalp reduction's tissue-rearrangement approach was never able to reliably achieve.",
         "Because follicular techniques work with individually viable, DHT-resistant hair units rather than repositioning skin, they don't carry scalp reduction's core failure modes — there's no stretch-back to undo the result, and the growth-pattern distortion problem largely disappears when a surgeon can orient every single graft to match the surrounding natural hair direction. This is the central reason the field moved on so completely: FUE and FUT don't just improve on scalp reduction's weaknesses, they solve a fundamentally different and more reliable problem.",
       ],
+      pullQuote:
+        "FUE and FUT don't just improve on scalp reduction's weaknesses, they solve a fundamentally different and more reliable problem.",
+      keyPoint:
+        "If you're considering surgery today, FUE or FUT is what reputable hair restoration surgeons lead with. Both let the surgeon control each graft's angle, direction, and density, and neither is subject to stretch-back.",
     },
     {
       id: "risks-and-complications",
@@ -73,6 +150,10 @@ export const scalpReduction: GuideData = {
         "The most common approach is scar camouflage combined with follicular transplantation: a hair restoration surgeon can transplant individual follicular grafts directly into and around the old scar tissue (scalp reduction scars, unlike some other scar types, can often still support transplanted grafts), softening its visibility and helping disguise the altered growth-direction pattern with naturally angled new hair. This won't erase the scar entirely, but it can meaningfully reduce how noticeable it is, particularly under normal lighting and at typical viewing distances.",
         "For milder cases, non-surgical camouflage options — scalp micropigmentation (tattooing tiny pigment deposits to mimic the look of short, closely cropped hair or to reduce scar contrast) or hair fiber concealer products — can also help minimize the appearance of scarring or an unnatural part line, especially for people who prefer not to pursue additional surgery. Whichever route you're considering, it's worth consulting a hair restoration specialist experienced specifically in revision and scar-camouflage work, since this is a more specialized skill set than standard first-time transplant surgery.",
       ],
+      pullQuote:
+        "Modern hair restoration has several ways to address the cosmetic aftermath, even though it can't undo the original procedure itself.",
+      keyPoint:
+        "Look specifically for a hair restoration specialist experienced in revision and scar-camouflage work — it's a more specialized skill set than standard first-time transplant surgery.",
     },
   ],
   faq: [
