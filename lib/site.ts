@@ -17,6 +17,7 @@ export const site = {
         { label: "Best Hair Growth Serum", href: "/best-hair-growth-serum" },
         { label: "Best Laser Caps", href: "/best-laser-cap-for-hair-growth" },
         { label: "Best Hair Growth Vitamins", href: "/best-hair-growth-vitamins" },
+        { label: "Best Hair Dryers", href: "/best-hair-dryer" },
         { label: "All Buyer's Guides →", href: "/best" },
       ],
     },
