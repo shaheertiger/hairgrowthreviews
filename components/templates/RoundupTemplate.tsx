@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { RoundupData } from "@/lib/types";
-import { amazonProductLink } from "@/lib/affiliate";
-import { site } from "@/lib/site";
+import { amazonImage, amazonProductLink } from "@/lib/affiliate";
 import { roundups } from "@/data/roundups";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import AuthorBlock from "@/components/AuthorBlock";
@@ -17,6 +16,9 @@ import RelatedReviews from "@/components/RelatedReviews";
 import QuickPicks from "@/components/roundup/QuickPicks";
 import ProductCard from "@/components/roundup/ProductCard";
 import MistakesList from "@/components/roundup/MistakesList";
+import TopPickBox from "@/components/roundup/TopPickBox";
+import StickyBuyBar from "@/components/roundup/StickyBuyBar";
+import ProductThumb from "@/components/roundup/ProductThumb";
 
 function monthYear(iso: string) {
   return new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { month: "long", year: "numeric", timeZone: "UTC" });
@@ -47,7 +49,7 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
   return (
     <>
       <ReadingProgress />
-      <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
+      <div className="mx-auto max-w-6xl px-4 pb-24 pt-6 sm:px-6 sm:py-10 md:pb-10">
         <Breadcrumbs
           items={[
             { label: "Home", href: "/" },
@@ -65,37 +67,30 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
               Updated {monthYear(data.updatedDate)}
             </span>
           </div>
-          <h1 className="mt-4 text-3xl font-extrabold leading-tight tracking-tight text-stone-900 sm:text-[2.6rem] sm:leading-[1.15]">
+          <h1 className="mt-4 text-[1.75rem] font-extrabold leading-tight tracking-tight text-stone-900 sm:text-[2.6rem] sm:leading-[1.15]">
             {data.h1}
           </h1>
-          <p className="mt-4 text-xl leading-relaxed text-stone-600">{data.dek}</p>
+          <p className="mt-3 text-base leading-relaxed text-stone-600 sm:mt-4 sm:text-xl">{data.dek}</p>
 
-          <div className="mt-6 flex flex-wrap gap-3">
-            <a
-              href={`#${top.id}`}
-              className="rounded-full bg-accent-500 px-6 py-3 text-sm font-bold text-white hover:bg-accent-600"
-            >
-              See Our #1 Pick
-            </a>
-            <a
-              href="#top-picks"
-              className="rounded-full border border-brand-600 px-6 py-3 text-sm font-bold text-brand-700 hover:bg-brand-50"
-            >
-              Jump to All {data.products.length} Picks
-            </a>
-          </div>
+          <TopPickBox product={top} total={data.products.length} />
 
           <div className="mt-6 border-y border-border-subtle py-4">
             <AuthorBlock updatedDate={data.updatedDate} />
           </div>
-          <p className="mt-3 text-xs leading-relaxed text-stone-400">{site.disclosure}</p>
+          <p className="mt-3 text-xs leading-relaxed text-stone-400">
+            We may earn a commission when you buy through our links, at no cost to you. As an Amazon Associate we
+            earn from qualifying purchases.{" "}
+            <Link href="/about#editorial-process" className="underline hover:text-brand-700">
+              How we rank
+            </Link>
+          </p>
         </header>
 
         <div className="lg:grid lg:grid-cols-[minmax(0,1fr)_15rem] lg:gap-14">
           <article className="min-w-0 max-w-3xl">
-            <KeyTakeaways items={data.keyTakeaways} />
-
             <QuickPicks products={data.products} />
+
+            <KeyTakeaways items={data.keyTakeaways} />
 
             <div className="lg:hidden">
               <TableOfContents items={tocItems} />
@@ -145,6 +140,8 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
                 <ComparisonTable data={data.comparisonTable} firstColLabel="Product" />
               </section>
             )}
+
+            <QuickPicks products={data.products} heading="Ready to Buy? Our Picks Again" />
 
             <section id="mistakes" className="prose-content mt-10 scroll-mt-24 border-t border-border-subtle pt-10">
               <h2>Common Mistakes to Avoid</h2>
@@ -204,10 +201,31 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
           </article>
 
           <aside className="hidden lg:block">
-            <StickyToc items={tocItems} />
+            <StickyToc items={tocItems}>
+              <div className="mb-6 rounded-xl border-2 border-accent-500 bg-surface p-3">
+                <p className="text-[0.65rem] font-black uppercase tracking-wide text-accent-600">Our #1 Pick</p>
+                <div className="mt-2 flex items-center gap-2.5">
+                  <ProductThumb asin={top.asin} alt={top.name} size={48} />
+                  <p className="line-clamp-3 text-xs font-bold leading-snug text-stone-900">{top.name}</p>
+                </div>
+                <a
+                  href={amazonProductLink(top.name, top.asin)}
+                  target="_blank"
+                  rel="sponsored nofollow noopener"
+                  className="mt-3 block rounded-lg bg-accent-500 py-2 text-center text-xs font-black uppercase tracking-wide text-white hover:bg-accent-600"
+                >
+                  Check Price
+                </a>
+              </div>
+            </StickyToc>
           </aside>
         </div>
       </div>
+      <StickyBuyBar
+        name={top.name}
+        href={amazonProductLink(top.name, top.asin)}
+        image={amazonImage(top.asin)}
+      />
     </>
   );
 }

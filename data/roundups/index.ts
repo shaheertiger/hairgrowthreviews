@@ -33,6 +33,7 @@ import { bestScalpScrub } from "./best-scalp-scrub";
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
   "Hair Care",
+  "Hair Tools",
   "Men's Grooming",
   "Brows, Lashes & Beard",
 ];

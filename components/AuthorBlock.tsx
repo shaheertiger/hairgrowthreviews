@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { scientificReviewer } from "@/lib/reviewer";
 
 export default function AuthorBlock({ updatedDate }: { updatedDate: string }) {
@@ -24,9 +25,9 @@ export default function AuthorBlock({ updatedDate }: { updatedDate: string }) {
         </p>
         <p className="mt-0.5">
           Updated {updatedDate} · Independently researched ·{" "}
-          <a href="/about#editorial-process" className="underline hover:text-brand-700">
+          <Link href="/about#editorial-process" className="underline hover:text-brand-700">
             How we review
-          </a>
+          </Link>
         </p>
       </div>
     </div>

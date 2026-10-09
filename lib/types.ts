@@ -125,7 +125,7 @@ export interface RoundupMistake {
 export interface RoundupData {
   slug: string;
   /** Hub grouping on /best and in the nav. */
-  hub: "Hair Growth & Hair Loss" | "Hair Care" | "Men's Grooming" | "Brows, Lashes & Beard";
+  hub: "Hair Growth & Hair Loss" | "Hair Care" | "Hair Tools" | "Men's Grooming" | "Brows, Lashes & Beard";
   /** Short breadcrumb / card label, e.g. "Best Minoxidil for Men". */
   crumb: string;
   metaTitle: string;

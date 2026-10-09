@@ -16,7 +16,7 @@ export default function ProductCard({ product, rank }: { product: RoundupProduct
               {rank}
             </span>
             <div className="min-w-0">
-              <p className="text-lg font-black leading-snug text-white">{product.name}</p>
+              <p className="text-base font-black leading-snug text-white sm:text-lg">{product.name}</p>
               <p className="text-xs text-brand-100">{product.category}</p>
             </div>
           </div>
@@ -26,9 +26,9 @@ export default function ProductCard({ product, rank }: { product: RoundupProduct
         </div>
 
         <div className="p-5 sm:p-6">
-          <div className="flex flex-col gap-5 sm:flex-row">
+          <div className="flex gap-4 sm:gap-5">
             {image && (
-              <a href={href} target="_blank" rel="sponsored nofollow noopener" className="shrink-0 self-center">
+              <a href={href} target="_blank" rel="sponsored nofollow noopener" className="shrink-0 self-start">
                 {/* Amazon-hosted listing image; served as-is per the Associates terms. */}
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
@@ -37,11 +37,14 @@ export default function ProductCard({ product, rank }: { product: RoundupProduct
                   loading="lazy"
                   width={140}
                   height={140}
-                  className="h-36 w-36 rounded-xl bg-white object-contain p-2 ring-1 ring-border-subtle"
+                  className="h-24 w-24 rounded-xl bg-white object-contain p-2 ring-1 ring-border-subtle sm:h-36 sm:w-36"
                 />
               </a>
             )}
             <div className="min-w-0 flex-1">
+              <span className="mb-2 inline-block rounded-full bg-brand-100 px-2.5 py-0.5 text-[0.7rem] font-bold text-brand-800 sm:hidden">
+                {product.badge}
+              </span>
               <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
                 <RatingBadge rating={product.score} />
                 <span className="text-xs font-semibold uppercase tracking-wide text-stone-400">Our score</span>
@@ -49,16 +52,26 @@ export default function ProductCard({ product, rank }: { product: RoundupProduct
               <p className="mt-2 text-sm text-stone-600">
                 <span className="font-bold text-stone-800">Best for:</span> {product.bestFor}
               </p>
-              <dl className="mt-4 grid grid-cols-2 gap-x-4 gap-y-2 text-sm">
-                {product.keySpecs.map((s) => (
-                  <div key={s.label}>
-                    <dt className="text-xs font-semibold uppercase tracking-wide text-stone-400">{s.label}</dt>
-                    <dd className="font-semibold text-stone-800">{s.value}</dd>
-                  </div>
-                ))}
-              </dl>
             </div>
           </div>
+
+          <dl className="mt-4 grid grid-cols-2 gap-x-4 gap-y-2 rounded-xl bg-surface-muted p-3 text-sm">
+            {product.keySpecs.map((s) => (
+              <div key={s.label}>
+                <dt className="text-xs font-semibold uppercase tracking-wide text-stone-400">{s.label}</dt>
+                <dd className="font-semibold text-stone-800">{s.value}</dd>
+              </div>
+            ))}
+          </dl>
+
+          <a
+            href={href}
+            target="_blank"
+            rel="sponsored nofollow noopener"
+            className="mt-4 block rounded-xl bg-accent-500 py-3.5 text-center text-sm font-black uppercase tracking-wide text-white transition-colors hover:bg-accent-600"
+          >
+            Check Price on Amazon →
+          </a>
 
           <div className="prose-content mt-6">
             {product.description.map((p, i) => (
@@ -77,9 +90,9 @@ export default function ProductCard({ product, rank }: { product: RoundupProduct
             href={href}
             target="_blank"
             rel="sponsored nofollow noopener"
-            className="mt-6 block rounded-xl bg-accent-500 py-4 text-center text-sm font-black uppercase tracking-wide text-white transition-colors hover:bg-accent-600"
+            className="mt-6 block rounded-xl bg-brand-600 py-4 text-center text-sm font-black uppercase tracking-wide text-white transition-colors hover:bg-brand-700"
           >
-            Check Price on Amazon →
+            See {product.brand} on Amazon →
           </a>
         </div>
       </div>
