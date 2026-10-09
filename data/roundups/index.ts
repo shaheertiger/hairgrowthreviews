@@ -32,6 +32,9 @@ import { bestScalpScrub } from "./best-scalp-scrub";
 import { bestHairClippers } from "./best-hair-clippers";
 import { bestBeardTrimmer } from "./best-beard-trimmer";
 import { bestCollagenForHairGrowth } from "./best-collagen-for-hair-growth";
+import { bestHeatProtectantSpray } from "./best-heat-protectant-spray";
+import { bestDryShampoo } from "./best-dry-shampoo";
+import { bestSilkPillowcaseForHair } from "./best-silk-pillowcase-for-hair";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -75,4 +78,7 @@ export const roundups: RoundupData[] = [
   bestHairClippers,
   bestBeardTrimmer,
   bestCollagenForHairGrowth,
+  bestHeatProtectantSpray,
+  bestDryShampoo,
+  bestSilkPillowcaseForHair,
 ];

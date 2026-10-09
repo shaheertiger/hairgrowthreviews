@@ -15,15 +15,16 @@ const SYNCED = AMAZON_PRODUCTS as Record<string, SyncedProduct>;
 /**
  * Resolves a product's outbound Amazon link, best option first:
  *
- *   1. A direct /dp/<ASIN> link, when the product has an ASIN.
+ *   1. A direct /dp/<ASIN> link, when the product has an ASIN that the last
+ *      `amazon:sync` confirmed is still live.
  *   2. A tagged Amazon search for the product name.
  *
  * Both carry the tag, so the click is credited either way. The search fallback
- * keeps a product with no matched listing pointing at the right item rather
- * than at a dead page.
+ * keeps a product whose listing was withdrawn (or never matched) pointing at
+ * the right item rather than at a dead page.
  */
 export function amazonProductLink(name: string, asin?: string): string {
-  if (asin) return `https://www.amazon.com/dp/${asin}?tag=${AMAZON_TAG}&linkCode=ll1`;
+  if (asin && SYNCED[asin]) return `https://www.amazon.com/dp/${asin}?tag=${AMAZON_TAG}&linkCode=ll1`;
   return `https://www.amazon.com/s?k=${encodeURIComponent(name)}&tag=${AMAZON_TAG}`;
 }
 

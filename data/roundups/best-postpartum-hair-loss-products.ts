@@ -89,10 +89,10 @@ export const bestPostpartumHairLossProducts: RoundupData = {
         "The fastest way to make postpartum thinning at the temples and part disappear for the day.",
     },
     {
-      id: "nature-made-postnatal-multi",
-      name: "Nature Made Postnatal Multivitamin + DHA 200 mg (60 Softgels)",
-      brand: "Nature Made",
-      asin: "B00OA7VTBS",
+      id: "one-a-day-postnatal",
+      name: "One A Day Postnatal Multivitamin with Folic Acid & Omega-3 DHA (60 Count)",
+      brand: "One A Day",
+      asin: "B09QB76YB8",
       badge: "Best Postnatal Vitamin (Ask Your Doctor)",
       category: "Postnatal Multivitamin",
       score: 4.5,
@@ -100,17 +100,17 @@ export const bestPostpartumHairLossProducts: RoundupData = {
       keySpecs: [
         { label: "Type", value: "Multivitamin with DHA" },
         { label: "Designed for", value: "Breastfeeding mothers" },
-        { label: "Supply", value: "60 softgels" },
+        { label: "Supply", value: "60 count" },
         { label: "Check with", value: "Your doctor or midwife before starting" },
       ],
       description: [
-        "Many doctors suggest continuing a prenatal or switching to a postnatal multivitamin while breastfeeding, because lactation increases the demand for several nutrients. Nature Made's postnatal formula is a mainstream, widely available option designed specifically for nursing mothers, with DHA included, and it is far more appropriate for this stage than a generic hair, skin and nails product.",
+        "Many doctors suggest continuing a prenatal or switching to a postnatal multivitamin while breastfeeding, because lactation increases the demand for several nutrients. One A Day's postnatal formula is a mainstream, widely available option marketed specifically for the postpartum and breastfeeding stage, with folic acid and omega-3 DHA included, and it is far more appropriate for this stage than a generic hair, skin and nails product.",
         "Be clear about its role. A multivitamin will not stop postpartum shedding, which is driven by hormones rather than nutrition. Its value is in covering gaps that could slow recovery, since iron and vitamin D shortfalls are common after pregnancy and can prolong shedding. If blood tests show you are low in iron or vitamin D, your doctor may recommend a specific supplement in addition.",
         "Do not add a separate hair supplement on top without medical advice. Many branded hair formulas contain botanicals or high doses that are not recommended while breastfeeding. Skip this product if your doctor has prescribed a different prenatal or postnatal vitamin, and do not take two multivitamins at once.",
       ],
       pros: [
         "Designed for breastfeeding mothers rather than general beauty use",
-        "Includes DHA",
+        "Includes folic acid and omega-3 DHA",
         "Mainstream brand, easy to discuss with your doctor",
       ],
       cons: [
@@ -343,7 +343,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
     rows: [
       { label: "Living Proof Full Shampoo", values: ["Shampoo", "Volume at the roots", "Rinse-off cosmetic", "Best overall"] },
       { label: "Color Wow Root Cover Up", values: ["Tinted powder", "Hides scalp show-through", "Surface cosmetic", "Thin temples and part"] },
-      { label: "Nature Made Postnatal", values: ["Multivitamin", "Covers nutrient gaps", "Ask your doctor first", "Nursing mothers"] },
+      { label: "One A Day Postnatal", values: ["Multivitamin", "Covers nutrient gaps", "Ask your doctor first", "Nursing mothers"] },
       { label: "Wet Brush Detangler", values: ["Brush", "Reduces breakage", "No concerns", "Daily detangling"] },
       { label: "Paul Mitchell Detangler Comb", values: ["Comb", "Gentle wet detangling", "No concerns", "In the shower"] },
       { label: "Kitsch Claw Clips", values: ["Clips", "Avoids root tension", "No concerns", "Loose updos"] },
