@@ -19,6 +19,16 @@ import { bestHairGrowthOil } from "./best-hair-growth-oil";
 import { bestRosemaryOilForHairGrowth } from "./best-rosemary-oil-for-hair-growth";
 import { bestLaserCapForHairGrowth } from "./best-laser-cap-for-hair-growth";
 import { bestDermaRollerForHairGrowth } from "./best-derma-roller-for-hair-growth";
+import { bestMinoxidilForWomen } from "./best-minoxidil-for-women";
+import { bestKetoconazoleShampoo } from "./best-ketoconazole-shampoo";
+import { bestDhtBlockerShampoo } from "./best-dht-blocker-shampoo";
+import { bestHairGrowthShampoo } from "./best-hair-growth-shampoo";
+import { bestShampooForThinningHair } from "./best-shampoo-for-thinning-hair";
+import { bestHairCareProductsForWomen } from "./best-hair-care-products-for-women";
+import { bestHairProductsForCurlyHair } from "./best-hair-products-for-curly-hair";
+import { bestBlackHairCareProducts } from "./best-black-hair-care-products";
+import { bestHairTreatmentForDamagedHair } from "./best-hair-treatment-for-damaged-hair";
+import { bestScalpScrub } from "./best-scalp-scrub";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -48,4 +58,14 @@ export const roundups: RoundupData[] = [
   bestRosemaryOilForHairGrowth,
   bestLaserCapForHairGrowth,
   bestDermaRollerForHairGrowth,
+  bestMinoxidilForWomen,
+  bestKetoconazoleShampoo,
+  bestDhtBlockerShampoo,
+  bestHairGrowthShampoo,
+  bestShampooForThinningHair,
+  bestHairCareProductsForWomen,
+  bestHairProductsForCurlyHair,
+  bestBlackHairCareProducts,
+  bestHairTreatmentForDamagedHair,
+  bestScalpScrub,
 ];
