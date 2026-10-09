@@ -14,6 +14,11 @@ import { bestSawPalmettoForHairLoss } from "./best-saw-palmetto-for-hair-loss";
 import { bestPostpartumHairLossProducts } from "./best-postpartum-hair-loss-products";
 import { bestHairFibersForThinningHair } from "./best-hair-fibers-for-thinning-hair";
 import { bestHairThickeningProducts } from "./best-hair-thickening-products";
+import { bestHairGrowthSerum } from "./best-hair-growth-serum";
+import { bestHairGrowthOil } from "./best-hair-growth-oil";
+import { bestRosemaryOilForHairGrowth } from "./best-rosemary-oil-for-hair-growth";
+import { bestLaserCapForHairGrowth } from "./best-laser-cap-for-hair-growth";
+import { bestDermaRollerForHairGrowth } from "./best-derma-roller-for-hair-growth";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -38,4 +43,9 @@ export const roundups: RoundupData[] = [
   bestPostpartumHairLossProducts,
   bestHairFibersForThinningHair,
   bestHairThickeningProducts,
+  bestHairGrowthSerum,
+  bestHairGrowthOil,
+  bestRosemaryOilForHairGrowth,
+  bestLaserCapForHairGrowth,
+  bestDermaRollerForHairGrowth,
 ];
