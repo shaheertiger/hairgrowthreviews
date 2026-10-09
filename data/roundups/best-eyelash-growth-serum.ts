@@ -1,0 +1,385 @@
+import { RoundupData } from "@/lib/types";
+
+export const bestEyelashGrowthSerum: RoundupData = {
+  slug: "best-eyelash-growth-serum",
+  hub: "Brows, Lashes & Beard",
+  crumb: "Best Eyelash Growth Serum",
+  metaTitle: "Best Eyelash Growth Serum (2026): 6 Picks Ranked on Safety",
+  metaDescription:
+    "GrandeLASH-MD, RevitaLash, The Ordinary and more, ranked on ingredients, eye-safety risks and value, plus how over-the-counter serums compare with Latisse.",
+  h1: "The Best Eyelash Growth Serums, and the Eye-Safety Trade-Offs",
+  dek: "The lash serums that work best tend to borrow from glaucoma drugs. That is why they can lengthen lashes, and why they can also darken eyelids and, rarely, eye color. Here is how to choose carefully.",
+  intro: [
+    "Finding the best eyelash growth serum starts with understanding one prescription drug. In 2008, the FDA approved bimatoprost 0.03%, sold as Latisse, to treat inadequate or not-enough eyelashes, after glaucoma patients using the same compound as eye drops noticed their lashes growing longer, thicker and darker. Latisse remains the only product FDA-approved to grow eyelashes, and it requires a prescription. Almost every over-the-counter lash serum that produces dramatic before-and-after photos uses a related prostaglandin analog, sold as a cosmetic rather than a drug.",
+    "That is the trade-off at the center of this category. Prostaglandin-analog lash serums can work, but because they are applied right at the edge of the eye they carry risks that most beauty products do not: eyelid skin darkening, red and irritated eyes, and, with prostaglandin drugs, a labeled risk of permanent darkening of the colored part of the eye. Prostaglandin-free peptide serums are far gentler but have much weaker evidence. We ranked the picks below on ingredients and how clearly they are disclosed, eye-safety risk, applicator design, buyer feedback and cost per month.",
+    "This page focuses on eyelashes. Many brands sell matching brow serums, and some products are designed for both, but the eye area deserves its own guide because the risks are different. If your goal is fuller eyebrows, our guide to the best eyebrow growth serum covers that separately. And if your lashes are falling out suddenly, in patches, or with eye symptoms, see an eye doctor before buying any serum.",
+  ],
+  keyTakeaways: [
+    "GrandeLASH-MD is the best overall over-the-counter lash serum: a clearly labeled prostaglandin-analog formula with a strong track record and fair cost per month.",
+    "Latisse (bimatoprost 0.03%) is the only FDA-approved eyelash growth treatment. It needs a prescription and has the strongest clinical evidence.",
+    "Prostaglandin-analog serums can darken eyelid skin and cause eye redness and irritation; prostaglandin drugs also carry a rare risk of permanent iris darkening.",
+    "The Ordinary Multi-Peptide Lash and Brow Serum is the best prostaglandin-free value pick, but expect subtler results.",
+    "Remove contact lenses before applying, use one thin stroke along the upper lash line only, and avoid prostaglandin serums during pregnancy.",
+  ],
+  products: [
+    {
+      id: "grandelash-md",
+      name: "Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum (2 mL)",
+      brand: "Grande Cosmetics",
+      asin: "B00325D0WK",
+      badge: "Best Overall",
+      category: "Prostaglandin-Analog Lash Serum",
+      score: 4.8,
+      bestFor: "Adults without eye conditions who want the best chance of longer, fuller-looking lashes without a prescription",
+      keySpecs: [
+        { label: "Key active", value: "Isopropyl cloprostenate" },
+        { label: "Prostaglandin analog", value: "Yes" },
+        { label: "Size", value: "2 mL" },
+        { label: "Application", value: "Once nightly, upper lash line" },
+      ],
+      description: [
+        "GrandeLASH-MD is one of the best-known over-the-counter lash serums and our top pick for most people. Its key active is isopropyl cloprostenate, a prostaglandin analog in the same broad family as Latisse's bimatoprost. That puts it among the serums most likely to produce a visible change, and buyer feedback consistently describes longer, darker, fuller-looking lashes after six to twelve weeks of nightly use. Grande is open about the active ingredient, which makes it easier to weigh the risks.",
+        "The 2 mL tube offers better value than the brand's 1 mL size, which Grande lists as a six-week supply, so the larger tube lasts roughly twice as long. Per month, it usually costs much less than RevitaLash Advanced, and the fine brush applicator makes it straightforward to paint a single thin line along the upper lash line.",
+        "Skip it if you are pregnant or breastfeeding, use prescription glaucoma drops, have had eye surgery or recurring eye inflammation, or have light-colored eyes and are worried about any pigment change. In those cases, talk to an eye doctor first or choose a prostaglandin-free serum.",
+      ],
+      pros: [
+        "Prostaglandin-analog formula most likely to show visible results",
+        "Clearly discloses its active ingredient",
+        "Lower cost per month than most premium lash serums",
+        "Precise brush for a thin line at the lash base",
+      ],
+      cons: [
+        "Can darken eyelid skin and cause redness or itching",
+        "Carries the eye-area risks of prostaglandin analogs",
+        "Lashes return to baseline gradually if you stop",
+      ],
+      bottomLine:
+        "The best over-the-counter lash serum for most adults, provided a prostaglandin analog is safe for you.",
+    },
+    {
+      id: "revitalash-advanced",
+      name: "RevitaLash Cosmetics RevitaLash Advanced Eyelash Conditioner (2.0 mL)",
+      brand: "RevitaLash Cosmetics",
+      asin: "B0DNVQBZ1J",
+      badge: "Best Premium",
+      category: "Prostaglandin-Analog Lash Serum",
+      score: 4.6,
+      bestFor: "Buyers who want a premium, physician-developed lash serum and are comfortable paying for it",
+      keySpecs: [
+        { label: "Key active", value: "Prostaglandin analog plus conditioners" },
+        { label: "Prostaglandin analog", value: "Yes" },
+        { label: "Size", value: "2.0 mL" },
+        { label: "Application", value: "Once daily, upper lash line" },
+      ],
+      description: [
+        "RevitaLash Advanced is one of the most recognized premium lash serums, marketed as physician developed and sold through dermatology offices and beauty retailers as well as online. Its formula pairs a prostaglandin analog with conditioning ingredients, so it sits in the same results-focused group as GrandeLASH-MD. Buyer feedback is consistently strong on longer, fuller-looking lashes over a few months.",
+        "The difference is price. RevitaLash Advanced costs considerably more per milliliter than GrandeLASH-MD, and there is no independent head-to-head evidence that it grows lashes better. Some buyers prefer its feel or packaging, or simply trust the brand, and those are reasonable reasons to pay more. But they are preferences rather than proof of superior results.",
+        "Skip it if you are pregnant, breastfeeding, using glaucoma drops, or prone to eye irritation, and skip it if value is your main concern, since GrandeLASH-MD delivers a similar type of formula for less. As with any prostaglandin serum, stop if you notice persistent eye redness, itching, eyelid darkening or any change in eye color.",
+      ],
+      pros: [
+        "Premium prostaglandin-analog formula with conditioning ingredients",
+        "Long-established brand with strong buyer feedback",
+        "Larger 2.0 mL size lasts a good while",
+      ],
+      cons: [
+        "Much more expensive than GrandeLASH-MD",
+        "Same eye-area risks as other prostaglandin serums",
+        "No evidence it outperforms cheaper prostaglandin serums",
+      ],
+      bottomLine: "A polished premium option. Worth it for brand preference, not for proven extra results.",
+    },
+    {
+      id: "the-ordinary-multi-peptide-lash",
+      name: "The Ordinary Multi-Peptide Lash and Brow Serum (0.16 fl oz)",
+      brand: "The Ordinary",
+      asin: "B0B5DYY1HQ",
+      badge: "Best Prostaglandin-Free Value",
+      category: "Peptide Lash & Brow Serum",
+      score: 4.5,
+      bestFor: "People who want to avoid prostaglandin analogs, including those with sensitive eyes or light-colored irises",
+      keySpecs: [
+        { label: "Key actives", value: "Peptide complex" },
+        { label: "Prostaglandin analog", value: "No" },
+        { label: "Size", value: "0.16 fl oz (5 mL)" },
+        { label: "Application", value: "Daily, lashes and brows" },
+      ],
+      description: [
+        "The Ordinary's Multi-Peptide Lash and Brow Serum is the best value for anyone who wants to stay away from prostaglandin analogs. It uses a blend of peptides and conditioning ingredients, can be applied to both lashes and brows, and costs a fraction of the prostaglandin-based serums. For people with light-colored eyes who are wary of any pigment risk, or who reacted badly to a prostaglandin serum, it is the logical first try.",
+        "The trade-off is evidence. Independent research showing that peptides meaningfully lengthen lashes is limited, and most data in this space comes from ingredient manufacturers. Buyer feedback reflects that: many people like the conditioning effect and see healthier-looking lashes, while those switching from GrandeLASH-MD or Latisse often notice a smaller change. The thin texture also needs care so it does not run into the eye.",
+        "Skip it if you want the most dramatic change and have no reason to avoid prostaglandin analogs. Otherwise, it is the lowest-risk, lowest-cost way to see whether a lash serum is worth it for you.",
+      ],
+      pros: [
+        "Prostaglandin-free, avoiding the pigment risks of that class",
+        "Very low price for a sizeable tube",
+        "Works on lashes and brows",
+      ],
+      cons: [
+        "Limited independent evidence for peptides",
+        "Results are usually subtler than prostaglandin serums",
+        "Runny texture needs careful application",
+      ],
+      bottomLine: "The gentle, low-cost choice. Start here if you want to avoid prostaglandins entirely.",
+    },
+    {
+      id: "rapidlash-serum",
+      name: "RapidLash Eyelash Enhancing Serum (3 mL, 2-Month Supply)",
+      brand: "RapidLash",
+      asin: "B00GWTQSI6",
+      badge: "Best Drugstore Pick",
+      category: "Lash Enhancing Serum",
+      score: 4.3,
+      bestFor: "Shoppers who want a widely stocked, mid-priced lash serum they can find almost anywhere",
+      keySpecs: [
+        { label: "Key actives", value: "Check current ingredient list" },
+        { label: "Prostaglandin analog", value: "Check current label" },
+        { label: "Size", value: "3 mL (2-month supply per listing)" },
+        { label: "Application", value: "Once daily, upper lash line" },
+      ],
+      description: [
+        "RapidLash is one of the most widely available lash serums in drugstores and big-box retailers, sold as a two-month supply at a mid-range price. That availability is a real advantage if you want to pick it up in person, and buyer feedback is broadly positive on fuller-looking lashes with regular use.",
+        "It ranks below the top three mainly on transparency. Lash serum formulas change over time, and it is not always clear from marketing which actives a current batch contains. Before buying, read the ingredient list on the box or listing and look for names ending in -prost or -prostenol, such as isopropyl cloprostenate. If one is present, the safety notes in this guide apply in full; if not, expect results closer to a peptide serum.",
+        "Skip it if you want the lowest cost per month over time, or if you must avoid prostaglandin analogs and cannot confirm the current ingredient list. It is a convenient, reasonable choice rather than the best one.",
+      ],
+      pros: [
+        "Easy to find in stores and online",
+        "Mid-range price for a two-month supply",
+        "Simple brush applicator",
+      ],
+      cons: [
+        "Check the current label to confirm its actives",
+        "Less clearly documented than GrandeLASH-MD",
+        "Not the best value per month",
+      ],
+      bottomLine: "A convenient drugstore option. Read the current ingredient list so you know which risks apply.",
+    },
+    {
+      id: "babe-original-renewing-lash-serum",
+      name: "Babe Original Renewing Lash Serum for Longer-Looking Lashes, Peptides (6 mL)",
+      brand: "Babe Original",
+      asin: "B0DW6R9KK4",
+      badge: "Best Peptide Upgrade",
+      category: "Peptide Lash Serum",
+      score: 4.2,
+      bestFor: "People who prefer a peptide-focused serum from an established lash brand over a budget option",
+      keySpecs: [
+        { label: "Key actives", value: "Peptides (per listing)" },
+        { label: "Prostaglandin analog", value: "Check current label" },
+        { label: "Size", value: "6 mL" },
+        { label: "Application", value: "Daily, lash line" },
+      ],
+      description: [
+        "Babe Original, the brand many buyers still know as Babe Lash, built its name on lash serums. Its Renewing Lash Serum is a peptide-focused formula in a generous 6 mL tube, positioned as a gentler option for longer-looking lashes. For buyers who want something more established than a budget brand but are wary of prostaglandin analogs, it is a reasonable middle ground.",
+        "Keep the evidence in mind. Like other peptide serums, it is more likely to condition lashes and make them look healthier than to produce the dramatic length changes associated with prostaglandin formulas. Because the brand sells several lash products and has reformulated over the years, check the current ingredient list on the listing to confirm exactly what this version contains before you buy.",
+        "Skip it if you want maximum results, where GrandeLASH-MD is more likely to deliver, or if you want the cheapest peptide option, where The Ordinary costs much less. It is a pick for buyers who value the brand and a larger tube.",
+      ],
+      pros: [
+        "Peptide-focused formula from a well-known lash brand",
+        "Large 6 mL tube",
+        "Gentler positioning than prostaglandin serums",
+      ],
+      cons: [
+        "Peptide evidence is limited",
+        "Costs much more than The Ordinary's peptide serum",
+        "Check the label to confirm the current formula",
+      ],
+      bottomLine: "A brand-name peptide serum with a big tube. Good for loyalists, but not the best value.",
+    },
+    {
+      id: "elf-lash-brow-serum",
+      name: "e.l.f. Enhancing Lash & Brow Serum (0.12 fl oz)",
+      brand: "e.l.f.",
+      asin: "B0948G7M72",
+      badge: "Best Budget",
+      category: "Conditioning Lash & Brow Serum",
+      score: 4.1,
+      bestFor: "Anyone curious about lash serums who wants to spend as little as possible",
+      keySpecs: [
+        { label: "Type", value: "Conditioning serum" },
+        { label: "Prostaglandin analog", value: "Check current label" },
+        { label: "Size", value: "0.12 fl oz (3.5 mL)" },
+        { label: "Application", value: "Daily, lashes and brows" },
+      ],
+      description: [
+        "e.l.f.'s Enhancing Lash & Brow Serum is the cheapest pick on this list and an easy way to try a lash serum without committing much money. It is marketed as a nourishing, conditioning formula for longer-looking lashes and brows, comes in a clear liquid with a fine applicator, and is widely available in drugstores.",
+        "Set expectations accordingly. A conditioning serum can make lashes look healthier, glossier and less brittle, especially if they have been damaged by extensions, harsh mascara removal or heated curlers. That can make them look fuller. But there is little evidence that conditioning formulas grow meaningfully longer lashes, and you should not expect results comparable to a prostaglandin serum or Latisse.",
+        "Skip it if you want real growth rather than conditioning, in which case GrandeLASH-MD or a conversation with a doctor about Latisse makes more sense. For a low-cost, low-risk lash conditioner, it is a fine choice.",
+      ],
+      pros: [
+        "Lowest price on the list",
+        "Gentle conditioning formula for lashes and brows",
+        "Widely available",
+      ],
+      cons: [
+        "Conditioning only, with little evidence of real growth",
+        "Smaller tube than most picks",
+        "Results are subtle at best",
+      ],
+      bottomLine: "A cheap, gentle lash conditioner. Buy it for healthier-looking lashes, not dramatic growth.",
+    },
+  ],
+  picksAfter: 2,
+  picksHeading: "The 6 Best Eyelash Growth Serums",
+  picksIntro:
+    "We ranked these lash serums on active ingredients and how clearly they are disclosed, eye-safety risk, applicator design, buyer feedback and cost per month. Only Latisse, a prescription drug, is FDA-approved to grow lashes, so read the safety section before you buy.",
+  sections: [
+    {
+      id: "how-lash-serums-work",
+      heading: "How Lash Serums Work: Latisse, Prostaglandins and Peptides",
+      body: [
+        "Every eyelash goes through a growth cycle: a growth phase, a short transition phase, and a resting phase before it falls out and is replaced. Eyelashes have a relatively short growth phase compared with scalp hair, which is why they stay short. Prostaglandin analogs appear to lengthen that growth phase and increase the number of hairs growing at the same time, which is how bimatoprost produces longer, thicker and darker lashes.",
+        "Latisse is bimatoprost 0.03%, the same drug used in some glaucoma eye drops, packaged with sterile single-use applicators for the upper lash line. In the clinical trials that supported its FDA approval, people using it for about four months saw significant increases in lash length, thickness and darkness compared with a placebo. It is a prescription drug, and it remains the only product FDA-approved to grow eyelashes.",
+        "Many over-the-counter lash serums use related compounds such as isopropyl cloprostenate, sold as cosmetics rather than drugs. Because they are not approved drugs, they have not been through the FDA's review for safety and effectiveness, and in the past the FDA has taken action against cosmetic lash products that contained an unapproved drug ingredient. That does not mean every prostaglandin lash serum is unsafe, but it does mean the burden of reading the label falls on you.",
+        "Prostaglandin-free serums usually rely on peptides, biotin, panthenol and plant extracts. These are gentle and can condition lashes so they look healthier and break less. But independent evidence that they increase lash length or density is limited. Think of them as lash conditioners that may help a little, rather than as growth treatments.",
+      ],
+      pullQuote: "It remains the only product FDA-approved to grow eyelashes.",
+      table: {
+        columns: ["Latisse (Rx)", "OTC Prostaglandin Serum", "Peptide Serum"],
+        rows: [
+          { label: "FDA status", values: ["Approved drug", "Sold as cosmetic", "Sold as cosmetic"] },
+          { label: "Prescription needed", values: ["Yes", "No", "No"] },
+          { label: "Evidence for growth", values: ["Strongest", "Moderate, mostly by drug class", "Limited"] },
+          { label: "Eyelid darkening risk", values: ["Yes", "Yes", "Low"] },
+          { label: "Iris color risk", values: ["Labeled risk", "Possible", "Not expected"] },
+        ],
+      },
+      keyPoint:
+        "Latisse is the only FDA-approved lash grower; OTC prostaglandin serums borrow its drug class without its approval.",
+    },
+    {
+      id: "lash-serum-safety",
+      heading: "Lash Serum Side Effects: Iris Color, Eyelid Darkening and Irritation",
+      body: [
+        "The most common side effects of prostaglandin lash products are itchy eyes, eye redness, dryness and irritation of the eyelid. Darkening of the eyelid skin is another known effect, and it is usually reversible after stopping, though it can take time to fade. Hair can also grow where the serum lands, so drips onto the cheek or lower lid can thicken fine hairs there.",
+        "The risk that gets the most attention is iris pigmentation. Prostaglandin analogs used as glaucoma eye drops can permanently increase brown pigment in the colored part of the eye, and Latisse's labeling warns about this possibility. The risk is considered low when the product is applied carefully to the upper lid margin rather than dropped into the eye, but it is not zero, and it is most noticeable in people with mixed-color irises such as hazel or green-brown. Over-the-counter prostaglandin serums are in the same drug family.",
+        "Some people should not use prostaglandin lash serums without an eye doctor's approval. That includes anyone using prostaglandin eye drops for glaucoma or high eye pressure, because the effects may add up, and anyone with a history of eye inflammation, macular swelling, or recent eye surgery. Most brands also advise against use during pregnancy and breastfeeding, and there is little data to support it.",
+        "Contact lens wearers should remove lenses before applying any lash serum and wait at least 15 minutes before putting them back in, which is what Latisse's instructions recommend. Never share a lash serum, never apply it to the lower lid, and stop immediately if you develop eye pain, persistent redness, swelling, discharge or vision changes. Fat loss around the eyes has also been reported with long-term prostaglandin eye drops, which is another reason to use the smallest effective amount.",
+      ],
+      pullQuote: "The risk that gets the most attention is iris pigmentation.",
+      keyPoint:
+        "Avoid prostaglandin lash serums if you are pregnant, use glaucoma drops or have eye inflammation, and remove contacts before applying.",
+    },
+    {
+      id: "latisse-vs-otc-serums",
+      heading: "Latisse vs. Over-the-Counter Lash Serums: Which Should You Choose?",
+      body: [
+        "If you want the treatment with the strongest evidence and medical oversight, Latisse is the answer. It is an FDA-approved drug with published clinical trial data, it comes with sterile applicators, and getting it requires a prescription, which means a clinician has at least checked whether it is appropriate for your eyes. It is usually more expensive than over-the-counter serums, and you will need a doctor's visit or a telehealth consultation to get it.",
+        "Over-the-counter prostaglandin serums such as GrandeLASH-MD offer convenience and a lower cost per month. Buyer feedback suggests they can produce results that many people are happy with, but they have not been through the FDA's drug approval process, the exact concentrations are not usually published, and there is no medical gatekeeping. You are trading oversight for convenience.",
+        "Peptide serums make most sense for people who should avoid prostaglandin analogs or would rather not take the risk. They are the lowest-risk option, but also the least likely to produce dramatic change. For many people with lashes thinned by extensions, mascara habits or rubbing, a few months of gentle conditioning plus better habits is enough.",
+        "A sensible path for many people is to start with the least risky option that fits their goals. If you only want healthier-looking lashes, try a peptide serum. If you want real length and have no eye conditions, an over-the-counter prostaglandin serum or a prescription for Latisse are the realistic choices, and the second is the better-documented one.",
+      ],
+      pullQuote: "You are trading oversight for convenience.",
+    },
+    {
+      id: "how-to-apply-lash-serum",
+      heading: "How to Apply Lash Serum Safely",
+      body: [
+        "Apply lash serum once a day, usually at night, to clean, dry skin. Remove all eye makeup and contact lenses first, and wash your face so oils and residue do not block the serum. Make sure the area is fully dry, since water on the lid can spread the serum toward the eye.",
+        "Draw a single thin line along the base of the upper lashes, where the lashes meet the skin, in the way you would apply liquid eyeliner. Do not apply to the lower lash line. When you close your eyes, a small amount transfers naturally, and applying directly to the lower lid increases the risk of the serum entering the eye and spreading onto the cheek. One stroke per eye is enough.",
+        "Blot any excess with a clean tissue, and let the serum dry for a few minutes before applying eye cream or going to sleep. Wait at least 15 minutes before putting contact lenses back in. If you use a lash curler, mascara or lash extensions, check the brand's guidance; many people use serum at night and makeup in the morning without issue.",
+        "Keep the applicator clean, do not share it, and replace a product that looks contaminated or has passed its expiry date. Eye infections are a real risk with any product used at the lash line. If you develop a stye, conjunctivitis or any eye infection, stop the serum until it clears and speak to a doctor before restarting.",
+      ],
+      pullQuote: "One stroke per eye is enough.",
+      keyPoint: "Upper lash line only, one thin stroke, contacts out, and wait 15 minutes before putting lenses back in.",
+    },
+    {
+      id: "what-to-expect",
+      heading: "How Long Do Lash Serums Take, and What Happens When You Stop?",
+      body: [
+        "Most people need around six to eight weeks to see early changes from a prostaglandin lash serum, with fuller results by about three to four months. Latisse's labeling describes a gradual onset with the full effect at around 16 weeks. Peptide and conditioning serums may take as long and produce subtler results, mostly improvements in how healthy and glossy lashes look.",
+        "The change is not permanent. Lash serums influence the growth cycle only while you are using them. When you stop a prostaglandin serum, lashes typically return to their previous appearance over several weeks to months as the hairs complete their cycles. Some people move to a less frequent maintenance schedule once happy, but follow the brand's instructions or your doctor's advice.",
+        "Results also vary between people. Some see a dramatic change; others notice only modest improvement. Age, genetics and the reason for thin lashes all play a part. Lashes damaged by extensions or aggressive makeup removal often respond well once the damage stops. Lashes thinned by an underlying medical condition may not respond until that condition is treated.",
+        "Take clear photos before you start and at eight and twelve weeks, in the same light and with no mascara. Day-to-day changes are almost impossible to see in a mirror, and photos are the most reliable way to judge whether a serum is worth continuing.",
+      ],
+      pullQuote: "The change is not permanent.",
+    },
+    {
+      id: "why-lashes-thin",
+      heading: "Why Lashes Thin, and When to See an Eye Doctor",
+      body: [
+        "The most common causes of short or sparse lashes are everyday habits. Lash extensions, especially when applied heavily or removed badly, can pull out natural lashes and stress the follicles. Waterproof mascara that needs vigorous scrubbing to remove, heated lash curlers, strip lashes with strong glue, and habitual eye rubbing all take a toll. Aging also tends to make lashes thinner and lighter.",
+        "Some causes are medical. Blepharitis, an inflammation of the eyelid margin, can cause lash loss along with crusting, itching and redness. Thyroid disease, alopecia areata, certain skin conditions, and some medications and treatments such as chemotherapy can all affect lashes. Trichotillomania, a hair-pulling disorder, can also involve the lashes and needs support rather than a serum.",
+        "See an eye doctor or dermatologist if lash loss is sudden or patchy, if it comes with redness, swelling, crusting, pain or vision changes, or if you are also losing scalp or eyebrow hair. Applying a prostaglandin serum to an inflamed eyelid can make irritation worse, and treating the underlying condition is the only way to restore lashes in those cases.",
+        "For habit-related thinning, the fix is often simple: give extensions a break, switch to a gentle, non-waterproof mascara, remove eye makeup with an oil or micellar remover rather than rubbing, and stop pulling or curling aggressively. Combined with a gentle serum, those changes give lashes the best chance to recover.",
+      ],
+      pullQuote: "Lash extensions, especially when applied heavily or removed badly, can pull out natural lashes",
+    },
+  ],
+  comparisonTable: {
+    columns: ["Type", "Prostaglandin Analog", "Relative Cost", "Best For"],
+    rows: [
+      { label: "GrandeLASH-MD (2 mL)", values: ["Serum", "Yes", "Moderate", "Best overall"] },
+      { label: "RevitaLash Advanced (2.0 mL)", values: ["Serum", "Yes", "High", "Premium buyers"] },
+      { label: "The Ordinary Multi-Peptide", values: ["Serum", "No", "Low", "Prostaglandin-free value"] },
+      { label: "RapidLash", values: ["Serum", "Check label", "Moderate", "Drugstore convenience"] },
+      { label: "Babe Original Renewing Lash Serum", values: ["Peptide serum", "Check label", "Moderate to high", "Brand-name peptide"] },
+      { label: "e.l.f. Lash & Brow Serum", values: ["Conditioning serum", "Check label", "Lowest", "Tight budgets"] },
+    ],
+  },
+  mistakes: [
+    {
+      heading: "Applying Serum to the Lower Lash Line",
+      body: "Painting serum along both lash lines doubles your exposure and increases the chance it gets into the eye or onto the cheek. Apply one thin line to the upper lash line only. When you blink, enough serum reaches the lower lashes naturally, without the extra irritation, darkening or unwanted hair growth on the skin below.",
+    },
+    {
+      heading: "Ignoring the Prostaglandin Warning Signs",
+      body: "Persistent red, itchy or watery eyes, darkening eyelids or any change in eye color are signals to stop a prostaglandin serum, not to push through. Some effects reverse after stopping, but iris darkening may not. If you notice symptoms, stop the serum and speak to an eye doctor before restarting or switching products.",
+    },
+    {
+      heading: "Leaving Contact Lenses In",
+      body: "Applying lash serum with contact lenses in allows ingredients to collect on the lens and sit against the eye. Remove lenses before applying, let the serum dry, and wait at least 15 minutes before putting them back in. Also keep the applicator clean and never share a serum with anyone.",
+    },
+    {
+      heading: "Using a Serum Over an Eye Problem",
+      body: "Lash loss with crusting, swelling or irritation along the lid often means blepharitis or another eye condition. A growth serum will not fix that and may make irritation worse. Get the eyelid checked and treated first. Once the eye is healthy, you can decide whether a serum is still needed.",
+    },
+    {
+      heading: "Quitting Before Three Months, or Expecting Permanence",
+      body: "Lash serums take six to twelve weeks to show meaningful change, and results fade when you stop. Judging a serum after two weeks wastes the purchase, and stopping after a great result surprises many people when lashes return to baseline. Plan for consistent use, and follow the brand's guidance on maintenance.",
+    },
+  ],
+  faq: [
+    {
+      q: "What is the best eyelash growth serum?",
+      a: "For most adults without eye conditions, GrandeLASH-MD is the best over-the-counter eyelash growth serum thanks to its clearly labeled prostaglandin-analog formula and fair cost per month. If you want to avoid prostaglandins, The Ordinary Multi-Peptide Lash and Brow Serum is the best gentle value pick. Latisse remains the only FDA-approved option.",
+    },
+    {
+      q: "Is Latisse better than over-the-counter lash serums?",
+      a: "Latisse has the strongest evidence. It is an FDA-approved drug with clinical trial data, sterile applicators and medical oversight through a prescription. Over-the-counter prostaglandin serums use related compounds and many buyers are happy with them, but they have not been through the FDA's drug approval process. Peptide serums are gentler but less effective.",
+    },
+    {
+      q: "Can lash serum change your eye color?",
+      a: "Prostaglandin drugs can permanently increase brown pigment in the iris, and Latisse's labeling warns about this. The risk is considered low when the product is applied carefully to the upper lash line rather than into the eye, but it is not zero. Prostaglandin-free peptide serums are not expected to carry this risk.",
+    },
+    {
+      q: "Can I use lash serum with contact lenses?",
+      a: "Yes, but remove your lenses before applying the serum and wait at least 15 minutes before putting them back in, which is what Latisse's instructions recommend. Apply the serum to clean, dry skin along the upper lash line only, and stop if you notice eye irritation, redness or discomfort.",
+    },
+    {
+      q: "Are lash serums safe during pregnancy?",
+      a: "Most brands advise against using prostaglandin-analog lash serums during pregnancy or breastfeeding, and there is little safety data to support it. If you are pregnant, breastfeeding or trying to conceive, avoid prostaglandin serums and check with your doctor before using any lash product beyond ordinary mascara.",
+    },
+    {
+      q: "How long does it take for lash serum to work?",
+      a: "Most people see early changes around six to eight weeks, with fuller results at three to four months. Latisse's labeling describes the full effect at about 16 weeks. Peptide and conditioning serums may take as long and usually produce subtler changes. Take photos at the start and every few weeks to track progress.",
+    },
+    {
+      q: "Do eyelashes fall out if you stop using serum?",
+      a: "Lashes do not usually fall out all at once, but the extra length and fullness fade gradually as lashes complete their natural growth cycles. Over several weeks to months, they typically return to how they looked before you started. Some people use a less frequent maintenance schedule to keep results, following the brand's guidance.",
+    },
+  ],
+  bottomLine:
+    "The best over-the-counter eyelash growth serum for most adults is GrandeLASH-MD, provided a prostaglandin analog is safe for you. RevitaLash Advanced is the premium alternative, and The Ordinary is the best gentle, prostaglandin-free choice. For the strongest evidence, ask a doctor about Latisse, and whatever you use, apply one thin line to the upper lash line only.",
+  relatedRoundups: [
+    "best-eyebrow-growth-serum",
+    "best-hair-growth-serum",
+    "best-hair-growth-products-for-women",
+    "best-hair-growth-oil",
+    "best-beard-growth-oil",
+  ],
+  relatedGuides: [
+    { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },
+    { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },
+  ],
+  publishedDate: "2026-10-09",
+  updatedDate: "2026-10-09",
+};

@@ -1,5 +1,9 @@
 import { RoundupData } from "@/lib/types";
 import { bestMinoxidilForMen } from "./best-minoxidil-for-men";
+import { bestBeardGrowthOil } from "./best-beard-growth-oil";
+import { bestEyelashGrowthSerum } from "./best-eyelash-growth-serum";
+import { bestEyebrowGrowthSerum } from "./best-eyebrow-growth-serum";
+import { bestScalpMassager } from "./best-scalp-massager";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -10,4 +14,8 @@ export const roundupHubs: RoundupData["hub"][] = [
 
 export const roundups: RoundupData[] = [
   bestMinoxidilForMen,
+  bestBeardGrowthOil,
+  bestEyelashGrowthSerum,
+  bestEyebrowGrowthSerum,
+  bestScalpMassager,
 ];
