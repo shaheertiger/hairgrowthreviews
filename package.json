@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "verify:content": "tsx scripts/verify-content.ts"
+    "verify:content": "tsx scripts/verify-content.ts",
+    "amazon:search": "node --env-file-if-exists=.env scripts/amazon/search.mjs",
+    "amazon:sync": "tsx --env-file-if-exists=.env scripts/amazon/sync.ts"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
@@ -20,6 +22,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "amazon-creators-api": "^1.2.2",
     "eslint": "^9",
     "eslint-config-next": "16.3.1",
     "tailwindcss": "^4",

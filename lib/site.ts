@@ -8,6 +8,14 @@ export const site = {
   twitter: "@hairgrowthreviews",
   navCategories: [
     {
+      label: "Best Picks",
+      href: "/best",
+      children: [
+        { label: "Best Minoxidil for Men", href: "/best-minoxidil-for-men" },
+        { label: "All Buyer's Guides →", href: "/best" },
+      ],
+    },
+    {
       label: "Reviews",
       href: "/reviews",
       children: [
@@ -45,5 +53,5 @@ export const site = {
     ],
   },
   disclosure:
-    "HairGrowthReviews is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. This does not influence our ratings or reviews, which are based on independent research into ingredients, clinical evidence, and verified customer feedback. Learn more in our editorial process.",
+    "HairGrowthReviews is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. As an Amazon Associate we earn from qualifying purchases. This does not influence our ratings or reviews, which are based on independent research into ingredients, clinical evidence, and verified customer feedback. Learn more in our editorial process.",
 };

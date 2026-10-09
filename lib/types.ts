@@ -91,3 +91,63 @@ export interface GuideData {
   relatedReviewSlugs?: string[];
   updatedDate: string;
 }
+
+/** One ranked product inside a "best of" roundup. */
+export interface RoundupProduct {
+  /** Stable kebab-case key; also the anchor id of the product card. */
+  id: string;
+  /** The product as Amazon lists it, brand first (e.g. "Kirkland Signature Minoxidil 5% Topical Solution"). */
+  name: string;
+  brand: string;
+  /** The exact Amazon listing, found with `npm run amazon:search`. Drives the direct /dp/ link and the image. */
+  asin?: string;
+  /** Award line shown on the card and in the quick picks, e.g. "Best Overall". */
+  badge: string;
+  /** Short product type, e.g. "5% Minoxidil Liquid". */
+  category: string;
+  /** Editorial score out of 5 — our verdict, not an Amazon star rating. */
+  score: number;
+  bestFor: string;
+  keySpecs: QuickFact[];
+  /** 2-3 paragraphs on what it is, what the evidence says, and who should skip it. */
+  description: string[];
+  pros: string[];
+  cons: string[];
+  bottomLine: string;
+}
+
+export interface RoundupMistake {
+  heading: string;
+  body: string;
+}
+
+/** A commercial "best X" roundup — the format that earns on thehonestreviewers.com. */
+export interface RoundupData {
+  slug: string;
+  /** Hub grouping on /best and in the nav. */
+  hub: "Hair Growth & Hair Loss" | "Hair Care" | "Men's Grooming" | "Brows, Lashes & Beard";
+  /** Short breadcrumb / card label, e.g. "Best Minoxidil for Men". */
+  crumb: string;
+  metaTitle: string;
+  metaDescription: string;
+  h1: string;
+  dek: string;
+  intro: string[];
+  keyTakeaways: string[];
+  products: RoundupProduct[];
+  /** Number of body sections rendered before the product cards. */
+  picksAfter: number;
+  picksHeading: string;
+  picksIntro: string;
+  sections: ContentSection[];
+  comparisonTable?: ComparisonTableData;
+  mistakes: RoundupMistake[];
+  faq: FaqItem[];
+  bottomLine: string;
+  relatedRoundups: string[];
+  relatedReviewSlugs?: string[];
+  /** Existing guide paths to link to, e.g. "/find-a-treatment/minoxidil-rogaine". */
+  relatedGuides?: { href: string; label: string }[];
+  publishedDate: string;
+  updatedDate: string;
+}

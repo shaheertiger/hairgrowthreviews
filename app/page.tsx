@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { reviews } from "@/data/reviews";
 import { guides } from "@/data/guides";
+import { roundups } from "@/data/roundups";
 import RatingBadge from "@/components/ui/RatingBadge";
 import { site } from "@/lib/site";
 
@@ -14,6 +15,17 @@ export const metadata: Metadata = {
 export default function HomePage() {
   const featured = ["biotopic-premium-hair-regrowth-serum", "amplixin-intensive-hair-growth-serum", "crinagen", "ultrax-labs-hair-lush", "revivogen-scalp-therapy-formula", "nizoral-d-anti-dandruff-shampoo"]
     .map((slug) => reviews.find((r) => r.slug === slug))
+    .filter((r): r is NonNullable<typeof r> => !!r);
+
+  const featuredGuides = [
+    "best-minoxidil-for-men",
+    "best-hair-growth-shampoo",
+    "best-laser-cap-for-hair-growth",
+    "best-minoxidil-for-women",
+    "best-hair-growth-vitamins",
+    "best-hair-growth-serum",
+  ]
+    .map((slug) => roundups.find((r) => r.slug === slug))
     .filter((r): r is NonNullable<typeof r> => !!r);
 
   const educationLinks = guides.filter((g) => g.section === "about-hair-growth");
@@ -60,6 +72,31 @@ export default function HomePage() {
               <p className="text-xs text-stone-500">Last Updated</p>
             </div>
           </div>
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+        <div className="flex items-end justify-between">
+          <h2 className="text-2xl font-extrabold text-stone-900 sm:text-3xl">Best Picks: Buyer&apos;s Guides</h2>
+          <Link href="/best" className="text-sm font-bold text-brand-700 hover:underline">
+            All {roundups.length} guides →
+          </Link>
+        </div>
+        <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {featuredGuides.map((r) => (
+            <Link
+              key={r.slug}
+              href={`/${r.slug}`}
+              className="rounded-xl border border-border-subtle bg-surface p-5 transition-shadow hover:shadow-md"
+            >
+              <p className="text-xs font-bold uppercase tracking-wide text-accent-600">{r.products.length} picks ranked</p>
+              <p className="mt-1 text-lg font-bold text-stone-900">{r.crumb}</p>
+              <p className="mt-1 line-clamp-2 text-sm text-stone-500">{r.dek}</p>
+              <p className="mt-3 text-sm font-semibold text-stone-700">
+                <span className="text-brand-700">Our #1:</span> {r.products[0].name}
+              </p>
+            </Link>
+          ))}
         </div>
       </section>
 
