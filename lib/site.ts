@@ -12,6 +12,11 @@ export const site = {
       href: "/best",
       children: [
         { label: "Best Minoxidil for Men", href: "/best-minoxidil-for-men" },
+        { label: "Best Minoxidil for Women", href: "/best-minoxidil-for-women" },
+        { label: "Best Hair Growth Shampoo", href: "/best-hair-growth-shampoo" },
+        { label: "Best Hair Growth Serum", href: "/best-hair-growth-serum" },
+        { label: "Best Laser Caps", href: "/best-laser-cap-for-hair-growth" },
+        { label: "Best Hair Growth Vitamins", href: "/best-hair-growth-vitamins" },
         { label: "All Buyer's Guides →", href: "/best" },
       ],
     },
