@@ -9,6 +9,11 @@ import { bestHairGrowthProductsForWomen } from "./best-hair-growth-products-for-
 import { bestHairProductsForMen } from "./best-hair-products-for-men";
 import { bestShampooForMen } from "./best-shampoo-for-men";
 import { bestConditionerForThinningHair } from "./best-conditioner-for-thinning-hair";
+import { bestHairGrowthVitamins } from "./best-hair-growth-vitamins";
+import { bestSawPalmettoForHairLoss } from "./best-saw-palmetto-for-hair-loss";
+import { bestPostpartumHairLossProducts } from "./best-postpartum-hair-loss-products";
+import { bestHairFibersForThinningHair } from "./best-hair-fibers-for-thinning-hair";
+import { bestHairThickeningProducts } from "./best-hair-thickening-products";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -28,4 +33,9 @@ export const roundups: RoundupData[] = [
   bestHairProductsForMen,
   bestShampooForMen,
   bestConditionerForThinningHair,
+  bestHairGrowthVitamins,
+  bestSawPalmettoForHairLoss,
+  bestPostpartumHairLossProducts,
+  bestHairFibersForThinningHair,
+  bestHairThickeningProducts,
 ];
