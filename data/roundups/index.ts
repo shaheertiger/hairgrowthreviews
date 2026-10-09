@@ -15,11 +15,6 @@ export const roundupHubs: RoundupData["hub"][] = [
   "Hair Care",
   "Men's Grooming",
   "Brows, Lashes & Beard",
-  bestHairGrowthProductsForMen,
-  bestHairGrowthProductsForWomen,
-  bestHairProductsForMen,
-  bestShampooForMen,
-  bestConditionerForThinningHair,
 ];
 
 export const roundups: RoundupData[] = [
