@@ -39,6 +39,9 @@ import { bestHairDryer } from "./best-hair-dryer";
 import { bestFlatIron } from "./best-flat-iron";
 import { bestCurlingIron } from "./best-curling-iron";
 import { bestHairDryerBrush } from "./best-hair-dryer-brush";
+import { bestLeaveInConditioner } from "./best-leave-in-conditioner";
+import { bestPurpleShampoo } from "./best-purple-shampoo";
+import { bestClarifyingShampoo } from "./best-clarifying-shampoo";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -89,4 +92,7 @@ export const roundups: RoundupData[] = [
   bestFlatIron,
   bestCurlingIron,
   bestHairDryerBrush,
+  bestLeaveInConditioner,
+  bestPurpleShampoo,
+  bestClarifyingShampoo,
 ];
