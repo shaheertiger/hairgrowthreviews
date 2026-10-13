@@ -6,7 +6,7 @@ export const bestEyebrowGrowthSerum: RoundupData = {
   crumb: "Best Eyebrow Growth Serum",
   metaTitle: "Best Eyebrow Growth Serum (2026): 7 Picks Ranked on Ingredients",
   metaDescription:
-    "GrandeBROW, RevitaBrow, The Ordinary and more, ranked on active ingredients, side-effect risk and value, with an honest look at prostaglandin brow serums.",
+    "GrandeBROW, RevitaBrow, ForChics and more, ranked on active ingredients, side-effect risk and value, with an honest look at prostaglandin brow serums.",
   h1: "The Best Eyebrow Growth Serums: What Works, and What It Costs You",
   dek: "The brow serums with the most visible results usually rely on prostaglandin analogs, the same drug family as prescription lash treatments. That brings real side effects. Here is how to choose with your eyes open.",
   intro: [
@@ -18,7 +18,7 @@ export const bestEyebrowGrowthSerum: RoundupData = {
     "GrandeBROW is the best overall pick: a long-running prostaglandin-analog serum with clear labeling and a lower cost per month than most rivals.",
     "Only bimatoprost (Latisse) is FDA-approved for hair growth in this area, and only for eyelashes. Using it on brows is off-label and requires a prescription.",
     "Prostaglandin-analog serums are the ones most likely to show visible results, and also the ones most likely to cause skin darkening and irritation.",
-    "The Ordinary Multi-Peptide Lash and Brow Serum is the best prostaglandin-free option, but the evidence that peptides grow hair is thin.",
+    "ForChics Eyebrow Growth Serum is the best prostaglandin-free option, but the evidence that non-prostaglandin serums grow hair is thin.",
     "Give any serum about three months of consistent nightly use, and expect results to fade gradually if you stop.",
   ],
   products: [
@@ -90,36 +90,37 @@ export const bestEyebrowGrowthSerum: RoundupData = {
         "A polished premium option. Choose it for brand preference, not because it is proven to work better.",
     },
     {
-      id: "the-ordinary-multi-peptide-brow",
-      name: "The Ordinary Multi-Peptide Lash and Brow Serum (0.16 fl oz)",
-      brand: "The Ordinary",
+      id: "forchics-eyebrow-serum",
+      name: "ForChics Eyebrow Growth Serum, Prostaglandin-Free Formula",
+      brand: "ForChics",
+      asin: "B09CWLVS9C",
       badge: "Best Prostaglandin-Free",
-      category: "Peptide Lash & Brow Serum",
+      category: "Prostaglandin-Free Brow Serum",
       score: 4.5,
       bestFor: "People who want to avoid prostaglandin analogs, including those with sensitive or pigmentation-prone skin",
       keySpecs: [
-        { label: "Key actives", value: "Peptide complex" },
-        { label: "Prostaglandin analog", value: "No" },
-        { label: "Size", value: "0.16 fl oz (5 mL)" },
-        { label: "Application", value: "Daily, brows and lashes" },
+        { label: "Prostaglandin analog", value: "No (per listing)" },
+        { label: "Format", value: "Brow serum with applicator" },
+        { label: "Application", value: "Daily, per the label" },
+        { label: "Check before buying", value: "Current ingredient list" },
       ],
       description: [
-        "The Ordinary's Multi-Peptide Lash and Brow Serum is the best option for anyone who wants to stay away from prostaglandin analogs. It relies on a blend of peptides and conditioning ingredients instead, it is designed for use on both brows and lashes, and it costs a fraction of the prescription-adjacent serums. For people prone to hyperpigmentation, or who reacted badly to a prostaglandin product, it is the obvious place to start.",
-        "The honest caveat is the evidence. Peptide brow and lash serums are gentler, but independent clinical research showing that peptides grow meaningfully more hair is very limited, and most of the data in this space comes from manufacturers. Buyer feedback is mixed in a predictable way: many people like the conditioning effect and see brows that look healthier, while others who switch from a prostaglandin serum notice a smaller change.",
-        "Skip it if you want the most visible change possible and are comfortable with the prostaglandin trade-offs, since GrandeBROW is more likely to deliver that. Everyone else should treat it as a low-risk, low-cost first try.",
+        "ForChics' Eyebrow Growth Serum is our pick for anyone who wants to stay away from prostaglandin analogs. Its Amazon listing states plainly that the formula is prostaglandin-free, which removes the main side-effect concerns of the category: skin darkening around the brow, irritation tied to prostaglandin analogs, and the extra caution those ingredients need near the eyes. For people prone to hyperpigmentation, or who reacted badly to a prostaglandin product, that makes it a sensible place to start.",
+        "The honest caveat is the evidence. Prostaglandin-free brow serums rely on conditioning and supporting ingredients, and independent clinical research showing that those ingredients grow meaningfully more brow hair is very limited; most of the data in this space comes from manufacturers. Expect healthier-looking, better-conditioned brows rather than the more dramatic change some people see with a prostaglandin serum, and read the current ingredient list on the listing before you buy.",
+        "Skip it if you want the most visible change possible and are comfortable with the prostaglandin trade-offs, since GrandeBROW is more likely to deliver that. Everyone else should treat it as the lower-risk first try.",
       ],
       pros: [
-        "Prostaglandin-free, so lower risk of skin darkening",
-        "Very low price compared with most brow serums",
-        "Works on brows and lashes from one tube",
+        "Listing states a prostaglandin-free formula, so lower risk of skin darkening",
+        "A dedicated brow product rather than a lash serum used off-label",
+        "Sensible first step for sensitive or pigmentation-prone skin",
       ],
       cons: [
-        "Little independent evidence that peptides grow hair",
+        "Little independent evidence that non-prostaglandin serums grow hair",
         "Results are usually subtler than prostaglandin serums",
-        "Thin, runny texture needs careful application near the eyes",
+        "Costs about as much as GrandeBROW per tube",
       ],
       bottomLine:
-        "The gentle, affordable first choice if you want to avoid prostaglandin analogs. Expect subtler results.",
+        "The gentler first choice if you want to avoid prostaglandin analogs. Expect subtler results.",
     },
     {
       id: "rapidbrow-serum",
@@ -204,7 +205,7 @@ export const bestEyebrowGrowthSerum: RoundupData = {
       description: [
         "Babe Original, formerly known to many buyers as Babe Lash, built its reputation on lash serums and sells a brow serum to match. The Amplifying Brow Serum comes in a 3 mL tube with a precision applicator and is marketed for thicker-looking brows. If you already use a Babe lash product and like it, keeping your brow and lash routines in the same brand is convenient.",
         "As with RapidBrow, the main caveat is ingredient clarity. The brand has reformulated and rebranded over the years, so check the current ingredient list on the listing before buying to see whether it contains a prostaglandin analog or relies on peptides and conditioners. That determines both how much change to expect and which side effects to watch for.",
-        "Skip it if you are not already a Babe customer. At its usual price it costs more per month than GrandeBROW without a clear advantage, and the transparency of GrandeBROW's and The Ordinary's labels makes them easier picks. It ranks here as a reasonable choice for brand loyalists rather than a first recommendation.",
+        "Skip it if you are not already a Babe customer. At its usual price it costs more per month than GrandeBROW without a clear advantage, and the clear labeling of GrandeBROW and ForChics makes them easier picks. It ranks here as a reasonable choice for brand loyalists rather than a first recommendation.",
       ],
       pros: [
         "Pairs naturally with the brand's lash serums",
@@ -237,7 +238,7 @@ export const bestEyebrowGrowthSerum: RoundupData = {
       description: [
         "Anastasia Beverly Hills is one of the most recognized names in brow makeup, and Brow Genius is the brand's conditioning serum treatment, designed to make brows look fuller and healthier over time. It is a natural fit for anyone who already shapes and fills their brows with ABH products and wants to add a treatment step from the same brand.",
         "It ranks last because of value and evidence rather than quality. It is one of the most expensive brow serums on this list, and the brand positions it as a conditioning treatment rather than a growth drug. Conditioning can make existing brow hairs look glossier and healthier, but there is little independent evidence that conditioning-focused serums meaningfully increase brow density. A mini size is available if you want to try it before committing to the full tube.",
-        "Skip it if your priority is visible regrowth or value for money. GrandeBROW is more likely to produce a noticeable change for less, and The Ordinary is far cheaper if you want a gentle, prostaglandin-free option. Choose ABH because you love the brand, not because it is the most effective serum.",
+        "Skip it if your priority is visible regrowth or value for money. GrandeBROW is more likely to produce a noticeable change for less, and ForChics costs less if you want a gentle, prostaglandin-free option. Choose ABH because you love the brand, not because it is the most effective serum.",
       ],
       pros: [
         "From a brand that specializes in brows",
@@ -343,7 +344,7 @@ export const bestEyebrowGrowthSerum: RoundupData = {
     rows: [
       { label: "GrandeBROW Serum (3 mL)", values: ["Serum", "Yes", "Moderate", "Best overall"] },
       { label: "RevitaBrow Advanced", values: ["Serum", "Yes", "High", "Premium buyers"] },
-      { label: "The Ordinary Multi-Peptide", values: ["Serum", "No", "Low", "Prostaglandin-free"] },
+      { label: "ForChics Brow Serum", values: ["Serum", "No", "Low", "Prostaglandin-free"] },
       { label: "RapidBrow", values: ["Serum", "Check label", "Moderate", "Drugstore convenience"] },
       { label: "GrandeBROW 2-in-1 Tinted", values: ["Tinted gel", "Check label", "Moderate", "Instant fill"] },
       { label: "Babe Original Brow Serum", values: ["Serum", "Check label", "Moderate to high", "Babe lash users"] },
@@ -375,7 +376,7 @@ export const bestEyebrowGrowthSerum: RoundupData = {
   faq: [
     {
       q: "What is the best eyebrow growth serum?",
-      a: "For most adults, GrandeBROW is the best eyebrow growth serum. It uses a prostaglandin analog with a long track record, discloses it clearly, and the 3 mL tube has a lower cost per month than most rivals. If you want to avoid prostaglandin analogs, The Ordinary Multi-Peptide Lash and Brow Serum is the best gentle, affordable alternative.",
+      a: "For most adults, GrandeBROW is the best eyebrow growth serum. It uses a prostaglandin analog with a long track record, discloses it clearly, and the 3 mL tube has a lower cost per month than most rivals. If you want to avoid prostaglandin analogs, ForChics Eyebrow Growth Serum is the best gentle alternative.",
     },
     {
       q: "Do eyebrow growth serums actually work?",
@@ -403,7 +404,7 @@ export const bestEyebrowGrowthSerum: RoundupData = {
     },
   ],
   bottomLine:
-    "The best eyebrow growth serum for most adults is GrandeBROW, a prostaglandin-analog serum with clear labeling and good value. RevitaBrow Advanced is the premium alternative, and The Ordinary Multi-Peptide serum is the best gentle option if you need to avoid prostaglandins. Read the ingredient list, apply sparingly, give it three months, and see a doctor if your brow loss is sudden or patchy.",
+    "The best eyebrow growth serum for most adults is GrandeBROW, a prostaglandin-analog serum with clear labeling and good value. RevitaBrow Advanced is the premium alternative, and ForChics is the best gentle option if you need to avoid prostaglandins. Read the ingredient list, apply sparingly, give it three months, and see a doctor if your brow loss is sudden or patchy.",
   relatedRoundups: [
     "best-eyelash-growth-serum",
     "best-beard-growth-oil",

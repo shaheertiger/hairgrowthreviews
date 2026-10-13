@@ -220,6 +220,7 @@ export const viviscal: ReviewData = {
     "Viviscal is a well-established, easy-to-find oral supplement with a fair refund policy, but its headline efficacy numbers are self-reported and company-funded — and its shellfish-derived ingredients rule it out entirely for allergic or vegan users.",
   guarantee: "90-day money-back guarantee (direct purchases only)",
   affiliateUrl: "https://www.amazon.com/s?k=viviscal+extra+strength",
+  asin: "B0GQJWBFZ6",
   relatedSlugs: ["bloom", "just-natural-hair-growth-treatment", "pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo"],
   updatedDate: "August 2026",
 };

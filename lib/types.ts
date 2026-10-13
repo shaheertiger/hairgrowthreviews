@@ -67,6 +67,8 @@ export interface ReviewData {
   guarantee?: string;
   safetyNote?: string;
   affiliateUrl: string;
+  /** Exact Amazon listing for this product; when set (and live per amazon:sync) it replaces affiliateUrl. */
+  asin?: string;
   relatedSlugs: string[];
   updatedDate: string;
 }

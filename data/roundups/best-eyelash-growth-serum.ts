@@ -6,7 +6,7 @@ export const bestEyelashGrowthSerum: RoundupData = {
   crumb: "Best Eyelash Growth Serum",
   metaTitle: "Best Eyelash Growth Serum (2026): 6 Picks Ranked on Safety",
   metaDescription:
-    "GrandeLASH-MD, RevitaLash, The Ordinary and more, ranked on ingredients, eye-safety risks and value, plus how over-the-counter serums compare with Latisse.",
+    "GrandeLASH-MD, RevitaLash, ForChics and more, ranked on ingredients, eye-safety risks and value, plus how over-the-counter serums compare with Latisse.",
   h1: "The Best Eyelash Growth Serums, and the Eye-Safety Trade-Offs",
   dek: "The lash serums that work best tend to borrow from glaucoma drugs. That is why they can lengthen lashes, and why they can also darken eyelids and, rarely, eye color. Here is how to choose carefully.",
   intro: [
@@ -18,7 +18,7 @@ export const bestEyelashGrowthSerum: RoundupData = {
     "GrandeLASH-MD is the best overall over-the-counter lash serum: a clearly labeled prostaglandin-analog formula with a strong track record and fair cost per month.",
     "Latisse (bimatoprost 0.03%) is the only FDA-approved eyelash growth treatment. It needs a prescription and has the strongest clinical evidence.",
     "Prostaglandin-analog serums can darken eyelid skin and cause eye redness and irritation; prostaglandin drugs also carry a rare risk of permanent iris darkening.",
-    "The Ordinary Multi-Peptide Lash and Brow Serum is the best prostaglandin-free value pick, but expect subtler results.",
+    "ForChics' prostaglandin-free lash serum is the best pick if you want to avoid prostaglandin analogs, but expect subtler results.",
     "Remove contact lenses before applying, use one thin stroke along the upper lash line only, and avoid prostaglandin serums during pregnancy.",
   ],
   products: [
@@ -89,35 +89,37 @@ export const bestEyelashGrowthSerum: RoundupData = {
       bottomLine: "A polished premium option. Worth it for brand preference, not for proven extra results.",
     },
     {
-      id: "the-ordinary-multi-peptide-lash",
-      name: "The Ordinary Multi-Peptide Lash and Brow Serum (0.16 fl oz)",
-      brand: "The Ordinary",
-      badge: "Best Prostaglandin-Free Value",
-      category: "Peptide Lash & Brow Serum",
+      id: "forchics-eyelash-serum",
+      name: "ForChics Prostaglandin-Free Eyelash Growth Serum",
+      brand: "ForChics",
+      asin: "B097R35Y3Q",
+      badge: "Best Prostaglandin-Free",
+      category: "Prostaglandin-Free Lash Serum",
       score: 4.5,
-      bestFor: "People who want to avoid prostaglandin analogs, including those with sensitive eyes or light-colored irises",
+      bestFor: "People who want to avoid prostaglandin analogs, including contact lens wearers and anyone with light-colored eyes",
       keySpecs: [
-        { label: "Key actives", value: "Peptide complex" },
-        { label: "Prostaglandin analog", value: "No" },
-        { label: "Size", value: "0.16 fl oz (5 mL)" },
-        { label: "Application", value: "Daily, lashes and brows" },
+        { label: "Prostaglandin analog", value: "No (per listing)" },
+        { label: "Format", value: "Lash serum with brush applicator" },
+        { label: "Application", value: "Daily at the lash line, per the label" },
+        { label: "Check before buying", value: "Current ingredient list" },
       ],
       description: [
-        "The Ordinary's Multi-Peptide Lash and Brow Serum is the best value for anyone who wants to stay away from prostaglandin analogs. It uses a blend of peptides and conditioning ingredients, can be applied to both lashes and brows, and costs a fraction of the prostaglandin-based serums. For people with light-colored eyes who are wary of any pigment risk, or who reacted badly to a prostaglandin serum, it is the logical first try.",
-        "The trade-off is evidence. Independent research showing that peptides meaningfully lengthen lashes is limited, and most data in this space comes from ingredient manufacturers. Buyer feedback reflects that: many people like the conditioning effect and see healthier-looking lashes, while those switching from GrandeLASH-MD or Latisse often notice a smaller change. The thin texture also needs care so it does not run into the eye.",
-        "Skip it if you want the most dramatic change and have no reason to avoid prostaglandin analogs. Otherwise, it is the lowest-risk, lowest-cost way to see whether a lash serum is worth it for you.",
+        "ForChics' lash serum is our pick for anyone who wants to stay away from prostaglandin analogs. The prostaglandin-free claim is in the product's own Amazon listing title, which takes the category's most serious side-effect questions off the table: darkening of the eyelid skin, irritation and redness tied to prostaglandin analogs, and the small but real risk of iris color change that prostaglandin drugs carry.",
+        "The trade-off is effect size. Prostaglandin-free lash serums rely on conditioning and supporting ingredients, and independent research showing they grow meaningfully longer lashes is limited; most of the supporting data comes from manufacturers. Many buyers find lashes look healthier and break less, but people switching from a prostaglandin serum usually notice a smaller change. Read the current ingredient list on the listing before you buy, and stop if you get any eye irritation.",
+        "Skip it if you want the most dramatic result and a prostaglandin analog is safe for you, since GrandeLASH-MD is more likely to deliver that. Everyone else, especially anyone with light-colored eyes or sensitive eyelids, should start here.",
       ],
       pros: [
-        "Prostaglandin-free, avoiding the pigment risks of that class",
-        "Very low price for a sizeable tube",
-        "Works on lashes and brows",
+        "Listing states a prostaglandin-free formula",
+        "Avoids the eyelid-darkening and iris-color risks of prostaglandin analogs",
+        "Sensible first step for sensitive eyes",
       ],
       cons: [
-        "Limited independent evidence for peptides",
+        "Little independent evidence that non-prostaglandin serums grow lashes",
         "Results are usually subtler than prostaglandin serums",
-        "Runny texture needs careful application",
+        "Priced close to GrandeLASH-MD's smaller sizes",
       ],
-      bottomLine: "The gentle, low-cost choice. Start here if you want to avoid prostaglandins entirely.",
+      bottomLine:
+        "The gentler first choice if you want to avoid prostaglandin analogs. Expect subtler results.",
     },
     {
       id: "rapidlash-serum",
@@ -169,7 +171,7 @@ export const bestEyelashGrowthSerum: RoundupData = {
       description: [
         "Babe Original, the brand many buyers still know as Babe Lash, built its name on lash serums. Its Renewing Lash Serum is a peptide-focused formula in a generous 6 mL tube, positioned as a gentler option for longer-looking lashes. For buyers who want something more established than a budget brand but are wary of prostaglandin analogs, it is a reasonable middle ground.",
         "Keep the evidence in mind. Like other peptide serums, it is more likely to condition lashes and make them look healthier than to produce the dramatic length changes associated with prostaglandin formulas. Because the brand sells several lash products and has reformulated over the years, check the current ingredient list on the listing to confirm exactly what this version contains before you buy.",
-        "Skip it if you want maximum results, where GrandeLASH-MD is more likely to deliver, or if you want the cheapest peptide option, where The Ordinary costs much less. It is a pick for buyers who value the brand and a larger tube.",
+        "Skip it if you want maximum results, where GrandeLASH-MD is more likely to deliver, or if you want the cheapest gentle option, where e.l.f. costs much less. It is a pick for buyers who value the brand and a larger tube.",
       ],
       pros: [
         "Peptide-focused formula from a well-known lash brand",
@@ -178,7 +180,7 @@ export const bestEyelashGrowthSerum: RoundupData = {
       ],
       cons: [
         "Peptide evidence is limited",
-        "Costs much more than The Ordinary's peptide serum",
+        "Costs much more than e.l.f.'s budget lash and brow serum",
         "Check the label to confirm the current formula",
       ],
       bottomLine: "A brand-name peptide serum with a big tube. Good for loyalists, but not the best value.",
@@ -308,7 +310,7 @@ export const bestEyelashGrowthSerum: RoundupData = {
     rows: [
       { label: "GrandeLASH-MD (2 mL)", values: ["Serum", "Yes", "Moderate", "Best overall"] },
       { label: "RevitaLash Advanced (2.0 mL)", values: ["Serum", "Yes", "High", "Premium buyers"] },
-      { label: "The Ordinary Multi-Peptide", values: ["Serum", "No", "Low", "Prostaglandin-free value"] },
+      { label: "ForChics Lash Serum", values: ["Serum", "No", "Low", "Prostaglandin-free"] },
       { label: "RapidLash", values: ["Serum", "Check label", "Moderate", "Drugstore convenience"] },
       { label: "Babe Original Renewing Lash Serum", values: ["Peptide serum", "Check label", "Moderate to high", "Brand-name peptide"] },
       { label: "e.l.f. Lash & Brow Serum", values: ["Conditioning serum", "Check label", "Lowest", "Tight budgets"] },
@@ -339,7 +341,7 @@ export const bestEyelashGrowthSerum: RoundupData = {
   faq: [
     {
       q: "What is the best eyelash growth serum?",
-      a: "For most adults without eye conditions, GrandeLASH-MD is the best over-the-counter eyelash growth serum thanks to its clearly labeled prostaglandin-analog formula and fair cost per month. If you want to avoid prostaglandins, The Ordinary Multi-Peptide Lash and Brow Serum is the best gentle value pick. Latisse remains the only FDA-approved option.",
+      a: "For most adults without eye conditions, GrandeLASH-MD is the best over-the-counter eyelash growth serum thanks to its clearly labeled prostaglandin-analog formula and fair cost per month. If you want to avoid prostaglandins, ForChics' prostaglandin-free lash serum is the best gentle pick. Latisse remains the only FDA-approved option.",
     },
     {
       q: "Is Latisse better than over-the-counter lash serums?",
@@ -367,7 +369,7 @@ export const bestEyelashGrowthSerum: RoundupData = {
     },
   ],
   bottomLine:
-    "The best over-the-counter eyelash growth serum for most adults is GrandeLASH-MD, provided a prostaglandin analog is safe for you. RevitaLash Advanced is the premium alternative, and The Ordinary is the best gentle, prostaglandin-free choice. For the strongest evidence, ask a doctor about Latisse, and whatever you use, apply one thin line to the upper lash line only.",
+    "The best over-the-counter eyelash growth serum for most adults is GrandeLASH-MD, provided a prostaglandin analog is safe for you. RevitaLash Advanced is the premium alternative, and ForChics is the best gentle, prostaglandin-free choice. For the strongest evidence, ask a doctor about Latisse, and whatever you use, apply one thin line to the upper lash line only.",
   relatedRoundups: [
     "best-eyebrow-growth-serum",
     "best-hair-growth-serum",

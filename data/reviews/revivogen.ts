@@ -219,6 +219,7 @@ export const revivogen: ReviewData = {
     "Revivogen is one of the more established natural DHT-blockers on the market, with a fair refund policy that offsets its slow-acting nature — a reasonable pick if you specifically want to avoid minoxidil, but its headline efficacy statistic should be treated skeptically.",
   guarantee: "90 days on MD products (60 days on PRO), refund minus shipping, one per household",
   affiliateUrl: "https://www.revivogen.com/",
+  asin: "B000GI3U9Y",
   relatedSlugs: ["biotopic-premium-hair-regrowth-serum", "amplixin-intensive-hair-growth-serum", "burst-by-nourish-beaute"],
   updatedDate: "August 2026",
 };

@@ -13,6 +13,7 @@ import { join } from "path";
 import { createClient, sleep } from "./client.mjs";
 import { GetItemsRequestContent, type GetItemsResource } from "amazon-creators-api";
 import { roundups } from "../../data/roundups";
+import { reviews } from "../../data/reviews";
 
 const OUT = join(__dirname, "..", "..", "data", "amazon", "products.json");
 const BATCH = 10; // GetItems accepts up to 10 ASINs per call
@@ -34,6 +35,10 @@ async function main() {
       }
       wanted.set(p.asin, [...(wanted.get(p.asin) ?? []), `${r.slug}#${p.id} (${p.name})`]);
     }
+  }
+
+  for (const r of reviews) {
+    if (r.asin) wanted.set(r.asin, [...(wanted.get(r.asin) ?? []), `review:${r.slug} (${r.productName})`]);
   }
 
   const asins = [...wanted.keys()];
