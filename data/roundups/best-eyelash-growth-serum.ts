@@ -92,7 +92,6 @@ export const bestEyelashGrowthSerum: RoundupData = {
       id: "the-ordinary-multi-peptide-lash",
       name: "The Ordinary Multi-Peptide Lash and Brow Serum (0.16 fl oz)",
       brand: "The Ordinary",
-      asin: "B0B5DYY1HQ",
       badge: "Best Prostaglandin-Free Value",
       category: "Peptide Lash & Brow Serum",
       score: 4.5,

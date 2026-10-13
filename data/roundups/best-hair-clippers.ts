@@ -125,9 +125,9 @@ export const bestHairClippers: RoundupData = {
     },
     {
       id: "wahl-magic-clip-cordless",
-      name: "Wahl Professional 5 Star Magic Clip Cord/Cordless Clipper",
+      name: "Wahl Professional 5 Star Black Magic Clip Cord/Cordless Clipper",
       brand: "Wahl Professional",
-      asin: "B00UK8WFQO",
+      asin: "B0CVLHN6PL",
       badge: "Best for Fades",
       category: "Professional Cord/Cordless Clipper",
       score: 4.4,
