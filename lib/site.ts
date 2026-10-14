@@ -6,6 +6,8 @@ export const site = {
   description:
     "Independent, research-backed reviews of hair regrowth serums, shampoos, supplements, and treatments — tested claims, real ingredients, honest verdicts.",
   twitter: "@hairgrowthreviews",
+  /** Google Analytics 4 measurement ID. Public by design — it ships in every page. */
+  gaMeasurementId: "G-8ZN36EPPJ2",
   navCategories: [
     {
       label: "Best Picks",
