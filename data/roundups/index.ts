@@ -53,6 +53,10 @@ import { bestHairDyeForMen } from "./best-hair-dye-for-men";
 import { bestNoseHairTrimmer } from "./best-nose-hair-trimmer";
 import { bestBodyGroomerForMen } from "./best-body-groomer-for-men";
 import { bestBeardGroomingKit } from "./best-beard-grooming-kit";
+import { bestBiotinForHairGrowth } from "./best-biotin-for-hair-growth";
+import { bestBatanaOil } from "./best-batana-oil";
+import { bestCastorOilForHairGrowth } from "./best-castor-oil-for-hair-growth";
+import { bestPumpkinSeedOilForHairLoss } from "./best-pumpkin-seed-oil-for-hair-loss";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -117,4 +121,8 @@ export const roundups: RoundupData[] = [
   bestNoseHairTrimmer,
   bestBodyGroomerForMen,
   bestBeardGroomingKit,
+  bestBiotinForHairGrowth,
+  bestBatanaOil,
+  bestCastorOilForHairGrowth,
+  bestPumpkinSeedOilForHairLoss,
 ];

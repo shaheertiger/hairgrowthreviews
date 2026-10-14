@@ -1,0 +1,426 @@
+import { RoundupData } from "@/lib/types";
+
+export const bestCastorOilForHairGrowth: RoundupData = {
+  slug: "best-castor-oil-for-hair-growth",
+  hub: "Hair Growth & Hair Loss",
+  crumb: "Best Castor Oil for Hair Growth",
+  metaTitle: "Best Castor Oil for Hair Growth (2026): 7 Picks Ranked on Purity",
+  metaDescription:
+    "No trial shows castor oil grows hair, but it can cut breakage. We ranked Sky Organics, Heritage Store, Tropic Isle JBCO and more on purity, form and value.",
+  h1: "The Best Castor Oil for Hair Growth: What It Can and Can't Do",
+  dek: "Castor oil is cheap, thick and everywhere in hair-growth videos. No clinical trial shows it regrows hair, but used well it can protect fragile hair from breaking. Here is how to pick a clean bottle and use it without the mess.",
+  intro: [
+    "The best castor oil for hair growth is a plain, cold-pressed, hexane-free oil from a brand that states its sourcing and processing on the label, used sparingly as a conditioning and sealing oil. That last part matters, because castor oil has one of the biggest gaps between reputation and evidence in hair care. Videos credit it with thicker edges, fuller brows and regrown bald spots. No published clinical trial has shown that castor oil grows hair on the scalp, brows or lashes.",
+    "What castor oil does well is coat the hair. It is unusually thick and sticky, and a thin layer on the lengths reduces friction, seals in moisture and helps fragile hair resist breaking. For people with dry, coarse, curly or coily hair, or for edges damaged by tight styles, keeping more of the hair you already grow can look like faster growth. That is a real benefit, and it is the reason we still think castor oil earns a place in many routines. It is not a hair loss treatment, and it is not FDA-approved for anything hair-related; topical minoxidil is the only over-the-counter drug approved for regrowth.",
+    "This page is only about castor oil, both clear and Jamaican black. For a broader comparison of hair oils, see our guide to the best hair growth oil, and for the newer Honduran trend, see our batana oil guide. We ranked the castor oils below on processing transparency, certifications stated in the listing, bottle size and value, ease of application and buyer feedback. This is research-based, not a hands-on test, and every pick links to its exact Amazon listing.",
+  ],
+  keyTakeaways: [
+    "No clinical trial shows castor oil grows hair. It is a thick conditioning oil that can reduce breakage and help you retain length.",
+    "Sky Organics Organic Castor Oil is our best overall pick: cold-pressed, hexane-free and organic, in a 16 oz bottle at a fair price.",
+    "Look for cold-pressed and hexane-free on the label; those terms mean the oil was mechanically pressed rather than solvent-extracted.",
+    "Jamaican black castor oil is made from roasted beans. It looks and smells different, but there is no evidence it grows hair better than clear castor oil.",
+    "Dilute castor oil or use small amounts, wash it out well, and keep it out of your eyes. Heavy use on long hair can cause severe tangling.",
+  ],
+  products: [
+    {
+      id: "sky-organics-castor-oil",
+      name: "Sky Organics Organic Castor Oil, Cold Pressed and Hexane Free (16 oz)",
+      brand: "Sky Organics",
+      asin: "B0186U9736",
+      badge: "Best Overall",
+      category: "Organic Cold-Pressed Castor Oil",
+      score: 4.7,
+      bestFor: "Most people who want one clean, versatile castor oil for hair, brows and skin",
+      keySpecs: [
+        { label: "Type", value: "Clear castor oil" },
+        { label: "Processing", value: "Cold-pressed, hexane-free (per listing)" },
+        { label: "Size", value: "16 oz" },
+        { label: "Certification", value: "Organic (per listing)" },
+      ],
+      description: [
+        "Sky Organics is the castor oil most buyers end up with, and it deserves its popularity. The listing states that it is organic, cold-pressed and hexane-free, which covers the three label claims that matter most in this category, and the 16 oz bottle is large enough to last months of pre-wash treatments, brow care and scalp massage.",
+        "As a clear castor oil, it is lighter in color and milder in smell than Jamaican black castor oil, which makes it easier to use on light hair, brows and lashes. It is still very thick, so most people do best mixing a few drops with a lighter oil such as jojoba or using a small amount on the lengths and ends before washing.",
+        "Skip it if you are looking for a regrowth product. Like every castor oil, it has no clinical evidence for growing hair. Buy it if you want a clean, reliable conditioning oil from a brand with a long track record on Amazon.",
+      ],
+      pros: [
+        "Organic, cold-pressed and hexane-free per the listing",
+        "Large 16 oz bottle at a fair price",
+        "Mild enough for brows, lashes and light hair",
+        "Widely sold with a long track record",
+      ],
+      cons: [
+        "Very thick; needs diluting for easy use",
+        "No evidence it grows hair",
+        "Large bottle can be messy without a dropper or pump",
+      ],
+      bottomLine: "The castor oil to buy if you only buy one: clean, versatile and fairly priced.",
+    },
+    {
+      id: "majestic-pure-organic-castor-oil",
+      name: "Majestic Pure USDA Organic Castor Oil Hair Tonic (16 fl oz)",
+      brand: "Majestic Pure",
+      asin: "B0CKXTLXSX",
+      badge: "Best Value Organic",
+      category: "Organic Cold-Pressed Castor Oil",
+      score: 4.6,
+      bestFor: "Budget buyers who still want USDA Organic, cold-pressed oil",
+      keySpecs: [
+        { label: "Type", value: "Clear castor oil" },
+        { label: "Processing", value: "Cold-pressed, hexane-free (per listing)" },
+        { label: "Size", value: "16 fl oz" },
+        { label: "Certification", value: "USDA Organic (per listing)" },
+      ],
+      description: [
+        "Majestic Pure's castor oil offers the same headline claims as our top pick, USDA Organic, cold-pressed and hexane-free per the listing, in a 16 fl oz bottle that usually costs less. For a product that you will use liberally for pre-wash treatments, that saving adds up.",
+        "The word tonic in the name is marketing; the product is plain castor oil. There is nothing in it designed to stimulate follicles, and no castor oil has been shown to do that. What you are buying is a well-labeled organic oil from an established Amazon brand that sells a wide range of oils and personal care products.",
+        "Choose this over Sky Organics if price is the deciding factor and you are happy with a slightly less familiar name. Skip it if you want a smaller bottle with a precise applicator for brows or edges, where the roll-on further down this list is easier to control.",
+      ],
+      pros: [
+        "USDA Organic, cold-pressed and hexane-free per listing",
+        "Lower cost per ounce than most organic brands",
+        "Generous 16 fl oz size",
+      ],
+      cons: [
+        "Tonic naming oversells a plain oil",
+        "Thick and messy without a dropper",
+      ],
+      bottomLine: "Certified organic castor oil for less. The smart budget pick for pre-wash treatments.",
+    },
+    {
+      id: "heritage-store-organic-castor-oil",
+      name: "Heritage Store USDA Organic Castor Oil, Cold Pressed (16 fl oz)",
+      brand: "Heritage Store",
+      asin: "B0013YYNDM",
+      badge: "Most Established Brand",
+      category: "Organic Cold-Pressed Castor Oil",
+      score: 4.5,
+      bestFor: "Buyers who want a castor oil specialist with decades of history",
+      keySpecs: [
+        { label: "Type", value: "Clear castor oil" },
+        { label: "Processing", value: "Cold-pressed, hexane-free (per listing)" },
+        { label: "Size", value: "16 fl oz" },
+        { label: "Certification", value: "USDA Organic (per listing)" },
+      ],
+      description: [
+        "Heritage Store has been selling castor oil far longer than the Amazon-native brands on this list, and castor oil is one of its signature products. The listing states this oil is USDA Organic, cold-pressed and hexane-free, matching the cleanest options here, and the brand sells it in several sizes alongside castor oil packs and a roll-on.",
+        "In use it is the same thick, clear oil as our top two picks. The reason to choose it is confidence in the source: a specialist brand with a long history has more reputation at stake than a newer seller. If you have had a bad experience with a rancid or oddly scented bottle from an unknown brand, this is a safe reset.",
+        "The trade-off is price. Heritage Store typically costs more per ounce than Sky Organics or Majestic Pure for a similar organic, cold-pressed oil. Skip it if cost is your priority; the oil inside is not more effective for hair.",
+      ],
+      pros: [
+        "Long-established castor oil specialist",
+        "USDA Organic, cold-pressed and hexane-free per listing",
+        "Sold in multiple sizes and formats",
+      ],
+      cons: [
+        "Costs more per ounce than the top two picks",
+        "No evidence it grows hair",
+      ],
+      bottomLine: "The heritage choice. Pay a little more for a castor oil specialist's track record.",
+    },
+    {
+      id: "tropic-isle-jbco",
+      name: "Tropic Isle Living Jamaican Black Castor Oil (8 fl oz)",
+      brand: "Tropic Isle Living",
+      asin: "B003CTTZQQ",
+      badge: "Best Jamaican Black Castor Oil",
+      category: "Jamaican Black Castor Oil",
+      score: 4.4,
+      bestFor: "Textured-hair users who want traditional roasted-bean JBCO",
+      keySpecs: [
+        { label: "Type", value: "Jamaican black castor oil" },
+        { label: "Size", value: "8 fl oz" },
+        { label: "Listing highlights", value: "Vitamin E, omega fatty acids" },
+        { label: "Best use", value: "Sealing ends, edges, scalp massage" },
+      ],
+      description: [
+        "Tropic Isle Living is one of the best-known Jamaican black castor oil brands, and this 8 fl oz bottle is a staple in many natural-hair routines. JBCO is made from roasted castor beans, which gives it a dark color and a smoky smell that many users associate with the traditional product.",
+        "The JBCO community often claims the roasting process, and the ash it leaves, make the oil more effective for growth or better at clarifying the scalp. There is no clinical evidence for either claim. What JBCO does offer is the same sealing and conditioning behavior as clear castor oil, with a scent and tradition that many people prefer.",
+        "It works best on thick, coarse, curly and coily hair, where a small amount seals moisture into the ends and protects fragile edges. Skip it if you have very light, blonde or gray hair you do not want tinted, or if you dislike strong scents. A clear castor oil does the same job more neutrally.",
+      ],
+      pros: [
+        "Well-known traditional JBCO brand",
+        "Smoky scent many textured-hair users prefer",
+        "Good sealing oil for coily and curly ends",
+      ],
+      cons: [
+        "Growth and clarifying claims are not supported by evidence",
+        "Dark oil can tint very light hair",
+        "Strong scent is not for everyone",
+      ],
+      bottomLine: "The traditional JBCO to buy if you want the roasted-bean version. Expect conditioning, not regrowth.",
+    },
+    {
+      id: "sunny-isle-extra-dark-jbco",
+      name: "Sunny Isle Extra Dark Jamaican Black Castor Oil (8 oz)",
+      brand: "Sunny Isle",
+      asin: "B003KFFGVA",
+      badge: "Best for Thick, Coily Hair",
+      category: "Jamaican Black Castor Oil",
+      score: 4.3,
+      bestFor: "Very dry, dense or coily hair that drinks up heavy oils",
+      keySpecs: [
+        { label: "Type", value: "Extra dark Jamaican black castor oil" },
+        { label: "Size", value: "8 oz" },
+        { label: "Scent", value: "Unscented (per listing)" },
+        { label: "Best use", value: "Hot oil treatment, sealing ends" },
+      ],
+      description: [
+        "Sunny Isle is the other long-standing name in Jamaican black castor oil, and its Extra Dark version is marketed as a richer, thicker oil than the brand's original. The listing describes it as unscented, meaning no fragrance is added; JBCO's natural roasted smell is still there.",
+        "This is the castor oil we would point to for very dense, dry or coily hair, where a heavy oil is welcome rather than a burden. It works well as a warm pre-wash treatment: apply to the lengths and scalp, cover with a shower cap for 30 minutes, then shampoo. On fine or straight hair it is simply too heavy.",
+        "As with all JBCO, the extra darkness is about processing, not potency. There is no evidence an extra dark oil grows more hair. Skip it if your hair is fine, oily or light in color, or if you want something for brows and lashes, where a clear oil is easier to manage.",
+      ],
+      pros: [
+        "Rich, heavy texture suits very dry, dense hair",
+        "No added fragrance per the listing",
+        "Established JBCO brand",
+      ],
+      cons: [
+        "Too heavy for fine or oily hair",
+        "Darkest oil on the list; may tint light hair",
+        "Extra dark does not mean more effective",
+      ],
+      bottomLine: "A rich JBCO for very thick, dry hair. Everyone else should choose a lighter option.",
+    },
+    {
+      id: "heritage-store-castor-roll-on",
+      name: "Heritage Store Castor Oil Roll-On (3 fl oz)",
+      brand: "Heritage Store",
+      asin: "B0013ZFU2O",
+      badge: "Best for Brows and Edges",
+      category: "Castor Oil Roll-On",
+      score: 4.1,
+      bestFor: "Targeted, mess-free application on brows, edges and small spots",
+      keySpecs: [
+        { label: "Type", value: "Clear castor oil" },
+        { label: "Applicator", value: "Roll-on" },
+        { label: "Size", value: "3 fl oz" },
+        { label: "Listing notes", value: "Hexane-free, vegan" },
+      ],
+      description: [
+        "The biggest practical problem with castor oil is that it is thick, sticky and hard to control. Heritage Store's roll-on solves that for small areas. Instead of pouring oil onto your fingers, you roll a thin line along your brows, edges or a dry patch of scalp, which uses less product and makes far less mess.",
+        "That precision suits the places people most often use castor oil: thinning brows and edges stressed by tight braids, ponytails or edge control. To be clear, no castor oil has been shown to regrow brows or edges. If tight styling is the cause, loosening those styles is what lets hair recover; the oil can help soften and protect what is there.",
+        "Skip it for full-scalp or full-length treatments, where the small bottle runs out quickly and a 16 oz bottle is far better value. Keep the roller away from your eyes and lash line.",
+      ],
+      pros: [
+        "Roll-on applicator is precise and mess-free",
+        "Uses less oil per application",
+        "From a long-established castor oil brand",
+      ],
+      cons: [
+        "Poor value for full-scalp use",
+        "Not suitable for use right at the lash line",
+      ],
+      bottomLine: "The easiest way to use castor oil on brows and edges without the sticky mess.",
+    },
+    {
+      id: "handcraft-blends-organic-castor",
+      name: "Handcraft Blends Organic Castor Oil (16 fl oz)",
+      brand: "Handcraft Blends",
+      asin: "B0734849YK",
+      badge: "Cheapest Big Bottle",
+      category: "Expeller-Pressed Castor Oil",
+      score: 4.0,
+      bestFor: "Frequent pre-wash users who want the lowest cost per ounce",
+      keySpecs: [
+        { label: "Type", value: "Clear castor oil" },
+        { label: "Processing", value: "Expeller-pressed, hexane-free (per listing)" },
+        { label: "Size", value: "16 fl oz" },
+        { label: "Cost", value: "Lowest per ounce we found" },
+      ],
+      description: [
+        "Handcraft Blends' organic castor oil is the cheapest 16 oz bottle from an established oil brand that we found, often costing noticeably less than the other organic options here. The listing describes it as expeller-pressed and hexane-free, so it is mechanically pressed rather than solvent-extracted.",
+        "Expeller-pressed is not quite the same as cold-pressed. Both use mechanical pressure, but expeller pressing can generate more heat unless the temperature is controlled. There is no evidence that this difference affects how castor oil performs on hair, so for pre-wash treatments where you are using a lot of oil, the savings are real and the trade-off is mostly theoretical.",
+        "We rank it last because the listing makes fewer processing claims than the cold-pressed picks above. Skip it if cold-pressed processing matters to you; otherwise it is a perfectly sensible bulk oil.",
+      ],
+      pros: [
+        "Lowest cost per ounce on this list",
+        "Hexane-free from an established oil brand",
+        "Large 16 fl oz bottle",
+      ],
+      cons: [
+        "Expeller-pressed rather than cold-pressed",
+        "Fewer label claims than the top picks",
+      ],
+      bottomLine: "The best bulk castor oil for frequent pre-wash users who care more about price than processing.",
+    },
+  ],
+  picksAfter: 2,
+  picksHeading: "The 7 Best Castor Oils for Hair Growth",
+  picksIntro:
+    "We ranked these castor oils as conditioning and sealing oils, not as hair loss treatments. Rankings reflect processing transparency, certifications stated in the listing, ease of application, value and buyer feedback.",
+  sections: [
+    {
+      id: "castor-oil-evidence",
+      heading: "Does Castor Oil Grow Hair? The Honest Answer",
+      body: [
+        "Castor oil's reputation is built on testimonials, family tradition and social media, not clinical trials. We could not find any published controlled trial showing that castor oil grows scalp hair, eyebrows or eyelashes in people. Reviews of the topic have reached the same conclusion: the evidence for castor oil as a hair growth treatment is essentially absent.",
+        "Most of the scientific-sounding claims trace back to ricinoleic acid, the fatty acid that makes up the large majority of castor oil. You will see claims online that ricinoleic acid blocks a scalp prostaglandin linked to balding or improves circulation to follicles. Those are theories built on unrelated lab findings, and none has been tested in a human hair loss trial.",
+        "That is very different from treatments with real evidence. Topical minoxidil has decades of controlled trials behind it and is FDA-approved for regrowth. Finasteride, a prescription drug for men, has strong evidence too. Even rosemary oil has one small trial, which is more than castor oil can claim.",
+        "So why does castor oil have so many fans? Because it genuinely helps with something adjacent to growth: keeping the hair you already have. That is the subject of the next section, and it is the honest reason to buy it.",
+      ],
+      pullQuote: "Castor oil's reputation is built on testimonials, family tradition and social media, not clinical trials.",
+      keyPoint:
+        "No published clinical trial shows castor oil grows hair. Ricinoleic acid theories have not been tested in human hair loss studies.",
+    },
+    {
+      id: "what-castor-oil-does",
+      heading: "What Castor Oil Actually Does for Hair",
+      body: [
+        "Castor oil is far thicker than most cosmetic oils, and that viscosity is its main feature. A thin coat on the hair shaft smooths the cuticle, adds shine, reduces friction between strands and slows moisture loss. On dry, coarse, curly or coily hair, which is more prone to breaking along its length, that protection can make a visible difference over months.",
+        "That is how castor oil can appear to grow hair. Hair grows from the scalp at roughly the same rate whether you use oil or not, but if your ends are snapping off as fast as they grow, your hair seems stuck at one length. Reduce the breakage and more of the growth stays, so your hair gets longer. The follicle has not changed; your retention has.",
+        "The same logic applies to edges and brows. Edges thinned by tight styles, harsh edge-control products or constant brushing often recover once the stress stops, and a softening oil may make that hair less brittle in the meantime. Brows overplucked for years may or may not return, and castor oil has not been shown to change that.",
+        "Castor oil can also soothe a dry, tight scalp when massaged in before washing, and the massage habit itself is pleasant. What it cannot do is reverse pattern hair loss, regrow hair in bald patches, or replace medical treatment for alopecia.",
+      ],
+      pullQuote: "The follicle has not changed; your retention has.",
+      keyPoint:
+        "Castor oil helps you keep more of the hair you grow by reducing breakage. That can look like faster growth, but it does not treat hair loss.",
+    },
+    {
+      id: "castor-oil-labels",
+      heading: "Cold-Pressed, Hexane-Free, Organic: What the Labels Mean",
+      body: [
+        "Castor oil labels are crowded with terms, and a few are worth understanding. Cold-pressed means the oil was squeezed out of the seeds mechanically, with the temperature kept low. Expeller-pressed also means mechanical pressing, but without the same promise about temperature. Both are preferable, for buyers who care, to solvent extraction.",
+        "Hexane-free is the claim that the oil was not extracted with hexane, a petroleum-derived solvent used to pull oil from seeds efficiently. Solvent-extracted oils are typically refined afterward, and residues are generally low, but many buyers prefer to avoid them in a product they will leave on the scalp. Every pick on this list states hexane-free in its listing.",
+        "Organic and USDA Organic refer to how the castor plants were grown and handled, not to how well the oil works on hair. They are reasonable preferences, not performance features. Expect to pay a little more for certified organic oil.",
+        "One thing you do not need to worry about is ricin. The toxic protein stays in the seed meal left behind after pressing and does not carry over into properly processed castor oil. That said, castor oil sold for cosmetic use is not meant to be swallowed, and oral castor oil is a strong laxative.",
+      ],
+      table: {
+        columns: ["What It Means", "Does It Matter for Hair?"],
+        rows: [
+          { label: "Cold-pressed", values: ["Mechanically pressed at low temperature", "Preference; no proven performance difference"] },
+          { label: "Expeller-pressed", values: ["Mechanically pressed; heat not controlled", "Preference; no proven performance difference"] },
+          { label: "Hexane-free", values: ["No chemical solvent used", "Preference for leave-on use"] },
+          { label: "USDA Organic", values: ["Certified organic farming and handling", "No effect on results"] },
+          { label: "Jamaican black", values: ["Made from roasted beans", "Different scent and color; no proven benefit"] },
+        ],
+      },
+      keyPoint:
+        "Cold-pressed and hexane-free tell you how the oil was made. They are sensible preferences, but no label makes castor oil grow hair.",
+    },
+    {
+      id: "jbco-vs-clear-castor-oil",
+      heading: "Jamaican Black Castor Oil vs. Clear Castor Oil",
+      body: [
+        "Jamaican black castor oil, or JBCO, is made by roasting castor beans before grinding them and extracting the oil, traditionally by boiling. The roasting gives JBCO its dark brown color and smoky smell, and the ash from the process is often cited as the reason it is special. Clear castor oil is pressed from unroasted beans and is pale yellow with a mild scent.",
+        "Fans of JBCO say the ash makes it more alkaline, better at opening the hair cuticle, or more effective at clarifying the scalp and growing hair. None of those claims has been tested in a clinical trial. Both oils are mostly ricinoleic acid and behave similarly on hair: thick, sealing and conditioning.",
+        "The real differences are practical. JBCO's dark color can tint very light, gray or blonde hair and stain fabric more readily. Its strong scent is either a selling point or a deal-breaker. Clear castor oil is the better choice near the eyes and on light hair; JBCO is popular for coily hair, edges and scalp massage.",
+        "Choose based on what you like using. If tradition and scent matter to you, JBCO from a known brand like Tropic Isle Living or Sunny Isle is a good buy. If you want the most neutral, versatile option, start with a clear, cold-pressed oil.",
+      ],
+      pullQuote: "None of those claims has been tested in a clinical trial.",
+      table: {
+        columns: ["Clear Castor Oil", "Jamaican Black Castor Oil"],
+        rows: [
+          { label: "Beans", values: ["Unroasted", "Roasted"] },
+          { label: "Color and scent", values: ["Pale, mild", "Dark brown, smoky"] },
+          { label: "Growth evidence", values: ["None in trials", "None in trials"] },
+          { label: "Near eyes and light hair", values: ["Better choice", "Can tint and stain"] },
+          { label: "Popular for", values: ["Brows, lashes, all hair types", "Coily hair, edges, scalp"] },
+        ],
+      },
+    },
+    {
+      id: "how-to-use-castor-oil",
+      heading: "How to Use Castor Oil on Scalp, Edges and Brows",
+      body: [
+        "Castor oil is too thick to use straight from the bottle on most hair. For scalp and lengths, mix one part castor oil with two or three parts of a lighter oil such as jojoba, argan or sweet almond. Warm the mixture slightly in your hands, part your hair, and massage a small amount into the scalp, then smooth the rest along the lengths.",
+        "Use it as a pre-wash treatment rather than a leave-in. Leave it on for 30 minutes to a few hours, then shampoo, often twice, to remove it. Castor oil left on the scalp for days can attract dirt, clog pores along the hairline and make yeast-related dandruff worse.",
+        "For the ends of dry or coily hair, a very small amount of undiluted castor oil can seal moisture in after a water-based leave-in conditioner. For brows, a thin layer from a clean spoolie or roll-on at night is enough. Keep it off the lash line and out of the eyes; if you want to condition lashes, use a tiny amount on the outer lashes only and stop if your eyes become irritated.",
+        "Be careful with long hair. Doctors have reported cases of acute hair felting, where long hair matted into a solid, unbrushable mass after heavy castor oil use combined with vigorous washing or piling hair on the head. These are rare, but sometimes the hair had to be cut off. Use small amounts, detangle gently and do not pile oiled hair on top of your head to wash it.",
+      ],
+      pullQuote: "Castor oil is too thick to use straight from the bottle on most hair.",
+      keyPoint:
+        "Dilute castor oil with a lighter oil, use it before washing, and keep amounts small on long hair to avoid severe matting.",
+    },
+    {
+      id: "castor-oil-safety",
+      heading: "Safety: Allergies, Eyes, Pregnancy and Who Should Skip It",
+      body: [
+        "Castor oil is generally well tolerated on skin and hair, but allergic and irritant reactions do happen, and ricinoleic acid has been reported as a cause of contact dermatitis. Patch test a small amount on the inside of your elbow or behind your ear for 24 to 48 hours before using it on your scalp or face, especially if you have sensitive skin or eczema.",
+        "Keep castor oil out of your eyes. Applying it to the lash line can cause redness, irritation and blurred vision, and oil can trap debris along the eyelid. If you wear contact lenses, have had eye surgery, or have a history of eye infections, talk to an eye doctor before putting any oil near your lashes.",
+        "People who are pregnant should never take castor oil by mouth unless a clinician directs it, because oral castor oil is a stimulant laxative that has been used to try to induce labor. Topical use on the hair is a different matter and is not known to carry that risk, but if you have any doubts, ask your obstetrician.",
+        "Finally, skip castor oil as a fix if your hair loss is sudden, patchy, scarring or accompanied by scalp pain, redness or scaling. Those need a dermatologist. And if your thinning is pattern hair loss, minoxidil is the evidence-based over-the-counter option.",
+      ],
+      pullQuote: "Keep castor oil out of your eyes.",
+    },
+  ],
+  comparisonTable: {
+    columns: ["Type", "Size", "Processing (per listing)", "Best For"],
+    rows: [
+      { label: "Sky Organics Organic", values: ["Clear", "16 oz", "Cold-pressed, hexane-free", "Best overall"] },
+      { label: "Majestic Pure USDA Organic", values: ["Clear", "16 fl oz", "Cold-pressed, hexane-free", "Organic on a budget"] },
+      { label: "Heritage Store USDA Organic", values: ["Clear", "16 fl oz", "Cold-pressed, hexane-free", "Established specialist"] },
+      { label: "Tropic Isle Living JBCO", values: ["Jamaican black", "8 fl oz", "Roasted-bean JBCO", "Traditional JBCO"] },
+      { label: "Sunny Isle Extra Dark JBCO", values: ["Jamaican black", "8 oz", "Roasted-bean JBCO", "Thick, coily hair"] },
+      { label: "Heritage Store Roll-On", values: ["Clear", "3 fl oz", "Hexane-free", "Brows and edges"] },
+      { label: "Handcraft Blends Organic", values: ["Clear", "16 fl oz", "Expeller-pressed, hexane-free", "Lowest cost"] },
+    ],
+  },
+  mistakes: [
+    {
+      heading: "Using Castor Oil to Treat Pattern Hair Loss",
+      body: "A receding hairline, thinning crown or widening part is usually androgenetic alopecia, and no trial shows castor oil slows or reverses it. Every month spent on oil alone is a month of untreated loss. Use minoxidil, ask a doctor about prescription options, and keep castor oil for conditioning.",
+    },
+    {
+      heading: "Applying It Undiluted to the Whole Scalp",
+      body: "Neat castor oil is extremely thick and sticky. Slathered across the scalp it is hard to wash out, can clog pores along the hairline and may worsen yeast-related dandruff. Mix it with two or three parts of a lighter oil, use small amounts and shampoo it out thoroughly.",
+    },
+    {
+      heading: "Leaving It In for Days",
+      body: "Some routines suggest leaving castor oil in the hair for days between washes. Oil that sits on the scalp collects dirt and dead skin and can irritate follicles. Treat castor oil as a pre-wash mask for 30 minutes to a few hours, or use a few drops to seal ends.",
+    },
+    {
+      heading: "Piling Oiled Long Hair on Your Head",
+      body: "Rare but serious cases of acute hair felting have been reported after heavy castor oil use on long hair, sometimes requiring the hair to be cut off. Use small amounts, detangle gently from the ends up, and wash long hair hanging down rather than piled and scrubbed on top.",
+    },
+    {
+      heading: "Putting It Directly Into the Lash Line",
+      body: "Castor oil applied right at the base of the lashes can migrate into the eye, causing irritation, redness and blurred vision. There is no evidence it lengthens lashes. If you use it, apply a tiny amount to the outer lashes only, and stop at the first sign of eye discomfort.",
+    },
+  ],
+  faq: [
+    {
+      q: "What is the best castor oil for hair growth?",
+      a: "Sky Organics Organic Castor Oil is our best overall pick because it is organic, cold-pressed and hexane-free per the listing, in a 16 oz bottle at a fair price. Majestic Pure is the best value organic option, and Tropic Isle Living is our pick for Jamaican black castor oil.",
+    },
+    {
+      q: "Does castor oil really make hair grow?",
+      a: "No published clinical trial shows castor oil grows hair on the scalp, brows or lashes. It can reduce breakage and help you retain length, which may look like faster growth. For pattern hair loss, minoxidil is the over-the-counter treatment with FDA approval and decades of evidence.",
+    },
+    {
+      q: "Is Jamaican black castor oil better than regular castor oil?",
+      a: "Not for growth. Jamaican black castor oil is made from roasted beans, which gives it a dark color and smoky scent, but there is no evidence it grows hair better than clear castor oil. Choose JBCO if you like its scent and tradition, and clear oil for brows, lashes and light hair.",
+    },
+    {
+      q: "How often should I put castor oil in my hair?",
+      a: "Once or twice a week as a pre-wash treatment is plenty for most people. Mix it with a lighter oil, leave it on for 30 minutes to a few hours, then shampoo. A few drops on dry ends between washes is fine for coily hair. Daily heavy use mainly causes buildup.",
+    },
+    {
+      q: "Can castor oil regrow edges?",
+      a: "Castor oil has not been shown to regrow edges. Edges thinned by tight braids, ponytails or harsh products often recover once the tension stops, and castor oil may soften and protect that hair. If edges do not return after months without tension, see a dermatologist, since long-term traction can cause permanent loss.",
+    },
+    {
+      q: "What does cold-pressed and hexane-free mean?",
+      a: "Cold-pressed means the oil was squeezed from the seeds mechanically at a low temperature. Hexane-free means no chemical solvent was used to extract it. Both are reasonable preferences for an oil you will leave on your scalp, but neither makes castor oil grow hair.",
+    },
+    {
+      q: "Is castor oil safe to use on eyelashes?",
+      a: "Use caution. Castor oil near the lash line can get into the eye and cause irritation, redness and blurred vision, and it has not been shown to grow lashes. If you try it, apply a tiny amount to the outer lashes at night and stop if your eyes become uncomfortable.",
+    },
+  ],
+  bottomLine:
+    "Castor oil is a cheap, effective sealing oil, not a hair growth treatment. Sky Organics Organic Castor Oil is the best all-round bottle, Majestic Pure is the value organic pick, and Tropic Isle Living is the JBCO to choose. Dilute it, use it before washing, keep it out of your eyes, and treat real thinning with minoxidil.",
+  relatedRoundups: [
+    "best-hair-growth-oil",
+    "best-batana-oil",
+    "best-rosemary-oil-for-hair-growth",
+    "best-black-hair-care-products",
+    "best-eyebrow-growth-serum",
+    "best-eyelash-growth-serum",
+  ],
+  relatedGuides: [
+    { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },
+    { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
+  ],
+  publishedDate: "2026-10-14",
+  updatedDate: "2026-10-14",
+};
