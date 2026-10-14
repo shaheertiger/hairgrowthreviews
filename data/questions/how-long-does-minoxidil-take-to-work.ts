@@ -145,7 +145,12 @@ export const howLongDoesMinoxidilTakeToWork: QuestionData = {
   bottomLine:
     "Minoxidil takes about four months to show first results and about a year to show its full effect, often after a temporary shedding phase in the first two months. Use it twice a day, every day, judge it with photos at six and twelve months, and choose a product you can tolerate and afford for the long haul.",
   pillarSlug: "best-minoxidil-for-men",
-  relatedQuestions: [],
+  relatedQuestions: [
+    "minoxidil-shedding-how-long-does-it-last",
+    "can-women-use-mens-minoxidil",
+    "can-you-use-minoxidil-and-ketoconazole-together",
+    "how-much-hair-loss-is-normal-per-day",
+  ],
   relatedRoundups: ["best-minoxidil-for-men", "best-minoxidil-for-women", "best-hair-growth-products-for-men"],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

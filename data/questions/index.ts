@@ -14,6 +14,11 @@ import { howMuchHairLossIsNormalPerDay } from "./how-much-hair-loss-is-normal-pe
 import { doesWearingAHatCauseHairLoss } from "./does-wearing-a-hat-cause-hair-loss";
 import { howLongDoesPostpartumHairLossLast } from "./how-long-does-postpartum-hair-loss-last";
 import { doesHardWaterCauseHairLoss } from "./does-hard-water-cause-hair-loss";
+import { doesBiotinReallyHelpHairGrowth } from "./does-biotin-really-help-hair-growth";
+import { doesRosemaryOilReallyGrowHair } from "./does-rosemary-oil-really-grow-hair";
+import { doesSawPalmettoBlockDht } from "./does-saw-palmetto-block-dht";
+import { canLowIronCauseHairLoss } from "./can-low-iron-cause-hair-loss";
+import { canVitaminDDeficiencyCauseHairLoss } from "./can-vitamin-d-deficiency-cause-hair-loss";
 
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
@@ -31,4 +36,9 @@ export const questions: QuestionData[] = [
   doesWearingAHatCauseHairLoss,
   howLongDoesPostpartumHairLossLast,
   doesHardWaterCauseHairLoss,
+  doesBiotinReallyHelpHairGrowth,
+  doesRosemaryOilReallyGrowHair,
+  doesSawPalmettoBlockDht,
+  canLowIronCauseHairLoss,
+  canVitaminDDeficiencyCauseHairLoss,
 ];
