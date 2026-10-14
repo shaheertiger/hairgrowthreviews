@@ -49,6 +49,10 @@ import { bestHeadShaver } from "./best-head-shaver";
 import { bestElectricShaverForMen } from "./best-electric-shaver-for-men";
 import { bestHairStraighteningBrush } from "./best-hair-straightening-brush";
 import { bestHairBrushForThinningHair } from "./best-hair-brush-for-thinning-hair";
+import { bestHairDyeForMen } from "./best-hair-dye-for-men";
+import { bestNoseHairTrimmer } from "./best-nose-hair-trimmer";
+import { bestBodyGroomerForMen } from "./best-body-groomer-for-men";
+import { bestBeardGroomingKit } from "./best-beard-grooming-kit";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -109,4 +113,8 @@ export const roundups: RoundupData[] = [
   bestElectricShaverForMen,
   bestHairStraighteningBrush,
   bestHairBrushForThinningHair,
+  bestHairDyeForMen,
+  bestNoseHairTrimmer,
+  bestBodyGroomerForMen,
+  bestBeardGroomingKit,
 ];
