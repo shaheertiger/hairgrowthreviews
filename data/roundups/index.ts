@@ -65,6 +65,10 @@ import { bestSulfateFreeShampoo } from "./best-sulfate-free-shampoo";
 import { bestShampooForOilyHair } from "./best-shampoo-for-oily-hair";
 import { bestShampooForItchyScalp } from "./best-shampoo-for-itchy-scalp";
 import { bestShampooForColorTreatedHair } from "./best-shampoo-for-color-treated-hair";
+import { bestAtHomeHairColor } from "./best-at-home-hair-color";
+import { bestDysonAirwrapAlternative } from "./best-dyson-airwrap-alternative";
+import { bestDysonSupersonicAlternative } from "./best-dyson-supersonic-alternative";
+import { bestHeatedRollers } from "./best-heated-rollers";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -141,4 +145,8 @@ export const roundups: RoundupData[] = [
   bestShampooForOilyHair,
   bestShampooForItchyScalp,
   bestShampooForColorTreatedHair,
+  bestAtHomeHairColor,
+  bestDysonAirwrapAlternative,
+  bestDysonSupersonicAlternative,
+  bestHeatedRollers,
 ];

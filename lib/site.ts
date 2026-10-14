@@ -18,6 +18,7 @@ export const site = {
         { label: "Best Laser Caps", href: "/best-laser-cap-for-hair-growth" },
         { label: "Best Hair Growth Vitamins", href: "/best-hair-growth-vitamins" },
         { label: "Best Hair Dryers", href: "/best-hair-dryer" },
+        { label: "Best Dyson Airwrap Alternatives", href: "/best-dyson-airwrap-alternative" },
         { label: "All Buyer's Guides →", href: "/best" },
       ],
     },
