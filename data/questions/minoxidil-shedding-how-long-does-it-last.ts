@@ -6,7 +6,7 @@ export const minoxidilSheddingHowLongDoesItLast: QuestionData = {
   crumb: "Minoxidil Shedding",
   metaTitle: "Minoxidil Shedding: How Long Does It Last? What's Normal",
   metaDescription:
-    "Minoxidil shedding usually starts two to eight weeks in and settles within a few weeks. Why it happens, how much is normal, and the red flags worth a doctor visit.",
+    "Minoxidil shedding usually starts two to eight weeks in and settles within a few weeks. Why it happens, how much is normal, and the red flags to watch for.",
   h1: "Minoxidil Shedding: How Long Does It Last?",
   dek: "Why minoxidil can make you lose more hair before it helps, how long the shed usually runs, how much is normal, and the signs that something else is going on.",
   shortAnswer:
