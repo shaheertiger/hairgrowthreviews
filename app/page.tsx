@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { reviews } from "@/data/reviews";
 import { guides } from "@/data/guides";
 import { roundups } from "@/data/roundups";
+import { questions } from "@/data/questions";
 import RatingBadge from "@/components/ui/RatingBadge";
 import { site } from "@/lib/site";
 
@@ -124,6 +125,29 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+
+      {questions.length > 0 && (
+        <section className="mx-auto max-w-6xl px-4 pb-14 sm:px-6">
+          <div className="flex items-end justify-between">
+            <h2 className="text-2xl font-extrabold text-stone-900 sm:text-3xl">Hair Answers</h2>
+            <Link href="/answers" className="text-sm font-bold text-brand-700 hover:underline">
+              All answers →
+            </Link>
+          </div>
+          <ul className="mt-6 grid gap-3 sm:grid-cols-2">
+            {questions.slice(0, 6).map((q) => (
+              <li key={q.slug}>
+                <Link
+                  href={`/${q.slug}`}
+                  className="block h-full rounded-xl border border-border-subtle bg-surface p-4 font-bold text-stone-900 transition-shadow hover:shadow-md"
+                >
+                  {q.h1}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <section className="border-y border-border-subtle bg-surface-muted">
         <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6">

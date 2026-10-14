@@ -12,6 +12,7 @@
 import { reviews } from "../data/reviews";
 import { guides } from "../data/guides";
 import { roundups } from "../data/roundups";
+import { questions } from "../data/questions";
 import { ContentSection, ComparisonTableData } from "../lib/types";
 
 function normalize(s: string): string {
@@ -129,9 +130,38 @@ for (const r of roundups) {
   }
 }
 
+// Question-post gates: a snippet-length short answer, enough prose to rank,
+// and links that resolve — above all the buyer's guide the post feeds.
+const MIN_QUESTION_WORDS = 2000;
+for (const q of questions) {
+  const where = `question:${q.slug}`;
+  if (roundupSlugs.has(q.slug) || reservedSlugs.has(q.slug)) fail(`SLUG CLASH ${where}`);
+  if (questions.filter((x) => x.slug === q.slug).length > 1) fail(`DUPLICATE SLUG ${where}`);
+  checkSections(where, q.sections);
+  const prose = [
+    q.shortAnswer,
+    ...q.intro,
+    ...q.sections.flatMap((s) => [...s.body, ...(s.subsections?.flatMap((x) => x.body) ?? [])]),
+    ...q.faq.map((f) => f.a),
+    q.bottomLine,
+  ].join(" ");
+  const count = words(prose);
+  if (count < MIN_QUESTION_WORDS) fail(`TOO SHORT ${where}: ${count} words (min ${MIN_QUESTION_WORDS})`);
+  const sa = words(q.shortAnswer);
+  if (sa < 30 || sa > 75) fail(`SHORT ANSWER ${where}: ${sa} words (30-75)`);
+  if (q.faq.length < 5) fail(`FAQ ${where}: ${q.faq.length} (need 5+)`);
+  if (q.metaDescription.length > 165) fail(`META TOO LONG ${where}`);
+  if (!roundupSlugs.has(q.pillarSlug)) fail(`BROKEN PILLAR ${where} -> ${q.pillarSlug}`);
+  for (const s of q.relatedRoundups) if (!roundupSlugs.has(s)) fail(`BROKEN RELATED ROUNDUP ${where} -> ${s}`);
+  for (const s of q.relatedQuestions)
+    if (!questions.some((x) => x.slug === s) || s === q.slug) fail(`BROKEN RELATED QUESTION ${where} -> ${s}`);
+  for (const s of q.sections)
+    if (["short-answer", "faq", "bottom-line"].includes(s.id)) fail(`SECTION ID CLASH ${where} #${s.id}`);
+}
+
 console.log(
   `Checked ${quotesChecked} pull quotes and ${tablesChecked} tables across ` +
-    `${reviews.length} reviews + ${guides.length} guides + ${roundups.length} roundups.`
+    `${reviews.length} reviews + ${guides.length} guides + ${roundups.length} roundups + ${questions.length} questions.`
 );
 if (failures > 0) {
   console.error(`\n${failures} problem(s) found.`);

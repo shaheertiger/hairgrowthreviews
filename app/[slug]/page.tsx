@@ -1,19 +1,26 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { roundups } from "@/data/roundups";
+import { questions } from "@/data/questions";
 import RoundupTemplate from "@/components/templates/RoundupTemplate";
-import { roundupJsonLd } from "@/lib/schema";
+import QuestionTemplate from "@/components/templates/QuestionTemplate";
+import { roundupJsonLd, questionJsonLd } from "@/lib/schema";
 
-// Roundups live at the root (/best-minoxidil-for-men), mirroring the URL shape
-// that ranks on thehonestreviewers.com. Anything not in the list is a 404.
+// Buyer's guides (/best-minoxidil-for-men) and question posts
+// (/how-long-does-minoxidil-take-to-work) both live at the root, mirroring the
+// URL shape that ranks on thehonestreviewers.com. Anything else is a 404.
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return roundups.map((r) => ({ slug: r.slug }));
+  return [...roundups, ...questions].map((p) => ({ slug: p.slug }));
 }
 
-function getRoundup(slug: string) {
-  return roundups.find((r) => r.slug === slug);
+function getPage(slug: string) {
+  const roundup = roundups.find((r) => r.slug === slug);
+  if (roundup) return { kind: "roundup" as const, data: roundup };
+  const question = questions.find((q) => q.slug === slug);
+  if (question) return { kind: "question" as const, data: question };
+  return null;
 }
 
 export async function generateMetadata({
@@ -22,8 +29,9 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const data = getRoundup(slug);
-  if (!data) return {};
+  const page = getPage(slug);
+  if (!page) return {};
+  const { data } = page;
   return {
     title: data.metaTitle,
     description: data.metaDescription,
@@ -32,18 +40,16 @@ export async function generateMetadata({
   };
 }
 
-export default async function RoundupPage({ params }: { params: Promise<{ slug: string }> }) {
+export default async function RootSlugPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const data = getRoundup(slug);
-  if (!data) notFound();
+  const page = getPage(slug);
+  if (!page) notFound();
 
+  const jsonLd = page.kind === "roundup" ? roundupJsonLd(page.data) : questionJsonLd(page.data);
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(roundupJsonLd(data)) }}
-      />
-      <RoundupTemplate data={data} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      {page.kind === "roundup" ? <RoundupTemplate data={page.data} /> : <QuestionTemplate data={page.data} />}
     </>
   );
 }

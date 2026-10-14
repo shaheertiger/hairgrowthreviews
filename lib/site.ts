@@ -48,6 +48,7 @@ export const site = {
         { label: "Stages of Hair Loss", href: "/about-hair-growth/stages-hair-loss" },
       ],
     },
+    { label: "Hair Answers", href: "/answers" },
     { label: "The HGR Regimen", href: "/the-hgr-regimen" },
   ],
   footerLinks: {

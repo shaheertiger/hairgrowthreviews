@@ -153,3 +153,31 @@ export interface RoundupData {
   publishedDate: string;
   updatedDate: string;
 }
+
+/** A long-tail question post ("How long does minoxidil take to work?") that
+ *  answers one query in depth and feeds readers to its buyer's guide. */
+export interface QuestionData {
+  slug: string;
+  hub: RoundupData["hub"];
+  /** Short breadcrumb / card label. */
+  crumb: string;
+  metaTitle: string;
+  metaDescription: string;
+  /** The question itself, phrased the way people search it. */
+  h1: string;
+  dek: string;
+  /** 40-60 word direct answer, written to win the featured snippet. */
+  shortAnswer: string;
+  keyTakeaways: string[];
+  intro: string[];
+  sections: ContentSection[];
+  faq: FaqItem[];
+  bottomLine: string;
+  /** The buyer's guide this question feeds; its top picks are shown on the page. */
+  pillarSlug: string;
+  relatedQuestions: string[];
+  relatedRoundups: string[];
+  relatedGuides?: { href: string; label: string }[];
+  publishedDate: string;
+  updatedDate: string;
+}

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { RoundupData } from "@/lib/types";
 import { amazonImage, amazonProductLink } from "@/lib/affiliate";
 import { roundups } from "@/data/roundups";
+import { questions } from "@/data/questions";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import AuthorBlock from "@/components/AuthorBlock";
 import TableOfContents from "@/components/ui/TableOfContents";
@@ -31,6 +32,8 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
   const related = data.relatedRoundups
     .map((slug) => roundups.find((r) => r.slug === slug))
     .filter((r): r is RoundupData => !!r);
+
+  const answers = questions.filter((q) => q.pillarSlug === data.slug);
 
   const tocItems = [
     { id: "overview", label: "Overview" },
@@ -160,6 +163,21 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
                 ctaHref={amazonProductLink(top.name, top.asin)}
               />
             </section>
+
+            {answers.length > 0 && (
+              <div className="my-8">
+                <h2 className="mb-4 text-2xl font-bold text-brand-900">Common Questions, Answered</h2>
+                <ul className="divide-y divide-border-subtle rounded-xl border border-border-subtle bg-surface">
+                  {answers.map((q) => (
+                    <li key={q.slug}>
+                      <Link href={`/${q.slug}`} className="block px-4 py-3 font-semibold text-stone-800 hover:text-brand-700">
+                        {q.h1} →
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
 
             {related.length > 0 && (
               <div className="my-8">
