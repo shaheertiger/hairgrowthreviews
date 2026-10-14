@@ -57,6 +57,14 @@ import { bestBiotinForHairGrowth } from "./best-biotin-for-hair-growth";
 import { bestBatanaOil } from "./best-batana-oil";
 import { bestCastorOilForHairGrowth } from "./best-castor-oil-for-hair-growth";
 import { bestPumpkinSeedOilForHairLoss } from "./best-pumpkin-seed-oil-for-hair-loss";
+import { bestVitaminDSupplementForHairLoss } from "./best-vitamin-d-supplement-for-hair-loss";
+import { bestWigForWomenWithHairLoss } from "./best-wig-for-women-with-hair-loss";
+import { bestAntiFrizzSerum } from "./best-anti-frizz-serum";
+import { bestHairSpray } from "./best-hair-spray";
+import { bestSulfateFreeShampoo } from "./best-sulfate-free-shampoo";
+import { bestShampooForOilyHair } from "./best-shampoo-for-oily-hair";
+import { bestShampooForItchyScalp } from "./best-shampoo-for-itchy-scalp";
+import { bestShampooForColorTreatedHair } from "./best-shampoo-for-color-treated-hair";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -125,4 +133,12 @@ export const roundups: RoundupData[] = [
   bestBatanaOil,
   bestCastorOilForHairGrowth,
   bestPumpkinSeedOilForHairLoss,
+  bestVitaminDSupplementForHairLoss,
+  bestWigForWomenWithHairLoss,
+  bestAntiFrizzSerum,
+  bestHairSpray,
+  bestSulfateFreeShampoo,
+  bestShampooForOilyHair,
+  bestShampooForItchyScalp,
+  bestShampooForColorTreatedHair,
 ];
