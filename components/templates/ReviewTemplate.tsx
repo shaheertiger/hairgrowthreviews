@@ -12,8 +12,15 @@ import ComparisonTable from "@/components/ui/ComparisonTable";
 import FAQAccordion from "@/components/ui/FAQAccordion";
 import BottomLineBox from "@/components/ui/BottomLineBox";
 import CTAButton from "@/components/ui/CTAButton";
+import { amazonProductLink, withAmazonTag } from "@/lib/affiliate";
 import CalloutBox from "@/components/ui/CalloutBox";
 import RelatedReviews from "@/components/RelatedReviews";
+
+function buyLink(data: ReviewData) {
+  // An exact, sync-confirmed Amazon listing beats the stored search or brand URL.
+  const exact = data.asin ? amazonProductLink(data.productName, data.asin) : "";
+  return exact.includes("/dp/") ? exact : withAmazonTag(data.affiliateUrl);
+}
 
 export default function ReviewTemplate({ data }: { data: ReviewData }) {
   const tocItems = [
@@ -94,7 +101,7 @@ export default function ReviewTemplate({ data }: { data: ReviewData }) {
                 </div>
               )}
               <div className="border-t border-border-subtle p-4">
-                <CTAButton href={data.affiliateUrl} label={`Check Price for ${data.productName} →`} />
+                <CTAButton href={buyLink(data)} label={`Check Price for ${data.productName} →`} />
               </div>
             </div>
 
@@ -171,7 +178,7 @@ export default function ReviewTemplate({ data }: { data: ReviewData }) {
               <BottomLineBox
                 text={data.bottomLine}
                 ctaLabel={`Check Price for ${data.productName} →`}
-                ctaHref={data.affiliateUrl}
+                ctaHref={buyLink(data)}
               />
               {data.guarantee && (
                 <p className="text-xs text-stone-400">Guarantee: {data.guarantee}</p>

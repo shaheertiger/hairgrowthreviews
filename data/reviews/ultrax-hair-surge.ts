@@ -1,5 +1,4 @@
 import { ReviewData } from "@/lib/types";
-import { amazonProductUrl } from "@/lib/amazon";
 
 export const ultraxHairSurge: ReviewData = {
   slug: "ultrax-labs-hair-surge-caffeine-hair-loss-hair-growth-stimulating-shampoo",
@@ -193,7 +192,8 @@ export const ultraxHairSurge: ReviewData = {
   bottomLine:
     "Hair Surge stands out in its category because ketoconazole — its most important ingredient — actually has real published research behind it. Just don't use it daily: cap frequency around five times a week to avoid the dryness that drives most negative reviews.",
   guarantee: "30-day money-back guarantee",
-  affiliateUrl: amazonProductUrl("B007SZCG0C"),
+  affiliateUrl: "https://www.amazon.com/s?k=ultrax+labs+hair+surge",
+  asin: "B007SZCG0C",
   relatedSlugs: ["nizoral-d-anti-dandruff-shampoo", "ultrax-labs-hair-lush", "mane-n-tail-shampoo"],
   updatedDate: "August 2026",
 };

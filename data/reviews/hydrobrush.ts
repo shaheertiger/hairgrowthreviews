@@ -1,5 +1,4 @@
 import { ReviewData } from "@/lib/types";
-import { amazonSearchUrl } from "@/lib/amazon";
 
 export const hydrobrush: ReviewData = {
   slug: "hydrobrush",
@@ -208,7 +207,7 @@ export const hydrobrush: ReviewData = {
   ],
   bottomLine:
     "The HydroBrush is a genuinely convenient applicator for spreading a liquid treatment evenly and quickly — but it's not a treatment itself, and its tendency to clog with standard minoxidil is worth knowing before you buy.",
-  affiliateUrl: amazonSearchUrl("club roots hydrobrush"),
+  affiliateUrl: "https://www.amazon.com/s?k=hydrobrush+club+roots",
   relatedSlugs: ["spark-new", "find-a-treatment/minoxidil-rogaine", "nunutrients-advanced-hair-regrowth-treatment"],
   updatedDate: "August 2026",
 };

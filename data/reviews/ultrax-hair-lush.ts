@@ -1,5 +1,4 @@
 import { ReviewData } from "@/lib/types";
-import { amazonProductUrl } from "@/lib/amazon";
 
 export const ultraxHairLush: ReviewData = {
   slug: "ultrax-labs-hair-lush",
@@ -185,7 +184,8 @@ export const ultraxHairLush: ReviewData = {
   bottomLine:
     "Hair Lush (now Hair Plush) is a well-reviewed, ingredient-sound thickening serum — a solid choice if you want cosmetically fuller-looking hair, but not a substitute for a DHT-blocking or minoxidil-based treatment if follicle-level regrowth is your goal.",
   guarantee: "30-day money-back guarantee (one per household, capped refund, shipping non-refundable)",
-  affiliateUrl: amazonProductUrl("B00HG1JFXY"),
+  affiliateUrl: "https://www.amazon.com/s?k=ultrax+labs+hair+plush",
+  asin: "B00HG1JFXY",
   relatedSlugs: ["ultrax-labs-hair-surge-caffeine-hair-loss-hair-growth-stimulating-shampoo", "amplixin-intensive-hair-growth-serum", "burst-by-nourish-beaute"],
   updatedDate: "August 2026",
 };

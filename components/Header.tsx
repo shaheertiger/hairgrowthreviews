@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { site } from "@/lib/site";
+import MobileNav from "./MobileNav";
 
 export default function Header() {
   return (
@@ -26,7 +27,7 @@ export default function Header() {
                 <div className="invisible absolute left-0 top-full min-w-[220px] rounded-lg border border-border-subtle bg-surface py-2 opacity-0 shadow-lg transition-all group-hover:visible group-hover:opacity-100">
                   {cat.children.map((child) => (
                     <Link
-                      key={child.href}
+                      key={child.label}
                       href={child.href}
                       className="block px-4 py-2 text-sm font-medium text-stone-700 hover:bg-brand-50 hover:text-brand-700"
                     >
@@ -38,12 +39,16 @@ export default function Header() {
             </div>
           ))}
         </nav>
-        <Link
-          href="/reviews"
-          className="rounded-full bg-brand-600 px-4 py-2 text-sm font-bold text-white hover:bg-brand-700"
-        >
-          See Top Picks
-        </Link>
+        <div className="flex items-center gap-1">
+          <Link
+            href="/best"
+            className="rounded-full bg-brand-600 px-4 py-2 text-sm font-bold text-white hover:bg-brand-700"
+          >
+            <span className="sm:hidden">Top Picks</span>
+            <span className="hidden sm:inline">See Top Picks</span>
+          </Link>
+          <MobileNav />
+        </div>
       </div>
     </header>
   );

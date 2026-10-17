@@ -1,5 +1,4 @@
 import { ReviewData } from "@/lib/types";
-import { amazonSearchUrl } from "@/lib/amazon";
 
 export const spark: ReviewData = {
   slug: "spark-new",
@@ -180,7 +179,7 @@ export const spark: ReviewData = {
   ],
   bottomLine:
     "We can't confidently recommend Spark right now — not because of anything wrong with the formula, but because we couldn't verify the brand is currently active and fulfilling orders. Confirm availability directly before purchasing.",
-  affiliateUrl: amazonSearchUrl("club roots spark"),
+  affiliateUrl: "https://www.amazon.com/s?k=club+roots+spark",
   relatedSlugs: ["hydrobrush", "revivogen-scalp-therapy-formula", "nunutrients-advanced-hair-regrowth-treatment"],
   updatedDate: "August 2026",
 };

@@ -1,5 +1,4 @@
 import { ReviewData } from "@/lib/types";
-import { amazonProductUrl } from "@/lib/amazon";
 
 export const justNatural: ReviewData = {
   slug: "just-natural-hair-growth-treatment",
@@ -211,7 +210,8 @@ export const justNatural: ReviewData = {
   bottomLine:
     "Just Natural has one of the cleanest ingredient lists in this category, but its real-world value depends entirely on whether you'll commit to the 2-3 hour, twice-weekly application routine it actually requires.",
   guarantee: "30-day money-back guarantee (product must be ≥75% full, refund only, minus shipping)",
-  affiliateUrl: amazonProductUrl("B001A6LXWW"),
+  affiliateUrl: "https://www.amazon.com/s?k=just+natural+hair+growth+treatment",
+  asin: "B001A6LXWW",
   relatedSlugs: ["aveda-invati-scalp-revitalizer", "revivogen-scalp-therapy-formula", "nunutrients-advanced-hair-regrowth-treatment"],
   updatedDate: "August 2026",
 };

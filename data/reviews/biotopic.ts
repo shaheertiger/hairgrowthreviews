@@ -1,5 +1,4 @@
 import { ReviewData } from "@/lib/types";
-import { amazonSearchUrl } from "@/lib/amazon";
 
 export const biotopic: ReviewData = {
   slug: "biotopic-premium-hair-regrowth-serum",
@@ -208,7 +207,7 @@ export const biotopic: ReviewData = {
   bottomLine:
     "Biotopic is a reasonably formulated, drug-free serum for people who specifically want to avoid minoxidil — but its real-world review data is weaker than marketplace star ratings suggest, and it isn't a substitute for treatments with actual clinical trial backing.",
   guarantee: "Up to 120 days claimed on some listings (verify current terms before purchase)",
-  affiliateUrl: amazonSearchUrl("biotopic hair regrowth serum"),
+  affiliateUrl: "https://www.amazon.com/s?k=biotopic+hair+regrowth+serum",
   relatedSlugs: ["amplixin-intensive-hair-growth-serum", "crinagen", "revivogen-scalp-therapy-formula"],
   updatedDate: "August 2026",
 };

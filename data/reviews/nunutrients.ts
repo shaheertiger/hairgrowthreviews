@@ -1,5 +1,4 @@
 import { ReviewData } from "@/lib/types";
-import { amazonSearchUrl } from "@/lib/amazon";
 
 export const nunutrients: ReviewData = {
   slug: "nunutrients-advanced-hair-regrowth-treatment",
@@ -188,7 +187,7 @@ export const nunutrients: ReviewData = {
   ],
   bottomLine:
     "NuNutrients has a loyal repeat-buyer base and a plausible DHT-targeting ingredient, but genuinely polarized results and some review-authenticity red flags mean you should go in with tempered expectations.",
-  affiliateUrl: amazonSearchUrl("nunutrients hair regrowth treatment"),
+  affiliateUrl: "https://www.amazon.com/s?k=nunutrients+hair+regrowth",
   relatedSlugs: ["crinagen", "spark-new", "biotopic-premium-hair-regrowth-serum"],
   updatedDate: "August 2026",
 };

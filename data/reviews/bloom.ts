@@ -1,5 +1,4 @@
 import { ReviewData } from "@/lib/types";
-import { amazonSearchUrl } from "@/lib/amazon";
 
 export const bloom: ReviewData = {
   slug: "bloom",
@@ -199,7 +198,7 @@ export const bloom: ReviewData = {
   bottomLine:
     "Hair Bloom is a low-risk, low-commitment supplement, but its undisclosed dosing and lack of finished-product research mean it's best treated as a minor complement to a real treatment — not a primary regrowth strategy.",
   guarantee: "30-day refund policy",
-  affiliateUrl: amazonSearchUrl("hair bloom regrowth capsules"),
+  affiliateUrl: "https://www.amazon.com/s?k=hair+bloom+regrowth+capsules",
   relatedSlugs: ["viviscal-extra-strength-hair-nutrient-tablets", "just-natural-hair-growth-treatment", "nunutrients-advanced-hair-regrowth-treatment"],
   updatedDate: "August 2026",
 };
