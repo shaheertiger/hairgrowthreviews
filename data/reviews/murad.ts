@@ -1,4 +1,5 @@
 import { ReviewData } from "@/lib/types";
+import { amazonSearchUrl } from "@/lib/amazon";
 
 export const murad: ReviewData = {
   slug: "murad-hair-growth-scalp-serum",
@@ -214,7 +215,7 @@ export const murad: ReviewData = {
   ],
   bottomLine:
     "Murad's Scalp Serum is a gentle, exfoliation-focused option from a trusted skincare brand, but its apparent discontinued status and lack of clinical backing mean it's a legacy pick at best — worth trying only if you can still find real stock.",
-  affiliateUrl: "https://www.murad.com/",
+  affiliateUrl: amazonSearchUrl("murad hair growth scalp serum"),
   relatedSlugs: ["aveda-invati-scalp-revitalizer", "biotopic-premium-hair-regrowth-serum", "amplixin-intensive-hair-growth-serum"],
   updatedDate: "August 2026",
 };

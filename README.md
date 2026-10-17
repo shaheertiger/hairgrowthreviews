@@ -25,3 +25,13 @@ Open [http://localhost:3000](http://localhost:3000).
 ```bash
 npm run build
 ```
+
+## Amazon affiliate links
+
+Review `affiliateUrl`s are built with `amazonProductUrl(asin)` / `amazonSearchUrl(query)` from `lib/amazon.ts`, which add the `AMAZON_CREATORS_PARTNER_TAG` env var as the Associates tag. Set that var in Vercel.
+
+To find the ASIN for a new product (needs the `AMAZON_CREATORS_*` env vars):
+
+```bash
+npm run amazon:search -- "product name"
+```

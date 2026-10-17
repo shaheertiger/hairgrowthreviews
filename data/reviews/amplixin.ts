@@ -1,4 +1,5 @@
 import { ReviewData } from "@/lib/types";
+import { amazonSearchUrl } from "@/lib/amazon";
 
 export const amplixin: ReviewData = {
   slug: "amplixin-intensive-hair-growth-serum",
@@ -207,7 +208,7 @@ export const amplixin: ReviewData = {
   bottomLine:
     "Amplixin's ingredient list is plausible and its spray format is convenient, but its headline efficacy statistic is an unverified manufacturer claim — go in expecting a reasonable DHT-blocking spray, not a clinically proven regrowth treatment.",
   guarantee: "Approximately 60 days per third-party sources (confirm current terms before buying)",
-  affiliateUrl: "https://www.amazon.com/s?k=amplixin+hair+growth+serum",
+  affiliateUrl: amazonSearchUrl("amplixin hair growth serum"),
   relatedSlugs: ["biotopic-premium-hair-regrowth-serum", "revivogen-scalp-therapy-formula", "ultrax-labs-hair-lush"],
   updatedDate: "August 2026",
 };

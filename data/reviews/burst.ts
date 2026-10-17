@@ -1,4 +1,5 @@
 import { ReviewData } from "@/lib/types";
+import { amazonProductUrl } from "@/lib/amazon";
 
 export const burst: ReviewData = {
   slug: "burst-by-nourish-beaute",
@@ -209,7 +210,7 @@ export const burst: ReviewData = {
   bottomLine:
     "Burst uses a genuinely more substantiated ingredient (Redensyl) than many competitors, but its headline '2x better than minoxidil' marketing claim is unverified — treat it as a reasonable DHT-blocking serum, not a proven minoxidil replacement.",
   guarantee: "90-day company-stated 'happiness guarantee'",
-  affiliateUrl: "https://www.amazon.com/s?k=burst+by+nourish+beaute",
+  affiliateUrl: amazonProductUrl("B00WQJ8BK4"),
   relatedSlugs: ["ultrax-labs-hair-lush", "revivogen-scalp-therapy-formula", "amplixin-intensive-hair-growth-serum"],
   updatedDate: "August 2026",
 };

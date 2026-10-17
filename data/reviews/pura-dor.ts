@@ -1,4 +1,5 @@
 import { ReviewData } from "@/lib/types";
+import { amazonProductUrl } from "@/lib/amazon";
 
 export const puraDor: ReviewData = {
   slug: "pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo",
@@ -210,7 +211,7 @@ export const puraDor: ReviewData = {
   bottomLine:
     "PURA D'OR is a genuinely well-formulated, widely trusted cosmetic shampoo with an unusually generous return policy — just don't mistake 'clinically tested' marketing language for proof it reverses hair loss on its own.",
   guarantee: "365-day satisfaction guarantee (ship return within 100 days, buyer pays shipping)",
-  affiliateUrl: "https://www.amazon.com/s?k=pura+dor+hair+loss+shampoo",
+  affiliateUrl: amazonProductUrl("B013X3IAU2"),
   relatedSlugs: ["mane-n-tail-shampoo", "nizoral-d-anti-dandruff-shampoo", "just-natural-hair-growth-treatment"],
   updatedDate: "August 2026",
 };

@@ -1,4 +1,5 @@
 import { ReviewData } from "@/lib/types";
+import { amazonSearchUrl } from "@/lib/amazon";
 
 export const crinagen: ReviewData = {
   slug: "crinagen",
@@ -180,7 +181,7 @@ export const crinagen: ReviewData = {
   ],
   bottomLine:
     "Crinagen is a legitimate niche option for people who specifically want an alcohol-free, minoxidil-free spray — but its efficacy is unproven, its texture draws consistent complaints, and its availability is inconsistent enough that most people are better served by a better-documented treatment.",
-  affiliateUrl: "https://www.amazon.com/s?k=crinagen",
+  affiliateUrl: amazonSearchUrl("crinagen hair loss prevention"),
   relatedSlugs: ["revivogen-scalp-therapy-formula", "biotopic-premium-hair-regrowth-serum", "nunutrients-advanced-hair-regrowth-treatment"],
   updatedDate: "August 2026",
 };

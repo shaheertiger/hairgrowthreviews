@@ -1,4 +1,5 @@
 import { ReviewData } from "@/lib/types";
+import { amazonProductUrl } from "@/lib/amazon";
 
 export const maneNTail: ReviewData = {
   slug: "mane-n-tail-shampoo",
@@ -192,7 +193,7 @@ export const maneNTail: ReviewData = {
   ],
   bottomLine:
     "Mane 'n Tail is an affordable, effective clarifying shampoo for most people, but its formaldehyde-donor history and fragrance-allergen content mean anyone with a sensitive or reactive scalp should patch-test before committing.",
-  affiliateUrl: "https://www.amazon.com/s?k=mane+n+tail+shampoo",
+  affiliateUrl: amazonProductUrl("B015UVD4S8"),
   relatedSlugs: ["nizoral-d-anti-dandruff-shampoo", "pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo", "ultrax-labs-hair-surge-caffeine-hair-loss-hair-growth-stimulating-shampoo"],
   updatedDate: "August 2026",
 };
