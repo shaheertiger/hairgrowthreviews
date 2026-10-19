@@ -7,7 +7,7 @@ export const bestRedLightTherapyForHairGrowth: BuyingGuideData = {
   category: "Laser & Red Light Devices",
   metaTitle: "7 Best Red Light Therapy for Hair Growth (2026): Caps & Helmets",
   metaDescription:
-    "The best red light therapy for hair growth in 2026: FDA-cleared laser caps, helmets, bands and combs from iRestore, HairMax and Kiierr, compared on diodes and price.",
+    "The best red light therapy for hair growth in 2026: FDA-cleared laser caps, helmets, bands and combs from iRestore, HairMax and Kiierr, compared on diodes.",
   h1: "The Best Red Light Therapy for Hair Growth in 2026: 7 Devices Compared",
   dek: "Laser caps and helmets are one of the few hair-loss gadgets with real sham-controlled trials behind them. The gains are modest and the prices are not — so here's how to pick a device that's worth the money.",
   intro: [

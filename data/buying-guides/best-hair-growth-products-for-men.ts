@@ -7,7 +7,7 @@ export const bestHairGrowthProductsForMen: BuyingGuideData = {
   category: "Hair Growth Products",
   metaTitle: "9 Best Hair Growth Products for Men (2026): Evidence-Ranked",
   metaDescription:
-    "The best hair growth products for men in 2026: minoxidil, ketoconazole and caffeine shampoos, laser bands, saw palmetto, Nutrafol and fibers — ranked by evidence.",
+    "The best hair growth products for men in 2026: minoxidil, ketoconazole and caffeine shampoos, lasers, saw palmetto, Nutrafol and fibers — ranked by evidence.",
   h1: "The 9 Best Hair Growth Products for Men in 2026",
   dek: "Male pattern baldness is predictable, progressive and — caught early — very treatable. Here's the best over-the-counter product in every category, where finasteride fits, and how to build a routine for your Norwood stage.",
   intro: [
