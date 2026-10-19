@@ -4,9 +4,15 @@ import { bestDhtBlocker } from "./best-dht-blocker";
 import { bestMinoxidilForMen } from "./best-minoxidil-for-men";
 import { bestMinoxidilForWomen } from "./best-minoxidil-for-women";
 import { bestRedLightTherapyForHairGrowth } from "./best-red-light-therapy-for-hair-growth";
+import { bestHairGrowthProducts } from "./best-hair-growth-products";
+import { bestHairGrowthProductsForMen } from "./best-hair-growth-products-for-men";
+import { bestHairGrowthProductsForWomen } from "./best-hair-growth-products-for-women";
 
 export const buyingGuides = [
   bestShampooForThinningHair,
+  bestHairGrowthProducts,
+  bestHairGrowthProductsForMen,
+  bestHairGrowthProductsForWomen,
   bestHairGrowthVitamins,
   bestDhtBlocker,
   bestMinoxidilForMen,
