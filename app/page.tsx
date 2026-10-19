@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { reviews } from "@/data/reviews";
 import { guides } from "@/data/guides";
+import { buyingGuides } from "@/data/buying-guides";
 import RatingBadge from "@/components/ui/RatingBadge";
 import { site } from "@/lib/site";
 
@@ -107,6 +108,28 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+        <div className="flex items-end justify-between gap-4">
+          <h2 className="text-2xl font-extrabold text-stone-900 sm:text-3xl">Buying Guides</h2>
+          <Link href="/best" className="text-sm font-bold text-brand-700 hover:underline">
+            All guides →
+          </Link>
+        </div>
+        <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {buyingGuides.slice(0, 6).map((g) => (
+            <Link
+              key={g.slug}
+              href={`/best/${g.slug}`}
+              className="rounded-xl border border-border-subtle bg-surface p-5 transition-shadow hover:shadow-md"
+            >
+              <p className="text-xs font-bold uppercase tracking-wide text-brand-600">{g.category}</p>
+              <p className="mt-1 font-bold text-stone-900">Best {g.shortTitle}</p>
+              <p className="mt-1 line-clamp-2 text-sm text-stone-500">{g.dek}</p>
+            </Link>
+          ))}
         </div>
       </section>
 

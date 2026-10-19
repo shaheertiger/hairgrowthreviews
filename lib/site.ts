@@ -8,6 +8,19 @@ export const site = {
   twitter: "@hairgrowthreviews",
   navCategories: [
     {
+      label: "Buying Guides",
+      href: "/best",
+      children: [
+        { label: "All Buying Guides", href: "/best" },
+        { label: "Shampoos for Thinning Hair", href: "/best/best-shampoo-for-thinning-hair" },
+        { label: "Hair Growth Products", href: "/best/best-hair-growth-products" },
+        { label: "Hair Growth Serums", href: "/best/best-hair-growth-serum" },
+        { label: "Hair Growth Vitamins", href: "/best/best-hair-growth-vitamins" },
+        { label: "Minoxidil for Men", href: "/best/best-minoxidil-for-men" },
+        { label: "Rosemary Oil", href: "/best/best-rosemary-oil-for-hair-growth" },
+      ],
+    },
+    {
       label: "Reviews",
       href: "/reviews",
       children: [

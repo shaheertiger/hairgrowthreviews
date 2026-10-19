@@ -9,6 +9,7 @@
  */
 import { reviews } from "../data/reviews";
 import { guides } from "../data/guides";
+import { buyingGuides } from "../data/buying-guides";
 import { ContentSection, ComparisonTableData } from "../lib/types";
 
 function normalize(s: string): string {
@@ -62,9 +63,47 @@ for (const g of guides) {
   if (g.comparisonTable) checkTable(`guide:${g.slug} (top-level)`, g.comparisonTable);
 }
 
+const seenSlugs = new Set<string>();
+for (const b of buyingGuides) {
+  if (seenSlugs.has(b.slug)) {
+    console.error(`DUPLICATE buying guide slug ${b.slug}`);
+    failures++;
+  }
+  seenSlugs.add(b.slug);
+  checkSections(`buying:${b.slug}`, b.sections);
+  const ids = new Set<string>();
+  for (const p of b.products) {
+    if (ids.has(p.id)) {
+      console.error(`DUPLICATE product id ${b.slug}#${p.id}`);
+      failures++;
+    }
+    ids.add(p.id);
+    if (p.score < 1 || p.score > 5) {
+      console.error(`BAD SCORE ${b.slug}#${p.id}: ${p.score}`);
+      failures++;
+    }
+    if (!p.asin && !p.amazonQuery) {
+      console.error(`NO AMAZON LINK ${b.slug}#${p.id}`);
+      failures++;
+    }
+  }
+  for (const rel of b.relatedGuideSlugs) {
+    if (!buyingGuides.some((g) => g.slug === rel)) {
+      console.error(`BROKEN related guide ${b.slug} -> ${rel}`);
+      failures++;
+    }
+  }
+  for (const rel of b.relatedReviewSlugs ?? []) {
+    if (!reviews.some((r) => r.slug === rel)) {
+      console.error(`BROKEN related review ${b.slug} -> ${rel}`);
+      failures++;
+    }
+  }
+}
+
 console.log(
   `Checked ${quotesChecked} pull quotes and ${tablesChecked} tables across ` +
-    `${reviews.length} reviews + ${guides.length} guides.`
+    `${reviews.length} reviews + ${guides.length} guides + ${buyingGuides.length} buying guides.`
 );
 if (failures > 0) {
   console.error(`\n${failures} problem(s) found.`);

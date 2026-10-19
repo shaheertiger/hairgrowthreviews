@@ -1,10 +1,11 @@
 import type { MetadataRoute } from "next";
 import { reviews } from "@/data/reviews";
 import { guides } from "@/data/guides";
+import { buyingGuides } from "@/data/buying-guides";
 import { site } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ["", "/reviews", "/about", "/contact", "/privacy", "/terms"].map((path) => ({
+  const staticRoutes = ["", "/reviews", "/about", "/contact", "/privacy", "/terms", "/best"].map((path) => ({
     url: `${site.url}${path}`,
     lastModified: new Date("2026-08-20"),
   }));
@@ -30,5 +31,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date("2026-08-20"),
   }));
 
-  return [...staticRoutes, ...reviewRoutes, ...maneNTailRoute, ...guideRoutes];
+  const buyingGuideRoutes = buyingGuides.map((g) => ({
+    url: `${site.url}/best/${g.slug}`,
+    lastModified: new Date("2026-10-19"),
+  }));
+
+  return [...staticRoutes, ...reviewRoutes, ...maneNTailRoute, ...guideRoutes, ...buyingGuideRoutes];
 }

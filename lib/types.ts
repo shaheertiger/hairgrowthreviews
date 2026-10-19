@@ -91,3 +91,57 @@ export interface GuideData {
   relatedReviewSlugs?: string[];
   updatedDate: string;
 }
+
+/** One ranked product inside a buying guide. */
+export interface ProductPick {
+  /** Stable anchor id for the product card, e.g. "nioxin-system-2". */
+  id: string;
+  /** Short award label, e.g. "Best Overall", "Best Budget". */
+  award: string;
+  name: string;
+  brand: string;
+  /** Editorial score out of 5, based on our evidence + value rubric (not Amazon stars). */
+  score: number;
+  /** Approximate price at time of writing, e.g. "~$25". */
+  price: string;
+  /** Size / count the price refers to, e.g. "10.1 fl oz" or "60 capsules". */
+  size?: string;
+  /** Who this pick suits, in a few words. */
+  bestFor: string;
+  /** Headline active ingredients or specs. */
+  keyIngredients: string[];
+  /** 2-3 paragraphs explaining why it made the list. */
+  summary: string[];
+  pros: string[];
+  cons: string[];
+  /** Amazon ASIN. When set, links go straight to the product page; otherwise to a search. */
+  asin?: string;
+  /** Amazon search query used when no ASIN is set. */
+  amazonQuery: string;
+}
+
+/** A "best X" affiliate buying guide, rendered at /best/[slug]. */
+export interface BuyingGuideData {
+  slug: string;
+  /** Primary target keyword, e.g. "best shampoo for thinning hair". */
+  keyword: string;
+  /** Short label for hub cards and nav, e.g. "Shampoos for Thinning Hair". */
+  shortTitle: string;
+  category: string;
+  metaTitle: string;
+  metaDescription: string;
+  h1: string;
+  dek: string;
+  intro: string[];
+  keyTakeaways: string[];
+  /** One sentence explaining how picks were chosen for this specific category. */
+  methodology: string;
+  products: ProductPick[];
+  /** Buying advice, ingredient explainers, how-to-use, etc. Rendered after the product cards. */
+  sections: ContentSection[];
+  faq: FaqItem[];
+  bottomLine: string;
+  relatedGuideSlugs: string[];
+  relatedReviewSlugs?: string[];
+  updatedDate: string;
+}
