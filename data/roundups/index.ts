@@ -69,6 +69,10 @@ import { bestAtHomeHairColor } from "./best-at-home-hair-color";
 import { bestDysonAirwrapAlternative } from "./best-dyson-airwrap-alternative";
 import { bestDysonSupersonicAlternative } from "./best-dyson-supersonic-alternative";
 import { bestHeatedRollers } from "./best-heated-rollers";
+import { bestHairGrowthProducts } from "./best-hair-growth-products";
+import { bestDandruffShampoo } from "./best-dandruff-shampoo";
+import { bestDhtBlocker } from "./best-dht-blocker";
+import { bestBeardGrowthProducts } from "./best-beard-growth-products";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -79,6 +83,7 @@ export const roundupHubs: RoundupData["hub"][] = [
 ];
 
 export const roundups: RoundupData[] = [
+  bestHairGrowthProducts,
   bestMinoxidilForMen,
   bestBeardGrowthOil,
   bestEyelashGrowthSerum,
@@ -149,4 +154,7 @@ export const roundups: RoundupData[] = [
   bestDysonAirwrapAlternative,
   bestDysonSupersonicAlternative,
   bestHeatedRollers,
+  bestDandruffShampoo,
+  bestDhtBlocker,
+  bestBeardGrowthProducts,
 ];
