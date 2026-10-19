@@ -14,3 +14,15 @@ export function amazonUrl(product: Pick<ProductPick, "asin" | "amazonQuery">): s
   const q = encodeURIComponent(product.amazonQuery).replace(/%20/g, "+");
   return `https://www.amazon.com/s?k=${q}&tag=${AMAZON_TAG}`;
 }
+
+/** Adds our Amazon tag to any amazon.com link; leaves other retailers' links unchanged. */
+export function withAffiliateTag(url: string): string {
+  try {
+    const u = new URL(url);
+    if (!/(^|\.)amazon\.com$/.test(u.hostname)) return url;
+    u.searchParams.set("tag", AMAZON_TAG);
+    return u.toString();
+  } catch {
+    return url;
+  }
+}

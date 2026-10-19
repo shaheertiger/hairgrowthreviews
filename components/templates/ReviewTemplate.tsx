@@ -1,4 +1,5 @@
 import { ReviewData } from "@/lib/types";
+import { withAffiliateTag } from "@/lib/affiliate";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import AuthorBlock from "@/components/AuthorBlock";
 import RatingBadge from "@/components/ui/RatingBadge";
@@ -94,7 +95,7 @@ export default function ReviewTemplate({ data }: { data: ReviewData }) {
                 </div>
               )}
               <div className="border-t border-border-subtle p-4">
-                <CTAButton href={data.affiliateUrl} label={`Check Price for ${data.productName} →`} />
+                <CTAButton href={withAffiliateTag(data.affiliateUrl)} label={`Check Price for ${data.productName} →`} />
               </div>
             </div>
 
@@ -171,7 +172,7 @@ export default function ReviewTemplate({ data }: { data: ReviewData }) {
               <BottomLineBox
                 text={data.bottomLine}
                 ctaLabel={`Check Price for ${data.productName} →`}
-                ctaHref={data.affiliateUrl}
+                ctaHref={withAffiliateTag(data.affiliateUrl)}
               />
               {data.guarantee && (
                 <p className="text-xs text-stone-400">Guarantee: {data.guarantee}</p>
