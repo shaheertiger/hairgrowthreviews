@@ -7,7 +7,7 @@ export const bestShampooForThinningHair: BuyingGuideData = {
   category: "Shampoos",
   metaTitle: "8 Best Shampoos for Thinning Hair (2026): Evidence-Ranked Picks",
   metaDescription:
-    "The best shampoos for thinning hair, ranked on active ingredients and evidence: ketoconazole, caffeine, and thickening formulas from Nioxin, Nizoral, Alpecin and more.",
+    "The best shampoos for thinning hair, ranked on ingredients and evidence: ketoconazole, caffeine and thickening formulas from Nioxin, Nizoral, Alpecin and more.",
   h1: "The 8 Best Shampoos for Thinning Hair in 2026",
   dek: "No shampoo regrows a receding hairline on its own — but the right one can cut shedding, calm an inflamed scalp, and make every strand you have look thicker. Here's what's worth buying.",
   intro: [
