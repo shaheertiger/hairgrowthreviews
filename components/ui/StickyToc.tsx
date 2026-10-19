@@ -7,7 +7,7 @@ interface TocItem {
   label: string;
 }
 
-export default function StickyToc({ items }: { items: TocItem[] }) {
+export default function StickyToc({ items, children }: { items: TocItem[]; children?: React.ReactNode }) {
   const [activeId, setActiveId] = useState<string>(items[0]?.id ?? "");
 
   useEffect(() => {
@@ -38,6 +38,7 @@ export default function StickyToc({ items }: { items: TocItem[] }) {
 
   return (
     <nav aria-label="Table of contents" className="sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto">
+      {children}
       <p className="mb-3 text-xs font-bold uppercase tracking-wide text-stone-400">On This Page</p>
       <ul className="space-y-1 border-l border-border-subtle">
         {items.map((item) => {

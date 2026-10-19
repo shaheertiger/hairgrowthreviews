@@ -6,18 +6,22 @@ export const site = {
   description:
     "Independent, research-backed reviews of hair regrowth serums, shampoos, supplements, and treatments — tested claims, real ingredients, honest verdicts.",
   twitter: "@hairgrowthreviews",
+  /** Google Analytics 4 measurement ID. Public by design — it ships in every page. */
+  gaMeasurementId: "G-8ZN36EPPJ2",
   navCategories: [
     {
-      label: "Buying Guides",
+      label: "Best Picks",
       href: "/best",
       children: [
-        { label: "All Buying Guides", href: "/best" },
-        { label: "Shampoos for Thinning Hair", href: "/best/best-shampoo-for-thinning-hair" },
-        { label: "Hair Growth Products", href: "/best/best-hair-growth-products" },
-        { label: "Hair Growth Serums", href: "/best/best-hair-growth-serum" },
-        { label: "Hair Growth Vitamins", href: "/best/best-hair-growth-vitamins" },
-        { label: "Minoxidil for Men", href: "/best/best-minoxidil-for-men" },
-        { label: "Rosemary Oil", href: "/best/best-rosemary-oil-for-hair-growth" },
+        { label: "Best Minoxidil for Men", href: "/best-minoxidil-for-men" },
+        { label: "Best Minoxidil for Women", href: "/best-minoxidil-for-women" },
+        { label: "Best Hair Growth Shampoo", href: "/best-hair-growth-shampoo" },
+        { label: "Best Hair Growth Serum", href: "/best-hair-growth-serum" },
+        { label: "Best Laser Caps", href: "/best-laser-cap-for-hair-growth" },
+        { label: "Best Hair Growth Vitamins", href: "/best-hair-growth-vitamins" },
+        { label: "Best Hair Dryers", href: "/best-hair-dryer" },
+        { label: "Best Dyson Airwrap Alternatives", href: "/best-dyson-airwrap-alternative" },
+        { label: "All Buyer's Guides →", href: "/best" },
       ],
     },
     {
@@ -46,6 +50,7 @@ export const site = {
         { label: "Stages of Hair Loss", href: "/about-hair-growth/stages-hair-loss" },
       ],
     },
+    { label: "Hair Answers", href: "/answers" },
     { label: "The HGR Regimen", href: "/the-hgr-regimen" },
   ],
   footerLinks: {
@@ -58,5 +63,5 @@ export const site = {
     ],
   },
   disclosure:
-    "HairGrowthReviews is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. This does not influence our ratings or reviews, which are based on independent research into ingredients, clinical evidence, and verified customer feedback. Learn more in our editorial process.",
+    "HairGrowthReviews is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. As an Amazon Associate we earn from qualifying purchases. This does not influence our ratings or reviews, which are based on independent research into ingredients, clinical evidence, and verified customer feedback. Learn more in our editorial process.",
 };

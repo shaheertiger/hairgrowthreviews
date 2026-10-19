@@ -5,6 +5,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { site } from "@/lib/site";
 import { Analytics } from "@vercel/analytics/next";
+import { GoogleAnalytics } from "@next/third-parties/google";
+import AffiliateClickTracker from "@/components/AffiliateClickTracker";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -41,7 +43,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <main className="flex-1">{children}</main>
         <Footer />
         <Analytics />
+        <AffiliateClickTracker />
       </body>
+      <GoogleAnalytics gaId={site.gaMeasurementId} />
     </html>
   );
 }

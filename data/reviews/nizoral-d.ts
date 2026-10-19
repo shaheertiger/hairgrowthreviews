@@ -195,6 +195,7 @@ export const nizoralD: ReviewData = {
   bottomLine:
     "Nizoral A-D is the most clinically substantiated shampoo in this entire category for its price — not a standalone cure, but a genuinely evidence-backed, low-cost adjunct worth adding to almost any hair-loss routine.",
   affiliateUrl: "https://www.amazon.com/s?k=nizoral+a-d+anti-dandruff+shampoo",
+  asin: "B00AINMFAC",
   relatedSlugs: ["ultrax-labs-hair-surge-caffeine-hair-loss-hair-growth-stimulating-shampoo", "mane-n-tail-shampoo", "pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo"],
   updatedDate: "August 2026",
 };

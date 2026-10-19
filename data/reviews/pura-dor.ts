@@ -211,6 +211,7 @@ export const puraDor: ReviewData = {
     "PURA D'OR is a genuinely well-formulated, widely trusted cosmetic shampoo with an unusually generous return policy — just don't mistake 'clinically tested' marketing language for proof it reverses hair loss on its own.",
   guarantee: "365-day satisfaction guarantee (ship return within 100 days, buyer pays shipping)",
   affiliateUrl: "https://www.amazon.com/s?k=pura+dor+hair+loss+shampoo",
+  asin: "B00FH692PQ",
   relatedSlugs: ["mane-n-tail-shampoo", "nizoral-d-anti-dandruff-shampoo", "just-natural-hair-growth-treatment"],
   updatedDate: "August 2026",
 };

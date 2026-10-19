@@ -1,11 +1,12 @@
 import type { MetadataRoute } from "next";
 import { reviews } from "@/data/reviews";
 import { guides } from "@/data/guides";
-import { buyingGuides } from "@/data/buying-guides";
+import { roundups } from "@/data/roundups";
+import { questions } from "@/data/questions";
 import { site } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ["", "/reviews", "/about", "/contact", "/privacy", "/terms", "/best"].map((path) => ({
+  const staticRoutes = ["", "/best", "/answers", "/reviews", "/about", "/contact", "/privacy", "/terms"].map((path) => ({
     url: `${site.url}${path}`,
     lastModified: new Date("2026-08-20"),
   }));
@@ -31,10 +32,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date("2026-08-20"),
   }));
 
-  const buyingGuideRoutes = buyingGuides.map((g) => ({
-    url: `${site.url}/best/${g.slug}`,
-    lastModified: new Date("2026-10-19"),
+  const roundupRoutes = roundups.map((r) => ({
+    url: `${site.url}/${r.slug}`,
+    lastModified: new Date(r.updatedDate),
   }));
 
-  return [...staticRoutes, ...reviewRoutes, ...maneNTailRoute, ...guideRoutes, ...buyingGuideRoutes];
+  const questionRoutes = questions.map((q) => ({
+    url: `${site.url}/${q.slug}`,
+    lastModified: new Date(q.updatedDate),
+  }));
+
+  return [...staticRoutes, ...roundupRoutes, ...questionRoutes, ...reviewRoutes, ...maneNTailRoute, ...guideRoutes];
 }

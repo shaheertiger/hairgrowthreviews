@@ -203,6 +203,7 @@ export const avedaInvati: ReviewData = {
   bottomLine:
     "Invati is a well-formulated, allergen-conscious premium option best suited to breakage-related thinning rather than classic pattern hair loss — worth it if you value the Aveda brand and salon support, but its headline 77% claim applies to the full system, not the serum alone.",
   affiliateUrl: "https://www.aveda.com/",
+  asin: "B0DBFLF17Q",
   relatedSlugs: ["murad-hair-growth-scalp-serum", "just-natural-hair-growth-treatment", "pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo"],
   updatedDate: "August 2026",
 };

@@ -67,6 +67,8 @@ export interface ReviewData {
   guarantee?: string;
   safetyNote?: string;
   affiliateUrl: string;
+  /** Exact Amazon listing for this product; when set (and live per amazon:sync) it replaces affiliateUrl. */
+  asin?: string;
   relatedSlugs: string[];
   updatedDate: string;
 }
@@ -92,56 +94,90 @@ export interface GuideData {
   updatedDate: string;
 }
 
-/** One ranked product inside a buying guide. */
-export interface ProductPick {
-  /** Stable anchor id for the product card, e.g. "nioxin-system-2". */
+/** One ranked product inside a "best of" roundup. */
+export interface RoundupProduct {
+  /** Stable kebab-case key; also the anchor id of the product card. */
   id: string;
-  /** Short award label, e.g. "Best Overall", "Best Budget". */
-  award: string;
+  /** The product as Amazon lists it, brand first (e.g. "Kirkland Signature Minoxidil 5% Topical Solution"). */
   name: string;
   brand: string;
-  /** Editorial score out of 5, based on our evidence + value rubric (not Amazon stars). */
+  /** The exact Amazon listing, found with `npm run amazon:search`. Drives the direct /dp/ link and the image. */
+  asin?: string;
+  /** Award line shown on the card and in the quick picks, e.g. "Best Overall". */
+  badge: string;
+  /** Short product type, e.g. "5% Minoxidil Liquid". */
+  category: string;
+  /** Editorial score out of 5 — our verdict, not an Amazon star rating. */
   score: number;
-  /** Approximate price at time of writing, e.g. "~$25". */
-  price: string;
-  /** Size / count the price refers to, e.g. "10.1 fl oz" or "60 capsules". */
-  size?: string;
-  /** Who this pick suits, in a few words. */
   bestFor: string;
-  /** Headline active ingredients or specs. */
-  keyIngredients: string[];
-  /** 2-3 paragraphs explaining why it made the list. */
-  summary: string[];
+  keySpecs: QuickFact[];
+  /** 2-3 paragraphs on what it is, what the evidence says, and who should skip it. */
+  description: string[];
   pros: string[];
   cons: string[];
-  /** Amazon ASIN. When set, links go straight to the product page; otherwise to a search. */
-  asin?: string;
-  /** Amazon search query used when no ASIN is set. */
-  amazonQuery: string;
+  bottomLine: string;
 }
 
-/** A "best X" affiliate buying guide, rendered at /best/[slug]. */
-export interface BuyingGuideData {
+export interface RoundupMistake {
+  heading: string;
+  body: string;
+}
+
+/** A commercial "best X" roundup — the format that earns on thehonestreviewers.com. */
+export interface RoundupData {
   slug: string;
-  /** Primary target keyword, e.g. "best shampoo for thinning hair". */
-  keyword: string;
-  /** Short label for hub cards and nav, e.g. "Shampoos for Thinning Hair". */
-  shortTitle: string;
-  category: string;
+  /** Hub grouping on /best and in the nav. */
+  hub: "Hair Growth & Hair Loss" | "Hair Care" | "Hair Tools" | "Men's Grooming" | "Brows, Lashes & Beard";
+  /** Short breadcrumb / card label, e.g. "Best Minoxidil for Men". */
+  crumb: string;
   metaTitle: string;
   metaDescription: string;
   h1: string;
   dek: string;
   intro: string[];
   keyTakeaways: string[];
-  /** One sentence explaining how picks were chosen for this specific category. */
-  methodology: string;
-  products: ProductPick[];
-  /** Buying advice, ingredient explainers, how-to-use, etc. Rendered after the product cards. */
+  products: RoundupProduct[];
+  /** Number of body sections rendered before the product cards. */
+  picksAfter: number;
+  picksHeading: string;
+  picksIntro: string;
+  sections: ContentSection[];
+  comparisonTable?: ComparisonTableData;
+  mistakes: RoundupMistake[];
+  faq: FaqItem[];
+  bottomLine: string;
+  relatedRoundups: string[];
+  relatedReviewSlugs?: string[];
+  /** Existing guide paths to link to, e.g. "/find-a-treatment/minoxidil-rogaine". */
+  relatedGuides?: { href: string; label: string }[];
+  publishedDate: string;
+  updatedDate: string;
+}
+
+/** A long-tail question post ("How long does minoxidil take to work?") that
+ *  answers one query in depth and feeds readers to its buyer's guide. */
+export interface QuestionData {
+  slug: string;
+  hub: RoundupData["hub"];
+  /** Short breadcrumb / card label. */
+  crumb: string;
+  metaTitle: string;
+  metaDescription: string;
+  /** The question itself, phrased the way people search it. */
+  h1: string;
+  dek: string;
+  /** 40-60 word direct answer, written to win the featured snippet. */
+  shortAnswer: string;
+  keyTakeaways: string[];
+  intro: string[];
   sections: ContentSection[];
   faq: FaqItem[];
   bottomLine: string;
-  relatedGuideSlugs: string[];
-  relatedReviewSlugs?: string[];
+  /** The buyer's guide this question feeds; its top picks are shown on the page. */
+  pillarSlug: string;
+  relatedQuestions: string[];
+  relatedRoundups: string[];
+  relatedGuides?: { href: string; label: string }[];
+  publishedDate: string;
   updatedDate: string;
 }
