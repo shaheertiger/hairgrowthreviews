@@ -7,7 +7,7 @@ export const bestEyelashGrowthSerum: BuyingGuideData = {
   category: "Lash & Brow",
   metaTitle: "7 Best Eyelash Growth Serums (2026): Evidence & Safety Ranked",
   metaDescription:
-    "The best eyelash growth serum for longer, fuller lashes: prostaglandin-analog and peptide serums from RevitaLash, GrandeLASH and The Ordinary, ranked on evidence and safety.",
+    "The best eyelash growth serum for longer, fuller lashes: prostaglandin and peptide serums from RevitaLash, GrandeLASH and The Ordinary, ranked on safety.",
   h1: "The 7 Best Eyelash Growth Serums in 2026",
   dek: "Some lash serums genuinely change how long and dark your lashes grow — and those same ingredients carry real side effects. Here's how to choose between the powerful options and the gentle ones.",
   intro: [

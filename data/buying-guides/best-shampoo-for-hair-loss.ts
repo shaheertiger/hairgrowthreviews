@@ -7,7 +7,7 @@ export const bestShampooForHairLoss: BuyingGuideData = {
   category: "Shampoos",
   metaTitle: "8 Best Shampoos for Hair Loss (2026): Active-Ingredient Picks",
   metaDescription:
-    "The best shampoo for hair loss, ranked on active ingredients and evidence: ketoconazole, caffeine and DHT-blocker formulas from Nizoral, Revita, Alpecin and more.",
+    "The best shampoo for hair loss, ranked on its actives and evidence: ketoconazole, caffeine and DHT-blocker formulas from Nizoral, Revita, Alpecin and more.",
   h1: "The 8 Best Shampoos for Hair Loss in 2026, Ranked by Their Actives",
   dek: "Ketoconazole, caffeine, saw palmetto, 'DHT blockers' — hair-loss shampoos are sold on their active ingredients. We sorted the actives with real evidence from the ones that are mostly label copy, and ranked the bottles accordingly.",
   intro: [

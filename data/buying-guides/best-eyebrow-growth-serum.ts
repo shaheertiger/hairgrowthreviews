@@ -7,7 +7,7 @@ export const bestEyebrowGrowthSerum: BuyingGuideData = {
   category: "Lash & Brow",
   metaTitle: "7 Best Eyebrow Growth Serums (2026): Evidence-Ranked Picks",
   metaDescription:
-    "The best eyebrow growth serum for sparse or over-plucked brows: RevitaBrow, GrandeBROW, The Ordinary and more, ranked on ingredients, evidence, safety and value.",
+    "The best eyebrow growth serum for sparse or over-plucked brows: RevitaBrow, GrandeBROW, The Ordinary and more, ranked on ingredients, evidence and safety.",
   h1: "The 7 Best Eyebrow Growth Serums in 2026",
   dek: "Over-plucked in the 2000s, thinning with age, or never quite full? A brow serum can help — if you pick the right type, give it time, and rule out the medical causes first.",
   intro: [

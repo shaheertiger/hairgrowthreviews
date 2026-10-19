@@ -7,7 +7,7 @@ export const bestDandruffShampoo: BuyingGuideData = {
   category: "Shampoos",
   metaTitle: "8 Best Dandruff Shampoos (2026): Ranked by Active Ingredient",
   metaDescription:
-    "The best dandruff shampoo for your scalp, ranked by active ingredient: ketoconazole, selenium sulfide, zinc pyrithione, coal tar and salicylic acid picks compared.",
+    "The best dandruff shampoo for your scalp, ranked by active: ketoconazole, selenium sulfide, zinc pyrithione, coal tar and salicylic acid picks compared.",
   h1: "The 8 Best Dandruff Shampoos of 2026, Matched to Your Scalp",
   dek: "Dandruff shampoos are over-the-counter drugs, and the active ingredient on the Drug Facts label matters far more than the brand. Here's which active to choose, which bottle to buy — and why clearing flakes can also cut shedding.",
   intro: [

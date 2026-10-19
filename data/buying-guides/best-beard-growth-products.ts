@@ -7,7 +7,7 @@ export const bestBeardGrowthProducts: BuyingGuideData = {
   category: "Beard",
   metaTitle: "8 Best Beard Growth Products (2026): What Actually Works",
   metaDescription:
-    "The best beard growth products, honestly ranked: minoxidil for real growth, plus the best beard oils, balms, brushes and derma rollers for a fuller-looking beard.",
+    "The best beard growth products, honestly ranked: minoxidil for real growth, plus the best beard oils, balms, brushes and derma rollers for a fuller look.",
   h1: "The 8 Best Beard Growth Products in 2026 (and What Actually Works)",
   dek: "Most 'beard growth' oils make a beard look and feel better but don't grow a single hair. Here's the honest breakdown — the one product with trial evidence, and the grooming tools that make the beard you have look fuller.",
   intro: [
