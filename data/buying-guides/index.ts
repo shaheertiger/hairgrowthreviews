@@ -7,6 +7,10 @@ import { bestRedLightTherapyForHairGrowth } from "./best-red-light-therapy-for-h
 import { bestHairGrowthSerum } from "./best-hair-growth-serum";
 import { bestHairGrowthOil } from "./best-hair-growth-oil";
 import { bestRosemaryOilForHairGrowth } from "./best-rosemary-oil-for-hair-growth";
+import { bestEyelashGrowthSerum } from "./best-eyelash-growth-serum";
+import { bestEyebrowGrowthSerum } from "./best-eyebrow-growth-serum";
+import { bestBeardGrowthProducts } from "./best-beard-growth-products";
+import { bestCollagenForHairGrowth } from "./best-collagen-for-hair-growth";
 import { bestHairGrowthProducts } from "./best-hair-growth-products";
 import { bestHairGrowthProductsForMen } from "./best-hair-growth-products-for-men";
 import { bestHairGrowthProductsForWomen } from "./best-hair-growth-products-for-women";
@@ -24,4 +28,8 @@ export const buyingGuides = [
   bestHairGrowthSerum,
   bestRosemaryOilForHairGrowth,
   bestHairGrowthOil,
+  bestCollagenForHairGrowth,
+  bestEyelashGrowthSerum,
+  bestEyebrowGrowthSerum,
+  bestBeardGrowthProducts,
 ];
