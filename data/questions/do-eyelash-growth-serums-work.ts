@@ -6,7 +6,7 @@ export const doEyelashGrowthSerumsWork: QuestionData = {
   crumb: "Do Eyelash Growth Serums Actually Work?",
   metaTitle: "Do Eyelash Growth Serums Work? Latisse vs. OTC Serums",
   metaDescription:
-    "Prostaglandin lash serums like Latisse can grow longer, darker lashes in about 4 months. Peptide serums mostly condition. How they work, risks and who should avoid.",
+    "Prostaglandin lash serums like Latisse can grow longer, darker lashes in about 4 months; peptide serums mostly condition. How they work and the risks.",
   h1: "Do Eyelash Growth Serums Actually Work?",
   dek: "Some lash serums contain a drug class that reliably lengthens lashes. Others are conditioners with good packaging. Here is how to tell them apart, what results to expect, and the eye-safety trade-offs.",
   shortAnswer:
