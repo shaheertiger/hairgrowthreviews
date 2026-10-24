@@ -20,6 +20,16 @@ import { doesSawPalmettoBlockDht } from "./does-saw-palmetto-block-dht";
 import { canLowIronCauseHairLoss } from "./can-low-iron-cause-hair-loss";
 import { canVitaminDDeficiencyCauseHairLoss } from "./can-vitamin-d-deficiency-cause-hair-loss";
 
+import { doesCollagenHelpHairGrowth } from "./does-collagen-help-hair-growth";
+import { doesCastorOilGrowHair } from "./does-castor-oil-grow-hair";
+import { doesPumpkinSeedOilHelpHairLoss } from "./does-pumpkin-seed-oil-help-hair-loss";
+import { doesBatanaOilGrowHair } from "./does-batana-oil-grow-hair";
+import { doesScalpMassageHelpHairGrowth } from "./does-scalp-massage-help-hair-growth";
+import { doesKetoconazoleShampooHelpHairLoss } from "./does-ketoconazole-shampoo-help-hair-loss";
+import { whatHappensIfYouStopUsingMinoxidil } from "./what-happens-if-you-stop-using-minoxidil";
+import { doDhtBlockerShampoosWork } from "./do-dht-blocker-shampoos-work";
+import { doesMinoxidilWorkForBeardGrowth } from "./does-minoxidil-work-for-beard-growth";
+import { doEyelashGrowthSerumsWork } from "./do-eyelash-growth-serums-work";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -41,4 +51,14 @@ export const questions: QuestionData[] = [
   doesSawPalmettoBlockDht,
   canLowIronCauseHairLoss,
   canVitaminDDeficiencyCauseHairLoss,
+  doesCollagenHelpHairGrowth,
+  doesCastorOilGrowHair,
+  doesPumpkinSeedOilHelpHairLoss,
+  doesBatanaOilGrowHair,
+  doesScalpMassageHelpHairGrowth,
+  doesKetoconazoleShampooHelpHairLoss,
+  whatHappensIfYouStopUsingMinoxidil,
+  doDhtBlockerShampoosWork,
+  doesMinoxidilWorkForBeardGrowth,
+  doEyelashGrowthSerumsWork,
 ];
