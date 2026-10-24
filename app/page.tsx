@@ -6,6 +6,7 @@ import { roundups } from "@/data/roundups";
 import { questions } from "@/data/questions";
 import RatingBadge from "@/components/ui/RatingBadge";
 import { site } from "@/lib/site";
+import { reviewHref } from "@/lib/links";
 
 export const metadata: Metadata = {
   title: `${site.name} — Independent Hair Loss & Regrowth Product Reviews`,
@@ -112,7 +113,7 @@ export default function HomePage() {
           {featured.map((r) => (
             <Link
               key={r.slug}
-              href={`/reviews/${r.slug}`}
+              href={reviewHref(r.slug)}
               className="rounded-xl border border-border-subtle bg-surface p-5 transition-shadow hover:shadow-md"
             >
               <p className="text-xs font-bold uppercase tracking-wide text-brand-600">{r.category}</p>

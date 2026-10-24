@@ -1,8 +1,9 @@
 import Link from "next/link";
 import { RoundupData } from "@/lib/types";
 import { amazonImage, amazonProductLink } from "@/lib/affiliate";
-import { roundups } from "@/data/roundups";
-import { questions } from "@/data/questions";
+import { questionsForRoundup, relatedGuidesForRoundup, relatedRoundupsFor, reviewsForRoundup, roundupHref } from "@/lib/links";
+import { createLinker } from "@/lib/autolink";
+import { GuideLinks, QuestionList, RoundupCards } from "@/components/RelatedLinks";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import AuthorBlock from "@/components/AuthorBlock";
 import TableOfContents from "@/components/ui/TableOfContents";
@@ -29,11 +30,11 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
   const before = data.sections.slice(0, data.picksAfter);
   const after = data.sections.slice(data.picksAfter);
   const top = data.products[0];
-  const related = data.relatedRoundups
-    .map((slug) => roundups.find((r) => r.slug === slug))
-    .filter((r): r is RoundupData => !!r);
-
-  const answers = questions.filter((q) => q.pillarSlug === data.slug);
+  const related = relatedRoundupsFor(data);
+  const answers = questionsForRoundup(data);
+  const guideLinks = relatedGuidesForRoundup(data);
+  const relatedReviews = reviewsForRoundup(data);
+  const linkify = createLinker(roundupHref(data.slug), ["/best"]);
 
   const tocItems = [
     { id: "overview", label: "Overview" },
@@ -102,14 +103,14 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
             <section id="overview" className="prose-content mt-10 scroll-mt-24">
               {data.intro.map((p, i) => (
                 <p key={i} className={i === 0 ? "lead" : undefined}>
-                  {p}
+                  {linkify(p)}
                 </p>
               ))}
             </section>
 
             <div className="mt-10 space-y-10">
               {before.map((section, i) => (
-                <ArticleSection key={section.id} section={section} index={i + 1} />
+                <ArticleSection key={section.id} section={section} index={i + 1} linkify={linkify} />
               ))}
             </div>
 
@@ -130,7 +131,7 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
 
             <div className="mt-10 space-y-10">
               {after.map((section, i) => (
-                <ArticleSection key={section.id} section={section} index={n0 + 1 + i} />
+                <ArticleSection key={section.id} section={section} index={n0 + 1 + i} linkify={linkify} />
               ))}
             </div>
 
@@ -164,58 +165,10 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
               />
             </section>
 
-            {answers.length > 0 && (
-              <div className="my-8">
-                <h2 className="mb-4 text-2xl font-bold text-brand-900">Common Questions, Answered</h2>
-                <ul className="divide-y divide-border-subtle rounded-xl border border-border-subtle bg-surface">
-                  {answers.map((q) => (
-                    <li key={q.slug}>
-                      <Link href={`/${q.slug}`} className="block px-4 py-3 font-semibold text-stone-800 hover:text-brand-700">
-                        {q.h1} →
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            {related.length > 0 && (
-              <div className="my-8">
-                <h2 className="mb-4 text-2xl font-bold text-brand-900">More Buyer&apos;s Guides</h2>
-                <div className="grid gap-4 sm:grid-cols-3">
-                  {related.map((r) => (
-                    <Link
-                      key={r.slug}
-                      href={`/${r.slug}`}
-                      className="rounded-xl border border-border-subtle bg-surface p-4 transition-shadow hover:shadow-md"
-                    >
-                      <p className="text-xs font-bold uppercase tracking-wide text-brand-600">{r.hub}</p>
-                      <p className="mt-1 font-bold text-stone-900">{r.crumb}</p>
-                      <p className="mt-1 line-clamp-2 text-sm text-stone-500">{r.dek}</p>
-                    </Link>
-                  ))}
-                </div>
-              </div>
-            )}
-
-            {data.relatedGuides && data.relatedGuides.length > 0 && (
-              <div className="my-8">
-                <h2 className="mb-4 text-2xl font-bold text-brand-900">Learn More First</h2>
-                <ul className="space-y-2">
-                  {data.relatedGuides.map((g) => (
-                    <li key={g.href}>
-                      <Link href={g.href} className="font-semibold text-brand-700 hover:underline">
-                        {g.label} →
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            {data.relatedReviewSlugs && data.relatedReviewSlugs.length > 0 && (
-              <RelatedReviews slugs={data.relatedReviewSlugs} />
-            )}
+            <QuestionList items={answers} heading="Common Questions, Answered" />
+            <RoundupCards items={related} heading="More Buyer's Guides" />
+            <GuideLinks items={guideLinks} heading="Learn More First" />
+            <RelatedReviews items={relatedReviews} heading="In-Depth Product Reviews" />
           </article>
 
           <aside className="hidden lg:block">

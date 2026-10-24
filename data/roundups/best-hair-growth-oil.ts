@@ -379,6 +379,9 @@ export const bestHairGrowthOil: RoundupData = {
     "best-black-hair-care-products",
     "best-minoxidil-for-women",
     "best-minoxidil-for-men",
+    "best-castor-oil-for-hair-growth",
+    "best-batana-oil",
+    "best-pumpkin-seed-oil-for-hair-loss",
   ],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

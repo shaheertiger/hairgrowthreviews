@@ -3,6 +3,7 @@ import Link from "next/link";
 import { reviews } from "@/data/reviews";
 import RatingBadge from "@/components/ui/RatingBadge";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
+import { reviewHref } from "@/lib/links";
 
 export const metadata: Metadata = {
   title: "Hair Growth Product Reviews",
@@ -25,7 +26,7 @@ export default function ReviewsIndexPage() {
         {sorted.map((r) => (
           <Link
             key={r.slug}
-            href={`/reviews/${r.slug}`}
+            href={reviewHref(r.slug)}
             className="rounded-xl border border-border-subtle bg-surface p-5 transition-shadow hover:shadow-md"
           >
             <p className="text-xs font-bold uppercase tracking-wide text-brand-600">{r.category}</p>

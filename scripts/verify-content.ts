@@ -6,6 +6,8 @@
  * 2. Every comparison table row must supply exactly one value per column.
  * 3. Roundups meet the buyer's-guide format: enough prose, 5 mistakes, 6+ FAQs,
  *    5+ products with well-formed ASINs, and related links that resolve.
+ * 4. Every internal link the data declares (related reviews, guides, guide
+ *    hrefs, in-text link targets) points at a page that exists.
  *
  * Run with: npx tsx scripts/verify-content.ts
  */
@@ -14,6 +16,8 @@ import { guides } from "../data/guides";
 import { roundups } from "../data/roundups";
 import { questions } from "../data/questions";
 import { ContentSection, ComparisonTableData } from "../lib/types";
+import { guideHref, guideSectionHref, questionHref, reviewHref, roundupHref } from "../lib/links";
+import { autolinkTargets } from "../lib/autolink";
 
 function normalize(s: string): string {
   return s
@@ -158,6 +162,30 @@ for (const q of questions) {
   for (const s of q.sections)
     if (["short-answer", "faq", "bottom-line"].includes(s.id)) fail(`SECTION ID CLASH ${where} #${s.id}`);
 }
+
+// Internal links: everything the data points at must be a real page.
+const pagePaths = new Set<string>([
+  "/", "/best", "/answers", "/reviews", ...Object.values(guideSectionHref),
+  ...reviews.map((r) => reviewHref(r.slug)),
+  ...guides.map(guideHref),
+  ...roundups.map((r) => roundupHref(r.slug)),
+  ...questions.map((q) => questionHref(q.slug)),
+]);
+const checkHref = (where: string, href: string) => {
+  if (!pagePaths.has(href.split("#")[0])) fail(`BROKEN LINK ${where} -> ${href}`);
+};
+for (const r of reviews)
+  for (const s of r.relatedSlugs)
+    if (!reviews.some((x) => x.slug === s) || s === r.slug) fail(`BROKEN RELATED REVIEW review:${r.slug} -> ${s}`);
+for (const g of guides) {
+  for (const s of g.relatedSlugs)
+    if (!guides.some((x) => x.slug === s) || s === g.slug) fail(`BROKEN RELATED GUIDE guide:${g.slug} -> ${s}`);
+  for (const s of g.relatedReviewSlugs ?? [])
+    if (!reviews.some((x) => x.slug === s)) fail(`BROKEN RELATED REVIEW guide:${g.slug} -> ${s}`);
+}
+for (const r of roundups) for (const g of r.relatedGuides ?? []) checkHref(`roundup:${r.slug}`, g.href);
+for (const q of questions) for (const g of q.relatedGuides ?? []) checkHref(`question:${q.slug}`, g.href);
+for (const t of autolinkTargets) checkHref("autolink rule", t);
 
 console.log(
   `Checked ${quotesChecked} pull quotes and ${tablesChecked} tables across ` +
