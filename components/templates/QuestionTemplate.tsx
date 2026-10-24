@@ -2,7 +2,9 @@ import Link from "next/link";
 import { QuestionData, RoundupData } from "@/lib/types";
 import { amazonImage, amazonProductLink } from "@/lib/affiliate";
 import { roundups } from "@/data/roundups";
-import { questions } from "@/data/questions";
+import { questionHref, relatedQuestionsFor, relatedRoundupsForQuestion } from "@/lib/links";
+import { createLinker } from "@/lib/autolink";
+import { GuideLinks, QuestionList, RoundupCards } from "@/components/RelatedLinks";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import AuthorBlock from "@/components/AuthorBlock";
 import TableOfContents from "@/components/ui/TableOfContents";
@@ -19,12 +21,9 @@ import ProductThumb from "@/components/roundup/ProductThumb";
 export default function QuestionTemplate({ data }: { data: QuestionData }) {
   const pillar = roundups.find((r) => r.slug === data.pillarSlug) as RoundupData;
   const top = pillar.products[0];
-  const relatedQs = data.relatedQuestions
-    .map((s) => questions.find((q) => q.slug === s))
-    .filter((q): q is QuestionData => !!q);
-  const relatedRs = data.relatedRoundups
-    .map((s) => roundups.find((r) => r.slug === s))
-    .filter((r): r is RoundupData => !!r);
+  const relatedQs = relatedQuestionsFor(data);
+  const relatedRs = relatedRoundupsForQuestion(data);
+  const linkify = createLinker(questionHref(data.slug), ["/answers"]);
 
   // Split the body so the reader meets the buyer's guide again mid-article.
   const mid = Math.ceil(data.sections.length / 2);
@@ -90,14 +89,14 @@ export default function QuestionTemplate({ data }: { data: QuestionData }) {
             <section className="prose-content mt-10">
               {data.intro.map((p, i) => (
                 <p key={i} className={i === 0 ? "lead" : undefined}>
-                  {p}
+                  {linkify(p)}
                 </p>
               ))}
             </section>
 
             <div className="mt-10 space-y-10">
               {data.sections.slice(0, mid).map((section, i) => (
-                <ArticleSection key={section.id} section={section} index={i + 1} />
+                <ArticleSection key={section.id} section={section} index={i + 1} linkify={linkify} />
               ))}
             </div>
 
@@ -122,7 +121,7 @@ export default function QuestionTemplate({ data }: { data: QuestionData }) {
 
             <div className="space-y-10">
               {data.sections.slice(mid).map((section, i) => (
-                <ArticleSection key={section.id} section={section} index={mid + i + 1} />
+                <ArticleSection key={section.id} section={section} index={mid + i + 1} linkify={linkify} />
               ))}
             </div>
 
@@ -139,53 +138,9 @@ export default function QuestionTemplate({ data }: { data: QuestionData }) {
               />
             </section>
 
-            {relatedQs.length > 0 && (
-              <div className="my-8">
-                <h2 className="mb-4 text-2xl font-bold text-brand-900">Related Questions</h2>
-                <ul className="divide-y divide-border-subtle rounded-xl border border-border-subtle bg-surface">
-                  {relatedQs.map((q) => (
-                    <li key={q.slug}>
-                      <Link href={`/${q.slug}`} className="block px-4 py-3 font-semibold text-stone-800 hover:text-brand-700">
-                        {q.h1} →
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            {relatedRs.length > 0 && (
-              <div className="my-8">
-                <h2 className="mb-4 text-2xl font-bold text-brand-900">Buyer&apos;s Guides</h2>
-                <div className="grid gap-4 sm:grid-cols-3">
-                  {relatedRs.map((r) => (
-                    <Link
-                      key={r.slug}
-                      href={`/${r.slug}`}
-                      className="rounded-xl border border-border-subtle bg-surface p-4 transition-shadow hover:shadow-md"
-                    >
-                      <p className="text-xs font-bold uppercase tracking-wide text-brand-600">{r.products.length} picks</p>
-                      <p className="mt-1 font-bold text-stone-900">{r.crumb}</p>
-                    </Link>
-                  ))}
-                </div>
-              </div>
-            )}
-
-            {data.relatedGuides && data.relatedGuides.length > 0 && (
-              <div className="my-8">
-                <h2 className="mb-4 text-2xl font-bold text-brand-900">Learn More</h2>
-                <ul className="space-y-2">
-                  {data.relatedGuides.map((g) => (
-                    <li key={g.href}>
-                      <Link href={g.href} className="font-semibold text-brand-700 hover:underline">
-                        {g.label} →
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
+            <QuestionList items={relatedQs} heading="Related Questions" />
+            <RoundupCards items={relatedRs} heading="Buyer's Guides" />
+            <GuideLinks items={data.relatedGuides ?? []} heading="Learn More" />
           </article>
 
           <aside className="hidden lg:block">

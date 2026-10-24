@@ -208,6 +208,6 @@ export const hydrobrush: ReviewData = {
   bottomLine:
     "The HydroBrush is a genuinely convenient applicator for spreading a liquid treatment evenly and quickly — but it's not a treatment itself, and its tendency to clog with standard minoxidil is worth knowing before you buy.",
   affiliateUrl: "https://www.amazon.com/s?k=hydrobrush+club+roots",
-  relatedSlugs: ["spark-new", "find-a-treatment/minoxidil-rogaine", "nunutrients-advanced-hair-regrowth-treatment"],
+  relatedSlugs: ["spark-new", "nunutrients-advanced-hair-regrowth-treatment", "revivogen-scalp-therapy-formula"],
   updatedDate: "August 2026",
 };

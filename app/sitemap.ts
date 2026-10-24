@@ -6,7 +6,7 @@ import { questions } from "@/data/questions";
 import { site } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ["", "/best", "/answers", "/reviews", "/about", "/contact", "/privacy", "/terms"].map((path) => ({
+  const staticRoutes = ["", "/best", "/answers", "/reviews", "/find-a-treatment", "/about-hair-growth", "/about", "/contact", "/privacy", "/terms"].map((path) => ({
     url: `${site.url}${path}`,
     lastModified: new Date("2026-08-20"),
   }));

@@ -15,6 +15,9 @@ import CTAButton from "@/components/ui/CTAButton";
 import { amazonProductLink, withAmazonTag } from "@/lib/affiliate";
 import CalloutBox from "@/components/ui/CalloutBox";
 import RelatedReviews from "@/components/RelatedReviews";
+import { GuideLinks, RoundupCards } from "@/components/RelatedLinks";
+import { guidesForReview, relatedReviewsFor, reviewHref, roundupsForReview } from "@/lib/links";
+import { createLinker } from "@/lib/autolink";
 
 function buyLink(data: ReviewData) {
   // An exact, sync-confirmed Amazon listing beats the stored search or brand URL.
@@ -23,6 +26,7 @@ function buyLink(data: ReviewData) {
 }
 
 export default function ReviewTemplate({ data }: { data: ReviewData }) {
+  const linkify = createLinker(reviewHref(data.slug), ["/reviews"]);
   const tocItems = [
     { id: "overview", label: "Quick Overview" },
     { id: "pros-cons", label: "Pros & Cons" },
@@ -114,7 +118,7 @@ export default function ReviewTemplate({ data }: { data: ReviewData }) {
               <h2>Quick Overview</h2>
               {data.intro.map((p, i) => (
                 <p key={i} className={i === 0 ? "lead" : undefined}>
-                  {p}
+                  {linkify(p)}
                 </p>
               ))}
             </section>
@@ -149,7 +153,7 @@ export default function ReviewTemplate({ data }: { data: ReviewData }) {
 
             <div className="mt-10 space-y-10">
               {data.sections.map((section, i) => (
-                <ArticleSection key={section.id} section={section} index={i + 1} />
+                <ArticleSection key={section.id} section={section} index={i + 1} linkify={linkify} />
               ))}
             </div>
 
@@ -185,7 +189,9 @@ export default function ReviewTemplate({ data }: { data: ReviewData }) {
               )}
             </section>
 
-            <RelatedReviews slugs={data.relatedSlugs} />
+            <RoundupCards items={roundupsForReview(data)} heading="Compare the Alternatives" />
+            <RelatedReviews items={relatedReviewsFor(data)} />
+            <GuideLinks items={guidesForReview(data)} heading="Learn More" />
           </article>
 
           <aside className="hidden lg:block">

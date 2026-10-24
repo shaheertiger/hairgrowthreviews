@@ -1,5 +1,6 @@
 import { ReviewData, GuideData, RoundupData, QuestionData } from "./types";
 import { site } from "./site";
+import { guideSectionHref, guideSectionLabels, reviewHref } from "./links";
 import { scientificReviewer } from "./reviewer";
 
 function reviewerPerson() {
@@ -46,7 +47,7 @@ export function reviewJsonLd(data: ReviewData) {
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Home", item: site.url },
           { "@type": "ListItem", position: 2, name: "Reviews", item: `${site.url}/reviews` },
-          { "@type": "ListItem", position: 3, name: data.productName, item: `${site.url}/reviews/${data.slug}` },
+          { "@type": "ListItem", position: 3, name: data.productName, item: `${site.url}${reviewHref(data.slug)}` },
         ],
       },
       {
@@ -77,7 +78,10 @@ export function guideJsonLd(data: GuideData, path: string) {
         "@type": "BreadcrumbList",
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Home", item: site.url },
-          { "@type": "ListItem", position: 2, name: data.h1, item: `${site.url}${path}` },
+          ...(path === guideSectionHref[data.section]
+            ? []
+            : [{ "@type": "ListItem", position: 2, name: guideSectionLabels[data.section], item: `${site.url}${guideSectionHref[data.section]}` }]),
+          { "@type": "ListItem", position: path === guideSectionHref[data.section] ? 2 : 3, name: data.h1, item: `${site.url}${path}` },
         ],
       },
       {

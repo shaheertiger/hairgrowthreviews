@@ -2,6 +2,7 @@ import { ContentSection } from "@/lib/types";
 import PullQuote from "./PullQuote";
 import KeyPoint from "./KeyPoint";
 import ComparisonTable from "./ComparisonTable";
+import type { Linkify } from "@/lib/autolink";
 
 /**
  * Renders one article section with visual rhythm: a numbered heading, body
@@ -11,9 +12,12 @@ import ComparisonTable from "./ComparisonTable";
 export default function ArticleSection({
   section,
   index,
+  linkify = (t) => t,
 }: {
   section: ContentSection;
   index?: number;
+  /** Adds contextual in-text links; see lib/autolink. */
+  linkify?: Linkify;
 }) {
   // Place the pull quote after the first paragraph so it breaks up the section
   // early, rather than stranding it at the very top or bottom.
@@ -35,7 +39,7 @@ export default function ArticleSection({
 
       {section.body.map((p, i) => (
         <div key={i}>
-          <p>{p}</p>
+          <p>{linkify(p)}</p>
           {section.pullQuote && i === quoteAfter && <PullQuote>{section.pullQuote}</PullQuote>}
         </div>
       ))}
@@ -44,7 +48,7 @@ export default function ArticleSection({
         <div key={sub.heading}>
           <h3>{sub.heading}</h3>
           {sub.body.map((p, i) => (
-            <p key={i}>{p}</p>
+            <p key={i}>{linkify(p)}</p>
           ))}
         </div>
       ))}

@@ -13,12 +13,14 @@ export const site = {
       label: "Best Picks",
       href: "/best",
       children: [
+        { label: "Best Hair Growth Products", href: "/best-hair-growth-products" },
         { label: "Best Minoxidil for Men", href: "/best-minoxidil-for-men" },
         { label: "Best Minoxidil for Women", href: "/best-minoxidil-for-women" },
         { label: "Best Hair Growth Shampoo", href: "/best-hair-growth-shampoo" },
         { label: "Best Hair Growth Serum", href: "/best-hair-growth-serum" },
         { label: "Best Laser Caps", href: "/best-laser-cap-for-hair-growth" },
         { label: "Best Hair Growth Vitamins", href: "/best-hair-growth-vitamins" },
+        { label: "Best DHT Blockers", href: "/best-dht-blocker" },
         { label: "Best Hair Dryers", href: "/best-hair-dryer" },
         { label: "Best Dyson Airwrap Alternatives", href: "/best-dyson-airwrap-alternative" },
         { label: "All Buyer's Guides →", href: "/best" },
@@ -28,13 +30,15 @@ export const site = {
       label: "Reviews",
       href: "/reviews",
       children: [
-        { label: "Hair Growth Serums", href: "/reviews" },
-        { label: "Shampoos & Topicals", href: "/reviews" },
+        { label: "Revivogen Scalp Therapy", href: "/reviews/revivogen-scalp-therapy-formula" },
+        { label: "Nizoral A-D Shampoo", href: "/reviews/nizoral-d-anti-dandruff-shampoo" },
+        { label: "Viviscal Extra Strength", href: "/reviews/viviscal-extra-strength-hair-nutrient-tablets" },
+        { label: "All Reviews →", href: "/reviews" },
       ],
     },
     {
       label: "Find a Treatment",
-      href: "/find-a-treatment/minoxidil-rogaine",
+      href: "/find-a-treatment",
       children: [
         { label: "Minoxidil & Rogaine", href: "/find-a-treatment/minoxidil-rogaine" },
         { label: "Supplements", href: "/find-a-treatment/supplements" },
@@ -43,7 +47,7 @@ export const site = {
     },
     {
       label: "About Hair Growth",
-      href: "/about-hair-growth/hair-growth-encyclopedia",
+      href: "/about-hair-growth",
       children: [
         { label: "Hair Growth Encyclopedia", href: "/about-hair-growth/hair-growth-encyclopedia" },
         { label: "The Hair Loss Cycle", href: "/about-hair-growth/hair-loss-cycle" },
@@ -51,7 +55,14 @@ export const site = {
       ],
     },
     { label: "Hair Answers", href: "/answers" },
-    { label: "The HGR Regimen", href: "/the-hgr-regimen" },
+    {
+      label: "The HGR Regimen",
+      href: "/the-hgr-regimen",
+      children: [
+        { label: "The HGR Regimen", href: "/the-hgr-regimen" },
+        { label: "Help & Troubleshooting", href: "/the-hgr-regimen/help" },
+      ],
+    },
   ],
   footerLinks: {
     company: [
