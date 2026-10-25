@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { guides } from "@/data/guides";
 import GuideTemplate from "@/components/templates/GuideTemplate";
 import { guideJsonLd } from "@/lib/schema";
+import { markdownMeta } from "@/lib/md/meta";
 
 export function generateStaticParams() {
   return guides.filter((g) => g.section === "about-hair-growth").map((g) => ({ slug: g.slug }));
@@ -23,7 +24,7 @@ export async function generateMetadata({
   return {
     title: data.metaTitle,
     description: data.metaDescription,
-    alternates: { canonical: `/about-hair-growth/${data.slug}` },
+    ...markdownMeta(`/about-hair-growth/${data.slug}`, data.metaDescription),
   };
 }
 

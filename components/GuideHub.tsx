@@ -3,17 +3,13 @@ import { guides } from "@/data/guides";
 import type { GuideData } from "@/lib/types";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import { RoundupCards } from "@/components/RelatedLinks";
-import { guideHref, guideSectionLabels, roundupsForGuide } from "@/lib/links";
+import { guideHref, guideSectionLabels, roundupsForGuideSection } from "@/lib/links";
 
 /** Index page for a guide section (/find-a-treatment, /about-hair-growth). */
 export default function GuideHub({ section, intro }: { section: GuideData["section"]; intro: string }) {
   const items = guides.filter((g) => g.section === section);
   const label = guideSectionLabels[section];
-  // Buyer's guides that cite any guide in this section, most-cited first.
-  const counts = new Map<string, { r: ReturnType<typeof roundupsForGuide>[number]; n: number }>();
-  for (const g of items)
-    for (const r of roundupsForGuide(g, Infinity)) counts.set(r.slug, { r, n: (counts.get(r.slug)?.n ?? 0) + 1 });
-  const roundupsHere = [...counts.values()].sort((a, b) => b.n - a.n).slice(0, 6).map((x) => x.r);
+  const roundupsHere = roundupsForGuideSection(section);
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6 sm:py-10">

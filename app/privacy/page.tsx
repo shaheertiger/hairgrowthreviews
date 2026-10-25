@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
+import { staticPages } from "@/lib/pages";
+import { markdownMeta } from "@/lib/md/meta";
 import { site } from "@/lib/site";
 
+const page = staticPages.privacy;
+
 export const metadata: Metadata = {
-  title: "Privacy Policy",
-  description: `Privacy policy for ${site.name}.`,
-  alternates: { canonical: "/privacy" },
+  title: page.title,
+  description: page.description,
+  ...markdownMeta(page.path, page.description),
 };
 
 export default function PrivacyPage() {
@@ -30,7 +34,7 @@ export default function PrivacyPage() {
         </p>
         <h2>Contact</h2>
         <p>
-          Questions about this policy can be sent to <a href={`mailto:editorial@${site.domain}`}>editorial@{site.domain}</a>.
+          Questions about this policy can be sent to <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.
         </p>
       </div>
     </div>

@@ -8,18 +8,18 @@ import { site } from "@/lib/site";
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = ["", "/best", "/answers", "/reviews", "/find-a-treatment", "/about-hair-growth", "/about", "/contact", "/privacy", "/terms"].map((path) => ({
     url: `${site.url}${path}`,
-    lastModified: new Date("2026-08-20"),
+    lastModified: new Date(site.staticLastModified),
   }));
 
   const reviewRoutes = reviews
     .filter((r) => r.slug !== "mane-n-tail-shampoo")
     .map((r) => ({
       url: `${site.url}/reviews/${r.slug}`,
-      lastModified: new Date("2026-08-20"),
+      lastModified: new Date(site.staticLastModified),
     }));
 
   const maneNTailRoute = [
-    { url: `${site.url}/mane-n-tail-shampoo-read-first`, lastModified: new Date("2026-08-20") },
+    { url: `${site.url}/mane-n-tail-shampoo-read-first`, lastModified: new Date(site.staticLastModified) },
   ];
 
   const guideRoutes = guides.map((g) => ({
@@ -29,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
           ? `${site.url}/the-hgr-regimen`
           : `${site.url}/the-hgr-regimen/${g.slug}`
         : `${site.url}/${g.section}/${g.slug}`,
-    lastModified: new Date("2026-08-20"),
+    lastModified: new Date(site.staticLastModified),
   }));
 
   const roundupRoutes = roundups.map((r) => ({

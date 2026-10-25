@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { reviews } from "@/data/reviews";
 import ReviewTemplate from "@/components/templates/ReviewTemplate";
 import { reviewJsonLd } from "@/lib/schema";
+import { markdownMeta } from "@/lib/md/meta";
 
 function getReview() {
   return reviews.find((r) => r.slug === "mane-n-tail-shampoo");
@@ -14,7 +15,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title: data.metaTitle,
     description: data.metaDescription,
-    alternates: { canonical: "/mane-n-tail-shampoo-read-first" },
+    ...markdownMeta("/mane-n-tail-shampoo-read-first", data.metaDescription),
   };
 }
 

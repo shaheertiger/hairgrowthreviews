@@ -1,15 +1,18 @@
 import type { Metadata } from "next";
+import { staticPages } from "@/lib/pages";
+import { markdownMeta } from "@/lib/md/meta";
 import Link from "next/link";
 import { reviews } from "@/data/reviews";
 import RatingBadge from "@/components/ui/RatingBadge";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import { reviewHref } from "@/lib/links";
 
+const page = staticPages.reviews;
+
 export const metadata: Metadata = {
-  title: "Hair Growth Product Reviews",
-  description:
-    "Independent, research-backed reviews of hair regrowth serums, shampoos, and supplements — real ingredients, real evidence, honest verdicts.",
-  alternates: { canonical: "/reviews" },
+  title: page.title,
+  description: page.description,
+  ...markdownMeta(page.path, page.aiSummary),
 };
 
 export default function ReviewsIndexPage() {

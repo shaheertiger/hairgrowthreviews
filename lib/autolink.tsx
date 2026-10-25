@@ -136,23 +136,27 @@ const MAX_LINKS_PER_PARAGRAPH = 2;
 
 export type Linkify = (text: string) => ReactNode;
 
+/** A run of paragraph text, linked to `href` when set. */
+export interface LinkSegment {
+  text: string;
+  href?: string;
+}
+
 /** Every link target the rules can produce, so a check can confirm each one exists. */
 export const autolinkTargets = [...new Set(rules.flatMap((r) => r.targets))];
 
 /**
- * Make a linker for one page. Call it on paragraphs in reading order: the
- * first mention of a topic gets the link. `skip` lists hrefs the page already
- * links prominently (its pillar guide, breadcrumb parents) that shouldn't
- * also be linked in the text.
+ * The linking rules without the rendering: splits each paragraph into plain and
+ * linked runs. The HTML linker below and the Markdown renderers (lib/md) both
+ * use it, so a page's Markdown copy links the same phrases as the page.
  */
-export function createLinker(self: string, skip: string[] = []): Linkify {
+export function createSegmenter(self: string, skip: string[] = []): (text: string) => LinkSegment[] {
   const usedTargets = new Set<string>([self, ...skip]);
   const usedRules = new Set<number>();
   let total = 0;
-  let key = 0;
 
-  return function linkify(text: string): ReactNode {
-    const out: ReactNode[] = [];
+  return function segment(text: string): LinkSegment[] {
+    const out: LinkSegment[] = [];
     let rest = text;
     let inParagraph = 0;
 
@@ -169,12 +173,7 @@ export function createLinker(self: string, skip: string[] = []): Linkify {
       });
       if (!best) break;
       const { index, length, href, rule } = best;
-      out.push(
-        rest.slice(0, index),
-        <Link key={`al${key++}`} href={href}>
-          {rest.slice(index, index + length)}
-        </Link>,
-      );
+      out.push({ text: rest.slice(0, index) }, { text: rest.slice(index, index + length), href });
       rest = rest.slice(index + length);
       usedRules.add(rule);
       usedTargets.add(href);
@@ -182,8 +181,32 @@ export function createLinker(self: string, skip: string[] = []): Linkify {
       inParagraph++;
     }
 
-    if (out.length === 0) return text;
-    out.push(rest);
+    out.push({ text: rest });
     return out;
+  };
+}
+
+/**
+ * Make a linker for one page. Call it on paragraphs in reading order: the
+ * first mention of a topic gets the link. `skip` lists hrefs the page already
+ * links prominently (its pillar guide, breadcrumb parents) that shouldn't
+ * also be linked in the text.
+ */
+export function createLinker(self: string, skip: string[] = []): Linkify {
+  const segment = createSegmenter(self, skip);
+  let key = 0;
+
+  return function linkify(text: string): ReactNode {
+    const parts = segment(text);
+    if (parts.length === 1) return text;
+    return parts.map((p) =>
+      p.href ? (
+        <Link key={`al${key++}`} href={p.href}>
+          {p.text}
+        </Link>
+      ) : (
+        p.text
+      ),
+    );
   };
 }

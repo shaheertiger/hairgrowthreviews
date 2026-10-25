@@ -5,6 +5,7 @@ import { questions } from "@/data/questions";
 import RoundupTemplate from "@/components/templates/RoundupTemplate";
 import QuestionTemplate from "@/components/templates/QuestionTemplate";
 import { roundupJsonLd, questionJsonLd } from "@/lib/schema";
+import { markdownMeta } from "@/lib/md/meta";
 
 // Buyer's guides (/best-minoxidil-for-men) and question posts
 // (/how-long-does-minoxidil-take-to-work) both live at the root, mirroring the
@@ -35,7 +36,7 @@ export async function generateMetadata({
   return {
     title: data.metaTitle,
     description: data.metaDescription,
-    alternates: { canonical: `/${data.slug}` },
+    ...markdownMeta(`/${data.slug}`, data.metaDescription),
     openGraph: { title: data.metaTitle, description: data.metaDescription, type: "article" },
   };
 }

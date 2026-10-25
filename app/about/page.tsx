@@ -1,11 +1,15 @@
 import type { Metadata } from "next";
+import { staticPages } from "@/lib/pages";
+import { markdownMeta } from "@/lib/md/meta";
 import { site } from "@/lib/site";
 import { scientificReviewer } from "@/lib/reviewer";
 
+const page = staticPages.about;
+
 export const metadata: Metadata = {
-  title: "About Us & Editorial Process",
-  description: "How HairGrowthReviews researches, rates, and reviews hair loss and hair growth products.",
-  alternates: { canonical: "/about" },
+  title: page.title,
+  description: page.description,
+  ...markdownMeta(page.path, page.description),
 };
 
 export default function AboutPage() {

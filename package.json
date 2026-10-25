@@ -9,6 +9,7 @@
     "lint": "eslint",
     "verify:content": "tsx scripts/verify-content.ts",
     "audit:links": "tsx scripts/audit-links.ts",
+    "check:markdown": "tsx scripts/check-markdown-routes.ts",
     "amazon:search": "node --env-file-if-exists=.env scripts/amazon/search.mjs",
     "amazon:sync": "tsx --env-file-if-exists=.env scripts/amazon/sync.ts"
   },

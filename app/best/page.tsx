@@ -1,15 +1,18 @@
 import type { Metadata } from "next";
+import { staticPages } from "@/lib/pages";
+import { markdownMeta } from "@/lib/md/meta";
 import Link from "next/link";
 import { roundups, roundupHubs } from "@/data/roundups";
 import { amazonProductLink } from "@/lib/affiliate";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import ProductThumb from "@/components/roundup/ProductThumb";
 
+const page = staticPages.best;
+
 export const metadata: Metadata = {
-  title: "Best Hair Growth & Hair Care Products: Every Buyer's Guide",
-  description:
-    "Every HairGrowthReviews buyer's guide in one place — the best minoxidil, hair growth shampoos, serums, vitamins, laser caps, hair tools and hair care products, ranked on evidence.",
-  alternates: { canonical: "/best" },
+  title: page.title,
+  description: page.description,
+  ...markdownMeta(page.path, page.aiSummary),
 };
 
 const hubId = (hub: string) => hub.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");

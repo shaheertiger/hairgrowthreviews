@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { guides } from "@/data/guides";
 import GuideTemplate from "@/components/templates/GuideTemplate";
 import { guideJsonLd } from "@/lib/schema";
+import { markdownMeta } from "@/lib/md/meta";
 
 export function generateStaticParams() {
   return guides.filter((g) => g.section === "find-a-treatment").map((g) => ({ slug: g.slug }));
@@ -23,7 +24,7 @@ export async function generateMetadata({
   return {
     title: data.metaTitle,
     description: data.metaDescription,
-    alternates: { canonical: `/find-a-treatment/${data.slug}` },
+    ...markdownMeta(`/find-a-treatment/${data.slug}`, data.metaDescription),
   };
 }
 
