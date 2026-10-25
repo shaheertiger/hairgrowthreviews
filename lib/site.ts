@@ -6,6 +6,13 @@ export const site = {
   description:
     "Independent, research-backed reviews of hair regrowth serums, shampoos, supplements, and treatments — tested claims, real ingredients, honest verdicts.",
   twitter: "@hairgrowthreviews",
+  /** Where readers and AI agents reach the editorial team; llms.txt, ai.txt and the Organization JSON-LD use these. */
+  contactUrl: "https://hairgrowthreviews.com/contact",
+  contactEmail: "editorial@hairgrowthreviews.com",
+  /** Official profiles, for the Organization JSON-LD `sameAs`. */
+  sameAs: ["https://x.com/hairgrowthreviews"],
+  /** Last-modified date for pages without their own date (static pages, and sitemap entries without an ISO date). */
+  staticLastModified: "2026-08-20",
   /** Google Analytics 4 measurement ID. Public by design — it ships in every page. */
   gaMeasurementId: "G-8ZN36EPPJ2",
   navCategories: [

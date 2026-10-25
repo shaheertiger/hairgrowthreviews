@@ -158,6 +158,14 @@ export function roundupsForGuide(g: GuideData, max = 6): RoundupData[] {
   return roundups.filter((r) => r.relatedGuides?.some((l) => l.href.split("#")[0] === href)).slice(0, max);
 }
 
+/** Buyer's guides that cite any guide in a section, most-cited first (for the section index). */
+export function roundupsForGuideSection(section: GuideData["section"], max = 6): RoundupData[] {
+  const counts = new Map<string, { r: RoundupData; n: number }>();
+  for (const g of guides.filter((x) => x.section === section))
+    for (const r of roundupsForGuide(g, Infinity)) counts.set(r.slug, { r, n: (counts.get(r.slug)?.n ?? 0) + 1 });
+  return [...counts.values()].sort((a, b) => b.n - a.n).slice(0, max).map((x) => x.r);
+}
+
 export function questionsForGuide(g: GuideData, max = 6): QuestionData[] {
   const href = guideHref(g);
   return questions.filter((q) => q.relatedGuides?.some((l) => l.href.split("#")[0] === href)).slice(0, max);

@@ -1,32 +1,29 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { homeFeaturedReviews, homeFeaturedRoundups, homeTreatments, staticPages } from "@/lib/pages";
+import { markdownMeta } from "@/lib/md/meta";
 import { reviews } from "@/data/reviews";
 import { guides } from "@/data/guides";
 import { roundups } from "@/data/roundups";
 import { questions } from "@/data/questions";
 import RatingBadge from "@/components/ui/RatingBadge";
-import { site } from "@/lib/site";
+import { organizationJsonLd, websiteJsonLd } from "@/lib/schema";
 import { reviewHref } from "@/lib/links";
 
+const page = staticPages.home;
+
 export const metadata: Metadata = {
-  title: `${site.name} — Independent Hair Loss & Regrowth Product Reviews`,
-  description: site.description,
-  alternates: { canonical: "/" },
+  title: page.title,
+  description: page.description,
+  ...markdownMeta(page.path, page.aiSummary),
 };
 
 export default function HomePage() {
-  const featured = ["biotopic-premium-hair-regrowth-serum", "amplixin-intensive-hair-growth-serum", "crinagen", "ultrax-labs-hair-lush", "revivogen-scalp-therapy-formula", "nizoral-d-anti-dandruff-shampoo"]
+  const featured = homeFeaturedReviews
     .map((slug) => reviews.find((r) => r.slug === slug))
     .filter((r): r is NonNullable<typeof r> => !!r);
 
-  const featuredGuides = [
-    "best-minoxidil-for-men",
-    "best-hair-growth-shampoo",
-    "best-laser-cap-for-hair-growth",
-    "best-minoxidil-for-women",
-    "best-hair-growth-vitamins",
-    "best-hair-growth-serum",
-  ]
+  const featuredGuides = homeFeaturedRoundups
     .map((slug) => roundups.find((r) => r.slug === slug))
     .filter((r): r is NonNullable<typeof r> => !!r);
 
@@ -34,6 +31,14 @@ export default function HomePage() {
 
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd()) }}
+      />
       <section className="border-b border-border-subtle bg-gradient-to-b from-brand-50 to-surface">
         <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
           <p className="text-sm font-bold uppercase tracking-wide text-brand-600">
@@ -175,18 +180,12 @@ export default function HomePage() {
       <section className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
         <h2 className="text-2xl font-extrabold text-stone-900 sm:text-3xl">Find a Treatment</h2>
         <div className="mt-6 grid gap-5 sm:grid-cols-3">
-          <Link href="/find-a-treatment/minoxidil-rogaine" className="rounded-xl border border-border-subtle bg-surface p-5 hover:shadow-md">
-            <p className="font-bold text-stone-900">Minoxidil & Rogaine</p>
-            <p className="mt-1 text-sm text-stone-500">The most clinically proven OTC option, explained</p>
-          </Link>
-          <Link href="/find-a-treatment/supplements" className="rounded-xl border border-border-subtle bg-surface p-5 hover:shadow-md">
-            <p className="font-bold text-stone-900">Supplements</p>
-            <p className="mt-1 text-sm text-stone-500">What actually works vs. what&apos;s marketing hype</p>
-          </Link>
-          <Link href="/find-a-treatment/scalp-reduction" className="rounded-xl border border-border-subtle bg-surface p-5 hover:shadow-md">
-            <p className="font-bold text-stone-900">Scalp Reduction Surgery</p>
-            <p className="mt-1 text-sm text-stone-500">Why it&apos;s largely been replaced by FUE/FUT</p>
-          </Link>
+          {homeTreatments.map((t) => (
+            <Link key={t.href} href={t.href} className="rounded-xl border border-border-subtle bg-surface p-5 hover:shadow-md">
+              <p className="font-bold text-stone-900">{t.label}</p>
+              <p className="mt-1 text-sm text-stone-500">{t.note}</p>
+            </Link>
+          ))}
         </div>
       </section>
 

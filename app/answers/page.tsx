@@ -1,14 +1,17 @@
 import type { Metadata } from "next";
+import { staticPages } from "@/lib/pages";
+import { markdownMeta } from "@/lib/md/meta";
 import Link from "next/link";
 import { questions } from "@/data/questions";
 import { roundupHubs } from "@/data/roundups";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 
+const page = staticPages.answers;
+
 export const metadata: Metadata = {
-  title: "Hair Answers: Straight Answers to Hair Loss & Hair Care Questions",
-  description:
-    "Evidence-based answers to the hair loss and hair care questions people actually search — minoxidil timelines, shedding, supplements, oils, scalp care and more.",
-  alternates: { canonical: "/answers" },
+  title: page.title,
+  description: page.description,
+  ...markdownMeta(page.path, page.aiSummary),
 };
 
 export default function AnswersIndexPage() {

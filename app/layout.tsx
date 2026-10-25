@@ -33,6 +33,8 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  // Pages override this with their own summary (lib/md/meta).
+  other: { "ai-summary": site.description },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
+import { staticPages } from "@/lib/pages";
+import { markdownMeta } from "@/lib/md/meta";
 import { site } from "@/lib/site";
 
+const page = staticPages.contact;
+
 export const metadata: Metadata = {
-  title: "Contact Us",
-  description: `Get in touch with the ${site.name} editorial team.`,
-  alternates: { canonical: "/contact" },
+  title: page.title,
+  description: page.description,
+  ...markdownMeta(page.path, page.description),
 };
 
 export default function ContactPage() {
@@ -17,7 +21,7 @@ export default function ContactPage() {
           you — accuracy matters more to us than any single review staying unchanged.
         </p>
         <p>
-          Email us at <a href={`mailto:editorial@${site.domain}`}>editorial@{site.domain}</a> and we&apos;ll follow
+          Email us at <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a> and we&apos;ll follow
           up as soon as we can.
         </p>
       </div>

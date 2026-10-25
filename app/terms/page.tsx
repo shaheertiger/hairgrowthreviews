@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
+import { staticPages } from "@/lib/pages";
+import { markdownMeta } from "@/lib/md/meta";
 import { site } from "@/lib/site";
 
+const page = staticPages.terms;
+
 export const metadata: Metadata = {
-  title: "Terms of Use",
-  description: `Terms of use for ${site.name}.`,
-  alternates: { canonical: "/terms" },
+  title: page.title,
+  description: page.description,
+  ...markdownMeta(page.path, page.description),
 };
 
 export default function TermsPage() {

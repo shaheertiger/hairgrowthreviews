@@ -180,3 +180,35 @@ export function questionJsonLd(data: QuestionData) {
     ],
   };
 }
+
+/** Home page: who publishes the site. Same facts as /llms.txt and /ai.txt (lib/md/site-files). */
+export function organizationJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": `${site.url}/#organization`,
+    name: site.name,
+    url: site.url,
+    description: site.description,
+    sameAs: site.sameAs,
+    contactPoint: {
+      "@type": "ContactPoint",
+      contactType: "editorial",
+      url: site.contactUrl,
+      email: site.contactEmail,
+    },
+  };
+}
+
+export function websiteJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": `${site.url}/#website`,
+    name: site.name,
+    url: site.url,
+    description: site.description,
+    inLanguage: "en-US",
+    publisher: { "@id": `${site.url}/#organization` },
+  };
+}

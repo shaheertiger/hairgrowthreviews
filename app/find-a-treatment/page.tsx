@@ -1,18 +1,21 @@
 import type { Metadata } from "next";
+import { staticPages } from "@/lib/pages";
+import { markdownMeta } from "@/lib/md/meta";
 import GuideHub from "@/components/GuideHub";
 
+const page = staticPages.findATreatment;
+
 export const metadata: Metadata = {
-  title: "Find a Hair Loss Treatment: Minoxidil, Supplements & Surgery",
-  description:
-    "Evidence-based guides to the main hair loss treatments — minoxidil (Rogaine), hair growth supplements and scalp reduction surgery — and who each one suits.",
-  alternates: { canonical: "/find-a-treatment" },
+  title: page.title,
+  description: page.description,
+  ...markdownMeta(page.path, page.description),
 };
 
 export default function FindATreatmentIndex() {
   return (
     <GuideHub
       section="find-a-treatment"
-      intro="What each major hair loss treatment does, what the evidence says, and who it suits — from topical minoxidil to supplements and surgery."
+      intro={page.intro}
     />
   );
 }
