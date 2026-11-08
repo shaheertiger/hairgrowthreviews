@@ -73,6 +73,26 @@ import { bestHairGrowthProducts } from "./best-hair-growth-products";
 import { bestDandruffShampoo } from "./best-dandruff-shampoo";
 import { bestDhtBlocker } from "./best-dht-blocker";
 import { bestBeardGrowthProducts } from "./best-beard-growth-products";
+import { bestPeptideSerumForHairGrowth } from "./best-peptide-serum-for-hair-growth";
+import { bestHairGrowthProductsForBlackHair } from "./best-hair-growth-products-for-black-hair";
+import { bestShampooForChemoHair } from "./best-shampoo-for-chemo-hair";
+import { bestShampooAndConditionerForThinHair } from "./best-shampoo-and-conditioner-for-thin-hair";
+import { bestProductsForWavyHair } from "./best-products-for-wavy-hair";
+import { bestHairProductsForFineCurlyHair } from "./best-hair-products-for-fine-curly-hair";
+import { bestHairProductsFor4cHair } from "./best-hair-products-for-4c-hair";
+import { bestHairDetangler } from "./best-hair-detangler";
+import { bestOilForLowPorosityHair } from "./best-oil-for-low-porosity-hair";
+import { bestConditionerForDryFrizzyHair } from "./best-conditioner-for-dry-frizzy-hair";
+import { bestShampooForDryDamagedHair } from "./best-shampoo-for-dry-damaged-hair";
+import { bestShampooForGrayHair } from "./best-shampoo-for-gray-hair";
+import { bestHairDyeToCoverGray } from "./best-hair-dye-to-cover-gray";
+import { bestBrushForCurlyHair } from "./best-brush-for-curly-hair";
+import { bestFlatIronForThinHair } from "./best-flat-iron-for-thin-hair";
+import { bestBlowDryerForMen } from "./best-blow-dryer-for-men";
+import { bestPomadeForThinHair } from "./best-pomade-for-thin-hair";
+import { bestProductsForHairExtensions } from "./best-products-for-hair-extensions";
+import { bestDandruffShampooForColorTreatedHair } from "./best-dandruff-shampoo-for-color-treated-hair";
+import { bestCurlingIronForShortHair } from "./best-curling-iron-for-short-hair";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -157,4 +177,24 @@ export const roundups: RoundupData[] = [
   bestDandruffShampoo,
   bestDhtBlocker,
   bestBeardGrowthProducts,
+  bestPeptideSerumForHairGrowth,
+  bestHairGrowthProductsForBlackHair,
+  bestShampooForChemoHair,
+  bestShampooAndConditionerForThinHair,
+  bestProductsForWavyHair,
+  bestHairProductsForFineCurlyHair,
+  bestHairProductsFor4cHair,
+  bestHairDetangler,
+  bestOilForLowPorosityHair,
+  bestConditionerForDryFrizzyHair,
+  bestShampooForDryDamagedHair,
+  bestShampooForGrayHair,
+  bestHairDyeToCoverGray,
+  bestBrushForCurlyHair,
+  bestFlatIronForThinHair,
+  bestBlowDryerForMen,
+  bestPomadeForThinHair,
+  bestProductsForHairExtensions,
+  bestDandruffShampooForColorTreatedHair,
+  bestCurlingIronForShortHair,
 ];
