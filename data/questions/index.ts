@@ -30,6 +30,9 @@ import { whatHappensIfYouStopUsingMinoxidil } from "./what-happens-if-you-stop-u
 import { doDhtBlockerShampoosWork } from "./do-dht-blocker-shampoos-work";
 import { doesMinoxidilWorkForBeardGrowth } from "./does-minoxidil-work-for-beard-growth";
 import { doEyelashGrowthSerumsWork } from "./do-eyelash-growth-serums-work";
+import { doesGlp1CauseHairLoss } from "./does-glp-1-cause-hair-loss";
+import { doesOralMinoxidilWork } from "./does-oral-minoxidil-work";
+import { howLongDoEyelashesTakeToGrowBack } from "./how-long-do-eyelashes-take-to-grow-back";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -61,4 +64,7 @@ export const questions: QuestionData[] = [
   doDhtBlockerShampoosWork,
   doesMinoxidilWorkForBeardGrowth,
   doEyelashGrowthSerumsWork,
+  doesGlp1CauseHairLoss,
+  doesOralMinoxidilWork,
+  howLongDoEyelashesTakeToGrowBack,
 ];
