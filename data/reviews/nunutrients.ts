@@ -5,11 +5,13 @@ export const nunutrients: ReviewData = {
   productName: "NuNutrients Advanced Hair Regrowth Treatment",
   brand: "NuNutrients",
   category: "Topical Serum",
-  metaTitle: "NuNutrients Hair Regrowth Treatment Review 2026: Honest Verdict",
+  metaTitle: "NuNutrients Review: 3/5, Polarized Results and Review Red Flags",
   metaDescription:
-    "NuNutrients' Biochanin A spray reviewed — ingredients, polarized customer feedback, review-authenticity concerns, and our honest take.",
+    "NuNutrients Hair Regrowth Treatment rates 3/5: a Biochanin A spray ($50–$60 per 2 oz) with lab-only evidence, polarized results and some suspect 5-star reviews.",
   h1: "NuNutrients Advanced Hair Regrowth Treatment Review",
   dek: "A Biochanin A-based DHT-targeting spray with loyal repeat buyers — and some real review-authenticity red flags.",
+  quickAnswer:
+    "NuNutrients Advanced Hair Regrowth Treatment is a Biochanin A (red clover) spray aimed at the DHT pathway, priced $50–$60 per 2 fl oz, that we rate 3.0/5. Its evidence is laboratory-level only, customer results are genuinely polarized, and some glowing reviews come from accounts with suspiciously thin review histories.",
   rating: 3.0,
   reviewCount: 1100,
   ratingBasis: "Estimated from polarized Amazon customer review sentiment",

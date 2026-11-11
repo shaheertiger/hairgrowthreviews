@@ -5,11 +5,13 @@ export const nizoralD: ReviewData = {
   productName: "Nizoral A-D Anti-Dandruff Shampoo",
   brand: "Nizoral",
   category: "Medicated Shampoo",
-  metaTitle: "Nizoral A-D Review 2026: The Most Clinically Backed Drugstore Shampoo?",
+  metaTitle: "Nizoral Review: 1% Ketoconazole Shampoo for Hair Loss, Rated 4.3/5",
   metaDescription:
-    "Nizoral A-D's 1% ketoconazole formula reviewed — the real study behind it, how it compares to minoxidil, pricing, and correct usage frequency.",
+    "Does Nizoral work for hair loss? Rated 4.3/5. Its active, ketoconazole, raised hair density ~18% in 6 months in a 1998 trial. $15–$30; use it 1–2x a week.",
   h1: "Nizoral A-D Anti-Dandruff Shampoo Review",
   dek: "A cheap, dermatologist-favorite ketoconazole shampoo with genuine clinical research behind it. Here's what the science actually shows.",
+  quickAnswer:
+    "Nizoral A-D is the best-evidenced shampoo for hair loss at its price, rated 4.3/5. Its active, ketoconazole, improved hair density about 18% over six months in a 1998 trial (at the 2% prescription strength; Nizoral A-D is 1%). Use it 1–2 times a week with a 3–5 minute dwell time, as an add-on to minoxidil or finasteride rather than a standalone treatment.",
   rating: 4.3,
   reviewCount: 15000,
   ratingBasis: "Estimated from combined Amazon, Walmart, and CVS customer review sentiment",

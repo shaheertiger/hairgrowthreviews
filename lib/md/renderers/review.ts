@@ -31,6 +31,7 @@ export function reviewDoc(data: ReviewData): MdDoc {
     blocks: [
       `${esc(data.category)} · ${esc(data.verdictLabel)}`,
       esc(data.dek),
+      !!data.quickAnswer && `**Quick answer:** ${esc(data.quickAnswer)}`,
       `**Rating:** ${data.rating.toFixed(1)}/5 (${data.reviewCount.toLocaleString("en-US")} reviews)  \n${esc(data.ratingBasis)}`,
       a.byline(data.updatedDate),
       a.takeaways(data.keyTakeaways),

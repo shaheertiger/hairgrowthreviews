@@ -46,6 +46,10 @@ export interface ReviewData {
   metaDescription: string;
   h1: string;
   dek: string;
+  /** One or two self-contained sentences that answer the page's main query
+   *  with its numbers, shown as a "Quick answer" card right under the H1 (the
+   *  block AI Overviews and featured snippets lift). Must name the subject. */
+  quickAnswer?: string;
   rating: number;
   reviewCount: number;
   ratingBasis: string;
@@ -80,6 +84,10 @@ export interface GuideData {
   metaDescription: string;
   h1: string;
   dek: string;
+  /** One or two self-contained sentences that answer the page's main query
+   *  with its numbers, shown as a "Quick answer" card right under the H1 (the
+   *  block AI Overviews and featured snippets lift). Must name the subject. */
+  quickAnswer?: string;
   intro: string[];
   /** 3-5 scannable bullets summarising the whole article, shown near the top. */
   keyTakeaways?: string[];
@@ -91,6 +99,8 @@ export interface GuideData {
   bottomLine: string;
   relatedSlugs: string[];
   relatedReviewSlugs?: string[];
+  /** ISO date first published; falls back to updatedDate. */
+  publishedDate?: string;
   updatedDate: string;
 }
 

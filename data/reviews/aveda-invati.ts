@@ -5,11 +5,13 @@ export const avedaInvati: ReviewData = {
   productName: "Aveda Invati Advanced Scalp Revitalizer",
   brand: "Aveda",
   category: "Cosmetic Scalp Serum",
-  metaTitle: "Aveda Invati Scalp Revitalizer Review 2026: Worth the Price?",
+  metaTitle: "Aveda Invati Reviews: 3.6/5, the 77% Claim Is for the Full System",
   metaDescription:
-    "Aveda's Invati Scalp Revitalizer reviewed — the Densiplex ingredient complex, the 77% claim explained, pricing, and who it's actually best for.",
+    "Aveda Invati Scalp Revitalizer rates 3.6/5 ($54–$72). It helps breakage, not pattern loss, and its '77% less hair loss' stat covers the whole 4-step system.",
   h1: "Aveda Invati Scalp Revitalizer Review",
   dek: "A premium, Ayurvedic-botanical scalp serum from a major salon brand. Here's who it's genuinely suited for.",
+  quickAnswer:
+    "Aveda Invati Scalp Revitalizer is a well-formulated premium serum ($54–$72 for 5 oz) that we rate 3.6/5. It helps hair that thins from breakage and fragility, not classic pattern hair loss, because it doesn't block DHT — and Aveda's '77% less hair loss' result comes from company-commissioned testing of the full four-step Invati system over 12 weeks, not the serum alone.",
   rating: 3.6,
   reviewCount: 2400,
   ratingBasis: "Estimated from Aveda.com, Nordstrom, and Walmart customer review sentiment",

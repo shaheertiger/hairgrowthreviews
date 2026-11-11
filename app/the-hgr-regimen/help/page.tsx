@@ -13,9 +13,10 @@ export async function generateMetadata(): Promise<Metadata> {
   const data = getGuide();
   if (!data) return {};
   return {
-    title: data.metaTitle,
+    title: { absolute: data.metaTitle },
     description: data.metaDescription,
     ...markdownMeta("/the-hgr-regimen/help", data.metaDescription),
+    openGraph: { title: data.metaTitle, description: data.metaDescription, type: "article" },
   };
 }
 

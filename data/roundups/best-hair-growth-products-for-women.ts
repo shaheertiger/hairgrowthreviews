@@ -4,7 +4,7 @@ export const bestHairGrowthProductsForWomen: RoundupData = {
   slug: "best-hair-growth-products-for-women",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Growth Products for Women",
-  metaTitle: "Best Hair Growth Products for Women (2026): 7 Picks by Evidence",
+  metaTitle: "Best Hair Growth Products for Women: Rogaine 5% Foam Is #1 (2026)",
   metaDescription:
     "The best hair growth products for women, one per category: Rogaine foam, Nutrafol, a laser cap, a volumizing shampoo, rosemary oil and more, ranked on evidence.",
   h1: "The Best Hair Growth Products for Women, From Proven Treatment to Instant Fixes",

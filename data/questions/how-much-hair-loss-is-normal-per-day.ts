@@ -4,7 +4,7 @@ export const howMuchHairLossIsNormalPerDay: QuestionData = {
   slug: "how-much-hair-loss-is-normal-per-day",
   hub: "Hair Care",
   crumb: "Normal Hair Loss Per Day",
-  metaTitle: "How Much Hair Loss Is Normal Per Day? Numbers and Warning Signs",
+  metaTitle: "How Much Hair Loss Is Normal? 50-100 Hairs a Day (Shower Guide)",
   metaDescription:
     "Losing 50 to 100 hairs a day is normal. Here's why wash days look worse, how to tell shedding from breakage, an at-home pull test, and when to see a doctor.",
   h1: "How Much Hair Loss Is Normal Per Day?",

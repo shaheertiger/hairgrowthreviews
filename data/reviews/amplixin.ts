@@ -5,11 +5,13 @@ export const amplixin: ReviewData = {
   productName: "Amplixin Intensive Hair Growth Serum",
   brand: "Amplixin",
   category: "Topical Serum",
-  metaTitle: "Amplixin Hair Growth Serum Review 2026: Ingredients & Real Results",
+  metaTitle: "Amplixin Hair Growth Serum Review: 3/5, Its 13% Claim Is Unverified",
   metaDescription:
-    "We dug into Amplixin Intensive Hair Growth Serum's ingredients, its 13%/29% clinical claim, pricing, and return policy. Here's our honest verdict for 2026.",
+    "Amplixin Hair Growth Serum rates 3/5: a plausible caffeine and saw palmetto spray ($30–$45), but its '13% density, 29% less loss' study can't be found anywhere.",
   h1: "Amplixin Intensive Hair Growth Serum Review",
   dek: "A spray-on DHT-blocking serum built around a proprietary 'Ampligro' complex. We checked what's verifiable behind the marketing.",
+  quickAnswer:
+    "Amplixin Intensive Hair Growth Serum is a reasonable drug-free DHT-blocking spray (caffeine, saw palmetto, biotin) that we rate 3.0/5. It costs $30–$45 per 2 oz bottle, but its headline '13% more density, 29% less hair loss' claim traces to a study we couldn't find in any peer-reviewed database, so treat it as marketing, not proof.",
   rating: 3.0,
   reviewCount: 362,
   ratingBasis: "Estimated from combined ReviewMeta-tracked review volume across Amplixin marketplace listings",

@@ -34,7 +34,7 @@ export async function generateMetadata({
   if (!page) return {};
   const { data } = page;
   return {
-    title: data.metaTitle,
+    title: { absolute: data.metaTitle },
     description: data.metaDescription,
     ...markdownMeta(`/${data.slug}`, data.metaDescription),
     openGraph: { title: data.metaTitle, description: data.metaDescription, type: "article" },

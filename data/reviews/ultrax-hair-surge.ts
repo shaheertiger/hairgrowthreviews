@@ -5,11 +5,13 @@ export const ultraxHairSurge: ReviewData = {
   productName: "Ultrax Labs Hair Surge Caffeine Shampoo",
   brand: "Ultrax Labs",
   category: "Medicated Shampoo",
-  metaTitle: "Ultrax Labs Hair Surge Shampoo Review 2026: Caffeine + Ketoconazole",
+  metaTitle: "Ultrax Labs Hair Surge Review: 4/5 Ketoconazole Shampoo",
   metaDescription:
-    "Does Ultrax Labs Hair Surge shampoo work? We break down its caffeine, ketoconazole, and saw palmetto formula, real complaints, and how often to use it.",
+    "Ultrax Labs Hair Surge rates 4/5: caffeine, ketoconazole and saw palmetto ($48–$60 per 8 oz). Ketoconazole is the proven active; use it no more than ~5x a week.",
   h1: "Ultrax Labs Hair Surge Shampoo Review",
   dek: "A multi-active shampoo combining caffeine, ketoconazole, and saw palmetto. Here's why usage frequency matters more than most reviews mention.",
+  quickAnswer:
+    "Ultrax Labs Hair Surge is a caffeine, ketoconazole and saw palmetto shampoo ($48–$60 per 8 oz) that we rate 4.0/5. Ketoconazole is the one active with real published research behind it; use the shampoo about five times a week at most, because daily use causes the dryness behind most negative reviews, and give it two to three months.",
   rating: 4.0,
   reviewCount: 6200,
   ratingBasis: "Estimated from Amazon review volume and sentiment",

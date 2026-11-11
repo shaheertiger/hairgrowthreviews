@@ -5,11 +5,13 @@ export const viviscal: ReviewData = {
   productName: "Viviscal Extra Strength Hair Nutrient Tablets",
   brand: "Viviscal (Church & Dwight)",
   category: "Oral Supplement",
-  metaTitle: "Viviscal Extra Strength Review 2026: AminoMar Complex, Explained",
+  metaTitle: "Viviscal Extra Strength Review: 3.4/5, ~$40 a Month, Has Shellfish",
   metaDescription:
-    "Viviscal's marine-complex hair supplement reviewed — the AminoMar formula, shellfish allergy warning, pricing, and its 90-day guarantee.",
+    "Viviscal Extra Strength rates 3.4/5: an AminoMar marine supplement (~$40 a month). Its 92% 'thicker' stat is self-reported, and it contains oyster extract.",
   h1: "Viviscal Extra Strength Hair Nutrient Tablets Review",
   dek: "A long-running marine-complex hair supplement sold at major pharmacies. Here's what's really behind its brand recognition.",
+  quickAnswer:
+    "Viviscal Extra Strength is a long-running marine-complex hair supplement (about $40 for a one-month supply) that we rate 3.4/5. Its headline 92%-thicker result is company-funded, self-reported perception data, it helps most when you're actually low in iron or zinc, and it contains shark cartilage and oyster extract, so it is unsafe for anyone with a shellfish allergy.",
   rating: 3.4,
   reviewCount: 12000,
   ratingBasis: "Estimated from combined CVS, Amazon, and Walmart customer review volume",

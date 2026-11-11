@@ -5,11 +5,13 @@ export const biotopic: ReviewData = {
   productName: "Biotopic Premium Hair Regrowth Serum",
   brand: "Biotopic",
   category: "Topical Serum",
-  metaTitle: "Biotopic Hair Regrowth Serum Review 2026: Does It Work? (Tested)",
+  metaTitle: "Biotopic Hair Regrowth Serum Review: 2.9/5, Weaker Than Its Stars",
   metaDescription:
-    "An independent review of Biotopic Premium Hair Regrowth Serum — ingredients, price, real customer ratings, and whether this drug-free serum is worth buying in 2026.",
+    "Biotopic Hair Regrowth Serum rates 2.9/5: a drug-free caffeine and saw palmetto serum ($30–$40) with no trial; filtered reviews put it nearer 2.7 stars.",
   h1: "Biotopic Premium Hair Regrowth Serum Review",
   dek: "A drug-free, caffeine-and-saw-palmetto scalp serum marketed as a minoxidil alternative. Here's what's actually in it and what real buyers report.",
+  quickAnswer:
+    "Biotopic Premium Hair Regrowth Serum is a drug-free caffeine and saw palmetto serum ($30–$40 per one-month bottle) that we rate 2.9/5. There is no clinical trial on the finished formula, and an independent ReviewMeta audit drops its roughly 3.3-star marketplace average to about 2.7 once suspected incentivized reviews are removed.",
   rating: 2.9,
   reviewCount: 353,
   ratingBasis: "Based on aggregate ReviewMeta analysis of 353 verified Biotopic buyer reviews",

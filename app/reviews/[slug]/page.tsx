@@ -22,7 +22,7 @@ export async function generateMetadata({
   const data = getReview(slug);
   if (!data) return {};
   return {
-    title: data.metaTitle,
+    title: { absolute: data.metaTitle },
     description: data.metaDescription,
     ...markdownMeta(`/reviews/${data.slug}`, data.metaDescription),
     openGraph: { title: data.metaTitle, description: data.metaDescription, type: "article" },

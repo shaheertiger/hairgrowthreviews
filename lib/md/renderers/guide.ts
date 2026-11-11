@@ -30,6 +30,7 @@ export function guideDoc(data: GuideData): MdDoc {
     blocks: [
       esc(guideSectionLabels[data.section]),
       esc(data.dek),
+      !!data.quickAnswer && `**Quick answer:** ${esc(data.quickAnswer)}`,
       a.byline(data.updatedDate),
       a.takeaways(data.keyTakeaways),
       !!data.quickFacts?.length && table(["Fact", "Value"], data.quickFacts.map((f) => [f.label, f.value])),

@@ -1,13 +1,14 @@
 export const site = {
   name: "HairGrowthReviews",
   domain: "hairgrowthreviews.com",
-  url: "https://hairgrowthreviews.com",
+  /** The live primary host: Vercel 308-redirects the apex domain here, so canonicals, the sitemap and JSON-LD must use it too. */
+  url: "https://www.hairgrowthreviews.com",
   tagline: "Independent hair loss & regrowth product reviews",
   description:
     "Independent, research-backed reviews of hair regrowth serums, shampoos, supplements, and treatments — tested claims, real ingredients, honest verdicts.",
   twitter: "@hairgrowthreviews",
   /** Where readers and AI agents reach the editorial team; llms.txt, ai.txt and the Organization JSON-LD use these. */
-  contactUrl: "https://hairgrowthreviews.com/contact",
+  contactUrl: "https://www.hairgrowthreviews.com/contact",
   contactEmail: "editorial@hairgrowthreviews.com",
   /** Official profiles, for the Organization JSON-LD `sameAs`. */
   sameAs: ["https://x.com/hairgrowthreviews"],

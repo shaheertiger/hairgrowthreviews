@@ -11,6 +11,7 @@ import ProsConsBox from "@/components/ui/ProsConsBox";
 import ComparisonTable from "@/components/ui/ComparisonTable";
 import FAQAccordion from "@/components/ui/FAQAccordion";
 import BottomLineBox from "@/components/ui/BottomLineBox";
+import QuickAnswer from "@/components/ui/QuickAnswer";
 import CTAButton from "@/components/ui/CTAButton";
 import { amazonProductLink, withAmazonTag } from "@/lib/affiliate";
 import CalloutBox from "@/components/ui/CalloutBox";
@@ -63,6 +64,7 @@ export default function ReviewTemplate({ data }: { data: ReviewData }) {
             {data.h1}
           </h1>
           <p className="mt-4 text-xl leading-relaxed text-stone-600">{data.dek}</p>
+          {data.quickAnswer && <QuickAnswer text={data.quickAnswer} />}
 
           <div className="mt-5">
             <RatingBadge rating={data.rating} reviewCount={data.reviewCount} size="lg" />

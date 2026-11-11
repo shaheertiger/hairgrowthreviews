@@ -13,9 +13,10 @@ export async function generateMetadata(): Promise<Metadata> {
   const data = getReview();
   if (!data) return {};
   return {
-    title: data.metaTitle,
+    title: { absolute: data.metaTitle },
     description: data.metaDescription,
     ...markdownMeta("/mane-n-tail-shampoo-read-first", data.metaDescription),
+    openGraph: { title: data.metaTitle, description: data.metaDescription, type: "article" },
   };
 }
 

@@ -5,11 +5,13 @@ export const crinagen: ReviewData = {
   productName: "Crinagen Advanced Hair Loss Prevention Therapy",
   brand: "Crinagen",
   category: "Topical Spray",
-  metaTitle: "Crinagen Review 2026: Real Results, Ingredients & Is It Worth It?",
+  metaTitle: "Crinagen Review: 2.7/5, Alcohol-Free but Unproven and Sticky",
   metaDescription:
-    "Looking for Crinagen results before you buy? Our independent review covers ingredients, texture complaints, pricing, and how it compares to minoxidil.",
+    "Crinagen rates 2.7/5: an alcohol-free, minoxidil-free saw palmetto spray ($54–$94) with no clinical trial, a 6–12 month wait and a sticky, slow-drying texture.",
   h1: "Crinagen Review: Does This Alcohol-Free Spray Deliver Results?",
   dek: "An alcohol-free, minoxidil-free spray built on saw palmetto, azelaic acid, and zinc. Here's what long-time forum users actually report.",
+  quickAnswer:
+    "Crinagen is an alcohol-free, minoxidil-free saw palmetto, azelaic acid and zinc spray that we rate 2.7/5. It has no clinical trial on the finished product, asks for a 6–12 month trial at $54–$94 per bundle, and users most often complain that it is sticky, strong-smelling and slow to dry.",
   rating: 2.7,
   reviewCount: 140,
   ratingBasis: "Estimated from scattered HairLossTalk forum and marketplace sentiment (limited mainstream review volume)",

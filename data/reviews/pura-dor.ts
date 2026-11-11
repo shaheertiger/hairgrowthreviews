@@ -5,11 +5,13 @@ export const puraDor: ReviewData = {
   productName: "PURA D'OR Hair Loss Prevention Therapy Shampoo",
   brand: "PURA D'OR",
   category: "Shampoo",
-  metaTitle: "PURA D'OR Hair Loss Shampoo Review 2026: Is It Really 'Clinically Tested'?",
+  metaTitle: "Pura D'or Shampoo Review: 3.5/5, 'Clinically Tested' Isn't a Trial",
   metaDescription:
-    "PURA D'OR's argan oil hair loss shampoo reviewed — what 'clinically tested' actually means here, real ingredients, pricing, and its 365-day guarantee.",
+    "Pura D'or Hair Loss shampoo rates 3.5/5: a good sulfate-free argan oil shampoo ($22–$30), but 'clinically tested' means internal testing, not a regrowth trial.",
   h1: "PURA D'OR Hair Loss Prevention Therapy Shampoo Review",
   dek: "A widely available, sulfate-free botanical shampoo with a long refund window. Here's what its 'clinically tested' claim really means.",
+  quickAnswer:
+    "Pura D'or Hair Loss Prevention Therapy shampoo is a well-made sulfate-free cosmetic shampoo ($22–$30 for 16 fl oz) that we rate 3.5/5. Its 'clinically tested' label refers to internal company testing, not a peer-reviewed trial showing regrowth, so it works best alongside a proven treatment like minoxidil rather than on its own.",
   rating: 3.5,
   reviewCount: 45000,
   ratingBasis: "Estimated from combined Amazon, Walmart, Target, and Costco customer review volume",

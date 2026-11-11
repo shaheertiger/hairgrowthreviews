@@ -4,7 +4,7 @@ export const bestEyebrowGrowthSerum: RoundupData = {
   slug: "best-eyebrow-growth-serum",
   hub: "Brows, Lashes & Beard",
   crumb: "Best Eyebrow Growth Serum",
-  metaTitle: "Best Eyebrow Growth Serum (2026): 7 Picks Ranked on Ingredients",
+  metaTitle: "Best Eyebrow Growth Serum (2026): GrandeBROW Tops 7 Picks",
   metaDescription:
     "GrandeBROW, RevitaBrow, ForChics and more, ranked on active ingredients, side-effect risk and value, with an honest look at prostaglandin brow serums.",
   h1: "The Best Eyebrow Growth Serums: What Works, and What It Costs You",

@@ -3,11 +3,13 @@ import { GuideData } from "@/lib/types";
 export const supplements: GuideData = {
   slug: "supplements",
   section: "find-a-treatment",
-  metaTitle: "Hair Growth Supplements: What Actually Works (2026 Evidence Review)",
+  metaTitle: "Do Hair Growth Supplements Work? Only If You're Deficient",
   metaDescription:
-    "Biotin, saw palmetto, collagen, iron, zinc, vitamin D — which hair growth supplement ingredients have real evidence, and which are mostly marketing.",
-  h1: "Hair Growth Supplements: What the Evidence Actually Shows",
+    "Mostly no, unless you're deficient. Biotin, iron, zinc and vitamin D help only low levels; saw palmetto (100-320 mg/day) modestly slows male pattern loss.",
+  h1: "Do Hair Growth Supplements Work? What the Evidence Shows",
   dek: "Not all supplement ingredients are created equal. Here's an honest breakdown of what's backed by research and what's mostly hype.",
+  quickAnswer:
+    "Hair growth supplements mostly work only when they correct a real deficiency. Biotin hasn't been shown to help people who aren't deficient; iron, zinc and vitamin D help only if bloodwork shows you're low; saw palmetto (100-320 mg a day) has the best evidence, modestly slowing male pattern hair loss but well short of finasteride. Get ferritin, zinc and vitamin D tested before buying anything.",
   intro: [
     "Supplement marketing for hair growth is extensive, but the underlying evidence varies widely by ingredient. Before buying any capsule or tablet, it's worth knowing which actives actually have research behind them.",
     "The hair-growth supplement category is one of the most heavily marketed corners of the entire hair-loss industry, in part because supplements face a much lighter regulatory bar than pharmaceutical treatments like minoxidil or finasteride — a company can sell a 'hair growth' formula without ever proving it regrows hair in a rigorous trial, as long as it avoids making explicit disease-treatment claims. That doesn't mean every ingredient in this category is useless; some have genuinely useful evidence behind them. It means the burden is on the buyer to sort ingredient-level evidence from brand-level marketing, which is exactly what this guide is for.",

@@ -5,11 +5,13 @@ export const murad: ReviewData = {
   productName: "Murad Hair Growth Scalp Serum",
   brand: "Murad",
   category: "Cosmetic Scalp Serum",
-  metaTitle: "Murad Hair Growth Scalp Serum Review 2026: Still Worth Buying?",
+  metaTitle: "Murad Hair Growth Scalp Serum Review: 3.2/5, Likely Discontinued",
   metaDescription:
-    "An honest review of Murad's Scalp Serum for fine, thinning hair — ingredients, availability status, and whether this dermatologist-brand serum holds up.",
+    "Murad Hair Growth Scalp Serum rates 3.2/5: a gentle acid-exfoliating scalp serum (~$20–$30) that appears discontinued and has no trial showing it regrows hair.",
   h1: "Murad Hair Growth Scalp Serum Review",
   dek: "A dermatologist-brand exfoliating scalp serum for fine or thinning hair. Here's what's in it — and a heads-up on current availability.",
+  quickAnswer:
+    "Murad Hair Growth Scalp Serum is a gentle exfoliating scalp serum (salicylic and glycolic acid) that we rate 3.2/5. It appears to be discontinued — it now turns up mainly as leftover retailer stock at about $20–$30 — and there's no clinical trial showing the serum itself regrows hair.",
   rating: 3.2,
   reviewCount: 210,
   ratingBasis: "Estimated from retailer listings and legacy customer reviews",

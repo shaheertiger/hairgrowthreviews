@@ -10,6 +10,8 @@ export const spark: ReviewData = {
     "Thinking about Club Roots' Spark DHT-blocking treatment? Here's what we found on ingredients, pricing, and its current availability status.",
   h1: "Spark Hair Growth Serum Review",
   dek: "A DHT-blocking topical from Club Roots. Before you shop, here's an important availability update from our research.",
+  quickAnswer:
+    "We can't currently recommend Club Roots' Spark hair growth serum: during our research its official site returned repeated errors and it showed as sold out on Amazon and eBay, so we couldn't verify that it's being sold or confirm a price. Confirm availability directly before buying.",
   rating: 3.0,
   reviewCount: 0,
   ratingBasis: "Insufficient current, verifiable data to assign a confident aggregate rating",

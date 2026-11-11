@@ -5,11 +5,13 @@ export const justNatural: ReviewData = {
   productName: "Just Natural Hair Growth Treatment",
   brand: "Just Nutritive",
   category: "Natural Oil Treatment",
-  metaTitle: "Just Natural Hair Growth Treatment Review 2026: Ingredients & Verdict",
+  metaTitle: "Just Natural Hair Growth Treatment Review: 3.5/5, a 2–3 Hour Routine",
   metaDescription:
-    "Just Nutritive's Grow New Hair Treatment reviewed — the all-natural oil blend, application routine, pricing, and honest results expectations.",
+    "Just Natural Hair Growth Treatment rates 3.5/5: a clean all-natural oil ($46.99) with no trial, left on the scalp 2–3 hours or overnight, twice a week.",
   h1: "Just Natural Hair Growth Treatment Review",
   dek: "An all-natural, oil-based scalp treatment with a genuinely clean ingredient list. Here's the real time commitment involved.",
+  quickAnswer:
+    "Just Natural Hair Growth Treatment is an all-natural scalp oil ($46.99) with one of the cleanest ingredient lists in the category, and we rate it 3.5/5. Its real cost is time: it has to stay on the scalp for 2–3 hours or overnight, at least twice a week, and there's no clinical trial on the finished formula.",
   rating: 3.5,
   reviewCount: 900,
   ratingBasis: "Estimated from justnutritive.com and Amazon customer review sentiment",

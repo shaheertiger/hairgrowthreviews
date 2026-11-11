@@ -9,7 +9,7 @@ import { listMarkdownRoutes, renderMarkdown, type MdGroup, type MdRouteInfo } fr
 import { abs, esc, isoDate, link, mdUrl } from "./format";
 
 /** Bump when the ai.txt policy or crawl rules change. */
-const POLICY_UPDATED = "2026-10-25";
+const POLICY_UPDATED = "2026-11-11";
 
 const FILES = ["/robots.txt", "/llms.txt", "/ai.txt"];
 const syncNote = (self: string) =>
@@ -20,8 +20,9 @@ export const crawlPolicy = {
   aiSearch: ["OAI-SearchBot", "ChatGPT-User", "Claude-SearchBot", "Claude-User", "PerplexityBot", "Perplexity-User"],
   /** Model-training crawlers we allow. */
   trainingAllowed: ["GPTBot", "ClaudeBot", "Google-Extended", "Applebot-Extended"],
-  /** Crawlers kept off the whole site. */
-  blocked: ["CCBot", "Bytespider"],
+  /** Crawlers kept off the whole site: bulk scrapers, plus the backlink/SEO-audit
+   *  bots competitors use to reverse-engineer a site (they send no visitors). */
+  blocked: ["CCBot", "Bytespider", "AhrefsBot", "DataForSeoBot", "SERankingBacklinksBot"],
   /** Public paths under a private prefix. */
   publicPaths: ["/api/md/"],
   /** Never crawled by anyone. */

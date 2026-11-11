@@ -3,11 +3,13 @@ import { GuideData } from "@/lib/types";
 export const scalpReduction: GuideData = {
   slug: "scalp-reduction",
   section: "find-a-treatment",
-  metaTitle: "Scalp Reduction Surgery: Is It Still Used in 2026?",
+  metaTitle: "What Is Scalp Reduction? Why Surgeons Replaced It With FUE and FUT",
   metaDescription:
-    "What scalp reduction surgery is, why it's fallen out of favor since FUE/FUT hair transplants emerged, and what it's mainly used for today.",
+    "Scalp reduction surgery removes bald scalp and stretches hair-bearing skin over the gap. Popular in the 1970s-80s, it's obsolete now; FUE and FUT replaced it.",
   h1: "Scalp Reduction Surgery: History, Risks & Current Relevance",
   dek: "Once a mainstream baldness treatment, now considered largely obsolete. Here's why — and what replaced it.",
+  quickAnswer:
+    "Scalp reduction is a surgery that removes a strip of bald scalp and stretches the surrounding hair-bearing skin to close the gap. It was mainstream in the 1970s-80s but is now largely obsolete: the stretched skin tends to re-expand ('stretch-back'), it leaves visible scars, and it can use up donor hair. Modern FUE and FUT transplants, which move individual follicles, replaced it.",
   intro: [
     "If you're researching scalp reduction surgery as a hair-loss treatment, the most important thing to know up front is that it's now considered a largely outdated procedure in modern hair restoration medicine — this page explains why, and what most surgeons recommend instead.",
     "Scalp reduction still shows up in search results, older forum threads, and even some outdated clinic websites, which can make it confusing to figure out whether it's a legitimate current option or a historical dead end. Part of the confusion is that the procedure was, for a time, a genuinely mainstream part of surgical hair restoration — it wasn't a fringe or fraudulent treatment, it was simply the best surgical tool available before follicular techniques matured. Understanding that history helps explain both why it was once popular and why it was so thoroughly abandoned once something better came along.",

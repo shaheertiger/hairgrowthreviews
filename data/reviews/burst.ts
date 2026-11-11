@@ -5,11 +5,13 @@ export const burst: ReviewData = {
   productName: "Burst by Nourish Beaute",
   brand: "Nourish Beaute",
   category: "Topical Serum",
-  metaTitle: "Burst Hair Serum Review 2026: Is Nourish Beaute's '2x Minoxidil' Claim True?",
+  metaTitle: "Burst Hair Serum Review: 3.1/5, '2x Minoxidil' Claim Unverified",
   metaDescription:
-    "Burst by Nourish Beaute claims 214% more regrowth than minoxidil. We checked the Redensyl ingredient science and what that claim actually rests on.",
+    "Burst by Nourish Beaute rates 3.1/5: a Redensyl serum ($29.99–$49.99) whose '214% more regrowth than minoxidil' claim has no independent trial behind it.",
   h1: "Burst by Nourish Beaute Review",
   dek: "A Redensyl-based serum marketed as beating minoxidil head-to-head. Here's what's verifiable and what isn't.",
+  quickAnswer:
+    "Burst by Nourish Beaute is a Redensyl-based hair serum ($29.99–$49.99 per 1.7 oz) that we rate 3.1/5. Redensyl is a real, patented active with supplier research, but Burst's '214% more regrowth' and '2x better than minoxidil' claims have no independent, peer-reviewed head-to-head trial behind them.",
   rating: 3.1,
   reviewCount: 850,
   ratingBasis: "Estimated from mixed Amazon and brand-site review sentiment",

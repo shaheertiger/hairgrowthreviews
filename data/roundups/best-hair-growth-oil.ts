@@ -4,7 +4,7 @@ export const bestHairGrowthOil: RoundupData = {
   slug: "best-hair-growth-oil",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Growth Oil",
-  metaTitle: "Best Hair Growth Oil (2026): 6 Picks Ranked on Real Evidence",
+  metaTitle: "Best Oils for Hair Growth (2026): Rosemary Mint Tops 6 Picks",
   metaDescription:
     "Castor, rosemary, pumpkin seed or jojoba? We ranked Mielle, Sky Organics, Fable & Mane and more on evidence, scalp fit and value, without the hype.",
   h1: "The Best Hair Growth Oils, and What They Can Honestly Do",

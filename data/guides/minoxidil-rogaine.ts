@@ -3,11 +3,13 @@ import { GuideData } from "@/lib/types";
 export const minoxidilRogaine: GuideData = {
   slug: "minoxidil-rogaine",
   section: "find-a-treatment",
-  metaTitle: "Minoxidil & Rogaine Guide 2026: Brands, Pricing & How It Works",
+  metaTitle: "Rogaine vs Minoxidil: Same Drug, Generic ~$8/Month vs $25-$50",
   metaDescription:
-    "Everything to know about minoxidil and Rogaine — FDA approval history, generic brands like Kirkland, foam vs. liquid, side effects, and Rogaine hair fibers explained.",
-  h1: "Minoxidil & Rogaine: The Complete Guide",
+    "Yes, minoxidil is the same as Rogaine: Rogaine is a brand of it. Generic Kirkland costs ~$8 a month vs $25-$50 for Rogaine. Use, foam vs liquid, side effects.",
+  h1: "Rogaine vs Minoxidil: Same Drug, Different Price",
   dek: "The only OTC topical ingredient FDA-approved for hair regrowth. Here's how it works, which brand to buy, and how it differs from Rogaine hair fibers.",
+  quickAnswer:
+    "Rogaine is a brand name for minoxidil, and generic minoxidil at the same strength (2% or 5%) is chemically equivalent. The difference is price: Kirkland Signature works out to about $8 a month versus $25-$50 for Rogaine. Either way, expect 3-6 months of consistent daily use before judging results, and an early shed is normal.",
   intro: [
     "Minoxidil is a vasodilator originally developed as an oral blood-pressure medication; topical use was found, somewhat by accident, to stimulate hair regrowth by prolonging the anagen (growth) phase of follicles and increasing follicle size and blood flow. It remains the only over-the-counter topical ingredient FDA-approved for androgenetic alopecia.",
     "Because it's been available for decades, sold under dozens of brand names at wildly different prices, and comes in multiple concentrations and formulations, minoxidil generates an unusual number of practical questions that have nothing to do with whether it works and everything to do with how to actually use it well — which brand to buy, foam or liquid, how to apply it without wasting product or irritating your scalp, and how to tell it apart from unrelated cosmetic products that share its brand name.",

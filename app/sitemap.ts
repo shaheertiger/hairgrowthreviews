@@ -4,6 +4,10 @@ import { guides } from "@/data/guides";
 import { roundups } from "@/data/roundups";
 import { questions } from "@/data/questions";
 import { site } from "@/lib/site";
+import { toIsoDate } from "@/lib/dates";
+
+/** Each page's own updated date, so lastmod only moves when the page really changed. */
+const lastMod = (date?: string) => new Date(toIsoDate(date) ?? site.staticLastModified);
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = ["", "/best", "/answers", "/reviews", "/find-a-treatment", "/about-hair-growth", "/about", "/contact", "/privacy", "/terms"].map((path) => ({
@@ -15,7 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .filter((r) => r.slug !== "mane-n-tail-shampoo")
     .map((r) => ({
       url: `${site.url}/reviews/${r.slug}`,
-      lastModified: new Date(site.staticLastModified),
+      lastModified: lastMod(r.updatedDate),
     }));
 
   const maneNTailRoute = [
@@ -29,17 +33,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
           ? `${site.url}/the-hgr-regimen`
           : `${site.url}/the-hgr-regimen/${g.slug}`
         : `${site.url}/${g.section}/${g.slug}`,
-    lastModified: new Date(site.staticLastModified),
+    lastModified: lastMod(g.updatedDate),
   }));
 
   const roundupRoutes = roundups.map((r) => ({
     url: `${site.url}/${r.slug}`,
-    lastModified: new Date(r.updatedDate),
+    lastModified: lastMod(r.updatedDate),
   }));
 
   const questionRoutes = questions.map((q) => ({
     url: `${site.url}/${q.slug}`,
-    lastModified: new Date(q.updatedDate),
+    lastModified: lastMod(q.updatedDate),
   }));
 
   return [...staticRoutes, ...roundupRoutes, ...questionRoutes, ...reviewRoutes, ...maneNTailRoute, ...guideRoutes];

@@ -5,11 +5,13 @@ export const ultraxHairLush: ReviewData = {
   productName: "Ultrax Labs Hair Lush (Hair Plush) Serum",
   brand: "Ultrax Labs",
   category: "Leave-In Serum",
-  metaTitle: "Ultrax Labs Hair Lush Serum Review 2026: Thickening Results Tested",
+  metaTitle: "Ultrax Labs Hair Lush (Hair Plush) Review: 4/5 Thickening Serum",
   metaDescription:
-    "A close look at Ultrax Labs' Hair Lush (now Hair Plush) thickening serum — caffeine and keratin ingredients, pricing, guarantee, and real verdict.",
+    "Ultrax Labs Hair Lush, now Hair Plush, rates 4/5: a caffeine and keratin leave-in ($44–$80) that makes hair look fuller and break less. It doesn't regrow hair.",
   h1: "Ultrax Labs Hair Lush Serum Review",
   dek: "A caffeine-and-keratin leave-in serum for hair thickness, now sold under the name 'Hair Plush.' Here's whether it lives up to the reviews.",
+  quickAnswer:
+    "Ultrax Labs Hair Lush — now sold as Hair Plush — is a caffeine and keratin leave-in thickening serum ($44–$80) that we rate 4.0/5. It makes hair feel fuller and break less within a few weeks, but it has no DHT-blocking or minoxidil-type active, so it's a cosmetic thickener rather than a regrowth treatment.",
   rating: 4.0,
   reviewCount: 3200,
   ratingBasis: "Estimated from favorable Amazon review sentiment across thousands of ratings",

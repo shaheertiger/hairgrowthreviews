@@ -7,6 +7,7 @@ import ReadingProgress from "@/components/ui/ReadingProgress";
 import KeyTakeaways from "@/components/ui/KeyTakeaways";
 import ArticleSection from "@/components/ui/ArticleSection";
 import ComparisonTable from "@/components/ui/ComparisonTable";
+import QuickAnswer from "@/components/ui/QuickAnswer";
 import StatGrid from "@/components/ui/StatGrid";
 import FAQAccordion from "@/components/ui/FAQAccordion";
 import BottomLineBox from "@/components/ui/BottomLineBox";
@@ -57,6 +58,7 @@ export default function GuideTemplate({ data }: { data: GuideData }) {
             {data.h1}
           </h1>
           <p className="mt-4 text-xl leading-relaxed text-stone-600">{data.dek}</p>
+          {data.quickAnswer && <QuickAnswer text={data.quickAnswer} />}
 
           <div className="mt-6 border-y border-border-subtle py-4">
             <AuthorBlock updatedDate={data.updatedDate} />

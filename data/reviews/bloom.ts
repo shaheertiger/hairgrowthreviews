@@ -5,11 +5,13 @@ export const bloom: ReviewData = {
   productName: "Hair Bloom Regrowth Capsules",
   brand: "Hair Bloom",
   category: "Oral Supplement",
-  metaTitle: "Hair Bloom Regrowth Treatment Review 2026: Ingredients & Verdict",
+  metaTitle: "Hair Bloom Review: 2.6/5 Biotin Capsules With Undisclosed Doses",
   metaDescription:
-    "An honest review of Hair Bloom's daily hair regrowth capsules — biotin and vitamin ingredients, dosing transparency, and what to know before buying.",
+    "Hair Bloom rates 2.6/5: biotin, vitamin A and B12 capsules ($28.87–$31.99 a month) with undisclosed doses. Biotin mainly helps if you're actually deficient.",
   h1: "Hair Bloom Regrowth Treatment Review",
   dek: "A daily oral capsule built on biotin and B-vitamins. Here's what's disclosed on the label — and what isn't.",
+  quickAnswer:
+    "Hair Bloom is a biotin and B-vitamin capsule ($28.87–$31.99 for a one-month supply) that we rate 2.6/5. It doesn't disclose per-capsule doses, its nutrients mainly help when you're correcting a real deficiency, and excess vitamin A — one of its ingredients — has itself been linked to increased shedding.",
   rating: 2.6,
   reviewCount: 240,
   ratingBasis: "Estimated from third-party retailer review sentiment",

@@ -34,9 +34,8 @@ export const staticPages = {
   },
   reviews: {
     path: "/reviews",
-    title: "Hair Growth Product Reviews",
-    description:
-      "Independent, research-backed reviews of hair regrowth serums, shampoos, and supplements — real ingredients, real evidence, honest verdicts.",
+    title: `Hair Growth Product Reviews: ${reviews.length} Serums, Shampoos & Supplements Rated`,
+    description: `Honest hair growth product reviews: ${reviews.length} hair loss serums, shampoos and supplements rated out of 5 on ingredients and clinical evidence. Top rated: Nizoral A-D (4.3/5) for evidence per dollar.`,
     aiSummary: `${reviews.length} in-depth reviews of hair growth serums, shampoos, supplements, oils and devices, listed from highest to lowest rating. Each review gives a rating out of 5, the price, pros and cons, key ingredients and a verdict.`,
   },
   findATreatment: {

@@ -2,6 +2,7 @@
  * Small Markdown builders shared by every renderer: escaping, absolute links,
  * lists, tables and the page frame (title, summary, canonical URL, date).
  */
+import { toIsoDate } from "@/lib/dates";
 import { site } from "@/lib/site";
 import type { LinkSegment } from "@/lib/autolink";
 
@@ -54,7 +55,7 @@ export const item = (title: string, href: string, description?: string) =>
   `- ${link(title, href)}${description ? ` - ${esc(description)}` : ""}`;
 
 /** YYYY-MM-DD for ISO dates; month-only dates ("August 2026") fall back to the site-wide date the sitemap uses. */
-export const isoDate = (date?: string) => (date && /^\d{4}-\d{2}-\d{2}$/.test(date) ? date : site.staticLastModified);
+export const isoDate = (date?: string) => toIsoDate(date) ?? site.staticLastModified;
 
 export interface RelatedGroup {
   heading: string;

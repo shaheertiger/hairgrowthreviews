@@ -3,11 +3,13 @@ import { GuideData } from "@/lib/types";
 export const hairLossCycle: GuideData = {
   slug: "hair-loss-cycle",
   section: "about-hair-growth",
-  metaTitle: "The Hair Growth Cycle Explained: Anagen, Catagen, Telogen, Exogen",
+  metaTitle: "3 Stages of Hair Growth: Anagen (2-8 Years), Catagen, Telogen",
   metaDescription:
-    "Understand the four phases of the hair growth cycle, how long each lasts, and what disrupts the cycle to cause hair loss — explained simply.",
-  h1: "The Hair Growth Cycle, Explained",
+    "Hair grows in 3 stages: anagen (2-8 years, 85-90% of hairs), catagen (2-4 weeks) and telogen (2-4 months), then exogen sheds 50-100 hairs a day.",
+  h1: "The Hair Growth Cycle: Anagen, Catagen, Telogen & Exogen",
   dek: "Every strand on your head is on its own independent clock. Understanding the four phases explains why hair loss treatments take months to show results.",
+  quickAnswer:
+    "The hair growth cycle has three main stages: anagen (active growth, 2-8 years, 85-90% of scalp hairs), catagen (transition, 2-4 weeks, about 1%) and telogen (rest, 2-4 months, 10-15%). It ends with exogen, when the old hair falls out as a new one grows in its place — which is why losing 50-100 hairs a day is normal.",
   intro: [
     "Each hair follicle on your scalp cycles independently through four distinct phases, and understanding this cycle is the single most useful thing you can know before starting any hair-loss treatment — it's why nothing in this category works overnight.",
     "It helps to picture your scalp not as one synchronized system but as roughly 100,000 individual follicles, each running its own private timer, at its own stage, on its own schedule. At any given moment some are deep into years of active growth, some are winding down, some are resting, and a small number are letting go of an old hair while a new one is already forming beneath it. That constant, staggered turnover is exactly why healthy hair loss looks like a steady, low-level daily shed rather than a single dramatic event — and why a real change to the overall system takes time to become visible, since it depends on enough of those individual timers cycling through their phases before the aggregate picture in the mirror shifts.",
@@ -67,7 +69,7 @@ export const hairLossCycle: GuideData = {
   sections: [
     {
       id: "four-phases",
-      heading: "The Four Phases",
+      heading: "What Are the Stages of Hair Growth?",
       body: [
         "Anagen (growth phase) is by far the longest, typically lasting 2-8 years on the scalp, during which hair grows roughly 1-2 cm per month. About 85-90% of your scalp hairs are in anagen at any given moment — this is the phase treatments like minoxidil aim to extend. The length of an individual's anagen phase is largely genetically determined, which is part of why some people can grow noticeably longer hair than others even with identical care routines: a longer anagen phase simply gives each strand more time to lengthen before it cycles onward.",
         "Catagen (transitional phase) is brief, lasting only about 2-4 weeks, during which the follicle shrinks and detaches from its blood supply. Only around 1% of hairs are in this phase at once. This is a controlled, programmed regression rather than a sign of damage — the lower portion of the follicle breaks down and is reabsorbed while the upper structure that will house the next hair remains intact, setting the stage for the next growth cycle to begin from the same follicle.",
@@ -87,9 +89,18 @@ export const hairLossCycle: GuideData = {
         },
       ],
     },
+    {"id": "anagen-phase", "heading": "How Long Does the Anagen Phase Last?", "body": ["On the scalp, the anagen (growth) phase lasts 2-8 years — far longer than any other phase, which is why 85-90% of your scalp hairs are in anagen at any moment. During it, cells in the hair bulb divide rapidly and push the shaft out at roughly 1-2 cm a month.", "Anagen length is the main thing that sets how long your hair can get. A follicle with a 3-year anagen phase can grow a hair to roughly 36-72 cm before it stops; one with a 7-year phase can go well past a metre. That's why some people can't grow hair past their shoulders no matter how carefully they treat it: their anagen phase is genetically short. Body hair, eyebrows and eyelashes have anagen phases measured in weeks to months, not years, which is why they stay short.", "Anagen is also the phase pattern hair loss attacks. DHT shortens it with each cycle, so the follicle has less time to grow a long, thick hair before it rests again. Minoxidil works in part by lengthening anagen and pushing resting follicles back into it."], "keyPoint": "Anagen lasts 2-8 years on the scalp and decides your maximum hair length; pattern hair loss shortens it, and minoxidil lengthens it."},
+    {"id": "catagen-phase", "heading": "What Happens in the Catagen Phase, and How Long Does It Last?", "body": ["Catagen is the short transition stage between growth and rest, lasting about 2-4 weeks. Only around 1% of scalp hairs are in catagen at once. The hair stops growing, the lower part of the follicle shrinks to about a sixth of its size, and the hair detaches from the dermal papilla that fed it.", "As the bulb pulls away it forms a hard, white 'club' at the root. That club is what keeps the hair anchored through the resting phase that follows, and it's the small white bulb you see at the end of a hair that falls out naturally."]},
+    {"id": "telogen-phase", "heading": "How Long Does the Telogen (Resting) Phase Last?", "body": ["The telogen phase lasts about 2-4 months on the scalp (around 3 months is the textbook figure), and 10-15% of scalp hairs are resting at any time. The club hair stays in the follicle without growing while the follicle gets ready to start a new anagen phase underneath it.", "Telogen is the phase behind most sudden shedding. A shock to the body — a high fever, surgery, childbirth, crash dieting, rapid weight loss — can push a large share of growing hairs into telogen at once. Because they then rest for about three months before falling out, the shedding (telogen effluvium) shows up 2-3 months after the trigger, not straight away."], "keyPoint": "Telogen lasts about 3 months, which is why stress- or illness-related shedding starts 2-3 months after the event that caused it."},
+    {"id": "exogen-phase", "heading": "What Is the Exogen Phase?", "body": ["Exogen is the shedding phase: the old club hair is released from the follicle, usually because a new anagen hair growing underneath pushes it out, or because washing and brushing pull it free. Some sources fold exogen into telogen and describe three stages; others list it separately, which is why you'll see the cycle described as both '3 stages' and '4 phases'.", "Losing 50-100 hairs a day through exogen is normal. Most of those hairs come out during washing and brushing, so shedding looks heavier on wash days — and heavier still if you wash less often, because several days' worth of released hairs come out at once."]},
+    {"id": "kenogen-phase", "heading": "What Is the Kenogen Phase?", "body": ["Kenogen is the gap after a hair has shed (exogen) and before a new anagen hair appears, when the follicle is empty. In a healthy scalp it's short and few follicles are in it at once. In pattern hair loss, kenogen tends to get longer and more common, so more follicles sit empty at the same time — one reason thinning becomes visible even before the follicles themselves are gone."]},
+    {"id": "full-cycle-length", "heading": "How Long Is a Full Hair Growth Cycle?", "body": ["A full scalp hair cycle runs about 2-8 years, almost all of it anagen: add 2-4 weeks of catagen and 2-4 months of telogen to an anagen phase of 2-8 years. Each follicle runs its own cycle independently, so at any time your scalp holds a mix of all the phases rather than shedding in one wave."], "table": {"columns": ["Typical length (scalp)", "Share of hairs", "What happens"], "rows": [{"label": "Anagen", "values": ["2-8 years", "85-90%", "Active growth, about 1-2 cm a month"]}, {"label": "Catagen", "values": ["2-4 weeks", "About 1%", "Growth stops; follicle shrinks and forms a club hair"]}, {"label": "Telogen", "values": ["2-4 months", "10-15%", "Club hair rests while a new hair starts below"]}, {"label": "Exogen", "values": ["Days, overlapping new anagen", "50-100 hairs shed a day", "Old hair is released"]}, {"label": "Kenogen", "values": ["Variable; longer in pattern loss", "Small in a healthy scalp", "Follicle is empty before regrowth"]}]}},
+    {"id": "phase-hair-most-easily-lost", "heading": "In Which Phase Is Hair Most Easily Lost?", "body": ["Hair is most easily lost at the end of the telogen phase, as it moves into exogen. By then the club hair is held only loosely in the follicle, so washing, brushing or a light tug pulls it out without pain. A growing anagen hair, by contrast, is firmly rooted and hurts to pull.", "That difference is the basis of the hair pull test: a dermatologist gently pulls about 50-60 hairs, and if more than a few come out easily — and they are club-ended telogen hairs — it points to excess shedding such as telogen effluvium."]},
+    {"id": "anagen-vs-telogen-hair", "heading": "Anagen vs Telogen Hair: How Do You Tell Them Apart?", "body": ["Look at the root. A telogen hair that fell out naturally has a small, white, rounded bulb (the club) and no sheath. An anagen hair that was pulled out has a darker, pigmented, often bent or ragged root, sometimes with a translucent sheath around it.", "Finding mostly club-ended hairs in your brush or drain is a sign of normal or telogen-type shedding. Large numbers of broken or pigmented-root hairs point to something else — breakage from styling or chemical damage, or, much less often, a process that damages growing follicles — and are worth showing a dermatologist."]},
+    {"id": "seasonal-shedding", "heading": "Does Hair Grow and Shed in Seasons?", "body": ["Mildly, yes. Studies tracking healthy volunteers have found that the share of hairs in telogen tends to peak in summer, and shedding rises in late summer and autumn a few months later. The effect is small compared with the shedding caused by stress, illness or pattern hair loss, so a seasonal shed shouldn't be visible as thinning."]},
     {
       id: "what-disrupts-it",
-      heading: "What Disrupts the Cycle",
+      heading: "What Disrupts the Hair Growth Cycle?",
       body: [
         "Most hair loss comes down to something disrupting this cycle's normal balance. In androgenetic alopecia (male/female pattern hair loss), dihydrotestosterone (DHT) progressively shortens the anagen phase and miniaturizes follicles over successive cycles, producing thinner, shorter hairs each time around. Over enough cycles, a follicle that once produced a thick, pigmented terminal hair for years at a time can shrink to the point where it produces only a fine, barely visible vellus-like hair for a much shorter growth window — the follicle itself is usually still present and technically alive, which is part of why early intervention has a meaningfully better chance of preserving it than intervention after years of progressive miniaturization.",
         "In telogen effluvium, physical or emotional stress — illness, surgery, childbirth, crash dieting, a high fever — pushes an abnormally large share of follicles into telogen simultaneously, causing diffuse shedding roughly 2-3 months later. The delay between the triggering event and the visible shedding is a direct consequence of the telogen phase's typical duration: the stress event pushes follicles into the resting phase, and it's only when that resting period ends and those hairs are shed in the exogen phase that the effect becomes noticeable — which is why people are often initially puzzled about what caused a shedding episode that started well after the stressful event itself had passed.",
@@ -103,7 +114,7 @@ export const hairLossCycle: GuideData = {
     },
     {
       id: "why-it-takes-months",
-      heading: "Why Treatments Take Months to Work",
+      heading: "Why Do Hair Loss Treatments Take Months to Work?",
       body: [
         "Because each follicle cycles on its own independent timetable, a treatment can't meaningfully change what you see in the mirror until enough follicles have cycled through a meaningful portion of anagen under the new treatment. That's the biological reason nearly every real hair-loss treatment — minoxidil, finasteride, ketoconazole shampoo — asks for a 3-6 month minimum trial before judging results, and often longer for a full picture.",
         "There's also a well-known, temporary complication that trips people up early in a new treatment: some users of minoxidil experience an initial shedding phase in the first several weeks. This happens because minoxidil can push some follicles that were lingering in an extended telogen phase to finally cycle into shedding and restart anagen sooner than they otherwise would have — in other words, it's often a sign the treatment is beginning to work on the cycle, not a sign it's failing, though it can understandably feel alarming if you don't know to expect it.",
@@ -116,7 +127,7 @@ export const hairLossCycle: GuideData = {
     },
     {
       id: "hair-structure-and-growth-rate",
-      heading: "What Determines Growth Rate and Hair Thickness",
+      heading: "What Determines How Fast and How Thick Hair Grows?",
       body: [
         "The follicle itself is a small but complex organ, and its size directly determines the diameter of the hair it produces — a larger, healthier follicle produces a thicker terminal hair, while a smaller or miniaturized one produces a thinner one. This is the structural basis for why pattern hair loss looks the way it does: it's not that hairs disappear all at once, but that successive cycles from a shrinking follicle each produce a visibly finer strand, until the hair produced is short and fine enough to contribute little to overall visible density.",
         "At the base of each active follicle sits the dermal papilla, a small cluster of specialized cells that plays a central signaling role in regulating the hair cycle — it's part of what determines when a follicle transitions between phases and helps set the follicle's size, and by extension the resulting hair's thickness. Blood supply to this region matters too, since actively growing hair cells are among the more metabolically active cells in the body during anagen and depend on a steady nutrient and oxygen supply to sustain that growth over months or years.",
@@ -125,7 +136,7 @@ export const hairLossCycle: GuideData = {
     },
     {
       id: "tracking-change-over-time",
-      heading: "How to Realistically Track Change Over a Full Cycle",
+      heading: "How Do You Track Hair Change Over a Full Cycle?",
       body: [
         "Given how gradual and asynchronous the cycle is, the most useful tool most people have isn't a specific product — it's a consistent method for tracking change over time. Standardized photos (same lighting, same angle, same hairstyle, same time of day) taken monthly are far more informative than daily mirror checks, which are prone to normal day-to-day variation in styling, lighting, and even how recently you last washed your hair.",
         "A simple, informal shed count — for example, counting hairs collected from a shower drain or hairbrush over a representative period — can help establish a personal baseline, but it's inherently noisy and shouldn't be over-interpreted from a single day. Because normal daily shedding already spans a fairly wide range, a single unusually high or low count means far less than a sustained trend measured consistently over weeks.",
@@ -136,6 +147,9 @@ export const hairLossCycle: GuideData = {
     },
   ],
   faq: [
+    {"q": "What are the 3 stages of hair growth?", "a": "Anagen (growth, 2-8 years), catagen (transition, 2-4 weeks) and telogen (rest, 2-4 months). Many sources add a fourth, exogen, when the old hair sheds as a new one grows."},
+    {"q": "How long is the hair growth cycle?", "a": "A full scalp hair cycle lasts about 2-8 years, almost all of it the anagen growth phase; catagen adds 2-4 weeks and telogen 2-4 months."},
+    {"q": "How long does the telogen phase last?", "a": "About 2-4 months on the scalp, roughly 3 months on average. That's why shedding from stress or illness appears 2-3 months after the trigger."},
     {
       q: "Is it normal to lose 100 hairs a day?",
       a: "Yes — losing 50-100 hairs daily is a normal part of the exogen (shedding) phase of the healthy hair cycle, not a sign of a problem on its own. It becomes worth paying attention to only if it represents a clear, sustained increase from your personal baseline or is accompanied by visible thinning.",
@@ -177,5 +191,6 @@ export const hairLossCycle: GuideData = {
     "Hair grows and sheds on a multi-phase cycle that runs for years per follicle — which is exactly why no legitimate treatment shows results in days or weeks, and why consistency matters more than any single product.",
   relatedSlugs: ["stages-hair-loss", "hair-growth-encyclopedia"],
   relatedReviewSlugs: ["biotopic-premium-hair-regrowth-serum", "revivogen-scalp-therapy-formula"],
-  updatedDate: "August 2026",
+  publishedDate: "2026-08-20",
+  updatedDate: "November 2026",
 };

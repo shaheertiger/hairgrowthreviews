@@ -5,11 +5,13 @@ export const hydrobrush: ReviewData = {
   productName: "Club Roots HydroBrush",
   brand: "Club Roots",
   category: "Applicator Device",
-  metaTitle: "HydroBrush (RootsBrush) Review 2026: Does It Beat a Dropper?",
+  metaTitle: "HydroBrush Review: 3.5/5 Applicator, and Minoxidil Can Clog It",
   metaDescription:
-    "A close look at the Club Roots HydroBrush serum-dispensing brush — how it works, leak complaints, and whether it actually improves minoxidil application.",
+    "The HydroBrush rates 3.5/5: an $18–$25 serum-dispensing brush that covers the scalp in ~10 seconds. It isn't a treatment, and minoxidil can clog its bristles.",
   h1: "HydroBrush Review: A Serum-Dispensing Hair Brush, Tested",
   dek: "Not a treatment itself — an applicator. Here's whether it actually makes minoxidil or serum application better.",
+  quickAnswer:
+    "The HydroBrush is a serum-dispensing applicator brush ($18–$25, device only) that we rate 3.5/5. It spreads your own minoxidil or serum across the scalp in about 10 seconds, which helps you stay consistent, but it is not a treatment itself and full-strength minoxidil can crystallize inside its bristle channels.",
   rating: 3.5,
   reviewCount: 600,
   ratingBasis: "Estimated from Amazon and HairLossTalk forum sentiment",
