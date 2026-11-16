@@ -11,7 +11,7 @@ export const scalpReduction: GuideData = {
   quickAnswer:
     "Scalp reduction is a surgery that removes a strip of bald scalp and stretches the surrounding hair-bearing skin to close the gap. It was mainstream in the 1970s-80s but is now largely obsolete: the stretched skin tends to re-expand ('stretch-back'), it leaves visible scars, and it can use up donor hair. Modern FUE and FUT transplants, which move individual follicles, replaced it.",
   intro: [
-    "If you're researching scalp reduction surgery as a hair-loss treatment, the most important thing to know up front is that it's now considered a largely outdated procedure in modern hair restoration medicine — this page explains why, and what most surgeons recommend instead.",
+    "If you're researching scalp reduction surgery as a hair-loss treatment, the most important thing to know up front is that it's now considered a largely outdated procedure in modern hair restoration medicine — this page explains why, and what most surgeons recommend today.",
     "Scalp reduction still shows up in search results, older forum threads, and even some outdated clinic websites, which can make it confusing to figure out whether it's a legitimate current option or a historical dead end. Part of the confusion is that the procedure was, for a time, a genuinely mainstream part of surgical hair restoration — it wasn't a fringe or fraudulent treatment, it was simply the best surgical tool available before follicular techniques matured. Understanding that history helps explain both why it was once popular and why it was so thoroughly abandoned once something better came along.",
     "This page covers what the procedure actually involved, the specific and well-documented reasons surgeons moved away from it, what largely replaced it, and what options exist today for people who had scalp reduction performed decades ago and are now dealing with its long-term cosmetic effects.",
   ],
@@ -168,7 +168,7 @@ export const scalpReduction: GuideData = {
       a: "It's the tendency of the excised, sutured scalp area to gradually re-expand toward its original size over the following months due to the elasticity of scalp skin, undoing much of the surgical benefit. It was one of the primary reasons the procedure fell out of favor.",
     },
     {
-      q: "What should I get instead of scalp reduction?",
+      q: "What do surgeons recommend today in place of scalp reduction?",
       a: "Most hair restoration surgeons today recommend FUE or FUT follicular transplantation for surgical hair restoration, or medical treatments (minoxidil, finasteride) for earlier-stage pattern hair loss. Which is appropriate depends on how advanced the hair loss is and personal goals.",
     },
     {

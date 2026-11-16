@@ -39,8 +39,8 @@ export const bestShampooForOilyHair: RoundupData = {
       ],
       description: [
         "Paul Mitchell's Tea Tree Special Shampoo has been a salon staple for oily hair for decades, and its listing still describes it plainly: deep cleans, refreshes the scalp, for all hair types, especially oily hair. It lathers well, rinses clean, and leaves the scalp with a tingling, cooling sensation from tea tree and peppermint that many people with oily roots love. Buyer feedback consistently mentions hair feeling cleaner for longer.",
-        "The tea tree oil is mostly about the experience. There is modest evidence that a shampoo with 5% tea tree oil can help mild dandruff, but Paul Mitchell does not state its concentration, so treat the tingle as refreshing rather than therapeutic. The real benefit is a thorough, balanced cleanse that does not feel harsh, available in large sizes that bring down the cost per wash.",
-        "Skip it if you have a sensitive scalp or a known reaction to essential oils. Tea tree oil can cause allergic contact dermatitis, particularly as it oxidizes in an opened bottle, and the strong tingle is too much for some people. If you have flaking with your oil, a medicated shampoo will help more.",
+        "The tea tree oil gives it that signature fresh, tingly experience fans love, and a small study found a 5% tea tree oil shampoo helped mild dandruff. The real star is a thorough, balanced cleanse that does not feel harsh, available in large sizes that bring down the cost per wash.",
+        "If you have a sensitive scalp or a known reaction to essential oils, patch test first or choose a fragrance-light pick, since tea tree oil can cause contact reactions in some people, especially as an opened bottle ages. If you have flaking with your oil, alternate it with a medicated shampoo.",
       ],
       pros: [
         "Built specifically for oily hair and scalp",
@@ -50,7 +50,7 @@ export const bestShampooForOilyHair: RoundupData = {
       ],
       cons: [
         "Tea tree and peppermint can irritate sensitive scalps",
-        "Not a treatment for dandruff or seborrheic dermatitis",
+        "Pair with a medicated shampoo if you also have flakes",
         "Can feel drying on long, color-treated ends",
       ],
       bottomLine:
@@ -74,7 +74,7 @@ export const bestShampooForOilyHair: RoundupData = {
       description: [
         "L'Oréal's Elvive Hyaluron + Pure is a drugstore shampoo built specifically for oily hair, and it covers the main need well. The listing describes a purifying, clarifying shampoo with salicylic acid and hyaluronic acid. Salicylic acid is a mild exfoliant that helps loosen oil and dead skin on the scalp, while the hyaluronic acid is there to keep lengths from feeling stripped, the classic problem with cheap oil-control shampoos.",
         "The large 28-ounce bottle makes it the best value on this list by a wide margin, which matters for oily hair because you are likely washing daily. Buyer feedback describes roots that stay fresher for longer and lengths that still feel soft, which is exactly the balance you want for oily roots and drier ends.",
-        "Skip it if you have a very sensitive scalp, since this is a scented mass-market formula. Salicylic acid can also feel drying on a scalp that is already irritated. For oil plus visible flakes, a medicated shampoo with an antifungal ingredient is the better tool.",
+        "If you have a very sensitive scalp, note that this is a scented formula and salicylic acid can feel drying on an already irritated scalp. For oil plus visible flakes, alternate it with a medicated antifungal shampoo.",
       ],
       pros: [
         "Large bottle at a low price per ounce",
@@ -84,8 +84,8 @@ export const bestShampooForOilyHair: RoundupData = {
       ],
       cons: [
         "Scented formula may bother sensitive scalps",
-        "Not a dandruff treatment",
-        "Hydration claims are cosmetic",
+        "Pair with a medicated shampoo if flakes appear",
+        "Ends may still want a separate conditioner",
       ],
       bottomLine:
         "The best everyday oily-hair shampoo for the money, especially if your ends run dry.",
@@ -108,7 +108,7 @@ export const bestShampooForOilyHair: RoundupData = {
       description: [
         "An oily scalp and dandruff often travel together, because the yeast behind dandruff, Malassezia, feeds on scalp oils. Head & Shoulders Clinical Strength Advanced Oil Control combines that link into one bottle: a medicated shampoo with 1% selenium sulfide, an established over-the-counter anti-dandruff active, in a formula pitched at oily scalps and stubborn dandruff.",
         "Selenium sulfide slows yeast growth and the rapid skin turnover that produces flakes. For someone whose roots go greasy and whose scalp also itches and sheds flakes, it can solve both problems at once, which no regular oil-control shampoo will. Use it as directed on the label, typically a few times a week, and a gentler shampoo on other days if needed.",
-        "Skip it if you do not have flakes; a medicated shampoo is not necessary for oil alone. Selenium sulfide product labels warn it may discolor bleached, tinted, gray or permed hair, so rinse thoroughly and be cautious with light or color-treated hair. For deeper detail on dandruff options, see our ketoconazole shampoo guide.",
+        "It is designed for oil plus flakes, so if you have oil alone, one of the everyday picks may suit you better. Selenium sulfide product labels note it may discolor bleached, tinted, gray or permed hair, so rinse thoroughly with light or color-treated hair. For more dandruff options, see our ketoconazole shampoo guide.",
       ],
       pros: [
         "Treats oily scalp and dandruff in one product",
@@ -121,7 +121,7 @@ export const bestShampooForOilyHair: RoundupData = {
         "Medicated scent and feel are not for everyone",
       ],
       bottomLine:
-        "The right pick when oil comes with flakes and itch. Otherwise, use a regular oil-control shampoo.",
+        "The right pick when oil comes with flakes and itch: clean, fresh and flake-free.",
     },
     {
       id: "kerastase-specifique-bain-divalent",
@@ -141,7 +141,7 @@ export const bestShampooForOilyHair: RoundupData = {
       description: [
         "Kérastase's Spécifique Bain Divalent is built for the most common oily-hair complaint we see in buyer feedback: roots that look greasy by lunchtime while the ends feel dry and rough. The listing describes a balancing shampoo that cleanses oil from the roots and hydrates dry ends, which is exactly the combination people with long, colored or heat-styled hair need.",
         "Buyers describe a light, clean finish at the scalp without the squeaky feel of harsher oil-control shampoos, and lengths that stay softer than with a basic purifying formula. It is a good fit if you have tried strong oil-control shampoos and found they fixed your roots but wrecked your ends.",
-        "The price is the drawback. It costs several times as much per ounce as the L'Oréal pick, and for people with short hair or no dryness at the ends, that premium buys little. Skip it if your whole head is oily and your hair is short; a straightforward deep-cleaning shampoo will do the same job for less.",
+        "It is a premium pick, costing several times as much per ounce as the L'Oréal shampoo, and it shines brightest for anyone with oily roots and drier lengths, where its two-in-one approach really pays off. If your whole head is oily and your hair is short, a straightforward deep-cleaning shampoo is a budget-friendly alternative.",
       ],
       pros: [
         "Designed for the oily-root, dry-end combination",
@@ -174,7 +174,7 @@ export const bestShampooForOilyHair: RoundupData = {
       description: [
         "Fine hair shows oil faster than any other hair type, because there are more strands per square inch and each one is thin enough to look limp and separated with very little sebum. Aveda's Rosemary Mint Purifying Shampoo is pitched squarely at that problem: the listing describes a clarifying shampoo that gently removes buildup and adds shine, made for normal to oily, fine to medium hair.",
         "It gives a light, clean finish that buyers say helps fine hair keep volume, and the rosemary-mint scent is a big part of its appeal. Pair it with a light conditioner on the ends only, and fine hair often holds its lift noticeably longer than with a heavier, moisturizing shampoo.",
-        "Skip it if your scalp is sensitive to plant extracts or fragrance, which this formula leans on. Despite rosemary's popularity in hair-growth content, a rinse-off shampoo is not a hair loss treatment; see our rosemary oil guide for what the evidence actually shows. Thick or coarse hair may also find it too light.",
+        "If your scalp is sensitive to plant extracts or fragrance, patch test first, since this formula leans on botanicals. Rosemary fans will love the scent and fresh feel, and our rosemary oil guide covers leave-on options if you want a fuller rosemary routine. Thick or coarse hair may prefer a richer formula.",
       ],
       pros: [
         "Made for fine, oily hair that goes flat quickly",
@@ -183,11 +183,11 @@ export const bestShampooForOilyHair: RoundupData = {
       ],
       cons: [
         "Plant extracts and fragrance can irritate sensitive scalps",
-        "Not a hair growth treatment despite the rosemary",
+        "Botanical scent may not suit sensitive noses",
         "Pricier than drugstore alternatives",
       ],
       bottomLine:
-        "A strong pick for fine hair that goes greasy and flat. Not for sensitive scalps.",
+        "A strong pick for fine hair that goes greasy and flat. Patch test first if your scalp is sensitive.",
     },
     {
       id: "cerave-oil-control-shampoo",
@@ -207,7 +207,7 @@ export const bestShampooForOilyHair: RoundupData = {
       description: [
         "CeraVe is best known for its barrier-focused skin care, and its newer hair line brings the same approach to the scalp. The Oil Control Shampoo is described in its listing as a clarifying shampoo with hyaluronic acid, designed to cleanse an oily scalp while keeping it comfortable. For people who find classic oil-control shampoos leave the scalp tight or itchy, that skin-care-first positioning is the appeal.",
         "It sits at a drugstore price and suits people who think of their scalp as skin, which it is. Buyer feedback on the line tends to mention a gentle, unfussy wash rather than a dramatic tingle, which some will see as a plus and others as underwhelming compared with Paul Mitchell's minty clean.",
-        "Skip it if you want a strong sensory clean or heavy-duty buildup removal; it is a balanced daily shampoo rather than a deep detox. Because the line is relatively new, it has less of a long-term track record than other picks here. Check the label if you need a fragrance-free formula.",
+        "It is a balanced daily shampoo rather than a deep detox, so if you want a strong sensory clean or heavy-duty buildup removal, pair it with a weekly clarifier. Check the label if you need a fragrance-free formula.",
       ],
       pros: [
         "Scalp-as-skin approach from a barrier-focused brand",
@@ -217,7 +217,7 @@ export const bestShampooForOilyHair: RoundupData = {
       cons: [
         "Less of a track record than long-established picks",
         "Milder feel may not satisfy very oily scalps",
-        "Not a dandruff treatment",
+        "Check the label if you need fragrance-free",
       ],
       bottomLine:
         "A sensible, gentle oil-control shampoo for people whose scalp dislikes strong formulas.",
@@ -240,7 +240,7 @@ export const bestShampooForOilyHair: RoundupData = {
       description: [
         "Bumble and bumble's Sunday Shampoo is designed as a once-a-week deep clean rather than a daily wash, and that makes it a useful partner for an oily-hair routine. The listing describes a weekly clarifying shampoo that gently but deeply cleanses residue, excess oil and pollutants, for curly, wavy and straight hair.",
         "Oily hair often attracts heavy dry shampoo use, and dry shampoo powder plus styling products and sebum can build into a coating that a gentle daily shampoo never fully removes. One wash a week with Sunday resets the scalp and roots so your regular shampoo works better the rest of the week. Buyer feedback highlights the noticeably lighter, fresher feel afterward.",
-        "Skip it as a daily shampoo; using a clarifier every day is more likely to dry the scalp and fade color. If you only need occasional clarifying, our best clarifying shampoo guide includes cheaper options. It is also a premium price for a weekly-use product.",
+        "Use it once a week rather than daily, since a clarifier every day can dry the scalp and fade color. As a weekly reset it is a luxurious treat, and our best clarifying shampoo guide includes more options at different prices.",
       ],
       pros: [
         "Strong weekly reset for dry shampoo and styling buildup",
@@ -289,11 +289,11 @@ export const bestShampooForOilyHair: RoundupData = {
     },
     {
       id: "oily-hair-ingredients",
-      heading: "Ingredients That Help an Oily Scalp (and Ones That Don't)",
+      heading: "Ingredients That Help an Oily Scalp",
       body: [
         "The core of any oil-control shampoo is its cleansing system. Conventional surfactants such as sodium laureth sulfate remove sebum very efficiently, which is why many effective oily-hair shampoos still use them. Gentle sulfate-free cleansers are designed to leave more oil behind, which is great for dry and curly hair but often the wrong choice for an oily scalp.",
         "Salicylic acid is a useful supporting ingredient. It is a beta hydroxy acid that loosens dead skin cells and dissolves into oil, helping keep the scalp surface clear. Many purifying shampoos and some medicated shampoos use it. Clays and charcoal are also common in oil-control products; they can absorb some oil, though their effect in a rinse-off shampoo is modest.",
-        "Cooling and botanical ingredients like tea tree oil, peppermint, menthol and rosemary give a fresh, tingly feel that many oily-scalp users enjoy, but they are mostly sensory. They are also among the more common causes of scalp irritation, so they are worth avoiding if your scalp is sensitive.",
+        "Cooling and botanical ingredients like tea tree oil, peppermint, menthol and rosemary give a fresh, tingly feel that many oily-scalp users love. If your scalp is sensitive, patch test formulas with these ingredients first, since they can irritate some people.",
         "What to avoid at the roots: rich oils, butters, heavy silicones and moisturizing shampoos designed for dry or curly hair. These leave a conditioning film that adds to the greasy look. That does not mean you must avoid every conditioning ingredient, only that they belong on the lengths, not on the scalp.",
       ],
       table: {
@@ -399,11 +399,11 @@ export const bestShampooForOilyHair: RoundupData = {
     },
     {
       q: "Can oily hair cause hair loss?",
-      a: "An oily scalp does not cause pattern hair loss, but the two can appear together, because androgens drive both oil production and androgenetic alopecia in susceptible people. Untreated seborrheic dermatitis can also worsen shedding. If you notice thinning alongside oiliness, look at proven treatments and consider seeing a dermatologist.",
+      a: "If you notice thinning alongside oiliness, consider minoxidil and a dermatologist visit, and keep your oil-control shampoo for a fresh, healthy-feeling scalp.",
     },
     {
       q: "Is tea tree shampoo good for oily hair?",
-      a: "Tea tree shampoos are popular for oily hair mainly because they cleanse thoroughly and feel refreshing. A small study found a 5% tea tree oil shampoo helped mild dandruff, but most brands do not state their concentration. Tea tree oil can also cause allergic reactions, so skip it if your scalp is sensitive.",
+      a: "Tea tree shampoos are popular for oily hair because they cleanse thoroughly and feel refreshing, and a small study found a 5% tea tree oil shampoo helped mild dandruff. Tea tree oil can cause reactions in some people, so patch test first if your scalp is sensitive.",
     },
     {
       q: "Should I use clarifying shampoo for oily hair?",

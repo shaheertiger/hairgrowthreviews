@@ -12,7 +12,7 @@ export const doesWearingAHatCauseHairLoss: QuestionData = {
   shortAnswer:
     "No. Wearing an ordinary hat does not cause hair loss or male pattern baldness, which is driven by genetics and hormones. The rare exception is very tight headwear worn for long periods every day, which can pull on hair and cause traction alopecia. A clean, comfortable hat can actually protect a thinning scalp from sunburn.",
   keyTakeaways: [
-    "There is no good evidence that normal hats, caps or beanies cause baldness; pattern hair loss is genetic and hormone-driven.",
+    "Normal hats, caps and beanies are not a known cause of baldness; pattern hair loss is genetic and hormone-driven.",
     "Very tight headwear, or hats worn over tightly pulled-back hair, can cause traction alopecia with long-term daily use.",
     "Hats do not suffocate follicles or cut off blood supply; follicles get oxygen from the blood, not the air.",
     "Wash hats regularly, especially if you sweat in them, to keep the scalp clean and comfortable.",
@@ -30,7 +30,7 @@ export const doesWearingAHatCauseHairLoss: QuestionData = {
       body: [
         "The myth rests on a coincidence of timing. Male pattern hair loss often becomes noticeable in early adulthood, and that is when many men wear caps every day. Men who are already thinning may also wear hats more often to cover it, which makes hat-wearing look like a cause when it is really a response.",
         "The second source is what people see inside the hat. Everyone sheds roughly 50 to 100 hairs a day as part of the normal hair cycle. Some of those loose hairs get caught in the lining of a cap rather than falling out in the shower, so it can look as though the hat pulled them out. In reality, those hairs had already finished growing.",
-        "A third idea is that hats \"suffocate\" the scalp. Hair follicles do not breathe air. They get oxygen and nutrients from the blood vessels in the scalp, and a normal hat does not interrupt that supply. A hat would have to be painfully tight to meaningfully restrict circulation, and there is no evidence that ordinary headwear does.",
+        "A third idea is that hats \"suffocate\" the scalp. Hair follicles do not breathe air. They get oxygen and nutrients from the blood vessels in the scalp, and a normal hat does not interrupt that supply. A hat would have to be painfully tight to meaningfully restrict circulation, and ordinary headwear simply is not.",
         "Finally, there is the hairline itself. A cap sits right on the area where male pattern loss starts, so men often first notice a receding hairline when adjusting a hat or looking at it in a mirror with a hat pushed back. The hat draws attention to the change; it does not cause it.",
       ],
       pullQuote: "The hat draws attention to the change; it does not cause it.",
@@ -43,7 +43,7 @@ export const doesWearingAHatCauseHairLoss: QuestionData = {
         "Male pattern hair loss, or androgenetic alopecia, is the most common cause of thinning in men. It happens when genetically susceptible follicles react to dihydrotestosterone, or DHT, a hormone made from testosterone. Over time those follicles shrink, producing finer, shorter hairs with each growth cycle until some stop producing visible hair at all.",
         "It follows a recognizable pattern: a receding hairline at the temples, thinning at the crown, or both, with the hair at the back and sides usually spared. That pattern looks the same in men who wear hats daily and men who never do, which is strong evidence that headwear is not the driver.",
         "Family history is the biggest clue to your own risk. If close relatives on either side of your family lost hair in their twenties or thirties, your odds are higher. Age, too, plays a role; many men see some recession by middle age regardless of what they wear.",
-        "Because pattern loss is driven by biology, it responds to treatments that act on biology. Minoxidil, which supports the growth phase, and finasteride, a prescription tablet that lowers DHT, are the two treatments with the strongest evidence. Changing your hat habits will not slow the process, but starting a proven treatment early can.",
+        "Because pattern loss is driven by biology, it responds to treatments that act on biology. Minoxidil, which supports the growth phase, and finasteride, a prescription tablet that lowers DHT, are the two treatments with the strongest evidence. Your hat can stay; starting a proven treatment early is what makes the difference.",
       ],
       pullQuote: "That pattern looks the same in men who wear hats daily and men who never do",
     },
@@ -99,7 +99,7 @@ export const doesWearingAHatCauseHairLoss: QuestionData = {
         "If your hairline is receding or your crown is thinning gradually over years, that is almost always pattern hair loss, and it is worth acting early. Treatments work best at keeping hair you still have, so starting while thinning is mild gives you more to protect. A doctor can confirm the diagnosis and discuss finasteride alongside minoxidil.",
         "See a dermatologist sooner if you notice smooth, round bald patches, which can indicate alopecia areata, or thinning exactly where a band or hat edge sits, with soreness or bumps, which can suggest traction or inflammation. Scaly, painful or pus-filled areas on the scalp also need a professional look.",
         "Sudden, heavy shedding all over the scalp is usually not pattern loss. It often follows an illness, high fever, surgery, crash diet, major stress or a new medication by about two to three months. It typically settles on its own, but a doctor can check for contributing causes such as low iron or thyroid problems.",
-        "Whatever the cause, the hat is rarely the answer. Look at the pattern, the timing and your family history, and treat what is really happening. That is far more useful than retiring a favorite cap.",
+        "Whatever the cause, you can keep your favorite cap. Look at the pattern, the timing and your family history, and treat what is really happening with the options that work.",
       ],
       keyPoint: "Gradual recession points to pattern loss, which is best treated early; patches, scalp symptoms or sudden shedding need a doctor.",
     },
@@ -123,11 +123,11 @@ export const doesWearingAHatCauseHairLoss: QuestionData = {
     },
     {
       q: "Does wearing a helmet cause hair loss?",
-      a: "There is no good evidence that helmets cause pattern hair loss. A tight-fitting helmet worn for long hours can rub or pull on hair where it presses, which may cause friction or traction thinning in those spots. A proper fit, a clean liner and breaks where possible reduce the risk.",
+      a: "Helmets are not a known cause of pattern hair loss. A tight-fitting helmet worn for long hours can rub or pull on hair where it presses, which may cause friction or traction thinning in those spots. A proper fit, a clean liner and breaks where possible reduce the risk.",
     },
     {
       q: "Should I stop wearing hats if my hair is thinning?",
-      a: "There is no need. A comfortable, clean hat will not speed up thinning, and it protects an exposed scalp from sunburn. Focus on treating the cause instead. Let minoxidil dry fully before putting a hat on, and wash hats regularly if you sweat in them.",
+      a: "There is no need. A comfortable, clean hat will not speed up thinning, and it protects an exposed scalp from sunburn. Pair your hat with a treatment that targets the cause. Let minoxidil dry fully before putting a hat on, and wash hats regularly if you sweat in them.",
     },
     {
       q: "Is it bad to wear a hat with wet hair?",

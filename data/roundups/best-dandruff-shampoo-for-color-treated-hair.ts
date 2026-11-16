@@ -73,7 +73,7 @@ export const bestDandruffShampooForColorTreatedHair: RoundupData = {
       description: [
         "Head & Shoulders is the brand most people think of for dandruff, and BARE is its stripped-back formula. The listing describes it as a 1% pyrithione zinc shampoo for dry scalp relief that is free of sulfates, silicones and dyes. For colored hair, the sulfate-free part is the headline: sulfate detergents are among the usual suspects in faster color fading, and many classic dandruff shampoos rely on them.",
         "Pyrithione zinc is the same well-proven active found in most Head & Shoulders formulas, and it does not carry the hair discoloration warning that selenium sulfide shampoos do. That makes BARE an easy everyday or every-other-wash option for dyed hair. Massage it into the scalp, let the lather sit for a few minutes, rinse thoroughly with cool to lukewarm water and follow with your usual color-safe conditioner on the lengths.",
-        "It is a mild formula, which is a strength for sensitive scalps and colored hair but a limit for stubborn dandruff. Skip it if you have been using pyrithione zinc for a month with little improvement; switch to or alternate with ketoconazole. Silicone-free formulas can also leave long, dry lengths feeling less slippery, so do not skip conditioner.",
+        "It is a mild formula, which is a strength for sensitive scalps and colored hair but a limit for stubborn dandruff. If a month of pyrithione zinc leaves you wanting more, alternate it with ketoconazole. Silicone-free formulas can also leave long, dry lengths feeling less slippery, so follow with a good conditioner.",
       ],
       pros: [
         "Sulfate-, silicone- and dye-free (per listing)",
@@ -106,7 +106,7 @@ export const bestDandruffShampooForColorTreatedHair: RoundupData = {
       description: [
         "Ketoconazole is an antifungal that targets Malassezia directly, and 1% ketoconazole shampoo is the strongest dandruff active you can buy over the counter. Nizoral is the best-known brand, and the 7-ounce bottle is a sensible size to find out how your hair and scalp respond before committing to more. For many people with stubborn flaking, it works where milder shampoos have stalled.",
         "For color-treated hair, there are two things to know. First, ketoconazole is not a bleach or a clarifying shampoo, so it does not lift color out the way a stripping product would. Second, it can leave hair feeling dry or rough, especially longer or processed hair, and the label carries warnings about hair texture and possible discoloration in some chemically treated or gray hair. Read the warnings on your bottle, use it only as often as the label directs, and condition the lengths afterward.",
-        "Most people use it twice a week and a gentle color-safe shampoo on other wash days, which keeps dryness in check. Skip it if you are allergic to azole antifungals, and check with a doctor before use if you are pregnant or breastfeeding. Our guide to the best ketoconazole shampoo covers sizes and the 2% prescription strength.",
+        "Most people use it twice a week and a gentle color-safe shampoo on other wash days, which keeps dryness in check. Choose a pyrithione zinc formula if you are allergic to azole antifungals, and check with a doctor before use if you are pregnant or breastfeeding. Our guide to the best ketoconazole shampoo covers sizes and the 2% prescription strength.",
       ],
       pros: [
         "Strongest over-the-counter dandruff active",
@@ -139,7 +139,7 @@ export const bestDandruffShampooForColorTreatedHair: RoundupData = {
       description: [
         "DHS Zinc is a plain, dermatology-aisle shampoo built around 2% pyrithione zinc, a higher concentration than the 1% in many everyday dandruff shampoos. It is a good fit for people who want more anti-dandruff strength while staying with the most color-friendly active, rather than jumping to ketoconazole or selenium sulfide.",
         "Because it skips the cosmetic extras, it is better thought of as a scalp treatment than a beauty shampoo. Apply it to the scalp only, let it sit for a few minutes, and rinse well. Then use a color-safe conditioner, or wash your lengths separately with a gentle shampoo if your hair is long. The 16-ounce bottle also makes it one of the more economical medicated options per ounce.",
-        "The trade-off is that a no-frills formula can feel more drying on the lengths than a hydrating drugstore shampoo, which matters on bleached or porous hair. Check the ingredient list for the cleansing agents if you avoid sulfates. Skip it if you want a pleasant, fragranced wash experience, or if you need something for very thick scale, where salicylic acid may help more.",
+        "The trade-off is that a no-frills formula can feel more drying on the lengths than a hydrating drugstore shampoo, which matters on bleached or porous hair. Check the ingredient list for the cleansing agents if you avoid sulfates. It suits people who value a straightforward treatment over a fragranced wash, and for very thick scale it pairs well with a salicylic acid shampoo.",
       ],
       pros: [
         "2% pyrithione zinc, a stronger dose of the color-friendly active",
@@ -172,7 +172,7 @@ export const bestDandruffShampooForColorTreatedHair: RoundupData = {
       description: [
         "Selenium sulfide slows the turnover of scalp skin cells and reduces Malassezia, and 1% selenium sulfide shampoos are a strong over-the-counter option for stubborn dandruff and seborrheic dermatitis. This Clinical Strength Dry Scalp Rescue formula is one of Head & Shoulders' strongest, and the twin pack is good value if you rotate it in once or twice a week.",
         "It ranks lower on this list for one reason: selenium sulfide shampoo labels warn about use on bleached, tinted, gray or permed hair, because the active can discolor light or chemically treated hair. If your color is blonde, pastel, silver, recently bleached or has gray coming through, this is not the active to start with. If your dyed hair is a deeper shade and other shampoos have failed, it can still be a useful tool. Read the label on your bottle, keep the lather on your scalp, rinse very thoroughly and follow with conditioner.",
-        "It can also feel drying on a scalp that is already dry, and it has a scent some people notice. Skip it if your hair is light or freshly lightened, or if pyrithione zinc or ketoconazole is already working. Use it as part of a rotation rather than every wash.",
+        "It can also feel drying on a scalp that is already dry, and it has a scent some people notice. It is best suited to deeper shades rather than light or freshly lightened hair, and it works beautifully as part of a rotation rather than every wash.",
       ],
       pros: [
         "Strong active for stubborn dandruff and seborrheic dermatitis",
@@ -185,7 +185,7 @@ export const bestDandruffShampooForColorTreatedHair: RoundupData = {
         "Not the first choice for light or pastel color",
       ],
       bottomLine:
-        "A powerful option for darker dyed hair when gentler actives fail. Avoid it on blonde, gray or pastel color.",
+        "A powerful option for darker dyed hair when gentler actives fail. Best kept for deeper shades rather than blonde, gray or pastel color.",
     },
     {
       id: "neutrogena-t-sal",
@@ -205,7 +205,7 @@ export const bestDandruffShampooForColorTreatedHair: RoundupData = {
       description: [
         "Salicylic acid does a different job from the other actives on this list. It does not target the yeast behind dandruff; it softens and loosens built-up scale so it rinses away. Neutrogena T/Sal, with 3% salicylic acid, is a long-running choice for thick, stuck-on flakes and scaly scalp patches, including those seen with scalp psoriasis.",
         "Salicylic acid shampoos do not, to our knowledge, carry the hair discoloration warnings that selenium sulfide labels do, but they can be drying, and dry, roughened hair tends to look duller and lose color faster. Use T/Sal on the scalp only, once or twice a week, and pair it with a pyrithione zinc or ketoconazole shampoo on other days to deal with the yeast. Condition your lengths every time.",
-        "Skip it as your only dandruff shampoo if your flakes are fine and powdery, since an antifungal will do more. It is also a poor choice if your scalp is raw, cracked or very inflamed, where salicylic acid can sting. If scaly patches are thick, well defined or spread past the hairline, see a dermatologist to rule out psoriasis.",
+        "For fine, powdery flakes, pair it with an antifungal shampoo, which targets the yeast. Give it a miss on raw, cracked or very inflamed skin, where salicylic acid can sting. If scaly patches are thick, well defined or spread past the hairline, see a dermatologist to rule out psoriasis.",
       ],
       pros: [
         "Loosens thick, stubborn scale",
@@ -218,7 +218,7 @@ export const bestDandruffShampooForColorTreatedHair: RoundupData = {
         "Small bottle",
       ],
       bottomLine:
-        "A useful add-on for thick scale, used once or twice a week with an antifungal shampoo, not on its own.",
+        "A useful add-on for thick scale, used once or twice a week as a partner to an antifungal shampoo.",
     },
   ],
   picksAfter: 2,

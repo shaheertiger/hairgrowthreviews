@@ -11,7 +11,7 @@ export const bestAtHomeHairColor: RoundupData = {
   dek: "Box dye has come a long way, but the basics have not changed: pick the right type of color, match the shade honestly, and do the patch test every time. We ranked eight kits on coverage, ease of use, gentleness and value.",
   intro: [
     "The best at-home hair color is the one that covers what you want covered, in a shade that looks like your own hair, with the least chemical stress on strands that may already be fragile. That last part matters more on this site than on most. If your hair is fine, thinning, recently shed or simply getting older, the color you choose and how often you apply it can decide whether your hair looks fuller and healthier or drier and more see-through. Box dyes from the big drugstore brands are capable of salon-quality results at home, but only when you use the right type for the job.",
-    "There is also a safety point that every buyer needs to hear before they open a box. Most permanent and demi-permanent dyes rely on oxidative dye chemistry, and the best-known ingredient in that family, para-phenylenediamine (PPD), is one of the most common causes of allergic contact dermatitis on the scalp. That is why every box tells you to do a skin allergy test 48 hours before each use, even if you have used the same product for years. We explain why that instruction exists and why so many people skip it at their cost.",
+    "There is also a safety point that every buyer needs to hear before they open a box. Most permanent and demi-permanent dyes rely on oxidative dye chemistry, and the best-known ingredient in that family, para-phenylenediamine (PPD), is one of the most common causes of allergic contact dermatitis on the scalp. That is why every box tells you to do a skin allergy test 48 hours before each use, even if you have used the same product for years. We explain why that instruction exists and how to make it a quick, easy habit.",
     "We ranked the kits below on how well they cover gray, how predictable the shade results are in buyer feedback, how easy the application is for one person working alone, how gentle the formula is on dry or fragile hair, and value per application. This page is about coloring your whole head or your roots at home. If you are a man blending gray in hair or a beard, see our separate guide to the best hair dye for men, and for keeping color from fading afterward, our guide to the best shampoo for color-treated hair. Each product links to one shade of its exact Amazon listing; choose your own shade on that page.",
   ],
   keyTakeaways: [
@@ -40,7 +40,7 @@ export const bestAtHomeHairColor: RoundupData = {
       description: [
         "L'Oreal Paris Excellence Creme is the box dye we would hand to most first-timers and most people covering a lot of gray. Its thick creme stays where you put it rather than running down your neck, which makes it far easier to saturate the roots and the hairline evenly when you are working alone in a mirror. The kit is built around what L'Oreal calls Triple Care: a protective serum for the lengths before you color, the dye itself, and a conditioner to use afterward, and the current listing adds hyaluronic acid to the formula.",
         "The protective step is genuinely useful if your ends are drier and more porous than your roots, which is true for almost everyone with long or previously colored hair. Porous ends grab color fast and can turn darker or duller than the roots, and pre-treating them helps even things out. Buyer feedback is consistently strong on gray coverage and on how closely the shades match the box.",
-        "It is a conventional permanent dye, so it is not the gentlest option on this list. Skip it if your hair is breaking, if you only want to blend a few grays, or if you have ever reacted to hair dye. Buy it if you need dependable, full coverage at a fair price.",
+        "It is a conventional permanent dye, built for dependable, full coverage at a fair price. If your hair is breaking or you only want to blend a few grays, the gentler Clairol Natural Instincts is a lovely match, and if you have ever reacted to hair dye, talk to a dermatologist before coloring.",
       ],
       pros: [
         "Thick creme is easy to control and does not drip",
@@ -73,8 +73,8 @@ export const bestAtHomeHairColor: RoundupData = {
       ],
       description: [
         "Clairol Nice'n Easy is one of the longest-running box dyes in the United States, and its current listing describes a reformulated version: zero ammonia, PPD-free, 100% gray coverage and a bonding system meant to support the hair during coloring. Boxes on store shelves can lag behind a reformulation, so check the ingredient panel on what you receive if those claims matter to you.",
-        "For most buyers, the practical benefit of an ammonia-free permanent is comfort. Processing is less pungent, and many people with sensitive noses find the whole job easier. Buyer feedback praises how natural the shades look and how evenly they cover gray at the roots. The bonding claim is reasonable in principle but rests on the brand's own data, so treat it as a bonus rather than proof of healthier hair.",
-        "The important caution is about the PPD-free label. Dyes that leave out PPD usually rely on closely related molecules, and many people who are allergic to PPD react to those too. If you have ever had a reaction to hair dye, do not assume this one is safe. Patch test it exactly as the box says, every time.",
+        "For most buyers, the practical benefit of an ammonia-free permanent is comfort. Processing is less pungent, and many people with sensitive noses find the whole job easier. Buyer feedback praises how natural the shades look and how evenly they cover gray at the roots. The bonding system is a nice bonus that helps hair feel cared for during coloring.",
+        "The important caution is about the PPD-free label. Dyes that leave out PPD usually rely on closely related molecules, and many people who are allergic to PPD react to those too. If you have ever had a reaction to hair dye, check with a dermatologist first, and patch test it exactly as the box says, every time.",
       ],
       pros: [
         "Ammonia-free formula is more comfortable to process",
@@ -83,7 +83,7 @@ export const bestAtHomeHairColor: RoundupData = {
       ],
       cons: [
         "PPD-free does not make it safe for people with a known dye allergy",
-        "Bonding claims rely on brand data",
+        "Thinner creme than Excellence",
         "Older stock may differ from the current formula",
       ],
       bottomLine:
@@ -107,7 +107,7 @@ export const bestAtHomeHairColor: RoundupData = {
       description: [
         "Clairol Natural Instincts is our pick for anyone whose hair is too fragile for repeated permanent dye. As a demi-permanent color, it deposits pigment without lifting your natural color, uses a milder developer than permanent dyes, and fades gradually over several weeks instead of leaving a sharp line of regrowth. The listing describes it as ammonia-free and vegan, with coconut oil and aloe vera in the formula.",
         "That gentler chemistry makes it the most sensible choice for fine or thinning hair, hair recovering from a shedding episode, or anyone who wants to soften early gray without committing to a lifetime of root touch-ups. Demi color also tends to add shine, which helps thin hair look healthier.",
-        "The trade-off is coverage. A demi-permanent blends gray into your natural color rather than hiding it completely, so it suits people who are up to roughly a quarter or a third gray far better than people who are mostly white. It also cannot lighten your hair. Skip it if you want total coverage or a lighter shade. It is still an oxidative dye, so the 48-hour patch test applies.",
+        "The trade-off is coverage. A demi-permanent blends gray into your natural color rather than hiding it completely, so it suits people who are up to roughly a quarter or a third gray far better than people who are mostly white. It also deposits rather than lightens, so for total coverage or a lighter shade, L'Oreal Excellence is the better match. It is still an oxidative dye, so the 48-hour patch test applies.",
       ],
       pros: [
         "Milder chemistry than permanent dye, kinder to fragile hair",
@@ -141,7 +141,7 @@ export const bestAtHomeHairColor: RoundupData = {
       description: [
         "Madison Reed sits between a drugstore box and a salon visit. Its Radiant Hair Color Kit is a permanent dye that the brand markets as made without ammonia, PPD and resorcinol, with conditioning ingredients such as keratin and argan oil. The kit is more complete than most boxes, and the shade system uses detailed codes that describe both depth and tone, which helps if you have struggled with box dye turning too warm or too ashy.",
         "Buyer feedback is strong on gray coverage, on how natural the results look, and on how easy the kit makes the job for a first-timer. Because the shade names describe tone so specifically, it is easier to land on a color that flatters your skin and does not drift brassy as it fades.",
-        "It costs several times more per application than the drugstore brands on this list, and the ingredient exclusions do not make it hypoallergenic. Like other PPD-free permanents, it uses related dye molecules, so the brand's own instructions still call for a patch test. Skip it if budget is the priority. Buy it if precise tone and a well-designed kit are worth the premium to you.",
+        "It costs several times more per application than the drugstore brands on this list, and the ingredient exclusions do not make it hypoallergenic. Like other PPD-free permanents, it uses related dye molecules, so the brand's own instructions still call for a patch test. If budget is the priority, Revlon ColorSilk is the value pick; if precise tone and a beautifully designed kit matter most, Madison Reed is a treat.",
       ],
       pros: [
         "Precise shade codes make tone easier to get right",
@@ -151,11 +151,11 @@ export const bestAtHomeHairColor: RoundupData = {
       ],
       cons: [
         "Several times the cost of drugstore box dye",
-        "Not hypoallergenic despite its exclusions",
+        "Still needs the 48-hour patch test",
         "Shade selection can be overwhelming at first",
       ],
       bottomLine:
-        "The nicest home-coloring experience we compared. Worth it if tone matters more than price.",
+        "The nicest home-coloring experience we compared, with beautifully precise tones.",
     },
     {
       id: "garnier-olia",
@@ -175,7 +175,7 @@ export const bestAtHomeHairColor: RoundupData = {
       description: [
         "Garnier Olia takes a different approach from most box dyes: it uses an oil-based delivery system to carry the color into the hair, and it is ammonia-free per the listing. The result, according to buyer feedback, is hair that feels softer and less straw-like right after coloring than it does with many conventional dyes, along with a noticeable shine.",
         "That makes Olia a good fit for hair that is naturally dry, coarse, curly or textured, where the squeaky, roughened feel after permanent color is a common complaint. Buyers also report a milder smell during processing. Garnier's sister line, Nutrisse, is a more conventional creme with a fruit-oil conditioning system and is a sensible alternative if you cannot find your shade in Olia.",
-        "The oilier texture takes a little more care to apply evenly, especially at the hairline, and shade results run slightly richer than some buyers expect. Ammonia-free does not mean the formula is free of oxidative dyes, so the patch test still applies. Skip it if your hair is very fine and gets weighed down easily.",
+        "The oilier texture takes a little more care to apply evenly, especially at the hairline, and shade results run slightly richer than some buyers expect. Ammonia-free does not mean the formula is free of oxidative dyes, so the patch test still applies. If your hair is very fine and gets weighed down easily, use a light hand with the conditioner.",
       ],
       pros: [
         "Oil-based formula leaves dry hair feeling softer",
@@ -209,7 +209,7 @@ export const bestAtHomeHairColor: RoundupData = {
       description: [
         "Revlon ColorSilk is one of the least expensive permanent dyes you can buy from a major brand, and it has a loyal following for good reason. The listing describes it as ammonia-free with keratin and full gray coverage, and buyer feedback consistently says the results look far better than the price suggests, with a glossy finish and colors that hold up well between applications.",
         "It costs less per box than most kits on this list and a fraction of Madison Reed, which makes it practical if you color every four to six weeks or need two boxes for long hair. Revlon also sells a ColorSilk version with a bond repair complex and a demi-permanent ColorSilk line if you want a gentler option at a similar price.",
-        "The formula is thinner than a creme, so it can run and is messier to apply, especially at the hairline. Protect your skin and clothing, and work in sections. Skip it if you are a nervous first-timer who wants the most controllable product, and remember that low price does not change the allergy risk: patch test every time.",
+        "The formula is thinner than a creme, so it can run and is messier to apply, especially at the hairline. Protect your skin and clothing, and work in sections. Nervous first-timers may prefer the thicker L'Oreal creme, and as with every kit, patch test every time.",
       ],
       pros: [
         "One of the lowest prices from a major brand",
@@ -243,7 +243,7 @@ export const bestAtHomeHairColor: RoundupData = {
       description: [
         "Clairol Root Touch-Up is the most damage-conscious way to maintain permanent color. Instead of dragging dye through your whole head every month, you apply a small amount with a brush to the new growth at the roots and along the part, which is the only place it is needed. The lengths, which are older, more porous and more fragile, are spared another round of developer.",
         "For anyone with fine or thinning hair, that difference adds up. Repeatedly overlapping permanent dye onto previously colored lengths is one of the main causes of dry, breaking ends, and root-only touch-ups avoid most of it. The brush applicator makes it easy to target a wide part or the hairline, which is where gray regrowth shows first.",
-        "It is designed for small areas of regrowth, so it is not enough for a full-head color change. Matching can be tricky if your lengths have faded, so choose the shade that matches your roots' target color rather than your faded ends. Skip it if you have more than an inch or two of regrowth. Patch testing applies here too.",
+        "It is designed for small areas of regrowth, so it is not enough for a full-head color change. Matching can be tricky if your lengths have faded, so choose the shade that matches your roots' target color rather than your faded ends. For more than an inch or two of regrowth, a full kit is the better fit. Patch testing applies here too.",
       ],
       pros: [
         "Spares fragile lengths from repeated coloring",
@@ -277,7 +277,7 @@ export const bestAtHomeHairColor: RoundupData = {
       description: [
         "L'Oreal Magic Root Cover Up is not hair dye in the chemical sense. It is a temporary pigment spray that sits on the surface of the hair and washes out when you shampoo. That makes it the right tool for two jobs: hiding gray regrowth for a few days until your next coloring, and covering roots for people who have had a reaction to permanent dye or whose hair is too fragile to color often.",
         "It is also useful for thinning hair at the part. Lightly misting the scalp-adjacent hair with a shade close to your own can soften the contrast between hair and skin, which makes a wide part look less obvious. Buyers like how quickly it dries and how well it resists transferring once set.",
-        "It can rub off onto pillowcases, collars and hats, especially in heat or rain, and it builds up if you use a lot. It will not cover large areas convincingly. Avoid spraying it close to your eyes, and stop if your scalp itches. Skip it if you want lasting color.",
+        "It can rub off onto pillowcases, collars and hats, especially in heat or rain, and it builds up if you use a lot. It shines on small areas like roots and the part. Avoid spraying it close to your eyes, and stop if your scalp itches. For lasting color, pair it with one of the kits above.",
       ],
       pros: [
         "Instant, temporary cover that washes out",
@@ -371,12 +371,12 @@ export const bestAtHomeHairColor: RoundupData = {
     },
     {
       id: "ammonia-free-ppd-free-claims",
-      heading: "Ammonia-Free, PPD-Free and Natural Claims, Honestly",
+      heading: "Ammonia-Free, PPD-Free and Natural Labels Explained",
       body: [
         "Box dye marketing leans heavily on what formulas leave out. Ammonia-free is the most common claim, and it is real: many permanent dyes now use alternatives such as ethanolamine to open the cuticle. The benefit is mostly a milder smell and, for some people, a less irritating experience. Ammonia-free permanent dye is not necessarily gentler on the hair itself, because the hair still goes through an alkaline, oxidative process.",
         "PPD-free is a more important claim for allergy-prone people, but it is easy to misread. Most PPD-free permanents use toluene-2,5-diamine or similar molecules that do the same job and, in many allergic people, cause the same reaction. These products may suit some people who react to PPD, but only a dermatologist's patch testing can tell you that. They do not replace the box's 48-hour test.",
-        "Natural, plant-based or clean color claims deserve the most skepticism. Pure henna is a genuine plant dye, but it only produces red to auburn tones and can interfere with later chemical coloring. Products that promise brown or black from plants alone often contain synthetic dyes, and so-called black henna has been linked to severe PPD reactions.",
-        "Conditioning extras such as oils, keratin, hyaluronic acid and bonding systems can make hair feel better immediately after coloring. That is worth something, but most of the evidence comes from manufacturers. Choose a kit for coverage, shade accuracy and ease of use first, and treat the extras as a bonus.",
+        "Natural, plant-based or clean color labels are worth a closer look. Pure henna is a genuine plant dye, but it only produces red to auburn tones and can interfere with later chemical coloring. Products that promise brown or black from plants alone often contain synthetic dyes, and so-called black henna has been linked to severe PPD reactions.",
+        "Conditioning extras such as oils, keratin, hyaluronic acid and bonding systems can make hair feel better immediately after coloring. That is a lovely perk. Choose a kit for coverage, shade accuracy and ease of use first, and enjoy the extras as a bonus.",
       ],
       pullQuote: "Ammonia-free permanent dye is not necessarily gentler on the hair itself",
     },

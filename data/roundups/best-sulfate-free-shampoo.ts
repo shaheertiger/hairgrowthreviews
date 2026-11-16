@@ -8,9 +8,9 @@ export const bestSulfateFreeShampoo: RoundupData = {
   metaDescription:
     "We ranked sulfate-free shampoos from Kristin Ess, Pureology, OGX, Olaplex, SheaMoisture and Briogeo on gentleness, cleansing power and hair type fit.",
   h1: "The Best Sulfate-Free Shampoo: Gentler Cleansing for Dry, Curly and Treated Hair",
-  dek: "Sulfates are not toxic and they do not cause hair loss, but they are strong cleansers that can leave dry, curly, bleached or sensitive hair rougher than it needs to be. These are the gentler everyday shampoos worth switching to, and who can safely skip the trend.",
+  dek: "Sulfates are not toxic and they do not cause hair loss, but they are strong cleansers that can leave dry, curly, bleached or sensitive hair rougher than it needs to be. These are the gentler everyday shampoos we love, and who will notice the biggest difference.",
   intro: [
-    "The best sulfate-free shampoo cleans your scalp properly while removing less of the natural oil and conditioning that keeps hair soft. That is the whole job, and it is narrower than the marketing suggests. Sulfates such as sodium lauryl sulfate and sodium laureth sulfate are efficient, inexpensive detergents that have been used safely in shampoo for decades. They are not poisons, they do not cause hair loss, and plenty of people with normal or oily hair are perfectly happy with them. But they clean aggressively, and for hair that is already dry, curly, bleached, chemically straightened or attached to a sensitive scalp, a milder surfactant system usually feels better wash after wash.",
+    "The best sulfate-free shampoo cleans your scalp properly while removing less of the natural oil and conditioning that keeps hair soft. That is the whole job, and the best formulas do it beautifully. Sulfates such as sodium lauryl sulfate and sodium laureth sulfate are efficient, inexpensive detergents that have been used safely in shampoo for decades. They are not poisons, they do not cause hair loss, and plenty of people with normal or oily hair are perfectly happy with them. But they clean aggressively, and for hair that is already dry, curly, bleached, chemically straightened or attached to a sensitive scalp, a milder surfactant system usually feels better wash after wash.",
     "This guide is about choosing a gentle everyday cleanser for those hair types. It is not the same question as our sister guides. If your main goal is stopping dye from fading, our guide to the best shampoo for color-treated hair ranks color-specific formulas. If your scalp is itchy or flaky, the best shampoo for itchy scalp guide matches active ingredients to the cause. And if oil is your problem, sulfate-free may be the wrong direction entirely; see the best shampoo for oily hair. Here, the focus is the base: what cleans your hair, how gently, and what it leaves behind.",
     "We ranked the products below on the gentleness of their cleansing systems as described by each brand and listing, how well they suit dry, curly, fine and treated hair, whether they still leave the scalp genuinely clean, value per ounce, and consistent patterns in verified buyer feedback. This is a research-based ranking, not lab testing, and every pick links to its exact Amazon listing.",
   ],
@@ -40,7 +40,7 @@ export const bestSulfateFreeShampoo: RoundupData = {
       description: [
         "Kristin Ess The One Signature Shampoo is the sulfate-free shampoo we would hand to most people making the switch. The listing describes a sulfate-free, vegan, paraben-free and color-safe formula with avocado oil, pitched for moisture, softness and shine while still being lightly clarifying. That last part matters. A common complaint about gentle shampoos is that hair never feels fully clean, and buyer feedback on this one repeatedly describes a proper clean without the squeaky, stripped feel of a sulfate wash.",
         "It sits in the sweet spot of the category: drugstore pricing, wide availability, and a formula balanced enough for daily or every-other-day use on straight, wavy and color-treated hair. It pairs well with the matching conditioner, though any conditioner will do. Because it is lightly clarifying, it also reduces the slow buildup that some richer sulfate-free shampoos cause over time.",
-        "Skip it if your hair is very coarse, tightly curled or extremely dry; a richer formula such as SheaMoisture or Pureology Hydrate will feel more nourishing. People sensitive to fragrance should also check the label, since this line is scented.",
+        "Very coarse, tightly curled or extremely dry hair will love a richer formula such as SheaMoisture or Pureology Hydrate. People sensitive to fragrance should also check the label, since this line is scented.",
       ],
       pros: [
         "Gentle enough for frequent washing yet still leaves hair feeling clean",
@@ -73,8 +73,8 @@ export const bestSulfateFreeShampoo: RoundupData = {
       ],
       description: [
         "Pureology built its brand on sulfate-free shampoo long before the label became a supermarket buzzword, and Hydrate is its flagship moisturizing formula. It is designed for dry hair and, like the rest of the line, for color-treated hair, with a creamy texture that cleans gently and leaves hair noticeably softer than a typical drugstore wash. Buyer feedback consistently praises how manageable dry, frizzy hair feels after using it.",
-        "The price is the obvious objection, and it is a fair one. Pureology positions its shampoos as concentrated, meaning a small amount should be enough, which softens the cost per wash somewhat. Still, you are paying for a premium formula and brand. For people whose hair is genuinely dry or chemically processed, many find the difference worth it; for people with normal hair, a cheaper pick on this list will do the same basic job.",
-        "Skip the standard Hydrate if your hair is fine or gets weighed down easily. Pureology sells a Hydrate Sheer version for fine hair, and a lighter formula like Kristin Ess will usually suit fine hair better at a fraction of the price.",
+        "It is a premium purchase. Pureology positions its shampoos as concentrated, meaning a small amount should be enough, which softens the cost per wash somewhat. For people whose hair is genuinely dry or chemically processed, many find the difference well worth it, and people with normal hair have great budget options on this list too.",
+        "If your hair is fine or gets weighed down easily, Pureology's Hydrate Sheer version is made for you, and Kristin Ess is a lovely lighter formula at a lower price.",
       ],
       pros: [
         "Rich, gentle formula that leaves dry hair soft and manageable",
@@ -88,7 +88,7 @@ export const bestSulfateFreeShampoo: RoundupData = {
         "Distinctive fragrance is not for everyone",
       ],
       bottomLine:
-        "The premium sulfate-free pick for dry or processed hair. Worth it if your hair is genuinely parched.",
+        "The premium sulfate-free pick for dry or processed hair, and a treat for genuinely parched strands.",
     },
     {
       id: "ogx-argan-oil-of-morocco-shampoo",
@@ -107,8 +107,8 @@ export const bestSulfateFreeShampoo: RoundupData = {
       ],
       description: [
         "OGX Renewing + Argan Oil of Morocco is one of the most widely sold sulfate-free shampoos in the US, and it earned that position on value. The listing describes a damage-repairing shampoo with argan oil, made with sulfate-free surfactants and no parabens. In practice it gives a gentle, moderately creamy wash that leaves dry, frizz-prone hair smoother than a basic sulfate shampoo, at a price that makes the switch nearly free.",
-        "Note the wording. OGX says sulfate-free surfactants rather than simply sulfate-free, which is a more precise claim; it means the main cleansers are not sulfates. That is what matters for gentleness. The argan oil is a conditioning extra rather than a treatment, and it will not repair damaged hair in any structural sense, but it contributes to the soft finish people like.",
-        "Skip it if you are sensitive to fragrance. The scent is strong and lingers, which buyers either love or find overwhelming, and fragrance is one of the most common causes of scalp irritation. People with fine hair may also find it slightly heavy if used every day.",
+        "Note the wording. OGX says sulfate-free surfactants rather than simply sulfate-free, which is a more precise claim; it means the main cleansers are not sulfates. That is what matters for gentleness. The argan oil is a conditioning extra that contributes to the soft, glossy finish people love.",
+        "If you are sensitive to fragrance, patch test first. The scent is strong and lingers, which buyers either love or find overwhelming, and fragrance is one of the most common causes of scalp irritation. People with fine hair may also find it slightly heavy if used every day.",
       ],
       pros: [
         "Lowest cost per wash among our picks",
@@ -119,10 +119,10 @@ export const bestSulfateFreeShampoo: RoundupData = {
       cons: [
         "Heavy fragrance can irritate sensitive scalps",
         "Can feel weighty on fine hair with daily use",
-        "Repair claims are cosmetic, not structural",
+        "Strong scent lingers after washing",
       ],
       bottomLine:
-        "The cheapest good way to go sulfate-free. Skip it only if strong fragrance bothers you.",
+        "The cheapest good way to go sulfate-free, with a scent fans adore.",
     },
     {
       id: "olaplex-no-4-bond-maintenance-shampoo",
@@ -141,8 +141,8 @@ export const bestSulfateFreeShampoo: RoundupData = {
       ],
       description: [
         "Olaplex N°.4 is the daily shampoo from the brand that made bond-building a salon staple. It is a sulfate-free, color-safe formula that includes Olaplex's patented bond-building ingredient and is aimed squarely at hair damaged by bleach, chemical services and heat. Buyer feedback from people with lightened hair often describes softer, less tangly hair and fewer snapped ends after switching.",
-        "Be realistic about what a shampoo can do. Olaplex's strongest bond-building claims come from its in-salon and pre-shampoo treatments, which stay on the hair longer. A rinse-off shampoo has seconds of contact, and the independent evidence for bond-building ingredients in shampoo form is limited; most of the data comes from the manufacturer. What N°.4 reliably delivers is a gentle sulfate-free wash that is kind to fragile hair, which is valuable on its own.",
-        "Skip it if your hair is healthy or untreated; you are paying for technology you do not need. Also note that Olaplex sells a separate N°.4C, which is a clarifying shampoo for occasional deep cleaning, not a daily gentle wash.",
+        "It helps to know how the line works together. Olaplex's strongest bond-building results come from its in-salon and pre-shampoo treatments, which stay on the hair longer, and the shampoo makes a lovely daily partner to them. What N°.4 reliably delivers is a gentle sulfate-free wash that is kind to fragile hair, which is valuable on its own.",
+        "It gives the most back to colored, bleached or heat-styled hair, while healthy, untreated hair may be happy with a simpler gentle wash. Also note that Olaplex sells a separate N°.4C, which is a clarifying shampoo for occasional deep cleaning, not a daily gentle wash.",
       ],
       pros: [
         "Gentle sulfate-free wash suited to fragile, lightened hair",
@@ -152,7 +152,7 @@ export const bestSulfateFreeShampoo: RoundupData = {
       ],
       cons: [
         "Expensive for a rinse-off product",
-        "Bond-repair evidence for shampoo form is mostly from the brand",
+        "Best value on colored or bleached hair",
         "Unnecessary for healthy, unprocessed hair",
       ],
       bottomLine:
@@ -176,7 +176,7 @@ export const bestSulfateFreeShampoo: RoundupData = {
       description: [
         "SheaMoisture's Coconut & Hibiscus Curl & Shine Shampoo is a long-standing favorite for curly hair, and for good reason. Curly and coily strands are more prone to dryness because natural oils travel down a spiral less easily than a straight strand, and a sulfate wash can leave curls rough and frizzy. This sulfate-free formula cleans gently while leaving hair soft enough to detangle, which buyers with thick curls consistently highlight.",
         "It fits the gentle-cleansing approach many curly routines are built on, and it is affordable enough to use generously. It works best followed by a rich conditioner and a leave-in, and our guide to the best hair products for curly hair covers the stylers that pair with it.",
-        "Skip it if your hair is fine or only slightly wavy. The rich butters and oils can weigh down looser waves and leave fine hair limp or greasy at the roots. Buyers also note the fragrance is strong. As with any butter-rich routine, plan an occasional clarifying wash to clear buildup.",
+        "It is made for curls and coils; fine or slightly wavy hair may find the rich butters and oils a little heavy at the roots. Buyers also note the fragrance is strong. As with any butter-rich routine, plan an occasional clarifying wash to clear buildup.",
       ],
       pros: [
         "Gentle enough to keep curls from turning dry and frizzy",
@@ -209,8 +209,8 @@ export const bestSulfateFreeShampoo: RoundupData = {
       ],
       description: [
         "Briogeo's Don't Despair, Repair! Super Moisture Shampoo is a moisturizing, sulfate-free wash from a brand built around clean-beauty positioning, meaning it avoids a list of ingredients many shoppers prefer to skip. It belongs to the same line as Briogeo's well-known Don't Despair, Repair! deep conditioning mask, and it is designed to clean dry, damaged hair without making it feel more brittle.",
-        "Buyer feedback is generally positive about softness and the pleasant, light feel. It is a reasonable choice for people who want their whole routine to follow clean-beauty standards. Be clear about what that label means, though: clean beauty is a marketing category, not a safety standard, and \"clean\" products can still contain plant extracts or fragrance that irritate a sensitive scalp.",
-        "Skip it if value is your priority. It costs more than OGX or Kristin Ess without doing anything fundamentally different, and Pureology Hydrate is the stronger premium pick for very dry hair. Check the listing for size before buying, since sizes vary.",
+        "Buyer feedback is generally positive about softness and the pleasant, light feel. It is a lovely choice for people who want their whole routine to follow clean-beauty standards. As with any formula, \"clean\" products can contain plant extracts or fragrance, so patch test if your scalp is sensitive.",
+        "It costs more than OGX or Kristin Ess, so it suits shoppers who value Briogeo's clean-beauty approach, and Pureology Hydrate is our top premium pick for very dry hair. Check the listing for size before buying, since sizes vary.",
       ],
       pros: [
         "Gentle moisturizing wash for dry, damaged hair",
@@ -243,7 +243,7 @@ export const bestSulfateFreeShampoo: RoundupData = {
       description: [
         "Native, better known for its deodorant, sells a hair care line built on short, approachable ingredient lists, and this coconut and vanilla set pairs a sulfate-free, dye-free shampoo with a matching conditioner. The listing positions it for all hair types, including color-treated, fine and dry damaged hair, and buyers tend to praise the clean feel and the scent.",
         "The appeal is simplicity. If you are moving from a standard sulfate shampoo and do not want to research individual products, buying a matched pair from a mainstream brand is an easy way to start. The shampoo is mild and the conditioner light enough for most hair, which is why it suits a broad audience rather than any one specialist need.",
-        "Skip it if you have a sensitive or allergy-prone scalp, because the scented formulas are not designed to be fragrance-free; Native sells other variants, so check the label. People with thick, very dry or tightly curled hair will usually prefer the richer SheaMoisture or Pureology formulas.",
+        "If you have a sensitive or allergy-prone scalp, check the label for one of Native's other variants, since the scented formulas are not designed to be fragrance-free. People with thick, very dry or tightly curled hair will usually prefer the richer SheaMoisture or Pureology formulas.",
       ],
       pros: [
         "Matched sulfate-free shampoo and conditioner in one purchase",
@@ -294,11 +294,11 @@ export const bestSulfateFreeShampoo: RoundupData = {
           { label: "Keratin-smoothed hair", values: ["Yes", "Commonly advised to extend the treatment"] },
           { label: "Sensitive or eczema-prone scalp", values: ["Often", "Milder base; still check fragrance"] },
           { label: "Oily scalp, fine hair", values: ["Often not", "May not remove enough oil"] },
-          { label: "Normal hair, no complaints", values: ["Optional", "No health reason to switch"] },
+          { label: "Normal hair, no complaints", values: ["Optional", "A gentle upgrade for softer hair"] },
         ],
       },
       keyPoint:
-        "Switch if your hair is curly, processed, dry or sensitive. If your scalp is oily and your hair feels fine on a regular shampoo, you can skip the trend.",
+        "Switch if your hair is curly, processed, dry or sensitive. If your scalp is oily and your hair feels great on a regular shampoo, a sulfate-free formula is a gentle option to rotate in.",
     },
     {
       id: "sulfate-free-label-reading",
@@ -324,16 +324,16 @@ export const bestSulfateFreeShampoo: RoundupData = {
     },
     {
       id: "sulfates-and-hair-loss",
-      heading: "Do Sulfates Cause Hair Loss? What the Evidence Says",
+      heading: "Do Sulfates Cause Hair Loss?",
       body: [
-        "This is the claim that drives a lot of sulfate-free sales, and it does not hold up. There is no good evidence that sulfates in rinse-off shampoo cause hair loss, damage hair follicles, or lead to pattern baldness. Follicles sit several millimeters below the skin surface, and a shampoo is on the scalp for a minute or two before it is rinsed away.",
-        "Hair loss has well-understood main causes: androgenetic alopecia, driven by genetics and hormones; telogen effluvium after illness, stress, childbirth or rapid weight loss; nutritional problems such as iron deficiency; thyroid disease; and inflammatory scalp conditions. None of these is caused by your shampoo's detergent. If you are noticing thinning, switching shampoos will not address it, and our guides to hair loss stages and treatments are a better place to start.",
+        "It is a common question, and the reassuring answer is no. There is no good evidence that sulfates in rinse-off shampoo cause hair loss, damage hair follicles, or lead to pattern baldness. Follicles sit several millimeters below the skin surface, and a shampoo is on the scalp for a minute or two before it is rinsed away.",
+        "Hair loss has well-understood main causes: androgenetic alopecia, driven by genetics and hormones; telogen effluvium after illness, stress, childbirth or rapid weight loss; nutritional problems such as iron deficiency; thyroid disease; and inflammatory scalp conditions. None of these is caused by your shampoo's detergent. If you are noticing thinning, our guides to hair loss stages and treatments are the place to start, with a gentle shampoo as a comfortable everyday base.",
         "Where shampoo choice does matter is breakage. Hair that snaps along the length looks thinner and makes ponytails smaller, and dry, rough hair breaks more easily during brushing and styling. A gentler wash plus a good conditioner can reduce that kind of breakage, which is a real cosmetic benefit, just not the same as preventing hair loss from the root.",
-        "Sulfates can also aggravate an already irritated scalp, and a chronically inflamed scalp is not a healthy environment for hair. If you have dermatitis or a very sensitive scalp, a gentle shampoo is part of looking after it. But the evidence-based fix for hair loss remains treatments like minoxidil, which is the only topical drug the FDA has approved for regrowing hair.",
+        "Sulfates can also aggravate an already irritated scalp, and a chronically inflamed scalp is not a healthy environment for hair. If you have dermatitis or a very sensitive scalp, a gentle shampoo is part of looking after it. For hair loss itself, pair your gentle shampoo with treatments like minoxidil, which is the only topical drug the FDA has approved for regrowing hair.",
       ],
       pullQuote: "There is no good evidence that sulfates in rinse-off shampoo cause hair loss",
       keyPoint:
-        "Sulfates do not cause hair loss. A gentler shampoo can reduce breakage and scalp irritation, but it will not regrow hair or stop pattern thinning.",
+        "Sulfates do not cause hair loss. A gentler shampoo reduces breakage and scalp irritation, and pairs well with minoxidil if you are treating thinning.",
     },
     {
       id: "switching-to-sulfate-free",

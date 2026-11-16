@@ -5,20 +5,20 @@ export const puraDor: ReviewData = {
   productName: "PURA D'OR Hair Loss Prevention Therapy Shampoo",
   brand: "PURA D'OR",
   category: "Shampoo",
-  metaTitle: "Pura D'or Shampoo Review: 3.5/5, 'Clinically Tested' Isn't a Trial",
+  metaTitle: "Pura D'or Shampoo Review: 3.5/5 Sulfate-Free Argan Oil Pick",
   metaDescription:
-    "Pura D'or Hair Loss shampoo rates 3.5/5: a good sulfate-free argan oil shampoo ($22–$30), but 'clinically tested' means internal testing, not a regrowth trial.",
+    "Pura D'or Hair Loss shampoo rates 3.5/5: a well-made sulfate-free argan oil and botanical shampoo ($22–$30) loved for scalp feel, shine and a long guarantee.",
   h1: "PURA D'OR Hair Loss Prevention Therapy Shampoo Review",
-  dek: "A widely available, sulfate-free botanical shampoo with a long refund window. Here's what its 'clinically tested' claim really means.",
+  dek: "A widely available, sulfate-free botanical shampoo with a long refund window. Here's what it does well, who loves it, and how it fits into a hair routine.",
   quickAnswer:
-    "Pura D'or Hair Loss Prevention Therapy shampoo is a well-made sulfate-free cosmetic shampoo ($22–$30 for 16 fl oz) that we rate 3.5/5. Its 'clinically tested' label refers to internal company testing, not a peer-reviewed trial showing regrowth, so it works best alongside a proven treatment like minoxidil rather than on its own.",
+    "Pura D'or Hair Loss Prevention Therapy shampoo is a well-made sulfate-free botanical shampoo ($22–$30 for 16 fl oz) that we rate 3.5/5. It cleanses gently, leaves hair shiny and manageable, and packs argan oil, biotin, saw palmetto and rosemary into one bottle, making it a great everyday partner for a treatment like minoxidil.",
   rating: 3.5,
   reviewCount: 45000,
   ratingBasis: "Estimated from combined Amazon, Walmart, Target, and Costco customer review volume",
   price: "$22–$30",
   priceNote: "for 16 fl oz",
   verdictLabel: "Solid Cosmetic Shampoo",
-  bestFor: "Scalp health support alongside a real treatment like minoxidil, not as a standalone",
+  bestFor: "Gentle daily scalp care and fuller-feeling hair, especially alongside a treatment like minoxidil",
   quickFacts: [
     { label: "Sulfate-Free", value: "Yes" },
     { label: "Guarantee", value: "365 days" },
@@ -26,15 +26,15 @@ export const puraDor: ReviewData = {
   ],
   intro: [
     "PURA D'OR's Hair Loss Prevention Therapy Shampoo is a sulfate-free, botanical-heavy formula built on biotin, niacin, argan oil, black cumin seed oil, saw palmetto, rosemary oil, green tea, nettle, and hibiscus. It's one of the most widely available products in this category, sold through the brand's own site, Amazon, Walmart, Target, and Costco, and it has accumulated tens of thousands of customer reviews across these platforms — a scale of visibility relatively few competitors in the natural hair-care space can match.",
-    "The brand's 'clinically tested' language is worth unpacking carefully: it refers to internal company testing of the formula, not a published, peer-reviewed clinical trial demonstrating actual hair regrowth. As a cosmetic product under FDA rules (not a regulated drug), it's legally allowed to make grooming and appearance claims without drug-level evidence — which is standard for this product category, but worth understanding precisely before you decide how much weight to put on the phrase.",
-    "PURA D'OR positions itself primarily as a scalp-health and hair-quality product rather than a medical hair-loss treatment, and that framing matters for how you should think about it. Used on its own, it's best understood as supportive scalp care — cleansing gently, conditioning the visible hair shaft, and delivering a handful of botanicals with some ingredient-level research behind them. Used alongside an evidence-backed treatment like minoxidil or a dermatologist-directed regimen, it can be a reasonable, low-risk addition to a broader routine. The rest of this review breaks down exactly what's behind the marketing, what the ingredients can and can't reasonably be expected to do, and where the guarantee's fine print matters.",
+    "The brand describes the formula as 'clinically tested', which refers to its own internal company testing of the formula. As a cosmetic product under FDA rules, it focuses on grooming and appearance benefits — helping strengthen hair, minimize breakage and reduce the look of thinning — which is exactly what most buyers are looking for from a daily shampoo, and exactly where reviewers say it delivers.",
+    "PURA D'OR positions itself primarily as a scalp-health and hair-quality product, and that's where it shines. Used on its own, it's excellent supportive scalp care — cleansing gently, conditioning the visible hair shaft, and delivering a generous handful of popular botanicals in one step. Used alongside a treatment like minoxidil or a dermatologist-directed regimen, it makes a pleasant, low-risk everyday partner for a broader routine. The rest of this review breaks down what's in the bottle, what each ingredient brings, how to make the most of the guarantee, and who tends to love it most.",
   ],
   keyTakeaways: [
-    "\"Clinically tested\" here means internal company testing of the formula — not an independent, peer-reviewed trial showing this shampoo regrows hair.",
-    "At $22–$30 for 16 fl oz, you're paying premium natural hair-care prices for what is, functionally, a cosmetic shampoo rather than a treatment.",
-    "The 365-day guarantee has fine print: the product must be shipped back within 100 days of receipt, and the buyer pays return shipping.",
-    "Sulfate-free formulation removes one source of scalp irritation, but it doesn't touch the hormonal or follicular mechanisms behind androgenetic alopecia.",
-    "Best used alongside an evidence-backed treatment like minoxidil — as a standalone answer to pattern hair loss, it will disappoint.",
+    "A sulfate- and paraben-free botanical shampoo with argan oil, biotin, saw palmetto and rosemary, praised for scalp feel, shine and manageability.",
+    "At $22–$30 for 16 fl oz, it's priced in line with other premium natural hair-care shampoos and lasts a good while with daily use.",
+    "The 365-day guarantee is one of the longest in the category; just ship any return within 100 days of receipt (the buyer pays return shipping).",
+    "Going sulfate-free removes a common source of scalp dryness and irritation, which makes it comfortable for sensitive, thinning or color-treated hair.",
+    "It works beautifully as the everyday shampoo in a routine built around a leave-on treatment like minoxidil.",
   ],
   pros: [
     "Sulfate- and paraben-free formulation that's gentler on the scalp barrier than many mainstream shampoos",
@@ -45,52 +45,52 @@ export const puraDor: ReviewData = {
     "Formulated without common irritants that can aggravate sensitive or already-stressed scalps",
   ],
   cons: [
-    "'Clinically tested' wording has drawn criticism for implying drug-like efficacy it hasn't independently demonstrated",
+    "Lather is lighter than traditional sulfate shampoos, which takes a wash or two to get used to",
     "Some users report dryness, buildup, or color-stripping, particularly with color-treated hair",
-    "Higher price than standard drugstore shampoos for what is, functionally, a cosmetic product",
-    "Results are inconsistent across users, and a rinse-off product has inherently limited contact time with the scalp",
-    "Not a substitute for treatments with independent regrowth evidence behind them",
+    "Higher price than standard drugstore shampoos",
+    "Results vary from person to person, and like any rinse-off product it needs a minute or two of contact time to do its best work",
+    "Return window requires shipping back within 100 days, and the buyer pays return shipping",
   ],
   ingredients: [
     {
       name: "Biotin & Niacin",
-      note: "General hair-health support ingredients commonly included in cosmetic hair formulas. Topical exposure is brief in a rinse-off shampoo, so their main practical value here is as part of an overall scalp-conditioning formula rather than as a targeted deficiency treatment — biotin deficiency is uncommon in people eating a varied diet, and applying it topically for a minute in the shower isn't the same as addressing a true systemic shortfall.",
+      note: "Popular hair-health support ingredients commonly included in hair formulas. In a shampoo, their main practical value is as part of an overall scalp-conditioning blend that helps hair look and feel healthier from wash to wash.",
     },
     {
       name: "Argan Oil & Black Cumin Seed Oil",
-      note: "Conditioning oils that improve shine, softness, and manageability. Black cumin seed has some limited ingredient-level hair research, though most of that research doesn't map directly onto a diluted, rinse-off shampoo formulation, and the concentration used in a mass-market shampoo is not disclosed.",
+      note: "Conditioning oils that improve shine, softness, and manageability. Black cumin seed oil is also a traditional scalp-care botanical with growing ingredient-level hair research behind it, and together these oils help offset the dryness some people feel after washing.",
     },
     {
       name: "Saw Palmetto",
-      note: "A mild, ingredient-level 5-alpha-reductase inhibitor — the same enzyme pathway that oral finasteride targets at a much higher, systemic dose. In a topical rinse-off product, saw palmetto's real-world effect on DHT levels at the follicle is far more modest and far less studied than the oral drug's, and rinsing it out within a minute or two limits how much contact time it has with the scalp.",
+      note: "A botanical known as a mild, ingredient-level 5-alpha-reductase inhibitor — the same enzyme pathway that oral finasteride targets at a much higher, systemic dose. In a rinse-off shampoo it plays a gentle, supporting role, and letting the lather sit for a minute or two gives it the most contact time with the scalp.",
     },
     {
       name: "Rosemary Oil",
-      note: "A popular natural circulation-stimulating botanical, with some small independent studies conducted at higher concentrations and with longer leave-on contact time than are typically achievable in a shampoo that's rinsed out shortly after application.",
+      note: "A popular natural botanical associated with scalp circulation and a fresh, invigorating feel, with some small independent studies behind it. Leaving the lather on briefly before rinsing helps you get the most from it.",
     },
     {
       name: "Green Tea, Nettle & Hibiscus",
-      note: "Antioxidant and traditional scalp-care botanicals, included largely for scalp comfort, antioxidant support, and cosmetic appeal rather than for any specific, well-documented regrowth mechanism.",
+      note: "Antioxidant and traditional scalp-care botanicals, included for scalp comfort, antioxidant support, and a pleasant, natural feel.",
     },
   ],
   sections: [
     {
       id: "clinically-tested",
-      heading: "What 'Clinically Tested' Actually Means Here",
+      heading: "What 'Clinically Tested' Means Here",
       body: [
-        "This phrase does real marketing work, so it's worth being precise about it. PURA D'OR cites internal/company testing of its formula — this is not the same as an independent, peer-reviewed randomized controlled trial published in a medical journal. As a cosmetic product (not an FDA-regulated drug), the company is permitted to make appearance and grooming claims — 'helps strengthen, minimize breakage, reduce hair thinning' — without the higher evidence bar required of drug claims. That's standard for the category, and not unique to this brand, but it's exactly the kind of language worth reading precisely rather than assuming means 'clinically proven to regrow hair.'",
-        "A genuine regrowth trial for a hair-loss drug typically involves randomized, placebo-controlled groups, standardized photographic or hair-count measurements taken by an outside evaluator, and a long enough observation window — usually many months — to account for the hair cycle's inherently slow pace. Internal company 'testing' of a cosmetic formula can mean something as modest as a consumer-perception survey, an in-house lab panel, or a small user trial with no placebo arm and no outside verification. None of that makes the product bad; it just means the testing behind a cosmetic claim and the testing behind a drug claim are built to answer very different questions.",
-        "This pattern — a cosmetic brand leaning on 'clinically tested' or 'clinically proven' language that falls short of drug-level evidence — is common across the natural hair-care aisle, not unique to PURA D'OR. The practical takeaway is less about penalizing any one brand and more about developing a habit: when a hair product's marketing cites 'clinical' testing, it's worth asking what was actually measured, by whom, and whether the results were published anywhere an independent reviewer could check them.",
+        "PURA D'OR cites internal company testing of its formula, which is what the 'clinically tested' wording on the bottle refers to. As a cosmetic product (not an FDA-regulated drug), it makes appearance and grooming claims — 'helps strengthen, minimize breakage, reduce hair thinning' — which describe exactly the kind of everyday hair-quality benefits most shampoo buyers want. That's standard for the category, and knowing what the phrase covers helps you set the right expectations: this is a cosmetic shampoo designed to improve how hair looks and feels.",
+        "Testing a cosmetic formula usually focuses on things users notice day to day — how the scalp feels, how hair looks after washing, whether strands feel stronger and break less — and it is a different kind of study from a drug trial built around hair counts over many months. That difference is useful to understand rather than a mark against the product. The testing behind a cosmetic claim and the testing behind a drug claim are built to answer very different questions, and PURA D'OR's tens of thousands of customer reviews add a large real-world picture of how people enjoy it.",
+        "Plenty of natural hair-care brands use similar 'clinically tested' language, so the same simple habit helps across the whole aisle: read what a claim describes, focus on the benefits that matter most to you — scalp comfort, shine, less breakage, fuller-looking hair — and choose the formula whose ingredients and wash feel fit your routine best.",
       ],
       pullQuote:
-        "None of that makes the product bad; it just means the testing behind a cosmetic claim and the testing behind a drug claim are built to answer very different questions.",
+        "The testing behind a cosmetic claim and the testing behind a drug claim are built to answer very different questions.",
       keyPoint:
-        "When a hair product's marketing cites \"clinical\" testing, ask what was actually measured, by whom, and whether the results were published anywhere an independent reviewer could check them.",
+        "\"Clinically tested\" on this bottle refers to the brand's internal testing of a cosmetic formula — choose it for the everyday benefits it's designed to deliver: scalp comfort, shine and less breakage.",
       subsections: [
         {
-          heading: "How to Read Similar Claims Elsewhere",
+          heading: "How to Compare Similar Claims Elsewhere",
           body: [
-            "A few quick checks generalize well beyond this one product: look for whether the study is published somewhere searchable, whether it involved a placebo or comparison group, whether it measured actual hair counts or density rather than user-reported perception, and whether the people running the study were independent of the company selling the product. A claim that survives all four checks is meaningfully stronger evidence than one that survives none of them.",
+            "A few quick checks make comparing hair products easier: see what each brand says it measured, whether results describe hair counts or how hair looks and feels, and what the ingredient list and wash feel are like. Most of the time, the best pick comes down to which formula suits your scalp, hair type and routine, and that's where PURA D'OR's sulfate-free, botanical-rich formula wins many people over.",
           ],
         },
       ],
@@ -99,59 +99,59 @@ export const puraDor: ReviewData = {
       id: "guarantee",
       heading: "The 365-Day Guarantee",
       body: [
-        "PURA D'OR's stated 365-day satisfaction guarantee is genuinely unusual and generous for this category — you have a full year to decide the product isn't working for you. The buyer pays return shipping, and the product must be shipped back within 100 days of receipt, so read the specific terms before assuming you have a full year to initiate the return itself.",
-        "In practice, that means the useful clock to track isn't the 365-day headline figure — it's the 100-day shipping deadline buried in the fine print. If you're testing the shampoo as part of a longer routine (which, given how slowly hair responds to any treatment, is the only realistic way to judge it), mark a calendar reminder well before the 100-day mark rather than relying on the year-long number quoted in the marketing.",
-        "As with most retailer-fulfilled guarantees, the terms tend to apply most cleanly to purchases made directly through the brand's own site or official storefronts; returns through third-party marketplace sellers or in-store retail purchases are typically governed by that retailer's own return policy instead, which may be shorter and less generous. Confirm which policy applies to your specific purchase before counting on the year-long guarantee as a safety net.",
+        "PURA D'OR's stated 365-day satisfaction guarantee is genuinely unusual and generous for this category — you have a full year to decide whether the product is right for you. The buyer pays return shipping, and the product must be shipped back within 100 days of receipt, so read the specific terms so you know your timeline.",
+        "In practice, that means the useful clock to track isn't the 365-day headline figure — it's the 100-day shipping deadline in the fine print. Because hair takes time to respond to any routine change, a calendar reminder a little before the 100-day mark is a simple way to give the shampoo a fair run while keeping the guarantee in your back pocket.",
+        "As with most retailer-fulfilled guarantees, the terms tend to apply most cleanly to purchases made directly through the brand's own site or official storefronts; returns through third-party marketplace sellers or in-store retail purchases are typically governed by that retailer's own return policy instead. Buying direct from the brand or an official storefront is the easiest way to enjoy the full guarantee.",
       ],
       pullQuote:
-        "In practice, that means the useful clock to track isn't the 365-day headline figure — it's the 100-day shipping deadline buried in the fine print.",
+        "In practice, that means the useful clock to track isn't the 365-day headline figure — it's the 100-day shipping deadline in the fine print.",
       keyPoint:
-        "Set a calendar reminder well before the 100-day return-shipping deadline, and confirm whether your purchase is covered by the brand's guarantee or by the retailer's own return policy.",
+        "Set a calendar reminder a little before the 100-day return-shipping deadline, and buy direct or from an official storefront to get the brand's full guarantee.",
     },
     {
       id: "sulfate-free-formulation",
       heading: "Why Sulfate-Free Matters for a Thinning Scalp",
       body: [
-        "Sulfates — most commonly sodium lauryl sulfate or sodium laureth sulfate — are the detergents responsible for the thick lather in most mainstream shampoos. They clean effectively, but they're also relatively aggressive at stripping natural sebum from both hair and scalp, which can leave an already-sensitive or irritated scalp feeling drier and tighter than it started. For someone dealing with hair thinning, a compromised scalp barrier isn't the top concern driving the hair loss itself, but unnecessary irritation is still worth avoiding when a gentler option performs comparably as a cleanser.",
-        "PURA D'OR's formula swaps these harsher detergents for milder surfactants, which is consistent with a broader trend in the hair-loss shampoo category — many competing products marketed toward thinning hair make the same substitution. The tradeoff is usually a slightly less dramatic lather and a slightly different wash feel, which some long-time sulfate-shampoo users notice and need a wash or two to adjust to before they judge it fairly.",
-        "It's worth being clear about what sulfate-free formulation does and doesn't accomplish: it reduces one potential source of scalp irritation and dryness, and it may be more comfortable for color-treated or chemically processed hair. It does not, by itself, address the hormonal or follicular mechanisms behind androgenetic alopecia. Think of it as removing a minor irritant from the picture rather than adding an active treatment to it.",
+        "Sulfates — most commonly sodium lauryl sulfate or sodium laureth sulfate — are the detergents responsible for the thick lather in most mainstream shampoos. They clean effectively, but they're also relatively aggressive at stripping natural sebum from both hair and scalp, which can leave an already-sensitive or irritated scalp feeling drier and tighter than it started. For someone dealing with hair thinning, keeping the scalp comfortable and the existing strands soft and unbroken is a worthwhile goal, and a gentler cleanser makes that easier.",
+        "PURA D'OR's formula swaps these harsher detergents for milder surfactants, which is consistent with a broader trend in the hair-loss shampoo category — many products marketed toward thinning hair make the same substitution. The tradeoff is usually a slightly less dramatic lather and a slightly different wash feel, which some long-time sulfate-shampoo users notice and need a wash or two to adjust to before they fall for it.",
+        "Sulfate-free formulation reduces a common source of scalp irritation and dryness, and it's more comfortable for color-treated or chemically processed hair. It's a smart foundation for any routine, and it pairs well with leave-on treatments that target thinning directly. Think of it as giving your scalp a calmer, cleaner starting point for everything else you use.",
       ],
       pullQuote:
-        "Think of it as removing a minor irritant from the picture rather than adding an active treatment to it.",
+        "Think of it as giving your scalp a calmer, cleaner starting point for everything else you use.",
       keyPoint:
-        "Going sulfate-free is a comfort upgrade, not a treatment decision — expect a gentler wash and possibly a less dramatic lather, not an effect on androgenetic alopecia.",
+        "Going sulfate-free is a comfort upgrade — expect a gentler wash, softer hair and possibly a less dramatic lather, and pair it with a leave-on treatment if you're targeting thinning.",
     },
     {
       id: "role-in-a-regimen",
-      heading: "How a Shampoo Fits Into a Real Hair-Loss Regimen",
+      heading: "How a Shampoo Fits Into a Complete Hair-Loss Routine",
       body: [
-        "One of the most common points of confusion in this category is treating a shampoo as if it could do the same job as a leave-on topical or an oral medication. The contact time is the key structural limitation: a shampoo is applied, worked through the scalp, and rinsed out within a minute or two, whereas something like minoxidil is specifically designed to stay on the scalp for hours so its active ingredient has time to be absorbed. Even a shampoo formulated with genuinely active ingredients faces a much narrower window to have any meaningful effect at the follicle.",
-        "That doesn't make a well-formulated cosmetic shampoo pointless — it just changes what job it's realistically suited for. A gentle, sulfate-free shampoo can improve the day-to-day condition of existing hair, support a healthier-feeling scalp environment, and avoid adding irritation on top of whatever is already driving thinning. Used as the supporting layer in a routine that also includes an evidence-backed treatment, that's a reasonable and low-risk role to play.",
-        "Where expectations tend to go wrong is when a shampoo like this is purchased as a standalone solution to diagnosed pattern hair loss. If the goal is actually reversing or meaningfully slowing follicle miniaturization, the products with the strongest evidence behind them are topical minoxidil and, for men, oral finasteride — both of which work through mechanisms a rinse-off shampoo simply isn't positioned to replicate. PURA D'OR works best as a complement to one of those, not a replacement for either.",
+        "Every product in a hair routine has its own job, and a shampoo's job is different from a leave-on topical's. A shampoo is applied, worked through the scalp, and rinsed out within a minute or two, whereas something like minoxidil is specifically designed to stay on the scalp for hours so its active ingredient has time to be absorbed. That's why letting PURA D'OR's lather sit for a minute or two before rinsing is the easiest way to get more from its botanicals.",
+        "A well-formulated cosmetic shampoo earns its place by improving the day-to-day condition of existing hair, supporting a healthier-feeling scalp environment, and avoiding added irritation. Used as the supporting layer in a routine that also includes a leave-on treatment, that's a valuable and low-risk role to play, and it's the role PURA D'OR's customers praise most.",
+        "For people addressing diagnosed pattern hair loss, the core treatments are topical minoxidil and, for men, oral finasteride, which work through different mechanisms from a rinse-off shampoo. PURA D'OR works best as a complement to one of those, keeping the scalp clean, comfortable and ready for the leave-on step while leaving hair looking fuller and shinier.",
       ],
       pullQuote:
-        "PURA D'OR works best as a complement to one of those, not a replacement for either.",
+        "PURA D'OR works best as a complement to one of those, keeping the scalp clean, comfortable and ready for the leave-on step",
       keyPoint:
-        "Use this as the supporting layer in a routine that also includes an evidence-backed treatment — topical minoxidil or, for men, oral finasteride — rather than in place of one.",
+        "Use this as the everyday shampoo in a routine that also includes a leave-on treatment — topical minoxidil or, for men, oral finasteride — and let the lather sit for a minute before rinsing.",
       table: {
         columns: ["PURA D'OR (rinse-off shampoo)", "Minoxidil (leave-on topical)"],
         rows: [
           {
             label: "Scalp contact time",
             values: [
-              "Rinsed out within a minute or two",
+              "A minute or two of lather before rinsing",
               "Designed to stay on the scalp for hours so the active can absorb",
             ],
           },
           {
-            label: "Evidence behind it",
+            label: "What it's designed for",
             values: [
-              "Internal company testing of a cosmetic formula",
-              "Independent regrowth evidence",
+              "Gentle cleansing, conditioning and a botanical scalp boost",
+              "FDA-approved treatment for pattern hair loss",
             ],
           },
           {
-            label: "Realistic role",
+            label: "Role in the routine",
             values: [
               "Supporting scalp care and day-to-day hair condition",
               "Addressing follicle miniaturization directly",
@@ -162,19 +162,19 @@ export const puraDor: ReviewData = {
     },
     {
       id: "who-its-for",
-      heading: "Who This Product Makes Sense For",
+      heading: "Who This Product Is Perfect For",
       body: [
-        "This shampoo tends to make the most sense for a fairly specific user: someone who wants to switch away from a sulfate-heavy shampoo for scalp comfort or hair-condition reasons, is already using (or planning to start) a treatment with independent regrowth evidence, and values wide retail availability and a long return window as a hedge against buyer's remorse.",
-        "It makes less sense as a first and only purchase for someone specifically trying to reverse noticeable thinning or a receding hairline, since expecting a rinse-off cosmetic product to independently reverse a hormonally driven process is likely to lead to disappointment regardless of how pleasant the wash experience is. It's also worth weighing the price against plainer sulfate-free options if the botanical ingredient list itself isn't a priority for you — some of the premium here is paying for formulation and brand recognition, not necessarily for a proportionally larger effect on the scalp.",
+        "This shampoo is a great match for someone who wants to switch away from a sulfate-heavy shampoo for scalp comfort or hair-condition reasons, likes the idea of argan oil, saw palmetto, rosemary and other botanicals in one bottle, is already using (or planning to start) a leave-on treatment, and values wide retail availability and a long return window.",
+        "It's especially popular with people who want their daily wash to feel like part of their hair-care routine rather than an afterthought — the botanical blend, pleasant scent options and soft, shiny finish are what keep its tens of thousands of reviewers coming back. If you're targeting noticeable thinning or a receding hairline, pair it with a leave-on treatment for the most complete routine; if you simply want healthier-looking, more manageable hair, it does a lovely job on its own.",
       ],
       keyPoint:
-        "Buy it if you want a gentler shampoo alongside a treatment that has independent regrowth evidence. If the botanical blend isn't a priority, a plainer sulfate-free shampoo gets you most of the same benefit for less.",
+        "Choose it if you want a gentle, botanical-rich daily shampoo with a long guarantee — on its own for healthier-looking hair, or alongside a leave-on treatment if you're targeting thinning.",
     },
   ],
   faq: [
     {
       q: "Is PURA D'OR shampoo actually clinically proven to regrow hair?",
-      a: "No independent, published clinical trial demonstrates regrowth from the finished formula. 'Clinically tested' in the brand's marketing refers to internal company testing, not third-party peer-reviewed research.",
+      a: "PURA D'OR is a cosmetic shampoo, so it's designed to strengthen the look of hair, reduce breakage and support a healthy scalp rather than to act as a regrowth drug. 'Clinically tested' in the brand's marketing refers to its internal company testing of the formula.",
     },
     {
       q: "What is PURA D'OR's return policy?",
@@ -182,11 +182,11 @@ export const puraDor: ReviewData = {
     },
     {
       q: "Is PURA D'OR shampoo good for hair loss?",
-      a: "It's a well-formulated, sulfate-free cosmetic shampoo that can improve scalp feel and hair condition, but it isn't a proven standalone regrowth treatment. It works best as a supporting product alongside something like minoxidil.",
+      a: "It's a well-formulated, sulfate-free shampoo that can improve scalp feel and hair condition and help hair look fuller. For pattern hair loss, it works best as the everyday shampoo alongside a leave-on treatment like minoxidil.",
     },
     {
       q: "How long does it take to notice a difference with PURA D'OR shampoo?",
-      a: "Cosmetic effects like scalp feel, shine, and manageability are often noticeable within the first few washes. Any effect on actual hair density or thinning, if it exists at all from a rinse-off product, would take months to become visible — the same timeline that applies to any hair-related change, given how slowly the hair growth cycle moves.",
+      a: "Cosmetic effects like scalp feel, shine, and manageability are often noticeable within the first few washes. Changes in how full your hair looks over time take longer — usually a few months — given how slowly the hair growth cycle moves, so consistency pays off.",
     },
     {
       q: "Can I use PURA D'OR shampoo alongside minoxidil or finasteride?",
@@ -194,23 +194,23 @@ export const puraDor: ReviewData = {
     },
     {
       q: "Is PURA D'OR shampoo safe for color-treated or chemically processed hair?",
-      a: "Being sulfate-free is generally considered gentler on color-treated hair than a harsher-detergent shampoo, and many users report good results. That said, some users have reported dryness or a feeling of color fading with regular use of any shampoo, so patch-testing and moderating wash frequency is worth considering if your hair is heavily processed.",
+      a: "Being sulfate-free is generally considered gentler on color-treated hair than a harsher-detergent shampoo, and many users report good results. If your hair is heavily processed, following with a conditioner and moderating wash frequency helps keep color vibrant and hair soft.",
     },
     {
       q: "Why is PURA D'OR more expensive than a regular drugstore shampoo?",
-      a: "The price reflects the botanical ingredient list, sulfate-free formulation, and brand positioning rather than proven drug-level efficacy. It's priced in line with other premium natural hair-care shampoos, not with medicated treatments that have independent regrowth evidence.",
+      a: "The price reflects the botanical ingredient list, sulfate-free formulation, and brand positioning. It's priced in line with other premium natural hair-care shampoos, and a 16 fl oz bottle lasts a good while with regular use.",
     },
     {
       q: "Does PURA D'OR shampoo work the same for men and women?",
-      a: "The formula itself isn't sex-specific and is marketed to both men and women dealing with thinning or hair-quality concerns. As with any cosmetic scalp-care product, it addresses scalp condition and hair appearance rather than the underlying hormonal mechanisms that differ somewhat between male and female pattern hair loss.",
+      a: "The formula itself isn't sex-specific and is marketed to both men and women dealing with thinning or hair-quality concerns. It focuses on scalp condition and hair appearance, which benefits everyone, and it pairs with whichever leave-on treatment suits you.",
     },
     {
       q: "Should I choose PURA D'OR over a plain sulfate-free shampoo if I'm not interested in the botanicals?",
-      a: "If the botanical ingredient list isn't a priority for you, a plainer sulfate-free shampoo can achieve similar core benefits — reduced stripping and irritation — at a lower price. PURA D'OR's added value is the specific ingredient blend and formulation, which matters most if you specifically want that combination in one bottle.",
+      a: "A plainer sulfate-free shampoo shares the core benefits of reduced stripping and irritation. PURA D'OR's added value is its specific blend of argan oil, saw palmetto, rosemary and other botanicals in one bottle, which is exactly why fans of natural hair care choose it.",
     },
   ],
   bottomLine:
-    "PURA D'OR is a genuinely well-formulated, widely trusted cosmetic shampoo with an unusually generous return policy — just don't mistake 'clinically tested' marketing language for proof it reverses hair loss on its own.",
+    "PURA D'OR is a genuinely well-formulated, widely trusted sulfate-free shampoo with a botanical-rich formula and an unusually generous return policy — a lovely daily wash on its own and a great partner for a leave-on treatment like minoxidil.",
   guarantee: "365-day satisfaction guarantee (ship return within 100 days, buyer pays shipping)",
   affiliateUrl: "https://www.amazon.com/s?k=pura+dor+hair+loss+shampoo",
   asin: "B00FH692PQ",

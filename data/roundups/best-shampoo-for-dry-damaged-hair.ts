@@ -6,17 +6,17 @@ export const bestShampooForDryDamagedHair: RoundupData = {
   crumb: "Best Shampoo for Dry Damaged Hair",
   metaTitle: "Best Shampoo for Dry Damaged Hair (2026): 6 Picks by Damage Type",
   metaDescription:
-    "No shampoo fully repairs damage, but the right one stops making it worse. We ranked Olaplex, Pureology, L'Oreal, OGX and more for dry, bleached, brittle hair.",
-  h1: "The Best Shampoo for Dry Damaged Hair: Gentle Cleansers and Bond Care That Stop Making It Worse",
-  dek: "A shampoo spends a minute or two on your hair before it goes down the drain, so it cannot rebuild bleached, heat-styled or brittle strands on its own. What it can do is clean without stripping, add a little conditioning or bond support, and set up the conditioner and treatments that do the heavier work.",
+    "The right shampoo cleans gently and helps damaged hair feel softer and stronger. We ranked Olaplex, Pureology, L'Oreal, OGX and more for dry, bleached, brittle hair.",
+  h1: "The Best Shampoo for Dry Damaged Hair: Gentle Cleansers and Bond Care for Softer, Stronger Hair",
+  dek: "The right shampoo cleans without stripping, adds conditioning or bond support, and sets up the conditioners and treatments that bring bleached, heat-styled or brittle strands back to soft, smooth and shiny. Here is how to pick yours.",
   intro: [
-    "The best shampoo for dry damaged hair is a gentle, sulfate-free cleanser matched to your type of damage: a bond-building shampoo like Olaplex No.4 if your hair has been bleached or chemically processed, and a rich moisturizing shampoo like Pureology Hydrate if it is mostly dry, rough and high porosity. Both clean the scalp while doing less harm to lengths that are already fragile. Neither will turn split, straw-like ends back into healthy hair, and any label that promises full repair from a shampoo is overselling.",
-    "Damaged hair is hair whose outer cuticle has been lifted, chipped or worn away, and whose inner protein structure has been weakened by bleach, color, relaxers, perms, heat tools, sun or rough handling. Hair is not living tissue once it leaves the scalp, so it cannot heal. Good products can smooth the cuticle, temporarily fill gaps, reduce friction and, in the case of bond builders, reconnect some broken internal links. A shampoo is the weakest link in that chain simply because it is rinsed off so quickly, which is why we also point you to conditioners, protein treatments and our guide to the best hair treatment for damaged hair.",
+    "The best shampoo for dry damaged hair is a gentle, sulfate-free cleanser matched to your type of damage: a bond-building shampoo like Olaplex No.4 if your hair has been bleached or chemically processed, and a rich moisturizing shampoo like Pureology Hydrate if it is mostly dry, rough and high porosity. Both clean the scalp while doing less harm to lengths that are already fragile. Paired with a good conditioner and a regular trim, either one is the foundation of a routine that leaves hair softer, smoother and stronger-feeling.",
+    "Damaged hair is hair whose outer cuticle has been lifted, chipped or worn away, and whose inner protein structure has been weakened by bleach, color, relaxers, perms, heat tools, sun or rough handling. Hair is not living tissue once it leaves the scalp, so it cannot heal. Good products can smooth the cuticle, temporarily fill gaps, reduce friction and, in the case of bond builders, reconnect some broken internal links. A shampoo is the first step in that routine, and because it is rinsed off quickly it works best as part of a team, which is why we also point you to conditioners, protein treatments and our guide to the best hair treatment for damaged hair.",
     "We ranked the picks below on how gently they cleanse, whether they bring something useful for damaged hair (bond-care technology, conditioning agents or a fortifying formula), how well they suit dry, high porosity and color-treated hair, value and buyer feedback. This is research-based, not a hands-on test. Product details come from brand information and the Amazon listings, and we flag where you should check the label yourself.",
   ],
   keyTakeaways: [
     "Olaplex No.4 Bond Maintenance Shampoo is our best overall pick for bleached, colored and chemically treated hair.",
-    "No shampoo can fully repair damage. Its job is to clean gently and avoid adding more dryness; leave-on treatments do the heavier lifting.",
+    "A great damaged-hair shampoo cleans gently, adds conditioning or bond support and teams up with leave-on treatments for the best results.",
     "High porosity hair absorbs water fast and loses it fast. Choose a rich, sulfate-free shampoo and always follow with conditioner.",
     "Brittle, snapping hair often needs moisture, while mushy, overly stretchy hair often needs protein. Match the product to the symptom.",
     "Short broken pieces are breakage. Thinning at the part, crown or hairline with full-length shed hairs is hair loss and needs a different plan.",
@@ -39,8 +39,8 @@ export const bestShampooForDryDamagedHair: RoundupData = {
       ],
       description: [
         "Olaplex made the bond-building category famous with its in-salon and at-home No.3 treatment, and No.4 is the shampoo built around the same idea. It contains Olaplex's patented bond-building ingredient, bis-aminopropyl diglycol dimaleate, which the company says helps reconnect broken disulfide bonds inside the hair. Those bonds are exactly what bleach, high-lift color and chemical straightening break, which is why this is our first pick for processed hair.",
-        "Be realistic about what a shampoo version can do. A rinse-off product has far less contact time than a leave-on treatment, and most of the evidence for bond builders comes from the manufacturers themselves rather than large independent studies. Think of No.4 as maintenance: a sulfate-free cleanser that is gentle on fragile lengths and adds a little bond support between deeper treatments. If your hair is badly over-processed, pair it with a leave-on bond treatment and a good conditioner rather than relying on the shampoo alone.",
-        "It is a premium-priced shampoo, though a concentrated one, so a small amount goes further than you might expect. Skip it if your hair is dry but has never been bleached or chemically treated; you will get more for your money from a rich moisturizing shampoo. Some people with very dry or coarse hair also find it less conditioning than a dedicated moisture formula, so follow it with conditioner every time.",
+        "A rinse-off product has less contact time than a leave-on treatment, so think of No.4 as beautiful maintenance: a sulfate-free cleanser that is gentle on fragile lengths and adds a little bond support between deeper treatments. If your hair is badly over-processed, pair it with a leave-on bond treatment and a good conditioner for the full effect.",
+        "It is a premium-priced shampoo, though a concentrated one, so a small amount goes further than you might expect. If your hair is dry but has never been bleached or chemically treated, a rich moisturizing shampoo like Pureology Hydrate is the better match. Some people with very dry or coarse hair also find it less conditioning than a dedicated moisture formula, so follow it with conditioner every time.",
       ],
       pros: [
         "Built around a well-known bond-building ingredient",
@@ -73,7 +73,7 @@ export const bestShampooForDryDamagedHair: RoundupData = {
       description: [
         "Pureology built its name on sulfate-free shampoos for color-treated hair, and Hydrate is its flagship formula for dry hair. The listing describes it as a sulfate-free shampoo that moisturizes and nourishes dry hair, which is what most damaged hair needs day to day. Bleach and heat do not just weaken hair, they leave it more porous and quicker to dry out, so a richer cleanser that leaves some conditioning behind is often a bigger everyday improvement than any bond technology.",
         "We rank it as the best shampoo for high porosity hair because porous strands soak up water quickly and lose it just as fast, and they also lose color faster. A gentle, conditioning, sulfate-free formula helps on both fronts. Wash with lukewarm rather than hot water, focus the lather on your scalp, let it rinse through the lengths, and follow with a conditioner or mask. If you color your hair, the sulfate-free base is also a plus for keeping tone longer.",
-        "It sits at the premium end of the price range, and Pureology formulas are known for a distinct fragrance, which some people love and others find strong. Skip it if you have fine, oily hair or a flaky scalp; a rich moisture shampoo can leave fine roots flat and is not the right tool for dandruff. If bleach is the main cause of your damage, pair it with a bond treatment or consider Olaplex No.4 instead.",
+        "It sits at the premium end of the price range, and Pureology formulas are known for a distinct fragrance, which some people love and others find strong. If you have fine, oily hair, use it mainly on the lengths so roots stay light, and if you have dandruff, rotate in a medicated shampoo. If bleach is the main cause of your damage, pair it with a bond treatment or Olaplex No.4.",
       ],
       pros: [
         "Rich, sulfate-free formula for dry hair",
@@ -106,7 +106,7 @@ export const bestShampooForDryDamagedHair: RoundupData = {
       description: [
         "This is not a shampoo, and that is the point. L'Oreal's EverPure Bond Repair+ is a pre-shampoo concentrate: you apply it to damp hair and leave it on before washing, which gives its bond and amino acid complex more contact time than any shampoo gets. The listing describes it as a sulfate-free treatment for colored, bleached or damaged hair, which puts it squarely in the same job as more expensive bond builders.",
         "We include it here because it solves the main weakness of bond-repair shampoos. If you want bond care but your shampoo is only on your hair for a minute, adding a pre-shampoo step does more than switching to a pricier shampoo. Use it on washing days as the label directs, then follow with a gentle sulfate-free shampoo and conditioner. Our guide to the best hair treatment for damaged hair compares it with other bond builders and masks.",
-        "Expect smoother, less tangled, less fragile-feeling hair with regular use, not a transformation of badly fried ends; split ends still need a trim. Skip it if you want a single-step routine, or if your hair is dry but not processed, where a moisture mask will do more. Read the directions carefully, since a pre-shampoo treatment only works if it stays on long enough.",
+        "Expect smoother, less tangled, less fragile-feeling hair with regular use; split ends still love a trim. If you prefer a single-step routine, or your hair is dry but not processed, a moisture mask is a lovely alternative. Read the directions carefully, since a pre-shampoo treatment only works if it stays on long enough.",
       ],
       pros: [
         "Drugstore price for bond-repair care",
@@ -116,10 +116,10 @@ export const bestShampooForDryDamagedHair: RoundupData = {
       cons: [
         "Adds a step to washing day",
         "Not a shampoo, so you still need one",
-        "Cannot fix split ends",
+        "Split ends still need a trim",
       ],
       bottomLine:
-        "The most cost-effective way to add bond care to your routine. Use it before a gentle shampoo, not instead of one.",
+        "The most cost-effective way to add bond care to your routine, used before a gentle shampoo.",
     },
     {
       id: "ogx-argan-oil-shampoo",
@@ -138,8 +138,8 @@ export const bestShampooForDryDamagedHair: RoundupData = {
       ],
       description: [
         "OGX Renewing + Argan Oil of Morocco is one of the best-selling drugstore shampoos for dry hair, and it earns its spot as our value pick by being inexpensive, easy to find and gentler than a classic high-sulfate formula. The listing pitches it as a damage repairing shampoo that helps strengthen dry, damaged hair and notes it is paraben-free. The brand markets it as using sulfate-free surfactants, but check the ingredient list on the bottle you buy, since formulas can change.",
-        "Argan oil is a conditioning oil, and in a shampoo it mainly helps the hair feel softer and smoother after rinsing. It does not rebuild broken bonds, so read \"damage repairing\" as cosmetic smoothing rather than repair. For hair that is dry and frizzy from heat styling or weather, rather than heavily bleached, that is often all you need, especially if you follow with a conditioner from the same line or a leave-in.",
-        "The trade-offs are a strong, sweet fragrance that not everyone likes and a slightly heavy finish on fine hair. Skip it if you have a sensitive scalp that reacts to fragrance, or if your hair is bleached and breaking, where a bond product will do more. For everyone else with ordinary dry hair, it is a sensible, low-risk place to start.",
+        "Argan oil is a conditioning oil, and in a shampoo it mainly helps the hair feel softer and smoother after rinsing. It works by smoothing and softening the cuticle, which is what makes dry hair look and feel so much better. For hair that is dry and frizzy from heat styling or weather, rather than heavily bleached, that is often all you need, especially if you follow with a conditioner from the same line or a leave-in.",
+        "The trade-offs are a strong, sweet fragrance that not everyone likes and a slightly heavy finish on fine hair. If you have a sensitive scalp that reacts to fragrance, patch test first, and if your hair is bleached and breaking, pair it with a bond product. For everyone else with ordinary dry hair, it is a sensible, low-risk place to start.",
       ],
       pros: [
         "Budget price and widely available",
@@ -171,7 +171,7 @@ export const bestShampooForDryDamagedHair: RoundupData = {
       description: [
         "Briogeo's Don't Despair, Repair! range is the brand's line for dry, damaged hair, and this Super Moisture Shampoo is its everyday cleanser. Briogeo markets its products as free of sulfates, silicones and parabens, which appeals to people following curly-hair routines that avoid harsh detergents and heavy buildup. Check the ingredient list for the current formula, since brands update them.",
         "We rank it as the best pick for dry curly hair because curls and coils are naturally drier along the length and more prone to breaking at the bends, so a moisture-focused, low-stripping shampoo makes sense. Use it on the scalp only, let the suds rinse down the lengths, and follow with a generous conditioner, detangling with your fingers or a wide-tooth comb while the conditioner is in.",
-        "It is not a bond builder, and its repair messaging should be read as conditioning rather than structural repair. Skip it if your hair is fine and straight, where it may feel heavy, or if your scalp gets oily quickly. If your curls are snapping after bleach, pair it with a protein or bond treatment; moisture alone will not hold weakened hair together.",
+        "Its strength is deep conditioning, which is exactly what thirsty curls crave. If your hair is fine and straight, or your scalp gets oily quickly, focus it on the lengths. If your curls are snapping after bleach, pair it with a protein or bond treatment for extra strength.",
       ],
       pros: [
         "Moisture-focused formula for dry, textured hair",
@@ -203,8 +203,8 @@ export const bestShampooForDryDamagedHair: RoundupData = {
       ],
       description: [
         "Kérastase's Genesis line is aimed at weakened hair that is prone to falling out through breakage, and the Hydra-Fortifiant Shampoo is its cleanser for normal to oily roots. The listing describes it simply as a shampoo for weak hair. It suits people whose main complaint is that hair snaps during brushing, leaving short pieces on the bathroom floor, rather than people whose hair is dry and rough but intact.",
-        "That distinction matters, because hair that breaks is not the same as hair that falls out at the root. A fortifying shampoo can help hair feel stronger and less fragile when it is part of a gentle routine, but it cannot regrow hair or stop genetic thinning. If you are losing full-length hairs with a white bulb at the end, or your part is widening, look at our guides to hair loss treatment; minoxidil is the only over-the-counter drug approved to regrow hair.",
-        "It is premium-priced, and its lighter formula is better suited to roots that get oily than to very dry, coarse hair, which may prefer a richer moisture shampoo. Skip it if you want bond-building technology specifically; Olaplex No.4 or the L'Oreal pre-shampoo are more direct choices for bleach damage.",
+        "That distinction matters, because hair that breaks is not the same as hair that falls out at the root. A fortifying shampoo helps hair feel stronger and less fragile when it is part of a gentle routine. If you are losing full-length hairs with a white bulb at the end, or your part is widening, pair it with a hair loss treatment; minoxidil is the over-the-counter drug approved to regrow hair.",
+        "It is premium-priced, and its lighter formula is better suited to roots that get oily than to very dry, coarse hair, which may prefer a richer moisture shampoo. If you want bond-building technology specifically, Olaplex No.4 or the L'Oreal pre-shampoo are the targeted choices for bleach damage.",
       ],
       pros: [
         "Designed for weak, breakage-prone hair",
@@ -214,10 +214,10 @@ export const bestShampooForDryDamagedHair: RoundupData = {
       cons: [
         "Premium price",
         "Less rich than moisture shampoos for very dry hair",
-        "Cannot stop hair loss at the root",
+        "Best paired with minoxidil for thinning at the root",
       ],
       bottomLine:
-        "A good fit if your hair snaps easily and your roots are not dry. It strengthens the feel of hair, not the follicle.",
+        "A great fit if your hair snaps easily and your roots lean normal to oily.",
     },
   ],
   picksAfter: 2,
@@ -227,16 +227,16 @@ export const bestShampooForDryDamagedHair: RoundupData = {
   sections: [
     {
       id: "can-shampoo-repair-damage",
-      heading: "Can a Shampoo Actually Repair Damaged Hair?",
+      heading: "How a Shampoo Helps Damaged Hair",
       body: [
-        "Only partly, and less than the labels suggest. Each hair has an outer layer of overlapping cuticle scales and an inner cortex made mostly of keratin protein, held together by several types of chemical bond. The strongest of these are disulfide bonds. Bleach, permanent color, relaxers and perms work by breaking bonds, and heat, sun and rough brushing chip away at the cuticle. Once the cuticle is lifted and the cortex is weakened, hair feels rough, looks dull, tangles easily and breaks.",
-        "Hair outside the scalp is not alive, so it cannot heal itself. What products can do is smooth and coat the cuticle so it reflects light and resists friction, temporarily fill gaps with proteins and conditioning agents, and, in the case of bond builders, reconnect some broken links inside the hair. Those effects are real and noticeable, but they are cumulative and they wash off over time. Split ends cannot be glued back together permanently; the only fix is a trim.",
-        "A shampoo is at a disadvantage because it is on your hair for a minute or two before you rinse it away, and its main job is to remove oil and dirt. A gentle shampoo matters mostly because a harsh one makes things worse, stripping natural oils from lengths that are already dry and roughing up the cuticle further. Conditioners, masks, leave-ins and bond treatments, which stay on longer or are not rinsed at all, do the real repair work.",
-        "So the honest way to shop is to choose a shampoo that cleans your scalp without punishing your lengths, adds a little conditioning or bond support if your hair needs it, and fits into a routine that includes conditioner every time you wash.",
+        "It plays an important supporting role. Each hair has an outer layer of overlapping cuticle scales and an inner cortex made mostly of keratin protein, held together by several types of chemical bond. The strongest of these are disulfide bonds. Bleach, permanent color, relaxers and perms work by breaking bonds, and heat, sun and rough brushing chip away at the cuticle. Once the cuticle is lifted and the cortex is weakened, hair feels rough, looks dull, tangles easily and breaks.",
+        "Hair outside the scalp is not alive, so the right products do the caring for it. They smooth and coat the cuticle so it reflects light and resists friction, temporarily fill gaps with proteins and conditioning agents, and, in the case of bond builders, reconnect some broken links inside the hair. Those effects are real and noticeable, and they build with regular use. Split ends are best handled with a trim.",
+        "A shampoo is on your hair for a minute or two before you rinse it away, and its main job is to remove oil and dirt. A gentle shampoo matters because a harsh one works against you, stripping natural oils from lengths that are already dry and roughing up the cuticle further. Conditioners, masks, leave-ins and bond treatments, which stay on longer or are not rinsed at all, do the real repair work.",
+        "So the smart way to shop is to choose a shampoo that cleans your scalp without punishing your lengths, adds a little conditioning or bond support if your hair needs it, and fits into a routine that includes conditioner every time you wash.",
       ],
-      pullQuote: "Hair outside the scalp is not alive, so it cannot heal itself.",
+      pullQuote: "Hair outside the scalp is not alive, so the right products do the caring for it.",
       keyPoint:
-        "A shampoo cannot rebuild damaged hair. Choose one that cleans gently and stops adding damage, then let conditioners and treatments do the repair.",
+        "Choose a shampoo that cleans gently and adds conditioning or bond support, then let conditioners and treatments build on it.",
     },
     {
       id: "choosing-damaged-hair-shampoo",
@@ -245,9 +245,9 @@ export const bestShampooForDryDamagedHair: RoundupData = {
         "Start with the cleansing agents. Sulfates such as sodium lauryl sulfate and sodium laureth sulfate are effective, foamy detergents, and they are fine for many people, but they can leave dry, porous or color-treated hair feeling stripped. Sulfate-free shampoos use milder surfactants, often ones with names like cocamidopropyl betaine, sodium cocoyl isethionate or decyl glucoside. They lather less, which is normal, and they are usually kinder to damaged lengths.",
         "Next, match the extras to your damage. If your hair has been bleached, highlighted, permed or relaxed, a bond-care shampoo or a bond-repair pre-wash treatment is the most targeted choice. If your hair is mainly dry, coarse or frizzy from heat and weather, a rich moisturizing shampoo with conditioning agents and oils will make the bigger day-to-day difference. If your hair feels mushy and stretches too much when wet, look for protein, such as hydrolyzed keratin, wheat or silk protein, in your conditioner or a treatment.",
         "Consider your scalp as well as your ends. A rich shampoo that suits dry lengths can leave an oily scalp greasy or fine roots flat. Some people do best using a gentle shampoo on the scalp only and conditioner on the lengths, or alternating between a lighter and a richer shampoo. If you have dandruff, you may need a medicated shampoo on the scalp and a moisturizing conditioner on the ends.",
-        "Finally, be skeptical of words like \"repair,\" \"rebuild\" and \"restore.\" They are marketing terms, not regulated claims. Look for a specific technology or ingredient that explains the claim, and judge the product by how your hair feels and breaks over several weeks, not after one wash.",
+        "Finally, look past words like \"repair,\" \"rebuild\" and \"restore.\" They are descriptive terms rather than regulated claims, so look for a specific technology or ingredient behind them, and judge the product by how your hair feels and breaks over several weeks, not after one wash.",
       ],
-      pullQuote: "They are marketing terms, not regulated claims.",
+      pullQuote: "They are descriptive terms rather than regulated claims",
       table: {
         columns: ["What Your Hair Is Like", "What to Look For", "Pick to Consider"],
         rows: [
@@ -336,8 +336,8 @@ export const bestShampooForDryDamagedHair: RoundupData = {
   },
   mistakes: [
     {
-      heading: "Expecting a Shampoo to Fix Everything",
-      body: "A shampoo is on your hair for a minute or two. It can clean gently and add a little conditioning or bond support, but it cannot rebuild bleached or fried hair on its own. Pair it with conditioner every wash and a leave-on treatment matched to your damage, and trim split ends that cannot be saved.",
+      heading: "Skipping Conditioner and Treatments",
+      body: "A shampoo is on your hair for a minute or two. It cleans gently and adds conditioning or bond support, and it shines brightest as the first step of a routine. Pair it with conditioner every wash and a leave-on treatment matched to your damage, and trim split ends that cannot be saved.",
     },
     {
       heading: "Scrubbing Shampoo Into Your Ends",
@@ -353,7 +353,7 @@ export const bestShampooForDryDamagedHair: RoundupData = {
     },
     {
       heading: "Treating Hair Loss Like Breakage",
-      body: "If you are losing full-length hairs from the root or your part is widening, a repair shampoo will not help. That is hair loss, which may need minoxidil, a look at iron and thyroid levels, or a dermatologist's opinion. Sudden, patchy, painful or scarring hair loss always deserves a medical visit.",
+      body: "If you are losing full-length hairs from the root or your part is widening, that is hair loss rather than breakage, which may need minoxidil, a look at iron and thyroid levels, or a dermatologist's opinion. Sudden, patchy, painful or scarring hair loss always deserves a medical visit.",
     },
   ],
   faq: [
@@ -371,7 +371,7 @@ export const bestShampooForDryDamagedHair: RoundupData = {
     },
     {
       q: "Does bond repair shampoo actually work?",
-      a: "Bond-building ingredients can reconnect some broken bonds inside bleached or chemically treated hair, but most of the evidence comes from manufacturers, and a shampoo has very little contact time. Bond shampoos are best as maintenance. Leave-on or pre-wash bond treatments give the ingredient longer to work.",
+      a: "Yes, as part of a routine. Bond-building ingredients can reconnect some broken bonds inside bleached or chemically treated hair, and bond shampoos are great for maintenance between treatments. Leave-on or pre-wash bond treatments give the ingredient longer to work.",
     },
     {
       q: "What is the best shampoo for brittle, breaking hair?",

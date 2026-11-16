@@ -16,7 +16,7 @@ export const howMuchHairLossIsNormalPerDay: QuestionData = {
     "Wash days and brushing sessions after a few days off can release several days' worth of loose hairs at once.",
     "Shed hairs have a small white bulb at the root; broken hairs do not, and breakage needs a different fix.",
     "A sudden, sustained increase in shedding, bald patches or a widening part is worth a doctor's visit.",
-    "Shampoo cannot stop normal shedding, but a gentle routine reduces breakage and makes thin hair look fuller.",
+    "Normal shedding is healthy, and a gentle shampoo routine reduces breakage and makes thin hair look fuller.",
   ],
   intro: [
     "How much hair loss is normal per day? More than most people think. Dermatologists generally put normal daily shedding at roughly 50 to 100 hairs, and losing that many is a sign that your hair cycle is working as it should, not that you are going bald. The trouble is that almost nobody counts their hair, so a single clump in the shower drain can feel like a crisis.",
@@ -91,14 +91,14 @@ export const howMuchHairLossIsNormalPerDay: QuestionData = {
     },
     {
       id: "what-shampoo-can-do",
-      heading: "What a Shampoo Can and Can't Do",
+      heading: "What a Good Shampoo Does for Shedding Worries",
       body: [
-        "No shampoo can stop normal shedding, and none can cure pattern hair loss or shedding from a medical cause. The hairs that come out in the shower had already finished their cycle before you picked up the bottle. Washing more or less often does not change how many hairs your follicles release.",
+        "Normal shedding is part of a healthy hair cycle, so the goal of a shampoo is not to stop it. The hairs that come out in the shower had already finished their cycle before you picked up the bottle, and washing more or less often does not change how many hairs your follicles release. Where a shampoo really earns its place is in how your hair looks and feels.",
         "What a good shampoo can do is make the hair you have look fuller and stay healthier. Thickening and volumizing shampoos clean the scalp without weighing fine hair down, and some coat the strands so they feel more substantial. A gentle, conditioning routine also reduces breakage, which often accounts for a surprising share of what looks like hair loss.",
         "If your hair is fine or thinning, a scalp-focused thickening shampoo such as NIOXIN System 2, our top pick for natural, non-color-treated hair, is a sensible place to start. Pair it with a lightweight conditioner on the lengths, not the roots, and avoid heavy oils at the scalp if your hair falls flat easily.",
-        "If you have true thinning, use the shampoo alongside a proven treatment rather than instead of one. For pattern hair loss, that means minoxidil, which is available over the counter for both men and women. For shedding after a trigger, it often means patience, a check of iron and thyroid levels, and gentle care while the cycle resets.",
+        "If you have true thinning, a thickening shampoo makes a great partner for a proven treatment. For pattern hair loss, that means minoxidil, which is available over the counter for both men and women. For shedding after a trigger, it often means patience, a check of iron and thyroid levels, and gentle care while the cycle resets.",
       ],
-      keyPoint: "Shampoo can make hair look fuller and reduce breakage, but it cannot change how many hairs your follicles shed.",
+      keyPoint: "A good shampoo makes hair look fuller and reduces breakage, which often accounts for much of what looks like hair loss.",
     },
     {
       id: "track-it",
@@ -143,7 +143,7 @@ export const howMuchHairLossIsNormalPerDay: QuestionData = {
     },
   ],
   bottomLine:
-    "Losing about 50 to 100 hairs a day is normal, and wash days can look worse because loose hairs collect between washes. Check whether lost hairs have a white bulb or are broken, track changes with monthly photos, and see a doctor for sudden sustained shedding, patches or a widening part. A good shampoo helps hair look fuller, not shed less.",
+    "Losing about 50 to 100 hairs a day is normal, and wash days can look worse because loose hairs collect between washes. Check whether lost hairs have a white bulb or are broken, track changes with monthly photos, and see a doctor for sudden sustained shedding, patches or a widening part. A good thickening shampoo helps hair look fuller and healthier along the way.",
   pillarSlug: "best-shampoo-for-thinning-hair",
   relatedQuestions: [
     "can-stress-cause-hair-loss",

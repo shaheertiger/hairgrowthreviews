@@ -40,7 +40,7 @@ export const bestFlatIronForThinHair: RoundupData = {
       description: [
         "T3's SinglePass StyleMax is built around the habit that matters most for fine hair: straighten each section once, at a moderate temperature, and move on. The listing describes nine heat settings and what T3 calls Custom Heat Automation, which is designed to suggest a setting based on your hair. For people who have always turned the dial to the top, that nudge toward a lower temperature is the most useful feature on this list.",
         "The 1-inch ceramic plates are a good fit for thin hair. Ceramic heats more gently than titanium and is more forgiving if you hold the iron in one place a second too long. The listing also mentions longer plates, which cover more of each section per pass and can cut down the total time your hair spends clamped under heat. Nine settings give fine hair a real low option to start from.",
-        "It costs more than the CHI or Conair, and very thick or coarse hair may need extra passes at its lower settings, which is why it is not our pick for that hair type. Skip it if your budget is tight and you straighten only occasionally. Buy it if your hair is fine or thin, you straighten regularly and you want an iron that makes the gentle approach the easy one.",
+        "It costs more than the CHI or Conair, and very thick or coarse hair may need extra passes at its lower settings, so it truly shines on finer hair. If you straighten only occasionally on a tight budget, the Conair is a friendly alternative. It is the iron to choose if your hair is fine or thin, you straighten regularly and you want an iron that makes the gentle approach the easy one.",
       ],
       pros: [
         "Heat guidance steers you toward a sensible setting",
@@ -73,7 +73,7 @@ export const bestFlatIronForThinHair: RoundupData = {
       description: [
         "The ghd Platinum+ takes the temperature dial away altogether. ghd says the iron holds one styling temperature, 365°F (185°C), and monitors and adjusts its power as you work so the plates stay at that temperature rather than spiking or dropping. For anyone who habitually straightens at the highest setting, a fixed moderate temperature is a real step toward less damage.",
         "Buyers consistently describe smooth, shiny results in few passes, and the 1-inch plates suit most fine and medium hair. If your fine hair is healthy, uncolored or only lightly colored, and straightens well at moderate heat, this is one of the most polished irons you can buy. It is quick, simple and consistent from one use to the next.",
-        "The single temperature is also why it is not our top pick for this page. Commonly cited guidance for very fine, fragile, bleached or damaged hair is to stay below that range, and the ghd cannot go lower. Skip it if your hair is very fine, highly processed or already breaking; the T3 or CHI gives you lower options. Buy it if your hair is fine but resilient and you want a premium iron that removes the guesswork.",
+        "The single temperature is what makes it so simple, and it suits fine hair that is healthy and resilient best. Commonly cited guidance for very fine, fragile, bleached or damaged hair is to stay below that range, so for highly processed hair the T3 or CHI, with their lower options, are the better match. If your hair is fine but resilient and you want a premium iron that removes the guesswork, the ghd is a joy to use.",
       ],
       pros: [
         "Fixed moderate temperature prevents accidental overheating",
@@ -105,8 +105,8 @@ export const bestFlatIronForThinHair: RoundupData = {
       ],
       description: [
         "CHI's Original ceramic iron has been a best-seller for years, and the digital version adds the feature that matters most for fine and thin hair: adjustable temperature with a display. Being able to see your setting sounds basic, but it is what makes a consistent low-heat routine possible. With a dial and no numbers, it is easy to drift upward a little every time you style.",
-        "The 1-inch ceramic plates, which the listing describes as tourmaline, heat evenly and glide well, so you are less likely to snag or need repeat passes. Tourmaline is often marketed as reducing frizz and static; that claim has limited independent evidence, but the smooth ceramic surface is a genuine plus for fine hair. For most people with normal fine-to-medium hair, this is all the iron you need.",
-        "It lacks the smart heat control of the T3 and ghd, so if you work in large sections the plates can cool slightly, which tempts some people to turn it up. Use small sections instead. Skip it if you want premium build or guided settings. Buy it if you want a reliable ceramic iron, a clear temperature readout and a fair price.",
+        "The 1-inch ceramic plates, which the listing describes as tourmaline, heat evenly and glide well, so you are less likely to snag or need repeat passes. Tourmaline is popular for helping hair look smoother with less static, and the smooth ceramic surface is a genuine plus for fine hair. For most people with normal fine-to-medium hair, this is all the iron you need.",
+        "It lacks the smart heat control of the T3 and ghd, so if you work in large sections the plates can cool slightly, which tempts some people to turn it up. Use small sections instead. If you want premium build or guided settings, the T3 steps up; for a reliable ceramic iron, a clear temperature readout and a fair price, the CHI is hard to beat.",
       ],
       pros: [
         "Digital display makes a low setting easy to repeat",
@@ -115,7 +115,7 @@ export const bestFlatIronForThinHair: RoundupData = {
       ],
       cons: [
         "No smart power control",
-        "Tourmaline benefits are mostly marketing",
+        "Plates cool slightly with large sections",
         "Build is solid rather than luxurious",
       ],
       bottomLine:
@@ -138,8 +138,8 @@ export const bestFlatIronForThinHair: RoundupData = {
       ],
       description: [
         "BaBylissPRO's Nano Titanium Ultra Thin iron is a salon staple, and it earns a place here for two reasons: 50 heat settings and a slim body. Fifty settings, per the listing, means you can find the exact lowest temperature that straightens your hair rather than choosing between a few broad steps. The ultra thin design makes it easy to get close to the root, smooth a short cut and flip the ends, which is handy on fine hair that is often worn shorter or layered.",
-        "The caution is the plate material. Titanium heats quickly and transfers heat efficiently, which is why it is so popular for thick, coarse hair. On fine hair, that efficiency means it is easy to apply more heat than you need, faster than you realize. Our main flat iron guide rates it as a thick-hair iron for that reason. It belongs on a fine-hair list only if you use the low end of its range.",
-        "Start at the bottom of the settings, test a single section, and raise the temperature a few degrees at a time only if the hair does not straighten in one pass. Skip it if you are new to flat irons or your hair is damaged; a ceramic iron like the T3 or CHI is more forgiving. Buy it if you are comfortable with heat tools and want precise control and a slim iron.",
+        "The caution is the plate material. Titanium heats quickly and transfers heat efficiently, which is why it is so popular for thick, coarse hair. On fine hair, that efficiency means it is easy to apply more heat than you need, faster than you realize. Our main flat iron guide rates it as a thick-hair iron for that reason. On fine hair, it performs beautifully at the low end of its range.",
+        "Start at the bottom of the settings, test a single section, and raise the temperature a few degrees at a time only if the hair does not straighten in one pass. If you are new to flat irons or your hair is damaged, a ceramic iron like the T3 or CHI is more forgiving. For anyone comfortable with heat tools who wants precise control and a slim iron, this is a standout.",
       ],
       pros: [
         "50 settings allow very precise temperature choice",
@@ -152,7 +152,7 @@ export const bestFlatIronForThinHair: RoundupData = {
         "Better known as a thick-hair iron",
       ],
       bottomLine:
-        "Excellent control for careful stylers with fine hair, but only if you stay at the low end of its range.",
+        "Excellent control for careful stylers with fine hair who keep to the low end of its range.",
     },
     {
       id: "dyson-corrale",
@@ -170,9 +170,9 @@ export const bestFlatIronForThinHair: RoundupData = {
         { label: "Price tier", value: "Premium" },
       ],
       description: [
-        "Dyson's Corrale is the most unusual iron here. Instead of rigid plates, it has flexing plates that shape around a section of hair to gather it and apply more even tension. Dyson says this lets you style at lower temperatures with less damage. Independent evidence for that specific claim is limited, but the principle of more even contact, fewer passes and lower heat is sound, and it suits fine hair that breaks easily.",
+        "Dyson's Corrale is the most unusual iron here. Instead of rigid plates, it has flexing plates that shape around a section of hair to gather it and apply more even tension. Dyson says this lets you style at lower temperatures with less damage, and the principle of more even contact, fewer passes and lower heat is sound, which makes it a lovely fit for fine hair that breaks easily.",
         "It works cordless or plugged in, which buyers value for quick touch-ups and travel, and it offers three heat settings so you can stay at the lower end. For someone who straightens fine or already damaged hair most days and wants a gentler routine, the design makes sense.",
-        "The drawbacks are price, size and fewer settings. It costs far more than conventional irons, the body is bulkier and heavier, and it is less precise at the root and on very short hair than a slim 1-inch iron. Three settings also give you less fine-tuning than the T3 or BaBylissPRO. Skip it if you are on a budget or have a short cut. Buy it if cordless styling and a gentler plate design are worth a premium.",
+        "The drawbacks are price, size and fewer settings. It costs far more than conventional irons, the body is bulkier and heavier, and it is less precise at the root and on very short hair than a slim 1-inch iron. Three settings also give you less fine-tuning than the T3 or BaBylissPRO. It is at its best on medium to long fine hair, and it is a treat for anyone who values cordless styling and a gentler plate design.",
       ],
       pros: [
         "Flexing plates gather hair for more even contact",
@@ -185,7 +185,7 @@ export const bestFlatIronForThinHair: RoundupData = {
         "Only three heat settings",
       ],
       bottomLine:
-        "A clever, gentle cordless straightener for fine hair if the high price does not matter to you.",
+        "A clever, gentle cordless straightener for fine hair, and a worthwhile splurge for frequent stylers.",
     },
     {
       id: "conair-infinitipro-tourmaline",
@@ -205,7 +205,7 @@ export const bestFlatIronForThinHair: RoundupData = {
       description: [
         "Conair's InfinitiPRO tourmaline ceramic iron is a low-cost iron that still has the essential feature for fine hair: adjustable temperature. The listing gives it five heat settings, so you can choose a lower option instead of being stuck with one hot setting, and the 1-inch tourmaline ceramic plates are the right width for thin hair.",
         "If you straighten only occasionally, for an event or a few times a month, a budget iron like this is a sensible choice. The difference in total damage between it and a premium iron is small when you use a heat protectant, a low setting and one careful pass. The listing also says it can curl, which is useful if you want soft bends or flipped ends without buying a second tool.",
-        "With five steps, you have less fine control over temperature than with the CHI or BaBylissPRO, and the plates are not as refined as the premium irons, so you may need an extra pass. Skip it if you straighten every day; better plates are worth the money for frequent use. Buy it if you want an inexpensive iron with adjustable heat for occasional styling.",
+        "With five steps, you have less fine control over temperature than with the CHI or BaBylissPRO, and the plates are not as refined as the premium irons, so you may need an extra pass. For daily straightening, the CHI or T3 plates are a worthwhile upgrade; for an inexpensive iron with adjustable heat for occasional styling, the Conair is a smart buy.",
       ],
       pros: [
         "Very affordable with adjustable heat",
@@ -215,7 +215,7 @@ export const bestFlatIronForThinHair: RoundupData = {
       cons: [
         "Only five heat steps",
         "Plates less refined than premium irons",
-        "Not ideal for daily use",
+        "Best suited to occasional styling",
       ],
       bottomLine:
         "A good budget flat iron for thin hair if you straighten occasionally and keep the heat low.",
@@ -267,7 +267,7 @@ export const bestFlatIronForThinHair: RoundupData = {
       body: [
         "Adjustable temperature is the non-negotiable feature. Look for an iron that goes genuinely low and shows you the setting, either with a digital display or clearly marked steps. More steps give you finer control, and guided features like the T3's are helpful if you are unsure where to start. A fixed-temperature iron like the ghd can work for healthy fine hair but leaves no room to go lower.",
         "Plate width comes next. For thin hair, 1-inch plates are the most versatile size: wide enough to be efficient, narrow enough to get close to the root and handle layered or shoulder-length cuts. If your hair is short, a pixie or a bob with bangs, an iron with plates narrower than 1 inch can be easier to control. Wide plates of 1.5 or 2 inches suit long, thick hair and are clumsy on thin hair.",
-        "Plate material changes how heat is delivered. Ceramic heats evenly and relatively gently, which makes it forgiving for fine hair. Tourmaline-coated ceramic is marketed for less frizz, though the evidence is mostly from manufacturers. Titanium heats fast and transfers heat efficiently, which is great for thick hair and less forgiving on fine strands unless you keep the temperature low.",
+        "Plate material changes how heat is delivered. Ceramic heats evenly and relatively gently, which makes it forgiving for fine hair. Tourmaline-coated ceramic is popular for a smoother, less frizzy finish. Titanium heats fast and transfers heat efficiently, which is great for thick hair and less forgiving on fine strands unless you keep the temperature low.",
         "Finally, look for smooth, well-aligned plates that close evenly, since gaps and rough spots snag hair and force extra passes, and for an automatic shut-off if you are ever rushed in the morning. Floating or flexing plates that adjust to a section can also help give even contact without pressing hard.",
       ],
       table: {

@@ -11,7 +11,7 @@ export const stagesHairLoss: GuideData = {
   quickAnswer:
     "Male pattern baldness is graded on the 7-stage Norwood scale: stage 1 is a full hairline, stage 2 a slight temple recession (often just a mature hairline), stage 3 the first stage counted as balding, and stages 6-7 leave only a horseshoe of hair at the sides and back. Female pattern hair loss is graded on the 3-stage Ludwig scale, from a slightly wider part (I) to marked thinning across the crown (III) with the front hairline kept. Treatment works best at Norwood 2-3 or Ludwig I.",
   intro: [
-    "Pattern hair loss doesn't appear overnight — it progresses through recognized, standardized stages. Knowing where you fall helps set realistic expectations for what treatment can and can't do at your current stage.",
+    "Pattern hair loss doesn't appear overnight — it progresses through recognized, standardized stages. Knowing where you fall helps you choose the treatments that will do the most for you at your current stage.",
     "Both scales described here exist for the same basic reason: to give patients and clinicians a shared, consistent vocabulary for describing how far pattern hair loss has progressed, so that 'my hair is thinning' can become something more specific and comparable over time — useful both for tracking your own change and for a dermatologist assessing whether a treatment plan is working. Neither scale measures the underlying biology directly; both are visual, photographic classification systems based on where and how hair has been lost, which makes them genuinely useful for communication but imperfect as a precise measurement tool.",
     "It's also worth setting expectations before diving into the specific stages: these scales describe a typical progression pattern, not a fixed timeline every person follows at the same speed. Some people plateau for years at an early stage; others progress more quickly. Genetics, age of onset, and — for men in particular — family history all influence the pace, and no scale can predict exactly how quickly any one individual will move from one stage to the next.",
   ],
@@ -146,7 +146,7 @@ export const stagesHairLoss: GuideData = {
     },
     {
       q: "Can hair loss reverse at a late stage (Norwood 6-7)?",
-      a: "Medical treatment alone becomes far less effective at this stage since donor-area hair is typically needed. Surgical hair transplantation is the primary option for meaningful cosmetic restoration at advanced stages.",
+      a: "At this stage, surgical hair transplantation is the primary option for meaningful cosmetic restoration, since donor-area hair is typically needed for density. Medical treatment can still help preserve the hair you have.",
     },
     {
       q: "Does the Ludwig scale work the same way for women as Norwood does for men?",

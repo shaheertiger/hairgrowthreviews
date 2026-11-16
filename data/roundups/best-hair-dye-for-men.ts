@@ -8,11 +8,11 @@ export const bestHairDyeForMen: RoundupData = {
   metaDescription:
     "The best hair dye for men, from Just For Men and Control GX to L'Oreal Men Expert and American Crew, ranked on natural look, gray coverage and allergy safety.",
   h1: "The Best Hair Dye for Men: Natural-Looking Gray Coverage, Without the Shoe-Polish Look",
-  dek: "Men's hair color has split into three camps: full coverage, gray blending and gradual shampoos. The right pick depends on how much gray you want to keep, and on a skin allergy test most men skip.",
+  dek: "Men's hair color has split into three camps: full coverage, gray blending and gradual shampoos. The right pick depends on how much gray you want to keep, plus a quick skin allergy test before each use.",
   intro: [
     "The best hair dye for men is the one nobody notices. Most men coloring their hair are not trying to change it; they want to soften gray at the temples, take a few years off a salt-and-pepper beard, or simply look less tired, without a flat, uniform color that gives the game away the moment they walk into the office. That is a harder job than it sounds, and it is why men's hair color now comes in three distinct styles: full coverage dyes that replace gray entirely, blending dyes that deliberately leave some gray behind, and gradual shampoos that darken gray slowly over a couple of weeks.",
     "We ranked the products below on how natural the result tends to look, how well they cover or blend gray, how easy they are to apply at home without staining your bathroom, whether they suit beards as well as scalp hair, and how consistent verified buyer feedback is over time. This is a research-based ranking, not a hands-on test. We also looked closely at the safety side: nearly every permanent and demi-permanent dye in this category can trigger allergic reactions in some people, and the label's skin allergy test exists for a reason.",
-    "This page is specifically about men's gray coverage. If you are looking for a fashion shade, a big color change, or women's box dye, our guide to the best at-home hair color covers those. If you already color and want your shade to last, the best shampoo for color-treated hair is the companion read. And if your real concern is thinning rather than gray, dye can help in a limited way, which we explain below, but it is not a hair loss treatment.",
+    "This page is specifically about men's gray coverage. If you are looking for a fashion shade, a big color change, or women's box dye, our guide to the best at-home hair color covers those. If you already color and want your shade to last, the best shampoo for color-treated hair is the companion read. And if your real concern is thinning rather than gray, the right shade can make hair look fuller, which we explain below, alongside a treatment like minoxidil.",
   ],
   keyTakeaways: [
     "Just For Men Shampoo-In Color is the best overall pick: full gray coverage in a short application, in a wide range of natural shades.",
@@ -40,7 +40,7 @@ export const bestHairDyeForMen: RoundupData = {
       description: [
         "Just For Men Shampoo-In Color, the product long sold as Original Formula, is still the default answer for men who want gray gone. It is a permanent dye that you mix, work through the hair like a shampoo, leave for a few minutes and rinse out. The short processing time is the whole point: it is designed for men who want gray coverage done in the shower, not a salon-style hour in the bathroom. The shade range is broad, and the H-series numbers make it easy to rebuy the same color every time.",
         "Its strength is reliable, even coverage, and buyer feedback over many years backs that up. Its weakness is the flip side: full coverage can look flat if you choose a shade that is too dark, especially if you have a lot of gray. Pick the shade that matches your lightest natural hair, not your darkest, and leave it in for the minimum time on the first go.",
-        "Skip it if you want to keep some gray or if you have reacted to hair dye before. Like most permanent dyes, it relies on oxidative dye ingredients, so the 48-hour skin test on the label matters. It is also not the product for your beard; use the Mustache & Beard formula below.",
+        "If you want to keep some gray, Touch of Gray is the better match, and if you have reacted to hair dye before, check with a dermatologist first. Like most permanent dyes, it relies on oxidative dye ingredients, so the 48-hour skin test on the label matters. It is also not the product for your beard; use the Mustache & Beard formula below.",
       ],
       pros: [
         "Full, even gray coverage with a short processing time",
@@ -105,9 +105,9 @@ export const bestHairDyeForMen: RoundupData = {
         { label: "Kit", value: "1 application" },
       ],
       description: [
-        "L'Oreal's Men Expert range is the main mainstream alternative to Just For Men, and One Twist is its current permanent color for covering gray. Its selling point is the applicator: you twist to mix the color inside the bottle and apply directly, so there is no separate tray or bowl, and less chance of dye on the counter. If you have ever made a mess with a box dye, that matters more than any marketing claim on the box.",
+        "L'Oreal's Men Expert range is the main mainstream alternative to Just For Men, and One Twist is its current permanent color for covering gray. Its selling point is the applicator: you twist to mix the color inside the bottle and apply directly, so there is no separate tray or bowl, and less chance of dye on the counter. If you have ever made a mess with a box dye, you will love how tidy it is.",
         "The listing describes the formula as ammonia-free, which some men prefer because ammonia is responsible for the sharp smell of traditional dyes. Ammonia-free does not mean allergy-free, though. Permanent dyes still use oxidative dye ingredients, so the label's skin allergy test applies here just as it does to every other permanent color on this list.",
-        "Men who searched for L'Oreal Men Expert Cover 5 will find One Twist is the line now widely sold on Amazon. Skip it if you want a deliberately blended salt-and-pepper look, or if you only need to darken a few gray hairs at the temples; a comb-in or blending product is easier for that.",
+        "Men who searched for L'Oreal Men Expert Cover 5 will find One Twist is the line now widely sold on Amazon. If you want a deliberately blended salt-and-pepper look, or only need to darken a few gray hairs at the temples, a comb-in or blending product like Touch of Gray is even easier.",
       ],
       pros: [
         "Twist-to-mix applicator keeps application tidy",
@@ -140,7 +140,7 @@ export const bestHairDyeForMen: RoundupData = {
       description: [
         "Touch of Gray is built on a simple observation: a 50-year-old with no gray at all usually looks dyed. Instead of covering everything, it blends away part of the gray and deliberately leaves some behind, so you get a salt-and-pepper look that reads as natural. For many men, especially those with a lot of gray already, that is a more convincing result than full coverage.",
         "It uses a no-mix formula with a comb applicator, according to the listing, which makes it easy to concentrate on the areas you care about and lighten your touch elsewhere. Because the color is softer, regrowth at the roots is also less obvious than with a full-coverage permanent dye, which stretches the time between applications.",
-        "If you want gray completely gone, this is the wrong product, and you will be frustrated by how much it leaves behind. It is also not the beard version; Just For Men sells a separate Touch of Gray for mustache and beard. As with every dye here, do the allergy test first.",
+        "If you want gray completely gone, Just For Men Shampoo-In Color is the full-coverage choice. It is also not the beard version; Just For Men sells a separate Touch of Gray for mustache and beard. As with every dye here, do the allergy test first.",
       ],
       pros: [
         "Blends rather than erases gray, for a more natural look",
@@ -148,7 +148,7 @@ export const bestHairDyeForMen: RoundupData = {
         "Softer regrowth line than full-coverage dye",
       ],
       cons: [
-        "Will not satisfy men who want all gray covered",
+        "Designed to blend rather than fully cover gray",
         "Results depend heavily on how much gray you start with",
         "Separate product needed for the beard",
       ],
@@ -239,7 +239,7 @@ export const bestHairDyeForMen: RoundupData = {
       description: [
         "Beards often go gray before the hair on your head, and the skin on your face is more sensitive than your scalp, which is why facial hair deserves its own product. Just For Men Mustache & Beard is the most widely used beard dye for a reason: it is formulated and labeled for facial hair, comes with a brush for working color into short, coarse whiskers, and has a range of shades designed to match common beard colors.",
         "The key to a natural result is restraint. Beards are often a mix of colors, including red and blond tones that do not appear in your scalp hair, so a beard dyed one solid dark shade can look painted on. Choose a shade at or slightly lighter than your beard's dominant color, start with the shortest time on the label, and rinse early if it is developing too dark.",
-        "Skip it if you prefer a blended look; Just For Men's Touch of Gray for mustache and beard is gentler. Never use it on eyebrows or eyelashes, and do the skin test on your face area first, because a reaction on the lips or jaw is far more uncomfortable than one on the scalp.",
+        "If you prefer a blended look, Just For Men's Touch of Gray for mustache and beard is a softer option. Never use it on eyebrows or eyelashes, and do the skin test on your face area first, because a reaction on the lips or jaw is far more uncomfortable than one on the scalp.",
       ],
       pros: [
         "Made and labeled specifically for facial hair",
@@ -376,8 +376,8 @@ export const bestHairDyeForMen: RoundupData = {
       body: "Applying permanent dye to the full length every few weeks builds up color on the ends, making them darker and drier than the roots. Once your color is set, touch up regrowth at the roots and temples instead. It looks more natural, takes less time and is gentler on the hair.",
     },
     {
-      heading: "Expecting Dye to Fix Thinning Hair",
-      body: "Hair color changes how hair looks, not how much of it grows. A very dark shade can actually make thinning more visible by increasing contrast with the scalp. If you are losing hair, treat the cause with evidence-based options such as minoxidil, and use color and fibers as cosmetic support, not a solution.",
+      heading: "Choosing Too Dark a Shade for Thinning Hair",
+      body: "Hair color works on how hair looks, and a well-chosen shade can make it look fuller; a very dark shade, though, can make thinning more visible by increasing contrast with the scalp. If you are losing hair, pair color and fibers with a treatment such as minoxidil for the best of both.",
     },
   ],
   faq: [

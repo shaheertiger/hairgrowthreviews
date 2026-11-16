@@ -40,7 +40,7 @@ export const bestProductsForWavyHair: RoundupData = {
       description: [
         "Not Your Mother's Curl Talk is one of the best-selling drugstore curl lines, and this listing bundles its two core stylers: a frizz-control sculpting gel and a defining cream. For wavy hair, the gel is the star. It forms a light cast as it dries that holds the S-pattern in place, and once you scrunch out that cast you are left with softer, defined waves rather than the limp, frizzy finish many wavy-haired people get from cream alone.",
         "The cream is what makes the set flexible. Thicker 2C waves and drier hair can use a small amount of cream first and the gel on top, the layered approach curl stylists often recommend. Fine 2A or 2B waves can use a pea-sized dab of cream on the ends only, or skip it and use the gel alone. Buying both in one listing at drugstore pricing makes it an easy way to find out which combination your waves prefer.",
-        "Skip it if your waves are very fine and fall flat with any cream, since you would be paying for half a set you may not use; a mousse is a better starting point for you. Some buyers find the gel firm until scrunched, and very dry or coarse hair may want a richer leave-in underneath.",
+        "If your waves are very fine and fall flat with any cream, the gel alone or a mousse will be your best starting point. Some buyers find the gel firm until scrunched, and very dry or coarse hair may want a richer leave-in underneath.",
       ],
       pros: [
         "Gel and cream let you adjust weight to your wave type",
@@ -73,7 +73,7 @@ export const bestProductsForWavyHair: RoundupData = {
       description: [
         "Ouidad is a salon brand built around curly and wavy hair, and its Advanced Climate Control Heat & Humidity Gel targets the complaint wavy-haired people mention most: waves that look good leaving the house and turn into a frizzy halo an hour later. It is a true gel rather than a cream, so it adds hold instead of weight, and that is exactly what waves usually lack.",
         "Use it on soaking-wet hair, either alone or over a light leave-in, and leave it untouched while it dries. The gel cast is what protects the wave shape from humidity; once hair is completely dry, scrunch it out with a drop of oil or a little leave-in on your palms for a soft finish. On thicker 2C waves this is often the single product that keeps definition into a second day.",
-        "Skip it if you have very fine 2A waves, where even a long-lasting gel can feel heavy or crunchy; a mousse will usually suit you better. It also costs more than drugstore gels, so try the Curl Talk gel first if budget matters and you are not fighting serious humidity.",
+        "Very fine 2A waves may find even a long-lasting gel a touch heavy, and a mousse usually suits them best. It costs more than drugstore gels, and it truly earns that price for anyone fighting serious humidity.",
       ],
       pros: [
         "Strong humidity resistance for frizz-prone waves",
@@ -106,7 +106,7 @@ export const bestProductsForWavyHair: RoundupData = {
       description: [
         "For fine waves, mousse is often the product that finally works, and Bumble and bumble's Thickening Full Form Soft Mousse is one of the best-regarded salon mousses. The listing describes it as adding body and lift with a soft hold, heat protection and frizz control. That combination suits loose 2A and fine 2B waves, which tend to go flat at the root and straight through the lengths under creams.",
         "Mousse is mostly air, so it spreads a small amount of hold through the hair without the slip or weight of a cream. Scrunch a palmful of foam into soaking-wet hair, plop for a few minutes, then air dry or diffuse. Because the listing includes heat protection, it is a sensible pick if you diffuse most days. It is not a curl-specific product, which is partly why it works on waves: it adds structure without trying to moisturize.",
-        "Skip it if your waves are thick, coarse or dry. It will not provide enough moisture on its own, and very frizz-prone 2C hair usually needs a firmer gel. It is also a premium product, so it costs more than drugstore mousses.",
+        "Thick, coarse or dry waves will want a moisturizing leave-in underneath, and very frizz-prone 2C hair may prefer a firmer gel. It is also a premium product, so it costs more than drugstore mousses.",
       ],
       pros: [
         "Light enough for fine, flat waves",
@@ -139,7 +139,7 @@ export const bestProductsForWavyHair: RoundupData = {
       description: [
         "A leave-in is optional for many wavy heads, but if your ends feel rough or tangle easily, a spray is the safest format. Briogeo's Farewell Frizz Rosarco Milk is a light, milky leave-in conditioning spray, which means you can mist a little moisture over the lengths without the heavy coating a cream leave-in leaves. That makes it a good base layer under a gel or mousse.",
         "Spray a few pumps into soaking-wet hair, focusing on the mid-lengths and ends, rake it through with your fingers, then apply your styler on top. Because the format is so light, it is easy to control how much goes on, which is the main challenge with waves. It also helps with detangling before you style.",
-        "Skip it if your waves are fine and already feel soft, because any leave-in can be one layer too many. It costs more than drugstore sprays, and people who prefer fragrance-free products should check the label before buying.",
+        "If your waves are fine and already feel soft, use it sparingly on the ends so it stays weightless. It costs more than drugstore sprays, and people who prefer fragrance-free products should check the label before buying.",
       ],
       pros: [
         "Spray format makes light application easy",
@@ -172,7 +172,7 @@ export const bestProductsForWavyHair: RoundupData = {
       description: [
         "Wavy hair tends to frizz between wash days, and the instinct to add more cream usually makes the waves heavier. Living Proof's No Frizz Instant De-Frizzer takes a different approach: it is a spray designed for dry hair, so you can mist it over waves to smooth the halo of frizz without rewetting or adding a layer of product.",
         "Use it as a finisher after your gel cast is scrunched out, or on day two to calm flyaways. Hold it at a distance, mist lightly, and smooth the surface with your palms rather than your fingers so you do not break up wave clumps. It pairs well with any of the stylers on this list.",
-        "Skip it if you want definition, not just smoothing; it will not create waves where your styler failed to. It also adds a product and a cost to the routine, so treat it as a nice extra rather than a core step.",
+        "Its job is smoothing and polish, so pair it with a gel or mousse for definition. It adds a step to the routine, and it is a lovely finishing extra for days when you want extra shine.",
       ],
       pros: [
         "Smooths frizz on dry hair without rewetting",
@@ -181,7 +181,7 @@ export const bestProductsForWavyHair: RoundupData = {
       ],
       cons: [
         "Smooths but does not define",
-        "An extra product, not a core step",
+        "Adds an extra step to the routine",
         "Mid-range to premium price",
       ],
       bottomLine: "A good finisher for frizz-prone waves. Buy a gel or mousse first, then add this if frizz persists.",
@@ -204,7 +204,7 @@ export const bestProductsForWavyHair: RoundupData = {
       description: [
         "SheaMoisture's Coconut & Hibiscus Curl & Shine Shampoo is a widely available, budget-friendly curl shampoo that cleans without the stripped, squeaky feel of a harsh clarifying formula. Waves frizz more when the cuticle is roughed up, so a gentler wash is a simple way to start a routine on the right foot.",
         "It is a reasonable everyday choice for 2B and 2C waves and a practical answer for anyone searching for the best shampoo for wavy hair for men, since it is not marketed to one gender, is inexpensive and is easy to find. Focus the lather on the scalp and let it rinse through the lengths. Follow with a light conditioner, and use a clarifying shampoo every few weeks if styling products build up.",
-        "Skip it if you have very fine 2A waves or an oily scalp. Curl shampoos are often richer than standard shampoos, and some fine-haired buyers find this one leaves hair heavier than they want. A lighter, gentle shampoo may suit you better.",
+        "It is richer than standard shampoos, which suits medium to thick waves beautifully; very fine 2A waves or oily scalps may prefer a lighter gentle shampoo or alternating washes.",
       ],
       pros: [
         "Gentle wash that suits frizz-prone waves",
@@ -237,7 +237,7 @@ export const bestProductsForWavyHair: RoundupData = {
       description: [
         "Bumble and bumble's Surf Spray is the original salon sea salt spray, and its listing describes a matte finish and light volume for fine to medium hair. For wavy hair, a sea salt spray does something gels and creams do not: it adds grit and separation, so waves look piecey and lived-in rather than glossy and defined. That look is especially popular on short men's styles.",
         "Spray it into damp hair, scrunch or twist sections with your fingers, and air dry or rough dry with a diffuser. On short waves, that may be all you need. On longer hair, it can sit on top of a light gel for extra texture at the ends.",
-        "Skip it if your waves are dry or frizz-prone. Salt sprays can feel drying with frequent use, and they add texture rather than defined clumps. If you want polished, defined waves, choose a gel or mousse instead and keep this for beach days.",
+        "Salt sprays can feel drying with frequent use on dry or frizz-prone waves, and they add texture rather than defined clumps. For polished, defined waves, pair a gel or mousse with it, and reach for this on beach days.",
       ],
       pros: [
         "Matte, piecey texture on short and medium waves",
@@ -283,7 +283,7 @@ export const bestProductsForWavyHair: RoundupData = {
       heading: "What to Look For in the Best Products for Wavy Hair",
       body: [
         "The best products for wavy hair share one trait: they offer more hold than weight. Gels, mousses, foams and light sprays give waves the structure to keep their shape. Butters, heavy oils and thick curl creams mostly add moisture and softness, which dense curls need but waves often do not, and the extra weight pulls the S-pattern straight.",
-        "Read the format before the marketing. A product labeled for curly hair is not automatically wrong for waves, but a thick custard or a cream with shea butter near the top of the ingredient list is a warning sign for fine waves. A gel, a foam or a milky spray is usually a safer bet. Light leave-ins, rather than rich deep conditioners left in, keep ends soft without flattening the root.",
+        "Read the format before the marketing. A product labeled for curly hair is not automatically wrong for waves, but a thick custard or a cream with shea butter near the top of the ingredient list is a clue it is better suited to curls than fine waves. A gel, a foam or a milky spray is usually a safer bet. Light leave-ins, rather than rich deep conditioners left in, keep ends soft without flattening the root.",
         "Gentle cleansing helps, too. Wavy hair frizzes when the cuticle is rough, and very harsh shampoos used daily can make waves look dry. Many people with waves do well with a mild shampoo two or three times a week and a clarifying wash every few weeks to remove styling buildup, which is a common cause of waves gradually losing their shape.",
         "Finally, think in layers, but few of them. A typical wavy routine is a light conditioner, an optional spray leave-in, and one styler. Some people with 2C hair add a second styler, such as a mousse under a gel. Each additional layer is extra weight, so add one product at a time and stop when your waves start to droop.",
       ],

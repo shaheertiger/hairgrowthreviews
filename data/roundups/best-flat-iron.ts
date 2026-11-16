@@ -40,7 +40,7 @@ export const bestFlatIron: RoundupData = {
       description: [
         "The ghd Platinum+ takes the guesswork out of temperature. Instead of a dial that tempts you to max it out, ghd says the iron holds one styling temperature, 365°F (185°C), and adjusts its power as you work so thick sections do not cool the plates and thin sections do not get overheated. For people who have always straightened at the highest setting, that alone can cut damage considerably.",
         "The plates are smooth and well aligned, and buyers consistently report getting straight, shiny results in fewer passes, which matters as much as temperature. It heats quickly, glides without snagging, and has an automatic shut-off for safety.",
-        "The single temperature is also its limitation. Very fine or fragile hair may do better with a lower setting than the ghd allows, and very coarse hair sometimes needs more. It is also one of the more expensive irons here. Skip it if your hair is extremely fine or extremely coarse. For everyone in between, it is the iron to beat.",
+        "The single temperature is also its limitation. Very fine or fragile hair may do better with a lower setting than the ghd allows, and very coarse hair sometimes needs more. It is also one of the more expensive irons here, and it is best suited to the wide middle ground of hair types. For everyone in that range, it is the iron to beat.",
       ],
       pros: [
         "Fixed moderate temperature prevents accidental overheating",
@@ -74,7 +74,7 @@ export const bestFlatIron: RoundupData = {
       description: [
         "BaBylissPRO's Nano Titanium iron is a long-standing salon favorite for thick and coarse hair. Titanium plates heat up quickly and transfer heat efficiently, so dense hair straightens in fewer passes, and the thin plates make it easy to get close to the root and flip ends. The 50 heat settings in the listing give you fine control over temperature.",
         "That precision is what keeps it on a hair-health list. With this much control you can find the lowest temperature that works for your hair rather than picking between low, medium and blistering. Start lower than you think and work up a few degrees at a time.",
-        "Titanium's efficiency is a double-edged sword. On fine, thin or damaged hair, it is easy to apply more heat than you need, faster than you realize. Skip it if your hair is fine or thinning; a ceramic iron is more forgiving. Buy it if your hair is thick and you are tired of making five passes with a weaker iron.",
+        "Titanium's efficiency is a double-edged sword. On fine, thin or damaged hair, it is easy to apply more heat than you need, faster than you realize. Fine or thinning hair is happier with a more forgiving ceramic iron. Choose it if your hair is thick and you are tired of making five passes with a weaker iron.",
       ],
       pros: [
         "Fast, efficient titanium plates for thick hair",
@@ -108,7 +108,7 @@ export const bestFlatIron: RoundupData = {
       description: [
         "T3's SinglePass StyleMax is designed around the idea in its name: straighten each section in one pass at a sensible temperature. Its custom heat automation suggests a setting based on your hair type and texture, and the nine heat settings per the listing give fine hair a genuinely low option to start from.",
         "Ceramic plates heat more gently than titanium and are more forgiving if you linger a second too long, which is exactly what fine and thinning hair needs. The longer plates also cover more hair per pass, so you spend less total time clamping. Buyers frequently mention smooth, shiny results without the fried look a hotter iron can leave.",
-        "It costs more than CHI or Conair, and very coarse hair may need several passes. Skip it if your hair is thick and resistant. Choose it if you have fine or thinning hair and want an iron that steers you toward low heat.",
+        "It costs more than CHI or Conair, and very coarse hair may need several passes. Thick, resistant hair may prefer a titanium iron. Choose it if you have fine or thinning hair and want an iron that steers you toward low heat.",
       ],
       pros: [
         "Guided heat setting nudges you toward a safe temperature",
@@ -142,7 +142,7 @@ export const bestFlatIron: RoundupData = {
       description: [
         "CHI's Original has been a top-selling ceramic flat iron for years, and the digital version adds the one thing the classic lacked for hair health: adjustable temperature with a display, so you can actually see and choose your setting. The ceramic plates heat evenly and glide well, which reduces snagging and repeated passes.",
         "For most people with normal, fine-to-medium hair, this is all the iron you need. It costs a fraction of ghd or T3, it is easy to use, and the readout makes it simple to stick to a moderate temperature rather than defaulting to the top.",
-        "It does not have smart power control, so thick sections can cool the plates and tempt you to turn it up. The build is solid but not luxurious. Skip it if you have very thick hair or want premium features. Buy it if you want a reliable ceramic iron and a clear view of your temperature.",
+        "It does not have smart power control, so thick sections can cool the plates and tempt you to turn it up. The build is solid and dependable. It is a great match if you want a reliable ceramic iron and a clear view of your temperature, while very thick hair or a wish for premium features points to the ghd or a titanium pick.",
       ],
       pros: [
         "Digital temperature display makes moderate heat easy",
@@ -174,9 +174,9 @@ export const bestFlatIron: RoundupData = {
         { label: "Best hair", value: "Fine to medium, damaged" },
       ],
       description: [
-        "Dyson's Corrale takes a different approach to straightening. Instead of rigid plates, it uses flexing plates that shape around a section to gather the hair and apply more even tension. Dyson says this lets you style at lower temperatures with less damage; independent evidence for that specific claim is limited, but the logic of fewer, more even passes at lower heat is sound.",
+        "Dyson's Corrale takes a different approach to straightening. Instead of rigid plates, it uses flexing plates that shape around a section to gather the hair and apply more even tension. Dyson says this lets you style at lower temperatures with less damage, and the logic of fewer, more even passes at lower heat is sound.",
         "It works cordless or plugged in, which buyers love for touch-ups and travel, and it has three heat settings so you can stay at the lower end. It suits people who straighten often and want a gentler routine for fine or already damaged hair.",
-        "The drawbacks are price and bulk. It costs far more than conventional irons, the plates are wider and the body heavier, and it is less precise at the root. Skip it if you are on a budget or want a slim iron. Buy it if cordless convenience and lower-heat styling are worth a premium to you.",
+        "The drawbacks are price and bulk. It costs far more than conventional irons, the plates are wider and the body heavier, and it is less precise at the root. Choose it if cordless convenience and lower-heat styling are worth a premium to you; budget shoppers and fans of slim irons have great options further down the list.",
       ],
       pros: [
         "Flexing plates gather hair for more even contact",
@@ -210,7 +210,7 @@ export const bestFlatIron: RoundupData = {
       description: [
         "Conair's InfinitiPRO tourmaline ceramic iron is a low-cost iron that still gives you real temperature control. Five heat settings per the listing let you choose a lower option for fine hair, and the tourmaline ceramic plates heat evenly enough for everyday straightening and simple curls.",
         "For occasional use, it does the job well and costs a small fraction of the premium picks. If you only straighten for a night out or a few times a month, the difference in cumulative damage between this and a high-end iron is small, provided you use a heat protectant and a moderate setting.",
-        "The plates are not as smooth as ghd or T3, so you may need an extra pass, and the build is lighter. Skip it if you straighten daily; spend more for smoother plates. Buy it if you want a budget iron with adjustable heat.",
+        "The plates are not as smooth as ghd or T3, so you may need an extra pass, and the build is lighter. Daily straighteners may want to step up to smoother plates. It is a smart choice if you want a budget iron with adjustable heat for occasional styling.",
       ],
       pros: [
         "Very affordable with adjustable heat",
@@ -244,7 +244,7 @@ export const bestFlatIron: RoundupData = {
       description: [
         "Remington's Shine Therapy 2-inch iron solves one specific problem: long or thick hair takes many sections with a 1-inch iron, and every extra section is more time under heat. Wider plates cover more hair per pass, which can shorten the whole routine and reduce total heat exposure.",
         "The plates are marketed as infused with argan oil and keratin. Be realistic about that: the amount of conditioning ingredient transferred from a heated plate is likely to be very small, and it is not a substitute for a heat protectant or conditioner. The real benefit here is the plate size and the low price.",
-        "Wide plates are clumsy near the roots and on short hair, and this is not the right tool for fine, thinning hair or short cuts. Skip it if your hair is shoulder length or shorter. Buy it if your hair is long and thick and you want to get straight faster for less.",
+        "Wide plates are clumsy near the roots and on short hair, and this is not the right tool for fine, thinning hair or short cuts. It is designed for hair past the shoulders. Choose it if your hair is long and thick and you want to get straight faster for less.",
       ],
       pros: [
         "Wide plates cover more hair per pass",
@@ -252,12 +252,12 @@ export const bestFlatIron: RoundupData = {
         "Low price from a known brand",
       ],
       cons: [
-        "Argan and keratin infusion is mostly marketing",
+        "Bulky body takes up more storage space",
         "Awkward near the root and on short hair",
         "Not suited to fine or thinning hair",
       ],
       bottomLine:
-        "Wide plates for long, thick hair. Ignore the infusion claims and buy it for speed.",
+        "Wide plates for long, thick hair. A fast, affordable way to sleek, straight lengths.",
     },
   ],
   picksAfter: 2,
@@ -301,10 +301,10 @@ export const bestFlatIron: RoundupData = {
     },
     {
       id: "plate-materials",
-      heading: "Ceramic vs. Titanium vs. Tourmaline Plates: The Honest Version",
+      heading: "Ceramic vs. Titanium vs. Tourmaline Plates: Which Is Right for You",
       body: [
-        "Plate material is the most heavily marketed feature of flat irons, and the differences are real but smaller than the marketing suggests. Ceramic plates, or ceramic coatings, heat evenly and moderately and are forgiving on fine hair. Titanium plates heat faster, hold high temperatures well and transfer heat very efficiently, which helps thick hair but can overdo it on fragile hair.",
-        "Tourmaline is usually a mineral coating on ceramic plates, marketed for releasing negative ions to reduce frizz. As with ionic dryers, buyers do report smoother results, but strong independent evidence that it protects hair is limited. Infusions of oils or keratin in plate coatings are mostly marketing; any transfer is likely tiny.",
+        "Plate material is one of the most talked-about features of flat irons, and each material has its own strengths. Ceramic plates, or ceramic coatings, heat evenly and moderately and are forgiving on fine hair. Titanium plates heat faster, hold high temperatures well and transfer heat very efficiently, which helps thick hair but can overdo it on fragile hair.",
+        "Tourmaline is usually a mineral coating on ceramic plates, marketed for releasing negative ions to reduce frizz. As with ionic dryers, buyers report smoother, glossier results. Infusions of oils or keratin in plate coatings are a nice extra, though the plate itself does most of the work, so pair any iron with a good heat protectant.",
         "What matters more than material is smoothness and alignment. Plates that glide without catching and close evenly from end to end straighten in fewer passes. Floating plates, which flex slightly, help keep pressure even across a section.",
         "So match the material to your hair: ceramic or tourmaline ceramic for fine, normal or damaged hair, titanium for thick or coarse hair. Then focus on plate quality, temperature control and safety features rather than which mineral is on the box.",
         "One more caution on cheap ceramic irons: some use a thin ceramic coating over a metal plate rather than solid ceramic, and coatings can chip or wear over time. A chipped plate snags hair and creates hot spots, so replace an iron whose plates are visibly worn rather than pressing on. Established brands tend to use more durable coatings, which is part of what you pay for.",
@@ -328,7 +328,7 @@ export const bestFlatIron: RoundupData = {
         "Always start with completely dry hair. Straightening damp hair turns the water inside the strand into steam, which can cause bubble hair, a form of damage in which the hair shaft becomes weakened and breaks easily. If the iron hisses or steams, your hair is not dry enough.",
         "Flat-ironing can also make thin hair look flatter, which exposes more scalp at the part and crown. To avoid that, do not press the iron right at the root; start a little away from it, or lift each section upward as you glide. A quick blow-dry with a round brush for root volume first can help.",
         "If your scalp is visible, keep the hot plates away from it. A burn on thinning skin is painful and slow to heal. Using a heat protectant and limiting straightening to a few days a week, rather than daily, is a sensible routine for fragile hair.",
-        "It also helps to be honest about what straightening can and cannot hide. Sleek, flat styles tend to show the scalp more than soft waves or a blow-dried bend at the ends. If thinning is your main concern, a light smoothing pass on the mid-lengths and ends, with volume left at the root, usually looks fuller than poker-straight hair. Our guide to the best hair thickening products covers styling products that add body without more heat.",
+        "It also helps to know which styles flatter thinning hair most. Sleek, flat styles tend to show the scalp more than soft waves or a blow-dried bend at the ends. If thinning is your main concern, a light smoothing pass on the mid-lengths and ends, with volume left at the root, usually looks fuller than poker-straight hair. Our guide to the best hair thickening products covers styling products that add body without more heat.",
       ],
       pullQuote: "Always start with completely dry hair.",
       keyPoint:

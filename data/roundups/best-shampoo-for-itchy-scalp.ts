@@ -40,7 +40,7 @@ export const bestShampooForItchyScalp: RoundupData = {
       description: [
         "Dandruff and seborrheic dermatitis are the most common reasons a scalp itches, so a well-made anti-dandruff shampoo is the right first move for most people. CeraVe's Hydrating Anti-Dandruff Shampoo stands out because it pairs pyrithione zinc, a long-established over-the-counter anti-dandruff active, with the ceramides, hyaluronic acid and niacinamide the brand uses throughout its skin care. The idea is to treat the yeast-driven flaking while supporting the scalp's skin barrier, which matters if your scalp also feels tight or dry.",
         "Buyer feedback describes less itch and fewer flakes without the stripped feel of some medicated shampoos. Use it as directed on the label, massaging into the scalp and leaving it on for a few minutes before rinsing so the active has time to work.",
-        "Skip it if your itch has nothing to do with flaking, such as a reaction to hair dye or fragrance; a fragrance-free basic shampoo is better there. If flaking does not improve after several weeks, step up to ketoconazole or selenium sulfide, which we compare in our best ketoconazole shampoo guide.",
+        "It is designed for itch that comes with flaking; for itch from a reaction to hair dye or fragrance, a fragrance-free basic shampoo is the right match. If flaking does not improve after several weeks, step up to ketoconazole or selenium sulfide, which we compare in our best ketoconazole shampoo guide.",
       ],
       pros: [
         "Targets the most common cause of scalp itch",
@@ -74,7 +74,7 @@ export const bestShampooForItchyScalp: RoundupData = {
       description: [
         "If your scalp started itching after a new shampoo, hair dye or styling product, the problem may be what is in your products rather than anything wrong with your skin. Vanicream Shampoo is the simplest way to test that. It is formulated without common irritants, including fragrance and dyes, and the listing also describes it as helping remove oil, flaking and build-up, so it still cleans thoroughly.",
         "Dermatologists often suggest this kind of stripped-back product for patients with suspected allergic contact dermatitis, eczema or a generally reactive scalp, because it removes the most likely culprits in one step. Switch to it for a few weeks, use equally plain products elsewhere in your routine, and see whether the itch settles. Buyer feedback from people with eczema and allergies is strongly positive.",
-        "Skip it as a treatment for dandruff or psoriasis; it contains no active ingredient for either. It is also an unglamorous wash with no scent or sensory payoff, which is exactly the point but will not suit people who enjoy a fragrant shower routine.",
+        "It is built for sensitive, reactive scalps rather than dandruff or psoriasis, so it contains no medicated active. It is also a no-frills wash with no scent, which is exactly the point and why people with easily irritated skin love it.",
       ],
       pros: [
         "No fragrance and free of common irritants",
@@ -108,7 +108,7 @@ export const bestShampooForItchyScalp: RoundupData = {
       description: [
         "Head & Shoulders BARE is the brand's stripped-back line, and the Soothing Hydration shampoo puts the familiar 1% pyrithione zinc in a formula the listing describes as free of sulfates, silicones and dyes. For an itchy, flaky scalp that also feels irritated by conventional shampoos, that combination is appealing: the anti-dandruff active you need without as many ingredients you do not.",
         "Pyrithione zinc is one of the most widely used and best-understood over-the-counter dandruff actives. It reduces the Malassezia yeast involved in dandruff and seborrheic dermatitis and calms the flaking and itch that come with it. Buyers who found standard Head & Shoulders too harsh or too perfumed often prefer this version.",
-        "Skip it if your scalp is oily and you need a strong clean, since sulfate-free cleansers remove less oil. Check the label for fragrance if you are allergy-prone, as fewer extras is not the same as fragrance-free. For stubborn dandruff, ketoconazole is usually the next step.",
+        "It suits normal to dry scalps best; if your scalp is oily and you need a strong clean, a stronger cleanser will feel fresher, since sulfate-free cleansers remove less oil. Check the label for fragrance if you are allergy-prone, as fewer extras is not the same as fragrance-free. For stubborn dandruff, ketoconazole is usually the next step.",
       ],
       pros: [
         "1% pyrithione zinc, a well-established anti-dandruff active",
@@ -142,7 +142,7 @@ export const bestShampooForItchyScalp: RoundupData = {
       description: [
         "Coal tar is one of the oldest treatments for scalp psoriasis, and it remains an FDA-recognized over-the-counter active for psoriasis, seborrheic dermatitis and dandruff. It slows the overly rapid growth of skin cells that builds psoriasis plaques and helps calm itch and scaling. MG217 is a long-standing psoriasis brand, and this shampoo puts 0.5% coal tar into a combined shampoo and conditioner, according to its listing.",
         "Tar shampoos work best when massaged into the scalp and left on for several minutes before rinsing. Buyer feedback from people with psoriasis reports meaningful relief from itch and scale, and many say it is less smelly than older tar shampoos, though it still has a noticeable odor.",
-        "Skip it unless you have psoriasis or stubborn seborrheic dermatitis; it is overkill for ordinary dandruff. Coal tar can stain light, gray or blond hair and increase sun sensitivity on treated skin, so rinse well and protect your scalp outdoors. Ask a doctor before using it if you are pregnant or breastfeeding, and see a dermatologist for widespread or severe psoriasis.",
+        "It is the specialist pick for psoriasis or stubborn seborrheic dermatitis, and a milder dandruff shampoo is plenty for ordinary flakes. Coal tar can stain light, gray or blond hair and increase sun sensitivity on treated skin, so rinse well and protect your scalp outdoors. Ask a doctor before using it if you are pregnant or breastfeeding, and see a dermatologist for widespread or severe psoriasis.",
       ],
       pros: [
         "Coal tar is a long-established OTC psoriasis treatment",
@@ -175,7 +175,7 @@ export const bestShampooForItchyScalp: RoundupData = {
       description: [
         "Despite the brand name, Nizoral Psoriasis Shampoo does not contain ketoconazole. Its listing describes salicylic acid with tea tree oil, aimed at the itching, flaking, redness and scaling of scalp psoriasis. Salicylic acid is a keratolytic, which means it softens and loosens thick scale so it can be washed away, and so other treatments, including prescription ones, can reach the skin beneath.",
         "That makes it a useful partner rather than a cure. Many people with psoriasis or heavy seborrheic dermatitis alternate a salicylic acid shampoo to lift scale with a tar or antifungal shampoo to treat the underlying inflammation. Buyer feedback describes noticeably less buildup and itch after a few weeks of regular use.",
-        "Skip it if your scalp is sensitive to essential oils, because tea tree oil is a recognized cause of allergic contact dermatitis. Salicylic acid can also feel drying on a scalp without much scale. If you specifically want ketoconazole, choose standard Nizoral Anti-Dandruff instead.",
+        "If your scalp is sensitive to essential oils, patch-test first or choose a fragrance-free pick, because tea tree oil is a recognized cause of allergic contact dermatitis. Salicylic acid can also feel drying on a scalp without much scale. If you specifically want ketoconazole, standard Nizoral Anti-Dandruff is the one to choose.",
       ],
       pros: [
         "Salicylic acid lifts thick, stubborn scale",
@@ -208,7 +208,7 @@ export const bestShampooForItchyScalp: RoundupData = {
       description: [
         "Dove's Derma Scalp Dandruff & Itch Relief Shampoo brings pyrithione zinc to Dove's familiar, conditioning shampoo style. For people with mild dandruff who find medicated shampoos leave their hair rough, it is a comfortable everyday option, and the 16-ounce bottle gives it the lowest cost per ounce among our medicated picks.",
         "It does the basic job well: pyrithione zinc targets the yeast behind dandruff, and regular use controls mild flaking and the itch that comes with it. Buyers often mention that hair feels softer than with typical anti-dandruff shampoos, which matters if you wash frequently.",
-        "Skip it if your itch might be allergic. This is a scented, mass-market formula, and fragrance is one of the most common triggers for contact dermatitis on the scalp. People with stubborn flaking or psoriasis will also need a stronger or different active.",
+        "It is a scented, mass-market formula, so if your itch might be allergic, a fragrance-free pick is the safer match, since fragrance is one of the most common triggers for contact dermatitis on the scalp. People with stubborn flaking or psoriasis will also want a stronger or different active.",
       ],
       pros: [
         "Lowest cost per ounce among medicated picks",
@@ -317,7 +317,7 @@ export const bestShampooForItchyScalp: RoundupData = {
       body: [
         "Most itchy scalps improve with the right over-the-counter shampoo within a few weeks. If you have used a well-matched product consistently for about four weeks with no improvement, it is time to see a dermatologist rather than cycling through more bottles. Persistent seborrheic dermatitis and psoriasis respond well to prescription treatments that shampoos cannot match.",
         "Itch combined with hair loss deserves prompt attention. Scarring alopecias such as lichen planopilaris and frontal fibrosing alopecia can begin with itching, burning or tenderness, redness or scale around follicles, and gradual hair loss. Hair lost to scarring conditions does not regrow, so early diagnosis matters. Seek care if you notice shiny, smooth patches, a receding hairline with redness, or loss of eyebrows alongside scalp symptoms.",
-        "Other red flags include painful or pus-filled bumps, which can mean folliculitis or infection; scaly patches with broken hairs in a child, which can mean a fungal scalp infection that needs oral treatment; visible lice or nits; open sores or bleeding; and plaques spreading well beyond the hairline. Severe swelling of the scalp, face or eyelids after hair dye needs urgent care.",
+        "Other signs worth a doctor's visit include painful or pus-filled bumps, which can mean folliculitis or infection; scaly patches with broken hairs in a child, which can mean a fungal scalp infection that needs oral treatment; visible lice or nits; open sores or bleeding; and plaques spreading well beyond the hairline. Severe swelling of the scalp, face or eyelids after hair dye needs urgent care.",
         "Finally, if you are using hair loss treatments such as minoxidil and your scalp has started itching, the cause may be the product's vehicle, often propylene glycol in liquid formulas, rather than a new scalp condition. Switching to a foam formula frequently helps. Our minoxidil guides explain the options, and a dermatologist can help if irritation continues.",
       ],
       pullQuote: "Itch combined with hair loss deserves prompt attention.",
@@ -377,7 +377,7 @@ export const bestShampooForItchyScalp: RoundupData = {
     },
     {
       q: "Is tea tree oil good for an itchy scalp?",
-      a: "Sometimes, but with a real caveat. A small study found a 5% tea tree oil shampoo helped mild dandruff. However, tea tree oil is a known cause of allergic contact dermatitis, especially once it oxidizes. If your itch could be allergic, or your scalp is sensitive, avoid it and use a fragrance-free shampoo instead.",
+      a: "Sometimes, but with a real caveat. A small study found a 5% tea tree oil shampoo helped mild dandruff. However, tea tree oil is a known cause of allergic contact dermatitis, especially once it oxidizes. If your itch could be allergic, or your scalp is sensitive, choose a fragrance-free shampoo.",
     },
     {
       q: "How often should I use a medicated shampoo for itchy scalp?",

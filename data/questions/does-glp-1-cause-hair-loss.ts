@@ -128,9 +128,9 @@ export const doesGlp1CauseHairLoss: QuestionData = {
       id: "when-to-see-doctor-glp1-hair-loss",
       heading: "What Tests and Treatments Help If Thinning Hair on GLP-1 Persists?",
       body: [
-        "If shedding continues beyond about 6 months, or seems severe, it is worth asking your doctor about blood tests. The usual checks are ferritin for iron stores, vitamin D, zinc and thyroid function. Reduced eating can lower some of these, and thyroid problems can cause hair loss on their own. Correcting a confirmed deficiency is worthwhile; taking supplements you do not need is mostly a cost.",
+        "If shedding continues beyond about 6 months, or seems severe, it is worth asking your doctor about blood tests. The usual checks are ferritin for iron stores, vitamin D, zinc and thyroid function. Reduced eating can lower some of these, and thyroid problems can cause hair loss on their own. Correcting a confirmed deficiency is worthwhile, and your results help you choose the supplements that will do the most for you.",
         "Minoxidil can be discussed with a doctor for persistent thinning, particularly if pattern hair loss has been unmasked. It is the best-studied over-the-counter treatment for regrowing hair in both men and women, though it takes months to show results and can cause a temporary shed of its own when you start.",
-        "Biotin is widely marketed for hair, but it only helps if you are genuinely deficient, which is uncommon. High-dose biotin can also interfere with some blood tests, so tell your doctor if you take it. A general multivitamin may help cover gaps when you are eating much less, but it is not a substitute for enough protein.",
+        "Biotin is a popular hair supplement and is most helpful for people who are low in it, which is uncommon. High-dose biotin can interfere with some blood tests, so tell your doctor if you take it. A general multivitamin or a well-rounded hair vitamin can help cover gaps when you are eating much less, working alongside enough protein.",
         "See a doctor promptly if your hair loss is patchy, comes with scalp pain, redness or scaling, or appears with other symptoms such as fatigue, feeling cold or changes in your periods. Those patterns can point to causes other than weight-loss shedding that need their own treatment.",
       ],
       table: {
@@ -142,7 +142,7 @@ export const doesGlp1CauseHairLoss: QuestionData = {
           { label: "Thyroid function", values: ["Thyroid problems can cause hair loss on their own", "Shedding with fatigue, weight or temperature changes"] },
         ],
       },
-      pullQuote: "Correcting a confirmed deficiency is worthwhile; taking supplements you do not need is mostly a cost.",
+      pullQuote: "Correcting a confirmed deficiency is worthwhile, and your results help you choose the supplements that will do the most for you.",
       keyPoint: "If shedding lasts beyond about 6 months, ask about ferritin, vitamin D, zinc and thyroid tests, and discuss minoxidil for persistent thinning.",
     },
   ],
@@ -165,7 +165,7 @@ export const doesGlp1CauseHairLoss: QuestionData = {
     },
     {
       q: "Will biotin stop hair loss on Wegovy?",
-      a: "Probably not. Biotin only helps if you are genuinely deficient, which is uncommon. Adequate protein, enough overall food and checking ferritin, vitamin D, zinc and thyroid are more useful. High-dose biotin can also distort some blood tests.",
+      a: "Biotin is most helpful if you are low in it, which is uncommon, so think of it as one part of a broader plan. A well-rounded hair vitamin can help cover gaps while you eat less, and adequate protein, enough food and checking ferritin, vitamin D, zinc and thyroid make the biggest difference. High-dose biotin can distort some blood tests.",
     },
     {
       q: "Does the GLP-1 drug itself damage hair follicles?",

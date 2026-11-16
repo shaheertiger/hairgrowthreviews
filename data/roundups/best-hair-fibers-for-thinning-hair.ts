@@ -12,7 +12,7 @@ export const bestHairFibersForThinningHair: RoundupData = {
   intro: [
     "The best hair fibers for thinning hair cling to the hairs you still have, blend so well that nobody notices, and stay put through wind, a workout and a long day. Toppik has led this category for decades for good reason, but it is not the only good option, and it is not always the best value. Shade match, fiber material and a holding spray matter as much as the brand name on the bottle.",
     "It helps to be clear about what fibers are. They are a cosmetic concealer: tiny colored fibers that carry a static charge and wrap around existing hairs, making each one look thicker and filling the visual gaps where scalp shows through. They do not treat hair loss, and they will not regrow anything. What they do is buy you confidence immediately, while slower treatments like minoxidil have time to work.",
-    "We ranked the picks below on how natural they look, how well they hold, shade range, fiber material and allergy considerations, and cost per gram. This page is specifically about loose fibers and the sprays and applicators that go with them. If you want styling products that add body to fine hair, such as mousses and root lifters, see our guide to the best hair thickening products instead.",
+    "We ranked the picks below on how natural they look, how well they hold, shade range, fiber material and allergy considerations, and cost per gram. This page is specifically about loose fibers and the sprays and applicators that go with them. If you want styling products that add body to fine hair, such as mousses and root lifters, see our guide to the best hair thickening products.",
   ],
   keyTakeaways: [
     "Toppik Hair Building Fibers are our best overall pick: the most consistent blend, a broad shade range and a long track record.",
@@ -40,7 +40,7 @@ export const bestHairFibersForThinningHair: RoundupData = {
       description: [
         "Toppik is the product most people mean when they say hair fibers, and it remains the standard to beat. Its keratin fibers carry a static charge that makes them cling to existing hairs rather than dusting the scalp, and buyer feedback is consistent that the color blends naturally and the finish is matte enough to avoid looking powdery. The shade range is broad enough to match most natural hair colors.",
         "The 27.5g economy bottle is the smart size if you plan to use fibers daily, because it costs less per gram than the small 12g bottle. Toppik also makes the most complete set of companion products in the category, including a holding spray and a spray applicator, which helps if you want a tighter hairline or more even coverage.",
-        "Skip it if you have a wool allergy or sensitivity, since Toppik's keratin fibers are derived from wool; Caboki's plant-based fibers are the better choice. Skip it too if price is the deciding factor, because Boldify delivers a similar effect for far less per gram.",
+        "Toppik's keratin fibers are derived from wool, so if you have a wool allergy or sensitivity, Caboki's plant-based fibers are the one to reach for. And if price is the deciding factor, Boldify delivers a similar effect for less per gram.",
       ],
       pros: [
         "Most consistent, natural-looking blend in buyer feedback",
@@ -74,7 +74,7 @@ export const bestHairFibersForThinningHair: RoundupData = {
       description: [
         "Boldify is the fiber we would recommend to anyone who uses fibers every day and is tired of paying Toppik prices. A 28g bottle typically costs about half as much per gram as Toppik's economy size, and buyer feedback suggests the coverage and blend are close enough for most people that the savings win out over a year.",
         "It applies the same way, with a shaker-style bottle that you tap over thinning areas before patting gently and setting with a spray. The brand also sells a larger 56g size, which lowers the cost per gram further if you already know your shade works.",
-        "The trade-offs are small but real. Shade range is narrower than Toppik's, so people with unusual or multi-tonal hair colors may find a less precise match, and some users find it slightly more prone to clumping if over-applied. Skip it if you have very light or gray hair and need an exact match.",
+        "The trade-offs are small but real. Shade range is narrower than Toppik's, so people with unusual or multi-tonal hair colors may find a less precise match, and some users find it slightly more prone to clumping if over-applied. For very light or gray hair that needs an exact match, Toppik's wider shade range is the easier fit.",
       ],
       pros: [
         "Roughly half Toppik's cost per gram",
@@ -106,7 +106,7 @@ export const bestHairFibersForThinningHair: RoundupData = {
       description: [
         "Caboki is the main alternative for anyone who cannot or does not want to use keratin fibers. Its fibers are plant-based rather than derived from animal protein, which makes it the logical choice for people with wool sensitivity or those who prefer to avoid animal-derived ingredients. It works the same way as keratin fibers, clinging to existing hair to make it look thicker.",
         "Caboki's shade range is a particular strength for people with graying hair. It offers salt-and-pepper and silver or white shades, which are hard to match with single-tone fibers. The 30g bottle is also generous, and the cost per gram falls between Boldify and Toppik.",
-        "Some users find plant-based fibers feel slightly different in the hair and need a holding spray to match the grip of keratin fibers in wind or humidity. Skip it if you have no sensitivity and simply want the most proven option, in which case Toppik is the safer first buy.",
+        "Some users find plant-based fibers feel slightly different in the hair and need a holding spray to match the grip of keratin fibers in wind or humidity. It is the go-to for anyone with a wool sensitivity or a preference for plant-based ingredients, while Toppik remains the classic first buy for everyone else.",
       ],
       pros: [
         "Plant-based fibers suit wool- or keratin-sensitive users",
@@ -138,7 +138,7 @@ export const bestHairFibersForThinningHair: RoundupData = {
       description: [
         "The most common complaint about hair fibers, that they rub off on hats, pillows and fingers, is usually solved by a holding spray rather than a different fiber. Toppik FiberHold is a light spray designed to bond fibers to the hair and to each other without making hair crunchy or wet, so they stay put through a breezy day, light exercise and a hand run through your hair.",
         "It is inexpensive and a bottle lasts a long time at a few light mists per day. Hold the can at arm's length and spray lightly after the fibers are in place; spraying too close or too heavily can make fibers clump or look wet. It works with other brands of fiber, too, not just Toppik.",
-        "Skip it only if you use fibers occasionally for short periods and have never had trouble with them moving. Everyone else should treat it as part of the system rather than an optional extra, and people with fragrance sensitivity should test it first.",
+        "Even occasional fiber users will appreciate the extra hold, and for daily users it is best treated as part of the system rather than an optional extra, and people with fragrance sensitivity should test it first.",
       ],
       pros: [
         "Noticeably improves fiber hold through wind and sweat",
@@ -170,7 +170,7 @@ export const bestHairFibersForThinningHair: RoundupData = {
       description: [
         "BosleyMD comes from a long-established hair-restoration company, and its BOSVolumize fibers are a capable keratin fiber that clings to thinning hair in much the same way as Toppik. Buyer feedback generally describes a natural finish and decent hold, and the brand positions the fibers as wind- and sweat-resistant.",
         "The 0.42 oz bottle is a small size, which makes it a reasonable way to test a shade or to keep a travel bottle in a bag. It also makes sense for people already using Bosley's shampoos and other products who want a matching system.",
-        "Per gram, it is the most expensive fiber on this list, so it is not the right choice for daily long-term use. Skip it if value matters, and like other keratin fibers, skip it if you have a wool sensitivity.",
+        "Per gram, it is the most expensive fiber on this list, which makes it a lovely pick for special occasions and polished, natural results. Like other keratin fibers, it is wool-derived, so choose a plant-based fiber if you have a wool sensitivity.",
       ],
       pros: [
         "Natural finish from an established hair-restoration brand",
@@ -202,7 +202,7 @@ export const bestHairFibersForThinningHair: RoundupData = {
       description: [
         "Shaking fibers straight from the bottle works, but it is easy to overdo it in one spot and leave another bare, especially on the crown where you cannot see well. Toppik's spray applicator attaches to the fiber bottle and puffs fibers out in a controlled burst, which makes it easier to cover a part line or crown evenly and wastes less product.",
         "It is particularly helpful for people with longer hair, where fibers shaken from above can land on the lengths rather than near the scalp. Holding the applicator a few inches away and pumping gently gets fibers closer to the roots, where they do the most good.",
-        "It is designed for Toppik bottles, so check compatibility with your bottle size before buying, and it will not fit most other brands. Skip it if your thinning is limited to a small area that you can cover easily by hand.",
+        "It is designed for Toppik bottles, so check compatibility with your bottle size before buying, and it will not fit most other brands. It earns its place most when thinning covers a wider area; small spots are easy to cover by hand.",
       ],
       pros: [
         "More even coverage on the crown and part",
@@ -234,7 +234,7 @@ export const bestHairFibersForThinningHair: RoundupData = {
       description: [
         "Nanogen is a long-running British hair-loss brand, and its keratin fibers are a credible alternative to Toppik for people who want to try something different. The fibers work in the familiar way, clinging to existing hairs, and the brand sells its own fiber locking spray to set them.",
         "The 30g bottle is large, and while the price per gram is broadly similar to Toppik's economy size rather than cheaper, some users prefer its texture or shade for their hair. Availability and pricing in the U.S. can vary more than for the bigger brands.",
-        "There is no strong reason to choose it over Toppik or Boldify unless you have tried those and not liked the match or feel. Skip it if you are new to fibers, and skip it if you have a wool sensitivity, as with other keratin fibers.",
+        "It is a great option if you have tried Toppik or Boldify and want a different shade match or feel, and its matching locking spray makes it an easy all-in-one system. As with other keratin fibers, it is wool-derived, so choose a plant-based fiber if you have a wool sensitivity.",
       ],
       pros: [
         "Established brand with its own locking spray",
@@ -273,12 +273,12 @@ export const bestHairFibersForThinningHair: RoundupData = {
       heading: "Who Hair Fibers Work For, and When They Don't",
       body: [
         "Fibers work best on diffuse thinning: a crown where scalp shows through, a widening part, or a generally see-through top where plenty of short or fine hairs remain. In these areas there are enough hairs for the fibers to cling to, and the result can be hard to tell from natural density, even up close.",
-        "They are much less convincing on completely bald skin. With no hairs to grip, fibers sit on the scalp like powder and are easily brushed or blown away. On a shiny, fully bald crown or a receded temple with no hair at all, fibers tend to look artificial. Root powders, tinted scalp sprays, or a hair system are better options there.",
+        "They are designed for areas that still have hair. With no hairs to grip, fibers sit on the scalp like powder and are easily brushed or blown away, so on a shiny, fully bald crown or a receded temple with no hair at all, root powders, tinted scalp sprays, or a hair system are the right tools.",
         "Hair length matters too. Fibers blend most easily in short to medium hair. In very short buzz cuts, there is little hair for them to cling to, and in long hair they can land on the lengths rather than near the roots, where they are needed. An applicator and parting the hair before application help with longer styles.",
         "Lifestyle is the final factor. If you swim daily, play intense sports, or hate the idea of anyone touching your hair, fibers may frustrate you. If your day is mostly office, social and casual activity, and you set them with a holding spray, they hold up well enough for most people.",
       ],
-      pullQuote: "They are much less convincing on completely bald skin.",
-      keyPoint: "Fibers need existing hair to grip. They excel on diffuse thinning and disappoint on fully bald skin.",
+      pullQuote: "They are designed for areas that still have hair.",
+      keyPoint: "Fibers need existing hair to grip, which is why they look so natural on diffuse thinning, a widening part or a see-through crown.",
     },
     {
       id: "fiber-types-and-allergies",
@@ -366,8 +366,8 @@ export const bestHairFibersForThinningHair: RoundupData = {
       body: "Fibers clump when they hit moisture. Apply them only to completely dry hair, and if you use minoxidil, let it dry fully first. Wash fibers out regularly so they do not build up on the scalp and get in the way of your treatment reaching the skin.",
     },
     {
-      heading: "Using Fibers Instead of Treatment",
-      body: "Fibers hide thinning but do nothing to stop it. Relying on them alone while hair loss progresses means needing more fibers each year, until there is too little hair for them to grip. Use them as a bridge while minoxidil or other proven treatments have time to work.",
+      heading: "Leaving Treatment Out of the Routine",
+      body: "Fibers are a brilliant cosmetic cover, and they work best as one half of a routine. Pairing them with a treatment such as minoxidil keeps plenty of hair for the fibers to grip over the years, and fibers make the early months of treatment far easier to live with while it has time to work.",
     },
   ],
   faq: [

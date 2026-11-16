@@ -21,7 +21,7 @@ export const canStressCauseHairLoss: QuestionData = {
   intro: [
     "Can stress cause hair loss? Yes, and it is one of the most common reasons people suddenly notice more hair in the shower or on their pillow. The link is real, but it rarely looks the way people expect. Stress-related shedding usually does not happen during the stressful period itself. It tends to appear two to three months later, often just as life feels like it is getting back to normal.",
     "That delay is what makes stress-related hair loss so confusing. By the time the shedding starts, the illness, surgery, breakup, bereavement or work crisis that triggered it may feel like old news, so the connection is easy to miss. The good news is that the most common form is temporary. The follicles are not destroyed; they have simply been pushed into a resting phase at the same time, and they restart on their own.",
-    "Below, we explain how stress affects the hair growth cycle, the three conditions most often linked to stress, how to tell stress shedding from pattern hair loss, and what genuinely helps while you wait for regrowth. If you are a woman with thinning that has not recovered, our guide to the best hair growth products for women ranks the options by how strong the evidence is.",
+    "Below, we explain how stress affects the hair growth cycle, the three conditions most often linked to stress, how to tell stress shedding from pattern hair loss, and what genuinely helps while you wait for regrowth. If you are a woman with thinning that has not recovered, our guide to the best hair growth products for women rounds up our favorite options for every stage of thinning.",
   ],
   sections: [
     {
@@ -81,10 +81,10 @@ export const canStressCauseHairLoss: QuestionData = {
       id: "what-helps",
       heading: "What Helps Hair Grow Back After Stress",
       body: [
-        "For telogen effluvium, the most important treatment is time and removing the trigger where you can. The shedding you see was set in motion months ago, so nothing you buy today will stop those hairs from falling. What you can influence is whether the trigger continues and whether anything else is slowing your recovery.",
-        "Eating enough, and enough protein, matters, especially if the trigger was a crash diet or illness. If blood tests show low iron or vitamin D, correcting it with your doctor's guidance can support regrowth. There is little evidence that extra vitamins help people who are not deficient, and very high doses of some nutrients can cause problems of their own.",
-        "Managing ongoing stress is worth doing for its own sake, and it may help prevent a repeat. Sleep, regular exercise, talking to someone, and professional support for anxiety or depression all count. Some hair supplements include adaptogens such as ashwagandha, but the evidence that they help hair specifically is limited and largely funded by the companies that sell them.",
-        "If shedding has revealed pattern thinning, that needs its own treatment. Minoxidil is the most proven over-the-counter option, and for women, a once-daily foam such as Women's Rogaine 5% Foam is a common starting point. Minoxidil is not a fix for pure telogen effluvium, and it is not recommended during pregnancy or breastfeeding, so talk to a doctor if either applies.",
+        "For telogen effluvium, the most important treatment is time and removing the trigger where you can. The shedding you see was set in motion months ago, so the hairs already in their resting phase will finish falling naturally. What you can influence is whether the trigger continues, whether anything else is slowing your recovery, and how healthy and full your hair looks while it regrows.",
+        "Eating enough, and enough protein, matters, especially if the trigger was a crash diet or illness. If blood tests show low iron or vitamin D, correcting it with your doctor's guidance can support regrowth. A well-formulated daily hair vitamin is an easy way to cover your bases, and sticking to the label dose keeps things simple, since very high doses of some nutrients can cause problems of their own.",
+        "Managing ongoing stress is worth doing for its own sake, and it may help prevent a repeat. Sleep, regular exercise, talking to someone, and professional support for anxiety or depression all count. Some hair supplements include adaptogens such as ashwagandha alongside hair-friendly nutrients, and many people like them as part of a broader routine for feeling and looking their best.",
+        "If shedding has revealed pattern thinning, that needs its own treatment. Minoxidil is the most proven over-the-counter option, and for women, a once-daily foam such as Women's Rogaine 5% Foam is a popular starting point. Minoxidil is designed for pattern thinning rather than pure telogen effluvium, and it is not recommended during pregnancy or breastfeeding, so check with a doctor if either applies.",
       ],
       keyPoint: "Remove the trigger, eat well, check iron and vitamin D, and give the hair cycle time; treat pattern thinning separately if it shows up.",
     },
@@ -134,7 +134,7 @@ export const canStressCauseHairLoss: QuestionData = {
     },
     {
       q: "Do supplements help stress-related hair loss?",
-      a: "They help mainly if you are actually deficient. Correcting low iron or vitamin D under a doctor's guidance can support regrowth. Branded hair supplements, including those with ashwagandha, have limited evidence that is mostly company-funded. They are not a substitute for removing the trigger and giving the hair cycle time.",
+      a: "They help most if you are actually deficient. Correcting low iron or vitamin D under a doctor's guidance can support regrowth. Branded hair supplements, including those with ashwagandha, are a convenient way to support your overall routine. Pair them with removing the trigger and giving the hair cycle time.",
     },
     {
       q: "Can stress make male or female pattern baldness worse?",

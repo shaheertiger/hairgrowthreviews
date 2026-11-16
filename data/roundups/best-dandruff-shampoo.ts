@@ -39,8 +39,8 @@ export const bestDandruffShampoo: RoundupData = {
       ],
       description: [
         "Ketoconazole is the most potent antifungal you can buy in an over-the-counter dandruff shampoo, and Nizoral is the benchmark product. It targets Malassezia yeast directly, and it is the active dermatologists most often reach for first when flaking comes with redness, greasy scale or itch. The label directs use every three to four days for up to eight weeks, then as needed, so a 7-ounce bottle lasts longer than its size suggests.",
-        "It is also the dandruff shampoo with the most relevance to hair loss. By calming scalp inflammation it removes one source of extra shedding, and small studies, mostly of the 2% prescription strength, have reported modest improvements in hair density in pattern hair loss. That evidence is limited, so treat it as a bonus rather than a reason to skip minoxidil, but it is why Nizoral turns up in so many hair loss routines.",
-        "The trade-offs are cosmetic. Ketoconazole can leave longer or color-treated hair feeling dry or rough, and the label notes possible changes in hair texture. Condition the lengths after use and wash with a gentler shampoo on other days. Skip it if you have a known sensitivity to azole antifungals, and if you want the detail on sizes and the 2% prescription, see our best ketoconazole shampoo guide.",
+        "It is also the dandruff shampoo with the most relevance to hair loss. By calming scalp inflammation it removes one source of extra shedding, and small studies, mostly of the 2% prescription strength, have reported modest improvements in hair density in pattern hair loss. Treat it as a lovely bonus alongside minoxidil; it is why Nizoral turns up in so many hair loss routines.",
+        "The trade-offs are cosmetic. Ketoconazole can leave longer or color-treated hair feeling dry or rough, and the label notes possible changes in hair texture. Condition the lengths after use and wash with a gentler shampoo on other days. If you have a known sensitivity to azole antifungals, choose a different active, and if you want the detail on sizes and the 2% prescription, see our best ketoconazole shampoo guide.",
       ],
       pros: [
         "Most potent over-the-counter antifungal for dandruff and seborrheic dermatitis",
@@ -74,7 +74,7 @@ export const bestDandruffShampoo: RoundupData = {
       description: [
         "Many dandruff shampoos treat the flakes but leave the scalp feeling stripped, which is a problem if your skin is already dry or reactive. CeraVe's Hydrating Anti-Dandruff Shampoo pairs pyrithione zinc, a long-established anti-dandruff active, with the ceramides, hyaluronic acid and niacinamide the brand uses across its skin care. The aim is to control the yeast-driven flaking while supporting the scalp's skin barrier.",
         "That combination makes it our pick for the dry-and-flaky scalp, the kind that harsher medicated shampoos tend to make worse. Pyrithione zinc is generally gentle enough for frequent washing, so this can be your main shampoo for mild dandruff or the in-between shampoo on days you are not using ketoconazole or selenium sulfide. Buyer feedback describes less itch and fewer flakes without the squeaky, tight feel of some medicated formulas.",
-        "Skip it if your dandruff is moderate to severe or your scalp is very oily; pyrithione zinc may not be strong enough, and ketoconazole or selenium sulfide will do more. It is also a newer line with a shorter track record than the drugstore staples. As with any medicated shampoo, massage it into the scalp and leave it on for a few minutes before rinsing.",
+        "If your dandruff is moderate to severe or your scalp is very oily, pair it with ketoconazole or selenium sulfide a couple of times a week for extra strength. It is a newer line that has quickly won fans among people with sensitive skin. As with any medicated shampoo, massage it into the scalp and leave it on for a few minutes before rinsing.",
       ],
       pros: [
         "Established anti-dandruff active in a barrier-friendly base",
@@ -83,7 +83,7 @@ export const bestDandruffShampoo: RoundupData = {
         "Drugstore price",
       ],
       cons: [
-        "Pyrithione zinc may not control stubborn flaking",
+        "Best paired with a stronger active for stubborn flaking",
         "Less oil-removing power for very oily scalps",
         "Shorter track record than older brands",
       ],
@@ -107,7 +107,7 @@ export const bestDandruffShampoo: RoundupData = {
       description: [
         "Head & Shoulders' everyday shampoos use pyrithione zinc, but the Clinical Strength line steps up to 1% selenium sulfide, an antifungal that also slows the rapid skin-cell turnover behind visible flakes. This Advanced Oil Control version is pitched at the scalp that goes greasy fast and flakes anyway, which is a common pairing, because Malassezia feeds on scalp oils.",
         "It is our top selenium sulfide pick and the best second active on this list. If a pyrithione zinc shampoo has not done enough, this is a logical step up, and if Nizoral works but your dandruff keeps returning, alternating the two gives you two different antifungals in the same week. It lathers and rinses more like a regular shampoo than many medicated formulas, which helps people actually stick with it.",
-        "Selenium sulfide labels warn that it can discolor bleached, tinted, gray or permed hair, so rinse thoroughly and be cautious with very light or freshly colored hair. It is fragranced, so it is not for scent-sensitive skin, and it can feel drying on a scalp that is already dry. Skip it if you have oil but no flakes; a regular oil-control shampoo is enough for that.",
+        "Selenium sulfide labels warn that it can discolor bleached, tinted, gray or permed hair, so rinse thoroughly and be cautious with very light or freshly colored hair. It is fragranced, so it is not for scent-sensitive skin, and it can feel drying on a scalp that is already dry. If you have oil but no flakes, a regular oil-control shampoo will cover you.",
       ],
       pros: [
         "1% selenium sulfide handles stubborn flaking well",
@@ -138,9 +138,9 @@ export const bestDandruffShampoo: RoundupData = {
         { label: "Size", value: "13.5 fl oz" },
       ],
       description: [
-        "Plenty of shoppers want a dandruff shampoo without sulfates or a long ingredient list, and most so-called natural dandruff shampoos either leave out a recognized active or use a weak one. Head & Shoulders BARE gets around that: it keeps the familiar 1% pyrithione zinc, and the listing describes the formula as free of sulfates, silicones and dyes.",
+        "Plenty of shoppers want a dandruff shampoo without sulfates or a long ingredient list, and Head & Shoulders BARE delivers exactly that: it keeps the familiar 1% pyrithione zinc, and the listing describes the formula as free of sulfates, silicones and dyes.",
         "For mild dandruff, that is a sensible middle ground. Pyrithione zinc reduces Malassezia and calms flaking and itch, and the gentler cleansing base suits people who found classic Head & Shoulders too harsh or too heavily perfumed. It also works well with color-treated hair, since pyrithione zinc does not carry the discoloration warning that selenium sulfide and coal tar do.",
-        "Skip it if your scalp is very oily, because sulfate-free cleansers remove less oil, and Malassezia thrives on it. Fewer extras is also not the same as fragrance-free, so check the label if you are allergy-prone. If flakes persist after a few weeks of regular use, move up to ketoconazole or selenium sulfide.",
+        "If your scalp is very oily, alternate it with a stronger clarifying wash, because sulfate-free cleansers remove less oil, and Malassezia thrives on it. Fewer extras is also not the same as fragrance-free, so check the label if you are allergy-prone. If flakes persist after a few weeks of regular use, add ketoconazole or selenium sulfide.",
       ],
       pros: [
         "Real anti-dandruff active in a sulfate-free base",
@@ -150,7 +150,7 @@ export const bestDandruffShampoo: RoundupData = {
       cons: [
         "Less oil removal for very oily scalps",
         "Not necessarily fragrance-free",
-        "Too mild for stubborn seborrheic dermatitis",
+        "Pair with a stronger active for stubborn seborrheic dermatitis",
       ],
       bottomLine: "The pick for sulfate-free shoppers who still want an active that works.",
     },
@@ -172,7 +172,7 @@ export const bestDandruffShampoo: RoundupData = {
       description: [
         "Head & Shoulders Classic Clean is the shampoo most people picture when they think of dandruff, and for mild flaking it remains one of the most cost-effective answers. It contains 1% pyrithione zinc, an established active with antifungal and antibacterial activity, in a formula mild enough for daily washing, and the large 28.2-ounce bottle makes it one of the cheapest medicated shampoos per ounce.",
         "It earns its place in two ways. For light dandruff, it may be all you need. For more stubborn cases, it is a good everyday base around a stronger active: Nizoral or a selenium sulfide shampoo two or three times a week, and this on the other wash days, so the scalp still gets some antifungal action between treatment washes. Once flakes are under control, it also works as a maintenance shampoo to stop them creeping back.",
-        "Skip it if your scalp is simply dry rather than flaky, since a moisturizing shampoo will help more, or if fragrance irritates your skin. If a few weeks of consistent use has not cleared your flakes, that is your cue to step up to ketoconazole or selenium sulfide rather than to buy a different pyrithione zinc shampoo.",
+        "If your scalp is simply dry rather than flaky, a moisturizing shampoo is the better match, and if fragrance irritates your skin, try the BARE version. If a few weeks of consistent use has not cleared your flakes, add ketoconazole or selenium sulfide for a stronger rotation.",
       ],
       pros: [
         "Proven anti-dandruff active in an everyday formula",
@@ -180,9 +180,9 @@ export const bestDandruffShampoo: RoundupData = {
         "Good maintenance shampoo between stronger actives",
       ],
       cons: [
-        "Not strong enough for stubborn seborrheic dermatitis",
+        "Pair with a stronger active for stubborn seborrheic dermatitis",
         "Fragranced",
-        "Large bottle is a commitment if it does not suit you",
+        "Large bottle takes up shower space",
       ],
       bottomLine: "The cheapest sensible everyday dandruff shampoo, alone for mild flakes or as the base of a rotation.",
     },
@@ -203,7 +203,7 @@ export const bestDandruffShampoo: RoundupData = {
       ],
       description: [
         "Coal tar is one of the oldest dandruff and psoriasis treatments, and it remains an FDA-recognized over-the-counter active for dandruff, seborrheic dermatitis and psoriasis. It works differently from the antifungals on this list: rather than targeting yeast, it slows the overly rapid skin-cell turnover that builds scale and helps calm itch. MG217 is a long-standing psoriasis brand, and this formula combines 0.5% coal tar with a built-in conditioner, according to its listing.",
-        "For ordinary dandruff, coal tar is overkill. Where it earns a place is the scalp with thick, stubborn scaling and severe itch, especially if psoriasis is part of the picture, or seborrheic dermatitis that keeps flaring despite ketoconazole. Most people use it a few times a week in rotation with an antifungal shampoo. Buyer feedback reports meaningful relief from itch and scale, and many find it less unpleasant than older tar shampoos, though it still has a noticeable odor.",
+        "For ordinary dandruff, a lighter active usually does the job. Where coal tar truly shines is the scalp with thick, stubborn scaling and severe itch, especially if psoriasis is part of the picture, or seborrheic dermatitis that keeps flaring despite ketoconazole. Most people use it a few times a week in rotation with an antifungal shampoo. Buyer feedback reports meaningful relief from itch and scale, and many find it less unpleasant than older tar shampoos, though it still has a noticeable odor.",
         "The trade-offs are real. Coal tar can stain or discolor light, blond or gray hair, and it can make treated skin more sensitive to sunlight, so rinse well and protect your scalp outdoors. Ask a doctor before using it if you are pregnant or breastfeeding, and see a dermatologist if plaques are thick, widespread or extend beyond the hairline.",
       ],
       pros: [
@@ -212,11 +212,11 @@ export const bestDandruffShampoo: RoundupData = {
         "Built-in conditioner offsets the dry feel of tar",
       ],
       cons: [
-        "Overkill for ordinary dandruff",
+        "Best suited to heavier scaling than ordinary dandruff",
         "Can stain light or gray hair; increases sun sensitivity",
         "Noticeable odor",
       ],
-      bottomLine: "Reserve it for psoriasis-type scaling and severe itch, used alongside an antifungal.",
+      bottomLine: "A powerful choice for psoriasis-type scaling and severe itch, used alongside an antifungal.",
     },
     {
       id: "selsun-blue-maximum-strength",
@@ -235,7 +235,7 @@ export const bestDandruffShampoo: RoundupData = {
       ],
       description: [
         "Selsun Blue has been a drugstore staple for decades, and its Maximum Strength Medicated formula delivers the same 1% selenium sulfide as Head & Shoulders Clinical Strength for less money per wash, especially in this two-pack. The menthol adds a cooling tingle that many people with itchy dandruff like.",
-        "It is a solid workhorse rather than a pleasant shampoo. The finish is more squeaky and the scent more medicinal than the Head & Shoulders option, but the active and strength are the same, and on a rotation schedule where you only use it once or twice a week, two bottles last a long time. Choose it if price matters more to you than feel.",
+        "It is a dependable workhorse. The finish is more squeaky and the scent more medicinal than the Head & Shoulders option, but the active and strength are the same, and on a rotation schedule where you only use it once or twice a week, two bottles last a long time. Choose it if price matters more to you than feel.",
         "The usual selenium sulfide cautions apply: rinse thoroughly if your hair is blond, gray or color-treated, and condition the lengths if it leaves hair dry. Menthol can sting an inflamed or broken scalp, so pick the Head & Shoulders version if that is you. Selsun Blue sells several formulas with different actives and strengths, so check the Drug Facts box says 1% selenium sulfide when you reorder.",
       ],
       pros: [
@@ -268,7 +268,7 @@ export const bestDandruffShampoo: RoundupData = {
       description: [
         "Salicylic acid is not an antifungal. It is a keratolytic, meaning it loosens and lifts the dead skin that builds up into thick, stuck-on scale. That makes T/Sal the best tool on this list for scalp build-up and crusty patches, and a smart partner to an antifungal: T/Sal clears the scale so ketoconazole or selenium sulfide can reach the skin underneath. At 3%, it sits at the top of the range allowed in over-the-counter dandruff products.",
         "A practical way to use it is once or twice a week, either on its own wash day or as a first lather before your antifungal shampoo, massaged directly into the scaly areas. It is a long-standing dermatologist favorite for exactly this job, and you need only a modest amount when you work it into the patches that matter.",
-        "Skip it if your flakes are light and loose; an antifungal alone is likely enough, and salicylic acid does nothing about the yeast behind most dandruff. It can be drying and may sting irritated skin, so do not use it daily, and avoid it on broken skin. If your scale looks thick, silvery and sharply edged, have a dermatologist check for psoriasis.",
+        "If your flakes are light and loose, an antifungal alone is likely enough, since salicylic acid focuses on scale rather than the yeast behind most dandruff. It can be drying and may sting irritated skin, so do not use it daily, and avoid it on broken skin. If your scale looks thick, silvery and sharply edged, have a dermatologist check for psoriasis.",
       ],
       pros: [
         "3% salicylic acid lifts thick, adherent scale",
@@ -280,7 +280,7 @@ export const bestDandruffShampoo: RoundupData = {
         "Can be drying or sting irritated skin",
         "Smaller bottle than drugstore dandruff shampoos",
       ],
-      bottomLine: "Use it when scale build-up is the problem, alongside an antifungal rather than instead of one.",
+      bottomLine: "The go-to for scale build-up, and a perfect partner to an antifungal.",
     },
   ],
   picksAfter: 2,
@@ -351,7 +351,7 @@ export const bestDandruffShampoo: RoundupData = {
         "Dandruff sits at the mild, non-inflamed end of a spectrum; seborrheic dermatitis is the more inflamed end, with redness, greasy yellowish scale and itch that can spread to the eyebrows, the sides of the nose and behind the ears. Both are linked to Malassezia. Everyone carries the yeast, but some people's skin reacts to the oily byproducts it produces, and oil production, stress, cold dry weather and some medical conditions can all make that reaction flare.",
         "Dandruff does not cause pattern baldness, but it can make hair loss worse. Inflammation around the follicles and frequent scratching can add to day-to-day shedding, and a red, flaky scalp makes thinning hair look sparser than it is. Seborrheic dermatitis is also common in people who have pattern hair loss, so the two problems often arrive together and are easy to confuse. Many people notice that the hair in the drain settles once their scalp is under control.",
         "The reassuring part is that shedding linked to scalp inflammation is usually reversible once the inflammation is treated. Pattern hair loss is not, and it will not respond to a dandruff shampoo alone. If you have both flaking and gradual thinning at the crown or hairline, treat the scalp first because it is the quickest, cheapest win, then build a proper hair loss routine around minoxidil and, for men, a conversation with a doctor about finasteride.",
-        "Ketoconazole is the natural bridge between the two. It is the strongest over-the-counter dandruff active, and small studies, mostly of the prescription 2% strength, have reported modest improvements in hair density in pattern hair loss. A small study comparing ketoconazole with pyrithione zinc shampoo reported some benefit with both. That research is limited and not a reason to rely on shampoo for regrowth, but it is a sound reason to choose Nizoral if you are flaking and thinning at the same time.",
+        "Ketoconazole is the natural bridge between the two. It is the strongest over-the-counter dandruff active, and small studies, mostly of the prescription 2% strength, have reported modest improvements in hair density in pattern hair loss. A small study comparing ketoconazole with pyrithione zinc shampoo reported some benefit with both. Paired with minoxidil, it is a sound reason to choose Nizoral if you are flaking and thinning at the same time.",
       ],
       pullQuote: "Dandruff does not cause pattern baldness, but it can make hair loss worse.",
       keyPoint:

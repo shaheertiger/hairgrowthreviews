@@ -93,6 +93,16 @@ import { bestPomadeForThinHair } from "./best-pomade-for-thin-hair";
 import { bestProductsForHairExtensions } from "./best-products-for-hair-extensions";
 import { bestDandruffShampooForColorTreatedHair } from "./best-dandruff-shampoo-for-color-treated-hair";
 import { bestCurlingIronForShortHair } from "./best-curling-iron-for-short-hair";
+import { bestRedLightTherapyForHairGrowth } from "./best-red-light-therapy-for-hair-growth";
+import { bestPrenatalVitaminsForHairGrowth } from "./best-prenatal-vitamins-for-hair-growth";
+import { bestEssentialOilsForHairGrowth } from "./best-essential-oils-for-hair-growth";
+import { bestArganOilForHair } from "./best-argan-oil-for-hair";
+import { bestBoarBristleHairBrush } from "./best-boar-bristle-hair-brush";
+import { bestCoconutOilForHair } from "./best-coconut-oil-for-hair";
+import { bestJojobaOilForHair } from "./best-jojoba-oil-for-hair";
+import { bestHairSkinAndNailsSupplement } from "./best-hair-skin-and-nails-supplement";
+import { bestRosemaryShampooForHairGrowth } from "./best-rosemary-shampoo-for-hair-growth";
+import { bestShampooForKeratinTreatedHair } from "./best-shampoo-for-keratin-treated-hair";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -197,4 +207,14 @@ export const roundups: RoundupData[] = [
   bestProductsForHairExtensions,
   bestDandruffShampooForColorTreatedHair,
   bestCurlingIronForShortHair,
+  bestRedLightTherapyForHairGrowth,
+  bestPrenatalVitaminsForHairGrowth,
+  bestEssentialOilsForHairGrowth,
+  bestArganOilForHair,
+  bestBoarBristleHairBrush,
+  bestCoconutOilForHair,
+  bestJojobaOilForHair,
+  bestHairSkinAndNailsSupplement,
+  bestRosemaryShampooForHairGrowth,
+  bestShampooForKeratinTreatedHair,
 ];

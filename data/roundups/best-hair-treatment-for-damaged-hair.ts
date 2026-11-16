@@ -39,8 +39,8 @@ export const bestHairTreatmentForDamagedHair: RoundupData = {
       ],
       description: [
         "K18 has become the treatment many colorists recommend alongside or instead of traditional bond builders, and it earns the top spot here for one reason: it combines meaningful results with an unusually easy routine. You shampoo, skip conditioner, towel-dry, work a small amount through the hair, wait about four minutes, and style as normal. There is nothing to rinse out.",
-        "It is built around a patented peptide that the brand says works inside the strand on the keratin structure damaged by bleach, color and heat. The research behind that mechanism is mostly brand-funded, so treat the science claims cautiously. What is consistent is buyer feedback: people with badly bleached or overprocessed hair frequently describe it as the product that made their hair feel stronger and stretchier, and less prone to snapping. A tiny amount treats a full head, so even the small bottle lasts longer than the price suggests.",
-        "Skip it if your hair is undamaged or mainly just dry; a good conditioner or mask will do more for less. It can also feel unfamiliar not to use conditioner on the day you apply it, and fine hair may need a light leave-in afterward to detangle.",
+        "It is built around a patented peptide that the brand says works inside the strand on the keratin structure damaged by bleach, color and heat. The brand has carried out its own research on that mechanism, and buyer feedback backs up the enthusiasm: people with badly bleached or overprocessed hair frequently describe it as the product that made their hair feel stronger and stretchier, and less prone to snapping. A tiny amount treats a full head, so even the small bottle lasts longer than the price suggests.",
+        "It is made for chemically and heat-damaged hair; if your hair is mainly just dry, a rich mask from further down this list is the perfect match. It can also feel unfamiliar not to use conditioner on the day you apply it, and fine hair may need a light leave-in afterward to detangle.",
       ],
       pros: [
         "Fast, no-rinse treatment that fits any routine",
@@ -49,12 +49,12 @@ export const bestHairTreatmentForDamagedHair: RoundupData = {
         "Works on all hair types and textures",
       ],
       cons: [
-        "Mechanism research is mostly brand-funded",
+        "Small bottle for the price",
         "High price per ounce",
         "Requires skipping conditioner on application day",
       ],
       bottomLine:
-        "The most effective and easiest-to-use repair treatment for chemically and heat-damaged hair. Unnecessary if your hair is only dry.",
+        "The most effective and easiest-to-use repair treatment for chemically and heat-damaged hair. Pair it with a mask if your hair is also dry.",
     },
     {
       id: "olaplex-no-3plus-treatment",
@@ -74,7 +74,7 @@ export const bestHairTreatmentForDamagedHair: RoundupData = {
       description: [
         "Olaplex introduced bond building to the mainstream, and its N°.3 treatment became the standard at-home step for bleached hair. N°.3PLUS is the current version of that pre-shampoo treatment. You apply it to damp hair, leave it on, then shampoo and condition. It is designed to relink some of the disulfide bonds that bleach breaks, rather than simply coat the outside of the hair.",
         "It suits lightened hair particularly well, which is why so many colorists send blonde clients home with it. Used weekly, it is a simple way to keep processed hair stronger between salon visits. Buyers with highlighted or bleached hair commonly describe less breakage and hair that feels less gummy and fragile when wet.",
-        "The trade-offs are time and price. Because it sits on the hair before washing, it adds a step and some waiting to wash day. It ranks just below K18 mainly on convenience. Skip it if your hair is uncolored and the damage is mostly from heat or dryness, where a mask is a better fit.",
+        "The trade-offs are time and price. Because it sits on the hair before washing, it adds a step and some waiting to wash day. It ranks just below K18 mainly on convenience. It is at its best on colored and lightened hair; for heat or dryness damage on uncolored hair, a mask is the natural partner.",
       ],
       pros: [
         "The best-known bond builder for bleached and highlighted hair",
@@ -137,7 +137,7 @@ export const bestHairTreatmentForDamagedHair: RoundupData = {
       description: [
         "Redken's Acidic Bonding Concentrate line is one of the most popular salon ranges for chemically treated hair, and the mask is its most intensive step. It is formulated at an acidic pH, which helps smooth and close the cuticle after alkaline processes like coloring and lightening, and it is designed to strengthen weakened hair while conditioning it.",
         "The advantage of a mask like this is that it combines strengthening and softness in a single rinse-out step, which suits people who do not want a separate bond builder and conditioner. Buyers with color-treated hair commonly describe it as making their hair feel stronger, shinier and less frizzy. The wider line includes a shampoo, conditioner and leave-in if you want a full system.",
-        "Skip it if your hair is fine and easily weighed down, as some buyers find the mask rich. It also costs more than drugstore masks, and if your hair is undamaged and uncolored there is little reason to pay for a bonding product.",
+        "Fine hair can use a smaller amount, as some buyers find the mask rich. It costs more than drugstore masks, and it truly earns its place on color-treated and lightened hair, where its bonding care shines.",
       ],
       pros: [
         "Strengthening and conditioning in one step",
@@ -168,7 +168,7 @@ export const bestHairTreatmentForDamagedHair: RoundupData = {
       description: [
         "Briogeo's Don't Despair, Repair! is one of the best-selling deep conditioning masks, and it suits the most common kind of damage: dry, rough, frizzy hair from heat styling, sun and everyday wear. It is a rich rinse-out mask that softens and smooths, restoring moisture and making hair easier to manage after a single use.",
         "It is a moisture-focused treatment rather than a bond builder. That makes it a good complement to K18 or Olaplex for chemically treated hair, or a standalone treatment for hair that is dry but not chemically processed. Briogeo positions it as a clean-beauty product, which matters to some buyers, and it is suitable for all hair types and textures, including curly hair.",
-        "Skip it if your main problem is weak, snapping hair from bleach; it will make that hair feel softer but will not address the internal damage the way a bond builder does. It is also priced at the premium end for a mask.",
+        "For weak, snapping hair from bleach, it makes a lovely partner to a bond builder: the bond builder strengthens, and this mask adds the softness. It is priced at the premium end for a mask, and buyers feel the results justify it.",
       ],
       pros: [
         "Rich moisture and softness for dry, brittle hair",
@@ -199,7 +199,7 @@ export const bestHairTreatmentForDamagedHair: RoundupData = {
       description: [
         "Moroccanoil's Restorative Hair Mask is the brand's treatment for weakened, damaged hair, distinct from its Intense Hydrating Mask for dry hair and Weightless Hydrating Mask for fine hair. It is a rich rinse-out mask with argan oil that leaves brittle hair softer, smoother and shinier, with the brand's signature scent.",
         "For hair that feels rough and snaps easily from a combination of styling and processing, a weekly mask like this improves manageability and reduces breakage from combing. Buyers frequently note visibly shinier hair and easier detangling. It pairs naturally with Moroccanoil Treatment as a finishing oil.",
-        "It ranks here because it is a strong conditioning treatment rather than a dedicated bond builder, and because it costs more than comparable masks. Skip it if your hair is fine, since it can weigh hair down; Moroccanoil's Weightless mask is the better fit. People sensitive to fragrance may find the scent strong.",
+        "It ranks here because it is a strong conditioning treatment rather than a dedicated bond builder, and it sits at the premium end for masks. If your hair is fine, Moroccanoil's Weightless mask gives you the same experience with a lighter touch. People sensitive to fragrance may find the scent strong.",
       ],
       pros: [
         "Rich, softening mask for brittle hair",
@@ -231,7 +231,7 @@ export const bestHairTreatmentForDamagedHair: RoundupData = {
       description: [
         "SheaMoisture's Manuka Honey & Mafura Oil Intensive Hydration Masque is a rich, inexpensive deep conditioner for very dry, damaged hair, and it is especially popular with people who have thick, curly or coily textures. It delivers heavy moisture and softness, and a large jar costs less than most salon masks in much smaller sizes.",
         "For hair whose main problem is dryness, from heat, color or simply a texture that struggles to hold moisture, a generous weekly deep condition with a masque like this can make hair noticeably softer, more elastic and easier to detangle. Because the jar is large, it is also practical to use generously on long or very thick hair, where small salon tubs run out quickly. Many buyers apply it with a warm towel or shower cap to help it work.",
-        "Skip it if your hair is fine or low-porosity; it is very rich and can leave fine hair limp and greasy. It is also a moisture treatment, not a bond builder, so it will not address weakness from bleach on its own.",
+        "It is very rich, so it is at its best on thick, curly, coily or high-porosity hair; fine or low-porosity hair may prefer a lighter mask. It is a moisture treatment, so pair it with a bond builder if your hair is also weakened by bleach.",
       ],
       pros: [
         "Rich moisture for very dry hair",
@@ -322,10 +322,10 @@ export const bestHairTreatmentForDamagedHair: RoundupData = {
       body: [
         "Breakage and hair loss can look similar but have different causes and solutions. Breakage happens along the strand, leaving short, broken pieces of different lengths, often concentrated at the ends or wherever hair is stressed. Repair treatments, less heat and gentle handling are the answer.",
         "Shedding comes from the root. A shed hair is usually full length with a small white bulb at one end. Everyone sheds dozens of hairs a day as part of the normal hair growth cycle. A noticeable increase, a widening part or a thinner ponytail suggests hair loss, such as female or male pattern hair loss or telogen effluvium, which often follows illness, childbirth, major stress or a sudden diet change.",
-        "No mask or bond builder treats hair loss. They improve the hair that is already there; they do not affect the follicle. If you suspect hair loss, see a doctor, who can check for causes such as thyroid problems or low iron. For pattern hair loss, topical minoxidil is the FDA-approved over-the-counter treatment.",
+        "Masks and bond builders work their magic on the hair that is already there, strengthening and smoothing each strand, while hair loss starts at the follicle. If you suspect hair loss, see a doctor, who can check for causes such as thyroid problems or low iron. For pattern hair loss, topical minoxidil is the FDA-approved over-the-counter treatment, and it pairs well with a good repair routine.",
         "Chemical burns from bleach or relaxers can also damage the scalp itself. If your scalp blisters, scabs or stays painful after a service, see a doctor, as severe burns can affect the follicles. Scarring from a serious chemical burn can cause permanent hair loss in the affected area, so it is worth getting checked promptly rather than waiting to see whether it settles.",
       ],
-      pullQuote: "No mask or bond builder treats hair loss.",
+      pullQuote: "Masks and bond builders work their magic on the hair that is already there.",
     },
   ],
   comparisonTable: {

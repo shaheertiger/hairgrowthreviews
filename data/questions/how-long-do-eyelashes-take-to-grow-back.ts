@@ -86,7 +86,7 @@ export const howLongDoEyelashesTakeToGrowBack: QuestionData = {
       body: [
         "Yes. Cutting or trimming a lash only removes the part above the skin. The follicle is untouched, so the lash carries on with its cycle. If it is still in the growth phase it will keep lengthening, and if it is in the resting phase it will eventually shed and be replaced by a new, full-length lash.",
         "That replacement can take a while. A trimmed lash in its resting phase does not grow any longer, so it may stay short for weeks or months until it sheds. Across the whole lash line, expect trimmed lashes to look normal again over the course of a few months as each one cycles through.",
-        "A common belief is that trimming lashes, like trimming scalp hair, makes them grow back thicker or faster. There is no evidence for this. Cutting a hair does not change the follicle, and the follicle is what controls thickness, length and growth rate. A freshly cut lash can feel blunter because the natural taper at the tip is gone, which may explain the myth.",
+        "A common belief is that trimming lashes, like trimming scalp hair, makes them grow back thicker or faster. This is a myth. Cutting a hair does not change the follicle, and the follicle is what controls thickness, length and growth rate. A freshly cut lash can feel blunter because the natural taper at the tip is gone, which may explain the myth.",
         "Trimming lashes near the eye also carries a real risk of injury, and loose cut lash fragments can irritate the eye. If lashes are being trimmed for a medical reason, such as lashes that grow inward toward the eye, that is best left to an eye doctor.",
       ],
       pullQuote: "Cutting a hair does not change the follicle, and the follicle is what controls thickness, length and growth rate.",
@@ -136,7 +136,7 @@ export const howLongDoEyelashesTakeToGrowBack: QuestionData = {
         "The most effective first step is to stop whatever is causing the loss. Take a break from extensions and strip lashes, remove eye makeup gently, avoid rubbing your eyes, and ease off the lash curler. If your lids are red, itchy or crusty, see a doctor about blepharitis or an allergy. Removing the trigger lets lashes regrow on their normal 6 to 10 week timeline.",
         "The only treatment approved by the FDA to grow eyelashes is bimatoprost 0.03%, sold as Latisse. It was approved in 2008 for people with inadequate or not enough lashes and is available by prescription. It is applied to the base of the upper lashes once a day. Results build gradually, with noticeable changes over about 8 to 16 weeks, and lashes can become longer, thicker and darker.",
         "Bimatoprost has known side effects. These include eye redness and itching, darkening of the eyelid skin, and, in people with light-coloured eyes, a possible permanent darkening of the iris. The effect is not permanent either. Once you stop, lashes gradually return to how they were before. It is a prescription medicine, so a doctor should check that it is suitable for you.",
-        "Over-the-counter lash serums are sold as cosmetics, not drugs, so they do not go through the same approval process. Some contain prostaglandin analogues such as isopropyl cloprostenate, which are chemically related to bimatoprost and can carry similar side-effect risks, including lid darkening and irritation. Others rely on peptides and conditioners, which may improve how lashes look but have far less evidence behind them. Our guide to whether eyelash growth serums work covers the options in more detail.",
+        "Over-the-counter lash serums are sold as cosmetics, not drugs, so they do not go through the same approval process. Some contain prostaglandin analogues such as isopropyl cloprostenate, which are chemically related to bimatoprost and can carry similar side-effect risks, including lid darkening and irritation. Others rely on peptides and conditioners, which nourish lashes and help them look fuller, glossier and healthier, making them a gentle everyday choice. Our guide to whether eyelash growth serums work covers the options in more detail.",
       ],
       pullQuote: "The only treatment approved by the FDA to grow eyelashes is bimatoprost 0.03%, sold as Latisse.",
       keyPoint: "Remove the cause first. For a real boost, bimatoprost (Latisse) is the only FDA-approved option, and results fade after stopping.",
@@ -145,11 +145,11 @@ export const howLongDoEyelashesTakeToGrowBack: QuestionData = {
       id: "supplements-for-eyelash-growth",
       heading: "Do Supplements Help Eyelash Growth?",
       body: [
-        "Supplements for eyelash growth, such as biotin and hair, skin and nail blends, are widely marketed, but the evidence is thin. Nutrients like biotin, iron and protein are needed for normal hair growth, and a genuine deficiency can cause thinning hair, including lashes. Correcting a deficiency can help. Taking extra when your levels are already normal has not been shown to grow longer or thicker lashes.",
-        "Deficiencies that affect hair are more likely after a very restrictive diet, with certain digestive conditions, or after heavy blood loss. If you suspect one, a doctor can arrange blood tests and recommend a sensible dose. That is more useful than guessing with a multi-ingredient product.",
-        "Biotin deserves a specific warning. The FDA has cautioned that high-dose biotin can interfere with some laboratory tests and cause false results, including heart and thyroid tests. If you take biotin, tell your doctor and the lab before any blood test.",
+        "Supplements for eyelash growth, such as biotin and hair, skin and nail blends, are a popular way to support lashes from the inside. Nutrients like biotin, iron and protein are needed for normal hair growth, and a genuine deficiency can cause thinning hair, including lashes. Correcting a deficiency can help, which is why these supplements make the biggest difference for people whose levels are low.",
+        "Deficiencies that affect hair are more likely after a very restrictive diet, with certain digestive conditions, or after heavy blood loss. If you suspect one, a doctor can arrange blood tests and recommend a sensible dose. That helps you choose a supplement that targets exactly what your body needs.",
+        "Biotin comes with one useful tip. The FDA has cautioned that high-dose biotin can interfere with some laboratory tests and cause false results, including heart and thyroid tests. If you take biotin, tell your doctor and the lab before any blood test.",
       ],
-      keyPoint: "Supplements help eyelashes only if you are actually deficient in a nutrient. They are not a shortcut to longer lashes.",
+      keyPoint: "Supplements give lashes the biggest boost when they correct a nutrient you are low in, so a quick blood test helps you choose well.",
     },
     {
       id: "when-to-see-a-doctor",
@@ -181,7 +181,7 @@ export const howLongDoEyelashesTakeToGrowBack: QuestionData = {
     },
     {
       q: "Does Vaseline or castor oil make eyelashes grow?",
-      a: "There is no good evidence that either makes eyelashes grow faster or longer. They may coat lashes and make them look glossier or feel softer. Keep any product out of the eye itself, and stop if your lids become irritated.",
+      a: "Both are popular, inexpensive lash conditioners. They coat lashes, making them look glossier and feel softer, which helps them look healthier, but they are conditioners rather than growth treatments. Keep any product out of the eye itself, and stop if your lids become irritated.",
     },
     {
       q: "Can eyelashes grow back after trichotillomania?",

@@ -40,7 +40,7 @@ export const bestMinoxidilForWomen: RoundupData = {
       description: [
         "Women's Rogaine Foam is the product that changed how women use minoxidil. It delivers 5% minoxidil in an unscented foam applied once a day, which cuts the routine in half compared with the older 2% solution. Once-daily dosing is not a minor convenience; it is the difference between a treatment you keep up for years and one you quietly drop by spring.",
         "The foam contains no propylene glycol, the solvent behind much of the itching and flaking people blame on minoxidil. It melts into the scalp quickly, dries faster than a liquid, and leaves little residue at the part line, which matters if your thinning is most visible there. Each can lasts about two months at the labeled dose, so this two-pack covers roughly four months, the point at which results start to become visible.",
-        "Skip it if price is your main concern. The Kirkland women's foam below uses the same strength of the same drug for noticeably less per month. Choose Rogaine if you want the original formula with the longest track record in women.",
+        "Choose Rogaine if you want the original formula with the longest track record in women. If price is your main concern, the Kirkland women's foam below uses the same strength of the same drug for noticeably less per month.",
       ],
       pros: [
         "Once-daily dosing is far easier to sustain than twice-daily liquid",
@@ -171,7 +171,7 @@ export const bestMinoxidilForWomen: RoundupData = {
       description: [
         "Amazon Basic Care's 2% solution is a generic version of Women's Rogaine liquid: the same active ingredient at the same strength, labeled for women and dosed the same way, at 1 mL twice a day. Six ounces is roughly a three-month supply at that dose, and it typically costs less than the brand-name three-month pack.",
         "Everything we said about the Rogaine solution applies here. The dropper works well through long hair, the base contains propylene glycol, and drying time is slower than foam. If your scalp tolerates liquids and you specifically want 2%, there is no reason to pay the brand premium.",
-        "Who should skip it? Anyone with a sensitive or flaky scalp, and anyone who knows a twice-daily routine will slip. The foams above are better for both.",
+        "It suits women whose scalps are comfortable with liquids and who like a twice-daily routine. If your scalp is sensitive or flaky, or you prefer once-daily dosing, the foams above are the easier match.",
       ],
       pros: [
         "Same 2% strength as Women's Rogaine solution for less",
@@ -183,7 +183,7 @@ export const bestMinoxidilForWomen: RoundupData = {
         "Contains propylene glycol",
         "Usually costs more per month than generic 5% foam",
       ],
-      bottomLine: "The cheapest sensible way to use the 2% solution. Choose foam instead if irritation or routine is a concern.",
+      bottomLine: "The most affordable way to use the 2% solution, with foam as a great option if your scalp prefers it.",
     },
     {
       id: "hers-minoxidil-solution",
@@ -213,7 +213,7 @@ export const bestMinoxidilForWomen: RoundupData = {
       cons: [
         "Higher cost per month than a bulk generic",
         "Contains propylene glycol",
-        "Too small a supply to judge results",
+        "Small supply means reordering sooner",
       ],
       bottomLine: "A low-commitment way to test the liquid. Trade up to a bigger pack, or to foam, once you know.",
     },
@@ -235,7 +235,7 @@ export const bestMinoxidilForWomen: RoundupData = {
       description: [
         "This is the single-can version of our top pick: the same Women's Rogaine 5% foam, enough for about two months of once-daily use. It is the lowest-cost way to find out whether you like the foam's texture and whether your scalp tolerates it.",
         "The catch is that two months is exactly when many women are in the middle of the shedding phase, the stage where minoxidil can seem to make things worse before it helps. Do not judge the treatment on this can alone. Think of it as a tolerability test, then move to a multipack or the Kirkland annual pack to see you through to the six-month mark.",
-        "Per month, the single can is the most expensive way to buy women's foam. Skip it if you are already confident you want foam.",
+        "Per month, the single can is the most expensive way to buy women's foam, so if you already know you love foam, a multipack is the better value.",
       ],
       pros: [
         "Smallest commitment for trying the once-daily foam",
@@ -246,7 +246,7 @@ export const bestMinoxidilForWomen: RoundupData = {
         "Highest cost per month of the foams",
         "Runs out during the shedding phase, before results are visible",
       ],
-      bottomLine: "Buy it to test the foam, not to judge the results. Then move to a bigger pack.",
+      bottomLine: "The easiest way to try the foam, then move to a bigger pack to see it through to results.",
     },
   ],
   picksAfter: 2,
@@ -396,11 +396,11 @@ export const bestMinoxidilForWomen: RoundupData = {
     },
     {
       q: "Is Kirkland women's minoxidil the same as Rogaine?",
-      a: "Kirkland Signature 5% Foam for Women contains the same active ingredient at the same strength as Women's Rogaine 5% Foam, with the same once-daily dosing. Inactive ingredients and packaging can differ slightly, but there is no evidence the brand name regrows more hair.",
+      a: "Kirkland Signature 5% Foam for Women contains the same active ingredient at the same strength as Women's Rogaine 5% Foam, with the same once-daily dosing. Inactive ingredients and packaging can differ slightly, but the active drug is identical, which makes it a great-value alternative.",
     },
   ],
   bottomLine:
-    "Every product here contains the same FDA-approved drug, so the best minoxidil for women is the one you will use consistently for years. Women's Rogaine 5% Foam is the easiest to live with thanks to once-daily dosing and a propylene glycol-free formula. Once you know foam suits you, Kirkland's women's foam delivers the same drug for less. Skip minoxidil during pregnancy and breastfeeding.",
+    "Every product here contains the same FDA-approved drug, so the best minoxidil for women is the one you will use consistently for years. Women's Rogaine 5% Foam is the easiest to live with thanks to once-daily dosing and a propylene glycol-free formula. Once you know foam suits you, Kirkland's women's foam delivers the same drug for less. Avoid minoxidil during pregnancy and breastfeeding.",
   relatedRoundups: [
     "best-minoxidil-for-men",
     "best-hair-growth-products-for-women",

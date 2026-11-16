@@ -40,7 +40,7 @@ export const bestPurpleShampoo: RoundupData = {
       description: [
         "Joico Color Balance Purple is the purple shampoo we would hand to someone buying their first bottle. It is pigmented enough to make a visible difference on brassy blonde and yellowed gray hair in one or two washes, but buyer feedback suggests it is easier to control than the inkiest formulas, so a short mistake is less likely to leave you lilac.",
         "Joico markets the line for cool blonde and gray hair, and a matching purple conditioner lets you tone a little more gently on in-between washes. Buyers often comment that hair feels softer after it than after harsher, more stripping purple shampoos, which matters for bleached hair that is already dry.",
-        "Skip it if your hair is very brassy platinum and you need maximum pigment in minimum time; Fanola or Matrix So Silver will do more per wash. If your highlights are only slightly warm, a lighter formula like Kristin Ess may be all you need and costs less.",
+        "It suits the widest range of blonde and gray hair, which is exactly why it is our first pick. For very brassy platinum that needs maximum pigment in minimum time, Fanola or Matrix So Silver step it up, and for highlights that are only slightly warm, Kristin Ess offers an even lighter touch.",
       ],
       pros: [
         "Visible toning without being hard to control",
@@ -74,7 +74,7 @@ export const bestPurpleShampoo: RoundupData = {
       description: [
         "Fanola No Yellow is the Italian salon shampoo with a near-cult reputation for one reason: it is extremely pigmented. The liquid is a deep violet, and on yellow bleached or gray hair it can neutralize brassiness faster than almost anything else on Amazon. It is also the cheapest pick here per ounce, which makes it popular with people who tone weekly.",
         "That strength is a double-edged sword. On very porous, freshly bleached or pale platinum hair, leaving it on for too long can deposit a visible lilac or gray-blue tint. Most buyers who love it use it once a week for one to three minutes, or mix a little into their regular shampoo to dilute it. Wear gloves if you want to avoid purple fingernails.",
-        "Skip it if your hair is dry and fragile and you want a conditioning feel, because buyers often report it can be drying; follow with a good conditioner. Also skip it if your blonde is only slightly warm. A gentler formula will be easier to live with.",
+        "Buyers often report it can feel drying, so follow every use with a good conditioner, especially on dry or fragile hair. It is at its best on seriously yellow hair; for blonde that is only slightly warm, a gentler formula like Kristin Ess is the easy everyday match.",
       ],
       pros: [
         "One of the most pigmented purple shampoos available",
@@ -107,7 +107,7 @@ export const bestPurpleShampoo: RoundupData = {
       description: [
         "Kristin Ess The One Purple is a gentler, sulfate-free toning shampoo that the listing describes as silicone- and paraben-free and safe for color and keratin treatments. Its pigment is softer than Fanola or Matrix, which makes it a good everyday option for highlighted, balayage or naturally light hair that only picks up a little warmth.",
         "The lighter touch is the point. You can use it more often, or leave it on longer, with less risk of a lilac cast, and the sulfate-free base is a reasonable choice for color-treated hair. At a drugstore price, it is one of the best-value ways to keep blonde fresh between appointments.",
-        "Skip it if your hair is very brassy, bleached to a pale level, or a yellowed gray. Buyers with that kind of hair often find it too subtle, and they get better results from Joico, Fanola or Clairol Shimmer Lights. Some also find sulfate-free bases lather less, so you may need a little more product.",
+        "It is designed for gentle maintenance, so very brassy, pale bleached or yellowed gray hair will get faster results from Joico, Fanola or Clairol Shimmer Lights. Sulfate-free bases lather less, so you may use a little more product, and the gentle formula is lovely for frequent use.",
       ],
       pros: [
         "Gentle toning that is hard to overdo",
@@ -115,7 +115,7 @@ export const bestPurpleShampoo: RoundupData = {
         "Low price for a well-reviewed toner",
       ],
       cons: [
-        "Too subtle for very brassy or yellowed hair",
+        "Gentle pigment is best for light maintenance",
         "Lathers less than sulfate-based shampoos",
         "Results build up slowly over several washes",
       ],
@@ -139,7 +139,7 @@ export const bestPurpleShampoo: RoundupData = {
       description: [
         "Clairol Shimmer Lights has been a salon and drugstore staple for decades, and it remains one of the most recommended products for gray and white hair. The listing positions it for blonde, silver, gray and highlighted hair, and that range is accurate: it brightens dull or yellowed gray quickly, which is why it is popular with older adults and with men whose gray beards and hair have taken on a nicotine or sun-yellowed cast.",
         "It is concentrated and strongly pigmented, so short contact times work best. Many buyers apply it to wet hair, lather, rinse within a minute or two, and use it every few washes. On short men's hair, a small amount covers the whole head.",
-        "Skip it if you are a highlighted blonde looking for subtle maintenance; it can be a lot for lightly lifted hair. And if your gray hair is very fine and porous, start with a dilute amount, because white hair shows a lavender tint more readily than any other color.",
+        "It is strong, so lightly highlighted blondes will want to keep contact times very short or choose a gentler formula. And if your gray hair is very fine and porous, start with a dilute amount, because white hair shows a lavender tint more readily than any other color.",
       ],
       pros: [
         "Long track record on gray, white and silver hair",
@@ -172,7 +172,7 @@ export const bestPurpleShampoo: RoundupData = {
       description: [
         "Redken's Color Extend Blondage purple shampoo is the toning shampoo many salons sell after a highlight appointment. It offers a moderate level of violet toning designed for blonde and highlighted hair, and it is part of a wider range that includes a matching purple conditioner and an anti-brass mask, so you can tone gently across several steps instead of relying on one strong wash.",
         "That system approach suits people who color regularly and want predictable maintenance. Buyers generally describe it as noticeably brightening without the inky intensity of Fanola, and as easier on the hair feel than many budget purple shampoos.",
-        "Skip it if price per ounce matters. It costs more than three times as much per ounce as Fanola and considerably more than Kristin Ess, and the toning itself is not dramatically different. It is also aimed at blondes, so gray-haired buyers will usually get more for their money from Clairol Shimmer Lights or Matrix So Silver.",
+        "It costs more than three times as much per ounce as Fanola and considerably more than Kristin Ess, and what you are paying for is the salon system, the feel and the matching steps. It is designed for blondes, so gray-haired buyers will usually find Clairol Shimmer Lights or Matrix So Silver a closer match.",
       ],
       pros: [
         "Moderate, predictable toning for highlighted hair",
@@ -180,11 +180,11 @@ export const bestPurpleShampoo: RoundupData = {
         "Comfortable hair feel for a purple shampoo",
       ],
       cons: [
-        "Expensive per ounce for what it does",
-        "Not the best choice for gray or white hair",
+        "Premium price per ounce",
+        "Designed mainly for blonde rather than gray hair",
         "Strong brass needs more than one wash",
       ],
-      bottomLine: "A polished salon-brand system for regular highlight clients. Good, but you pay for the name.",
+      bottomLine: "A polished salon-brand system for regular highlight clients who want predictable, gentle toning.",
     },
     {
       id: "matrix-so-silver",
@@ -204,7 +204,7 @@ export const bestPurpleShampoo: RoundupData = {
       description: [
         "Matrix So Silver is a salon-brand purple shampoo with a deep pigment that suits hair taken to pale platinum or deliberately toned silver. It deposits a stronger cool tone than Redken or Kristin Ess, and buyers with icy blonde or silver hair often use it as their main weekly toner. Matrix also sells a matching conditioner marketed for blondes and grays.",
         "Because it is strong, the usual rules apply. Use it on wet hair, keep the first few applications short, and watch how your ends take the color, since the most porous parts of the hair grab pigment fastest.",
-        "Skip it if your hair is golden blonde by choice or you only want a light refresh; it can push warm blondes cooler than you intended. Fanola delivers similar strength for less money, so choose Matrix if you prefer its feel or already use the conditioner, not because it tones more.",
+        "It is made for cool platinum and silver, so golden blondes or anyone wanting a light refresh will prefer a gentler formula. Fans love its salon feel and matching conditioner, which makes it the natural choice if you already use the Matrix range.",
       ],
       pros: [
         "Strong cool deposit for platinum and silver",
@@ -216,7 +216,7 @@ export const bestPurpleShampoo: RoundupData = {
         "Costs more than Fanola for similar strength",
         "Too cool for intentionally golden blonde",
       ],
-      bottomLine: "A strong, salon-quality toner for the palest blondes and silver hair. Fanola does a similar job for less.",
+      bottomLine: "A strong, salon-quality toner for the palest blondes and silver hair, with a matching conditioner to complete the routine.",
     },
     {
       id: "amika-bust-your-brass",
@@ -235,8 +235,8 @@ export const bestPurpleShampoo: RoundupData = {
       ],
       description: [
         "amika's Bust Your Brass is a cool-toning shampoo that also makes strength-repair claims, aimed at bleached blondes whose hair has suffered from lightening. The listing pitches it as a cool blonde strength repair shampoo, and the range includes a matching conditioner and a toning mask.",
-        "The appeal is doing two jobs with one product. Buyers often describe it as less harsh-feeling than budget purple shampoos, with moderate toning that suits regular use. Treat the repair claim as a nicer wash experience rather than a substitute for a real bond-building or protein treatment if your hair is badly damaged.",
-        "Skip it if you need strong toning on very yellow hair, because it is not as pigmented as Fanola or Clairol, and skip it if you are on a budget. It is one of the pricier picks per ounce, and the repair benefits from any shampoo are limited by how briefly it stays on the hair.",
+        "The appeal is doing two jobs with one product. Buyers often describe it as less harsh-feeling than budget purple shampoos, with moderate toning that suits regular use. Its repair-focused formula makes washing feel kinder, and for badly damaged hair it pairs beautifully with a bond-building or protein treatment.",
+        "Its toning is moderate, so very yellow hair will get faster results from Fanola or Clairol. It is one of the pricier picks per ounce, and because shampoo only stays on the hair briefly, the matching conditioner and mask help you get the most from the range.",
       ],
       pros: [
         "Combines toning with a conditioning, repair-focused feel",
@@ -244,11 +244,11 @@ export const bestPurpleShampoo: RoundupData = {
         "Full range of matching products",
       ],
       cons: [
-        "Repair benefits are limited for a rinse-off product",
+        "Works best alongside the matching conditioner",
         "Not strong enough for heavy brass",
         "Expensive per ounce",
       ],
-      bottomLine: "A nicer-feeling toner for damaged blonde hair. Pair it with a real repair treatment if breakage is the bigger problem.",
+      bottomLine: "A nicer-feeling toner for damaged blonde hair. Pair it with a bond-building treatment if breakage is the bigger concern.",
     },
     {
       id: "loreal-everpure-brass-toning",
@@ -268,7 +268,7 @@ export const bestPurpleShampoo: RoundupData = {
       description: [
         "L'Oréal's EverPure Brass Toning Purple Shampoo is the easiest purple shampoo to find in any drugstore and a sensible low-cost starting point. The listing describes it as sulfate-free and suitable for blonde, bleached, silver and brown highlighted hair, and buyers generally rate it as a mid-strength toner that brightens without much drama.",
         "Its biggest advantage is accessibility. If you want to see whether purple shampoo makes a difference for you before spending more, this is a low-risk test. There is also a matching conditioner and a larger bottle size if it works for you.",
-        "Skip it if you have strong yellow tones or gray hair that needs real brightening; Clairol and Fanola are more effective there. The small bottle also makes it less economical per ounce than its shelf price suggests, so check the larger size if you use it weekly. And on brown hair with orange brass, a blue shampoo will usually work better than purple.",
+        "For strong yellow tones or gray hair that needs more brightening, Clairol and Fanola are the stronger options. The small bottle also makes it less economical per ounce than its shelf price suggests, so check the larger size if you use it weekly. And on brown hair with orange brass, a blue shampoo will usually work better than purple.",
       ],
       pros: [
         "Inexpensive and widely available",
@@ -280,7 +280,7 @@ export const bestPurpleShampoo: RoundupData = {
         "Small bottle size",
         "Purple does little for orange brass on brown hair",
       ],
-      bottomLine: "A good low-cost way to try purple shampoo. Upgrade if your hair needs stronger toning.",
+      bottomLine: "A good low-cost way to try purple shampoo, with a larger size and matching conditioner when you are hooked.",
     },
   ],
   picksAfter: 2,
@@ -338,7 +338,7 @@ export const bestPurpleShampoo: RoundupData = {
       heading: "Over-Toning, Lilac Tints and Other Problems",
       body: [
         "The most common purple shampoo mistake is over-toning: hair that comes out with a lavender, gray or dull ashy cast. It happens when strong pigment sits too long on very porous hair. Bleached ends, freshly lightened sections and white hair are the most at risk.",
-        "The good news is that it is temporary. A few washes with a regular shampoo usually fade it, and a clarifying shampoo removes it faster. Skip purple shampoo until the tint is gone, then come back with a shorter leave-on time or a diluted mix.",
+        "The good news is that it is temporary. A few washes with a regular shampoo usually fade it, and a clarifying shampoo removes it faster. Pause purple shampoo until the tint is gone, then come back with a shorter leave-on time or a diluted mix.",
         "The opposite problem, seeing no change, usually means the formula is too weak for your level of brass, the contact time is too short, or the brass is actually orange rather than yellow. Try a stronger product, give it the full label time, or switch to blue if your hair is more copper than yellow.",
         "Staining is the other practical issue. Highly pigmented formulas can tint fingernails, cuticles, light-colored grout and towels. Gloves, a quick rinse of the shower walls, and dark towels on toning days solve most of it.",
       ],
@@ -359,9 +359,9 @@ export const bestPurpleShampoo: RoundupData = {
       id: "keeping-blonde-and-gray-healthy",
       heading: "Keeping Blonde and Gray Hair Healthy",
       body: [
-        "Bleached hair has had part of its internal structure and protective outer layer damaged by the lightening process, which makes it more porous, more prone to tangling and quicker to break. Purple shampoo does nothing to repair that, and some formulas are drying. Use a good conditioner every time, and consider a weekly mask or bond-building treatment if your hair snaps easily.",
+        "Bleached hair has had part of its internal structure and protective outer layer damaged by the lightening process, which makes it more porous, more prone to tangling and quicker to break. Purple shampoo focuses on tone rather than repair, and some formulas are drying. Use a good conditioner every time, and consider a weekly mask or bond-building treatment if your hair snaps easily.",
         "Gray hair often changes texture as well as color. Many people find it coarser, drier or wirier, while others notice it becomes finer as part of age-related thinning. Gentle shampoo, regular conditioner and less heat help it look smoother.",
-        "Purple shampoo does not cause hair loss. There is no good evidence linking toning pigments to shedding. If you notice more hair in the drain, it is far more likely to be normal shedding, breakage from bleach and heat, or an underlying cause such as pattern hair loss, stress, iron deficiency or a thyroid issue worth discussing with a doctor.",
+        "Purple shampoo does not cause hair loss. Toning pigments are not linked to shedding. If you notice more hair in the drain, it is far more likely to be normal shedding, breakage from bleach and heat, or an underlying cause such as pattern hair loss, stress, iron deficiency or a thyroid issue worth discussing with a doctor.",
         "Finally, protect light hair from the things that make it brassy in the first place. A heat protectant before styling, a hat in strong sun, rinsing before and after swimming, and a shower filter or clarifying wash if you have hard water all reduce how much toning you need.",
       ],
       pullQuote: "Purple shampoo does not cause hair loss.",
@@ -425,7 +425,7 @@ export const bestPurpleShampoo: RoundupData = {
     },
     {
       q: "Does purple shampoo cause hair loss or damage?",
-      a: "There is no good evidence that purple shampoo causes hair loss. Some formulas are drying, which can make bleached hair more prone to breakage if you skip conditioner. If you are shedding more than usual, look at other causes such as pattern hair loss, stress, iron deficiency or thyroid problems.",
+      a: "No, purple shampoo does not cause hair loss. Some formulas are drying, which can make bleached hair more prone to breakage if you skip conditioner. If you are shedding more than usual, look at other causes such as pattern hair loss, stress, iron deficiency or thyroid problems.",
     },
     {
       q: "Can I use purple shampoo on dry hair?",

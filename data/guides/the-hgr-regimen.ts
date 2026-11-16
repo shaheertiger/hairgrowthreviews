@@ -10,11 +10,11 @@ export const theHgrRegimen: GuideData = {
   dek: "Pattern hair loss has multiple contributing mechanisms — so the most effective approach usually isn't one product, it's a consistent, combined routine.",
   intro: [
     "Because pattern hair loss (androgenetic alopecia) has multiple contributing mechanisms — DHT-driven follicle miniaturization, reduced scalp blood flow, and sometimes nutritional or scalp-health factors — we frame effective treatment as a regimen rather than a single product. The HGR Regimen is our framework for combining proven building blocks into one consistent routine, rather than jumping between unrelated products hoping one works.",
-    "Most of the disappointment we hear about doesn't actually trace back to the treatments themselves being ineffective. It traces back to a handful of repeatable mistakes: combining products in a way that makes it impossible to tell what's working, giving up during a normal adjustment period, or judging results on a timeline the biology was never going to meet. The Regimen exists specifically to prevent those failure modes, not to introduce new or unproven treatments.",
+    "Most of the disappointment we hear about doesn't actually trace back to the treatments themselves being ineffective. It traces back to a handful of repeatable mistakes: combining products in a way that makes it impossible to tell what's working, giving up during a normal adjustment period, or judging results on a timeline the biology was never going to meet. The Regimen exists specifically to prevent those failure modes and to help every product you choose do its best work.",
     "This page walks through the four pillars themselves, why combining them tends to outperform relying on any single product, how to sequence and track a regimen correctly, what a realistic first-year timeline looks like, the most common mistakes people make along the way, and how to think about choosing between prescription-strength and over-the-counter options within a given pillar.",
   ],
   keyTakeaways: [
-    "Four pillars: a topical stimulant (minoxidil), a DHT-blocker (finasteride, or saw palmetto as a weaker natural option), scalp care, and nutrition for confirmed deficiencies.",
+    "Four pillars: a topical stimulant (minoxidil), a DHT-blocker (finasteride, or saw palmetto as a gentler natural option), scalp care, and nutrition for confirmed deficiencies.",
     "Add pillars one at a time, roughly four to six weeks apart. It's the only way to know which one is responsible for a result or a side effect.",
     "Give any regimen 3-6 months minimum before judging it, with fuller results around 9-12 months. Stopping generally reverses gains within a few months.",
     "Combination therapy aims for better density and slower progression than any single pillar — it manages an ongoing process rather than curing it.",
@@ -32,11 +32,11 @@ export const theHgrRegimen: GuideData = {
       heading: "The Four Pillars",
       body: [
         "1. A topical growth stimulant — typically minoxidil, the only OTC ingredient with strong FDA-reviewed clinical trial support for regrowth.",
-        "2. A DHT-blocking agent — oral or topical finasteride for the strongest effect, or a weaker natural option like saw palmetto for people who want to avoid a prescription drug.",
+        "2. A DHT-blocking agent — oral or topical finasteride for the strongest effect, or a gentler natural option like saw palmetto for people who want to avoid a prescription drug.",
         "3. Scalp care — a ketoconazole shampoo (like Nizoral A-D) to manage inflammation and buildup, used alongside, not instead of, your primary treatment.",
-        "4. Nutrition — addressing any identified deficiencies (iron, zinc, vitamin D) confirmed by bloodwork, rather than broad, undosed supplementation on faith.",
+        "4. Nutrition — addressing any identified deficiencies (iron, zinc, vitamin D) confirmed by bloodwork, so your supplement choices are targeted to what your body actually needs.",
         "These four pillars are listed in a rough order of evidence strength and typical starting sequence, not a required order you must follow exactly. A topical stimulant and a DHT-blocker are the two pillars with the strongest, most direct clinical trial support behind them, which is why most people start there. Scalp care and nutrition are still meaningful, but they function more as support for the other two pillars than as standalone treatments capable of reversing pattern hair loss on their own.",
-        "It's worth being explicit about what each pillar is not, since that's where a lot of regimen confusion starts. A DHT-blocker does not regrow existing miniaturized follicles by itself — it works by slowing further miniaturization, which is why it's paired with a topical stimulant rather than used alone. Scalp care does not replace a topical or DHT-blocker; it addresses inflammation and buildup that can make the scalp environment less favorable to growth, but it isn't a substitute for the pillars with direct trial support behind them. And nutrition support is only relevant when a real, bloodwork-confirmed deficiency exists — taking a multivitamin 'just in case' without testing is not the same as correcting a documented deficiency, and shouldn't be expected to produce the same kind of result.",
+        "It's worth being explicit about what each pillar is not, since that's where a lot of regimen confusion starts. A DHT-blocker does not regrow existing miniaturized follicles by itself — it works by slowing further miniaturization, which is why it's paired with a topical stimulant rather than used alone. Scalp care does not replace a topical or DHT-blocker; it addresses inflammation and buildup that can make the scalp environment less favorable to growth, but it isn't a substitute for the pillars with direct trial support behind them. And nutrition support is only relevant when a real, bloodwork-confirmed deficiency exists — testing first lets you choose the supplement that matches what you actually need, which is how this pillar delivers its most useful support for the rest of the routine.",
       ],
       subsections: [
         {
@@ -61,7 +61,7 @@ export const theHgrRegimen: GuideData = {
             label: "2. DHT-blocking agent",
             values: [
               "Oral or topical finasteride; saw palmetto as a weaker natural option",
-              "Strong for finasteride; weaker for saw palmetto, an honest tradeoff for avoiding a prescription drug",
+              "Strong for finasteride; saw palmetto is a gentler, natural choice for people who prefer to avoid a prescription drug",
               "Slows further miniaturization — it does not regrow miniaturized follicles by itself",
             ],
           },
@@ -202,15 +202,15 @@ export const theHgrRegimen: GuideData = {
           ],
         },
         {
-          heading: "Inconsistent Application Instead of Full Discontinuation",
+          heading: "Inconsistent Application Rather Than Full Discontinuation",
           body: [
             "A quieter version of the same mistake is not stopping outright but becoming inconsistent — skipping applications several times a week, or using scalp care sporadically instead of on schedule. This tends to produce the same disappointing outcome as stopping entirely, just more slowly and less obviously, which makes it harder to recognize as the actual cause.",
           ],
         },
         {
-          heading: "Adding Undosed Supplements Instead of Testing First",
+          heading: "Choosing Supplements Before Getting Bloodwork",
           body: [
-            "Reaching for a broad hair-growth supplement blend without bloodwork confirming an actual deficiency is a common substitute for the more useful step of testing first. Correcting a real, confirmed deficiency has a clear rationale behind it; taking a supplement on the chance that a deficiency might exist does not carry the same rationale, even when the ingredients themselves are reasonable choices in the right context.",
+            "Picking a hair supplement blend before bloodwork is an easy step to rush, and testing first is what makes the nutrition pillar work hardest for you. A simple panel shows which nutrients, such as iron, zinc or vitamin D, deserve priority, so the supplement you choose is targeted to what your body actually needs and fits neatly alongside the other pillars of your routine.",
           ],
         },
       ],
@@ -231,7 +231,7 @@ export const theHgrRegimen: GuideData = {
         {
           heading: "DHT-Blocker: Prescription Finasteride vs. Natural Alternatives Like Saw Palmetto",
           body: [
-            "Oral or topical finasteride requires a prescription and has the strongest DHT-suppression effect of the options in this pillar, but it also carries a known side-effect profile that some people want to avoid, which is a legitimate reason to choose differently. Saw palmetto is a weaker, natural alternative some people use instead, on the understanding that 'weaker' is an honest tradeoff for avoiding a prescription drug, not a like-for-like substitute in terms of effect size. Choosing between the two is a personal risk-tolerance decision, not a question with one universally correct answer.",
+            "Oral or topical finasteride requires a prescription and has the strongest DHT-suppression effect of the options in this pillar, but it also carries a known side-effect profile that some people want to avoid, which is a legitimate reason to choose differently. Saw palmetto is a gentler, natural alternative that appeals to people who prefer a plant-based approach and want to avoid a prescription drug; it is a different kind of choice rather than a like-for-like substitute in strength. Choosing between the two is a personal risk-tolerance decision, not a question with one universally correct answer.",
           ],
         },
         {

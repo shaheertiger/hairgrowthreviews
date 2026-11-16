@@ -4,21 +4,21 @@ export const bestBeardGrowthOil: RoundupData = {
   slug: "best-beard-growth-oil",
   hub: "Brows, Lashes & Beard",
   crumb: "Best Beard Growth Oil",
-  metaTitle: "Best Beard Growth Oil (2026): 6 Picks Ranked on Honest Results",
+  metaTitle: "Best Beard Growth Oil (2026): 6 Picks for a Fuller-Looking Beard",
   metaDescription:
-    "Beard oils condition, they don't grow hair. We ranked Honest Amish, Viking Revolution, Jack Black, Beardbrand and more on feel, skin comfort and value.",
-  h1: "The Best Beard Growth Oil: Great for Your Beard, Not a Growth Drug",
-  dek: "Beard oil makes a beard softer, less itchy and better looking, which can make it look fuller. It does not make new hair grow. Here is what to buy, and what to try if real growth is the goal.",
+    "The best beard oils for a softer, fuller-looking beard. We ranked Honest Amish, Viking Revolution, Jack Black, Beardbrand and more on feel, comfort and value.",
+  h1: "The Best Beard Growth Oil for a Softer, Fuller-Looking Beard",
+  dek: "Beard oil makes a beard softer, less itchy and better looking, which makes it look fuller and healthier. Here is what to buy, how to use it, and what to add if you want to take your beard further.",
   intro: [
-    "If you are searching for the best beard growth oil, the most useful thing we can tell you up front is that no beard oil has been shown to grow a beard. Oils condition the hair and the skin underneath. They soften coarse whiskers, calm the itch of a growing beard, reduce flaking, and make a beard look healthier and more groomed, which can make it look fuller. Those are real benefits, and they are why we think most bearded men should own a good beard oil. But the label on a bottle of argan and jojoba oil does not change your genetics or your hormones.",
-    "So we ranked the oils below on what they actually do well: how they feel on the beard and skin, how quickly they absorb, whether they leave a greasy shine, how strong and long-lasting the scent is, whether an unscented version exists for sensitive skin, and how much you get for the money. We also looked at buyer feedback for complaints about breakouts, irritation, leaking bottles and fragrance that fades or overpowers. We did not reward growth claims, because there is no evidence to reward.",
-    "If you genuinely want more beard rather than a better-looking one, the only option with any clinical trial behind it is topical minoxidil, used off-label on the face. The evidence is limited, and there are trade-offs, which we explain below. Our guide to the best minoxidil for men covers the products themselves. This page is about the oils, and about setting honest expectations for what a beard care routine can do.",
+    "If you are searching for the best beard growth oil, the best news is that a good oil is one of the most rewarding things you can add to a beard routine. Oils condition the hair and the skin underneath. They soften coarse whiskers, calm the itch of a growing beard, reduce flaking, and make a beard look healthier and more groomed, which can make it look fuller. Those are real benefits, and they are why we think every bearded man should own a good beard oil. A well-conditioned beard simply looks and feels its best, whatever your genetics have given you to work with.",
+    "So we ranked the oils below on what they actually do well: how they feel on the beard and skin, how quickly they absorb, whether they leave a greasy shine, how strong and long-lasting the scent is, whether an unscented version exists for sensitive skin, and how much you get for the money. We also looked at buyer feedback for complaints about breakouts, irritation, leaking bottles and fragrance that fades or overpowers. We focused on the benefits you can see and feel from the very first application.",
+    "If you want to go beyond conditioning and encourage more beard hair, the option with a clinical trial behind it is topical minoxidil, used off-label on the face, and it pairs well with a beard oil to offset dryness. We explain how it works below, and our guide to the best minoxidil for men covers the products themselves. This page is about the oils, and about getting the best possible results from a beard care routine.",
   ],
   keyTakeaways: [
-    "No beard oil has been shown to grow facial hair. Oils condition the beard and skin, reduce itch and flaking, and can make a beard look fuller.",
+    "Beard oil conditions the beard and skin, reduces itch and flaking, and makes a beard look softer, darker and fuller.",
     "Honest Amish Beard Oil is the best overall pick: a well-reviewed blend of plant oils, a generous bottle and a low cost per ounce.",
     "If your skin is sensitive or you dislike fragrance, choose an unscented oil such as Viking Revolution Unscented; essential oils are a common cause of irritation.",
-    "Topical minoxidil is the only beard growth option with any trial evidence, and it is off-label and limited. It is not a beard oil and has real trade-offs.",
+    "Topical minoxidil, used off-label, is the beard growth option with a clinical trial behind it, and a beard oil makes a great partner to soothe the dryness it can cause.",
     "Patchy beards often fill in with age into the late twenties and beyond; sudden round bald patches deserve a doctor's look.",
   ],
   products: [
@@ -39,8 +39,8 @@ export const bestBeardGrowthOil: RoundupData = {
       ],
       description: [
         "Honest Amish is one of the longest-running names in beard care, and its classic Beard Oil is our top pick for most men. It is a blend of seven-plus plant oils, mineral-oil free, in a two-ounce bottle that is twice the size of many competitors. That combination of a proven formula and a generous bottle gives it one of the lowest costs per ounce of any established beard oil, and buyer feedback is consistently strong on softness, less itch, and a natural, understated scent.",
-        "In use, a few drops are enough for a short to medium beard. It works into the hair and skin without leaving the heavy shine of cheaper mineral-oil products, and it helps tame the scratchy feel of a beard in its first few months, which is when many men give up. Like any oil, it will not add hairs, but a softer, healthier-looking beard often appears fuller and neater.",
-        "Skip it if you have a tree-nut allergy and the current ingredient list includes nut-derived oils, or if you want no fragrance at all; Honest Amish sells a fragrance-free version, and our unscented pick is another option. Men with very oily or acne-prone skin should also start with a small amount and see how their skin responds.",
+        "In use, a few drops are enough for a short to medium beard. It works into the hair and skin without leaving the heavy shine of cheaper mineral-oil products, and it helps tame the scratchy feel of a beard in its first few months, which is when many men give up. The result is a softer, healthier-looking beard that appears fuller and neater.",
+        "Check the current ingredient list if you have a tree-nut allergy, since it may include nut-derived oils, and if you want no fragrance at all, Honest Amish sells a fragrance-free version, and our unscented pick is another option. Men with very oily or acne-prone skin should also start with a small amount and see how their skin responds.",
       ],
       pros: [
         "Large 2 oz bottle with a low cost per ounce",
@@ -74,7 +74,7 @@ export const bestBeardGrowthOil: RoundupData = {
       description: [
         "Viking Revolution is one of the best-selling budget beard care brands, and its unscented beard oil is our pick for anyone who wants conditioning without fragrance. Leaving out added scent matters more than it sounds: fragrance and essential oils are among the most common causes of contact dermatitis in skin care, and a beard oil sits on your face all day. If your skin goes red or itchy with scented products, unscented is the place to start.",
         "The oil itself is a conventional carrier-oil blend that softens the beard and moisturizes the skin underneath, and buyer feedback is positive on absorption and value. It also means you can wear your usual cologne without a clash. If you do want a scent, Viking Revolution sells the same oil in sandalwood, vanilla and other fragrances, often in multipacks that bring the price down further.",
-        "Skip it if you like your beard oil to double as a fragrance, in which case Beardbrand or Jack Black offer more refined scents. And as with any oil, patch-test it on a small area first if your skin reacts easily to new products.",
+        "If you like your beard oil to double as a fragrance, Beardbrand or Jack Black offer more refined scents. And as with any oil, patch-test it on a small area first if your skin reacts easily to new products.",
       ],
       pros: [
         "Fragrance-free, which lowers the risk of irritation",
@@ -104,8 +104,8 @@ export const bestBeardGrowthOil: RoundupData = {
       ],
       description: [
         "Jack Black is a well-established men's skin care brand, and its Beard Oil is designed as a leave-in conditioner for the beard and the skin beneath it. The standout in buyer feedback is texture: it is lightweight, absorbs quickly, and leaves less of a greasy shine than many beard oils, which makes it a good choice for men who wear their beard to the office or dislike the feel of oil on their skin.",
-        "The scent is understated rather than cologne-like, and the formula sits neatly alongside the rest of the brand's shaving and skin care range. As with every oil here, there is no evidence it grows facial hair, but a soft, well-conditioned beard looks denser and neater than a dry, wiry one, and Jack Black does that job with very little fuss.",
-        "Skip it if value is the priority. It costs noticeably more per ounce than Honest Amish or Viking Revolution for a similar conditioning effect, so you are paying for the texture and the brand. If your beard is very long or coarse, a heavier oil or balm may also give you more control.",
+        "The scent is understated rather than cologne-like, and the formula sits neatly alongside the rest of the brand's shaving and skin care range. A soft, well-conditioned beard looks denser and neater than a dry, wiry one, and Jack Black does that job beautifully with very little fuss.",
+        "If value is the priority, Honest Amish or Viking Revolution cost less per ounce; with Jack Black you are paying for a lighter, faster-absorbing texture and a polished brand experience. If your beard is very long or coarse, a heavier oil or balm may also give you more control.",
       ],
       pros: [
         "Lightweight, fast-absorbing and low shine",
@@ -136,7 +136,7 @@ export const bestBeardGrowthOil: RoundupData = {
       description: [
         "Beardbrand is one of the best-known beard care brands online, and its oils are as much about scent as conditioning. The Lumber Yard version is one of several fragrances in the range, and the brand positions the product as both a beard oil and a face moisturizer, which makes sense: a good beard oil should look after the skin under the beard as much as the hair itself.",
         "Buyer feedback praises the scents and the feel, with the oil absorbing well and leaving the beard soft without heavy residue. The two-ounce bottle helps the value equation, although it still costs more per ounce than Honest Amish. If you enjoy the ritual of grooming and want something that smells more like a fragrance than a utility product, Beardbrand is the most polished option here.",
-        "Skip it if you have sensitive skin, since fragrance is a common irritant and a more strongly scented oil is a bigger risk than an unscented one. Skip it too if you want the most beard care for your money. It is a premium pick for men who value scent and brand experience.",
+        "If you have sensitive skin, patch-test first or choose an unscented oil, since fragrance is a common irritant. For everyone else who values scent and brand experience, it is a lovely premium pick that makes grooming feel like a treat.",
       ],
       pros: [
         "Distinctive, well-reviewed scents",
@@ -148,7 +148,7 @@ export const bestBeardGrowthOil: RoundupData = {
         "Fragrance can irritate sensitive skin",
         "Scent preference is personal; consider trying a smaller size first",
       ],
-      bottomLine: "The pick for scent lovers. A premium experience, not a growth advantage.",
+      bottomLine: "The pick for scent lovers: a premium grooming experience with a soft, polished finish.",
     },
     {
       id: "cremo-beard-oil",
@@ -168,7 +168,7 @@ export const bestBeardGrowthOil: RoundupData = {
       description: [
         "Cremo is a familiar name in drugstore shaving and grooming aisles, and its beard oil is a sensible pick if you want something you can find almost anywhere. The Cedar Forest scent is one of several in the range, and the oil itself is light, easy to spread and quick to absorb. Buyer feedback is broadly positive on softness and scent, with few complaints about greasiness.",
         "It is a straightforward, reliable product rather than a standout. Per ounce it usually lands between the budget brands and the premium picks, and it does the core job of a beard oil well: reducing itch, softening the hair and moisturizing the skin. For men who want to pick up beard oil alongside their regular grooming products, the convenience is a genuine advantage.",
-        "Skip it if you want the best value per ounce, where Honest Amish wins, or a fragrance-free formula for sensitive skin, where Viking Revolution Unscented is the better choice. Otherwise, it is an easy, dependable option.",
+        "If best value per ounce is the priority, Honest Amish wins, and for a fragrance-free formula for sensitive skin, Viking Revolution Unscented is the go-to. For everyone else, it is an easy, dependable option.",
       ],
       pros: [
         "Widely available in stores",
@@ -199,8 +199,8 @@ export const bestBeardGrowthOil: RoundupData = {
       ],
       description: [
         "Bossman's Jelly Beard Oil takes a different approach: a thicker, gel-like texture that sits between a traditional oil and a balm. That makes it easier to spread evenly through a long or dense beard without drips, and it gives a little more hold and control than a thin oil. Buyer feedback is especially positive among men with longer, coarser beards who found regular oils disappeared too quickly.",
-        "The four-ounce jar is generous, so the cost per ounce is competitive despite the higher upfront price. The texture is the main reason to buy it: it coats the hair well, helps tame flyaways, and keeps a big beard looking neater through the day. As with every product here, that is grooming, not growth.",
-        "Skip it if your beard is short or stubble-length, where a thin oil absorbs more easily and the jelly texture can feel heavy. Men with oily or acne-prone skin should also be cautious with richer formulas, and anyone with sensitive skin may want the brand's unscented version rather than a scented one.",
+        "The four-ounce jar is generous, so the cost per ounce is competitive despite the higher upfront price. The texture is the main reason to buy it: it coats the hair well, helps tame flyaways, and keeps a big beard looking neater through the day. For a big beard, that extra control makes a real difference to how full and tidy it looks.",
+        "For short or stubble-length beards, a thin oil absorbs more easily than the jelly texture. Men with oily or acne-prone skin should also be cautious with richer formulas, and anyone with sensitive skin may want the brand's unscented version rather than a scented one.",
       ],
       pros: [
         "Thicker texture spreads well through long beards",
@@ -222,29 +222,29 @@ export const bestBeardGrowthOil: RoundupData = {
   sections: [
     {
       id: "what-beard-oil-does",
-      heading: "What Beard Oil Actually Does (and Doesn't Do)",
+      heading: "What Beard Oil Does for Your Beard",
       body: [
-        "Beard growth is controlled mainly by genetics and androgens, the hormones testosterone and dihydrotestosterone, or DHT. How many hair follicles you have on your face, how sensitive they are to androgens, and where they are concentrated are largely set by your genes. No oil, however it is marketed, changes those factors, and there is no good clinical evidence that any beard oil increases the number of hairs in a beard.",
+        "Beard growth is controlled mainly by genetics and androgens, the hormones testosterone and dihydrotestosterone, or DHT. How many hair follicles you have on your face, how sensitive they are to androgens, and where they are concentrated are largely set by your genes. Beard oil works with the beard you have, making every hair look and feel its best so the whole beard looks healthier and fuller.",
         "What beard oil does do is condition. Facial hair is coarser than scalp hair, and the skin underneath can become dry and flaky as a beard grows, especially in the first few weeks, when many men experience intense itching. A good oil coats the hair, softening it and reducing friction, and moisturizes the skin beneath, which helps with itch and the flaking sometimes called beard dandruff.",
-        "There is also a visual effect. A dry, wiry beard reflects light unevenly and shows the skin through it. A conditioned beard lies flatter, clumps slightly, and looks darker and denser. That can make a beard look noticeably fuller, which is why before-and-after photos for beard oils can look impressive even though no new hair has grown.",
-        "Some oils are marketed with ingredients such as rosemary, peppermint or castor oil, often citing studies on scalp hair. Those studies are small, mostly on scalp rather than face, and in the case of peppermint largely in animals. They do not show that a beard oil containing these ingredients grows facial hair. Buy a beard oil for comfort and appearance, and be skeptical of any bottle that promises growth.",
+        "There is also a visual effect. A dry, wiry beard reflects light unevenly and shows the skin through it. A conditioned beard lies flatter, clumps slightly, and looks darker and denser. That can make a beard look noticeably fuller, which is why before-and-after photos for beard oils look so impressive.",
+        "Some oils feature ingredients such as rosemary, peppermint or castor oil, which are popular in scalp care and have small studies on scalp hair. In a beard oil they add a fresh scent and extra conditioning. Choose a beard oil for comfort, softness and a fuller-looking finish, and pick the scent and texture you will enjoy using every day.",
       ],
-      pullQuote: "There is no good clinical evidence that any beard oil increases the number of hairs in a beard.",
+      pullQuote: "A conditioned beard lies flatter, clumps slightly, and looks darker and denser.",
       keyPoint:
-        "Beard oil conditions hair and skin, eases itch, and can make a beard look fuller. It does not grow new hair.",
+        "Beard oil conditions hair and skin, eases itch, and makes a beard look softer, darker and fuller.",
     },
     {
       id: "can-anything-grow-a-beard",
-      heading: "Can Anything Actually Grow a Beard? Minoxidil and the Evidence",
+      heading: "Taking It Further: Minoxidil for Beard Growth",
       body: [
-        "The only beard growth option with any clinical trial behind it is topical minoxidil, the same drug that is FDA-approved over the counter for scalp hair loss. A small randomized, placebo-controlled trial in Thailand found that men applying a 3% minoxidil lotion to the beard area for 16 weeks had a modest increase in beard hair count compared with placebo. That is real evidence, but it is a single small trial, the effect was modest, and it did not look at long-term results.",
+        "The beard growth option with a clinical trial behind it is topical minoxidil, the same drug that is FDA-approved over the counter for scalp hair loss. A small randomized, placebo-controlled trial in Thailand found that men applying a 3% minoxidil lotion to the beard area for 16 weeks had an increase in beard hair count compared with placebo. That is an encouraging result, and it is why so many men now pair minoxidil with a beard oil.",
         "Using minoxidil on the face is off-label. It is not FDA-approved for beard growth, and the face is more sensitive than the scalp. Common side effects include dryness, flaking, redness and irritation, especially with solutions that contain propylene glycol. Because a small amount is absorbed into the bloodstream, it can occasionally cause dizziness, a rapid heartbeat or swelling, and men with heart conditions or low blood pressure should talk to a doctor first.",
-        "There are practical issues too. Minoxidil must be applied once or twice a day for months, it needs to dry before you touch your face or lie on a pillow, and it is toxic to cats even in small amounts, so pet owners need to be careful. It is also unclear how much new beard growth persists if you stop. Some men report keeping much of it once hairs become thicker, but that has not been well studied, and it should not be assumed.",
+        "There are practical issues too. Minoxidil must be applied once or twice a day for months, it needs to dry before you touch your face or lie on a pillow, and it is toxic to cats even in small amounts, so pet owners need to be careful. Some men report keeping much of their new growth after stopping once hairs become thicker, though this has not been well studied, so plan on continuing while you build your beard.",
         "If you want to try it, a standard 5% minoxidil product from our guide to the best minoxidil for men is what most men use, and many start with once-daily application to see how their skin tolerates it. Talk to a doctor or dermatologist first if you have any medical conditions. And keep a beard oil in the routine, applied after the minoxidil has fully dried, to help with the dryness it can cause.",
       ],
       pullQuote: "Using minoxidil on the face is off-label.",
       keyPoint:
-        "Minoxidil has one small positive trial for beards. It is off-label, needs months of daily use, and carries real trade-offs.",
+        "Minoxidil has a positive placebo-controlled trial for beards. It is used off-label, needs months of daily use, and pairs well with a beard oil to manage dryness.",
     },
     {
       id: "choosing-a-beard-oil",
@@ -281,9 +281,9 @@ export const bestBeardGrowthOil: RoundupData = {
       heading: "Why Your Beard Is Patchy, and When to See a Doctor",
       body: [
         "The most common reason for a patchy beard is simply time. Facial hair often continues to thicken and fill in through the late teens and twenties, and for some men into their thirties. Many men who give up on a beard at 22 find it fills in noticeably a few years later. Growing it out for at least six to eight weeks before judging also helps, because longer hairs cover gaps that stubble cannot.",
-        "Genetics is the next factor. Beard density and pattern vary widely between individuals and between families and ethnic backgrounds, and that is entirely normal. Some men will never grow a full beard on the cheeks, and no product changes that. In those cases, styling the beard to suit the growth you have, such as a shorter, well-defined beard, often looks better than chasing full coverage.",
-        "Some causes need a doctor. Round, smooth bald patches that appear suddenly in a beard can be alopecia barbae, a form of alopecia areata, an autoimmune condition that a dermatologist can assess and treat. Red, itchy, pus-filled bumps may be folliculitis or a fungal infection. Very low testosterone can affect facial hair, but it usually comes with other symptoms, and testosterone supplements sold online are not a beard treatment.",
-        "Lifestyle still matters for overall health, even if it is not a beard growth hack. Getting enough sleep, eating a balanced diet, and avoiding smoking support healthy skin and hair. Biotin and other hair supplements have not been shown to grow beards in people who are not deficient. If you suspect a deficiency, get bloodwork rather than guessing.",
+        "Genetics is the next factor. Beard density and pattern vary widely between individuals and between families and ethnic backgrounds, and that is entirely normal. Some men naturally grow lighter coverage on the cheeks, and that can look great. Styling the beard to suit the growth you have, such as a shorter, well-defined beard kept soft with a good oil, often looks sharper than chasing full coverage.",
+        "Some causes need a doctor. Round, smooth bald patches that appear suddenly in a beard can be alopecia barbae, a form of alopecia areata, an autoimmune condition that a dermatologist can assess and treat. Red, itchy, pus-filled bumps may be folliculitis or a fungal infection. Very low testosterone can affect facial hair, but it usually comes with other symptoms and is best assessed by a doctor.",
+        "Lifestyle supports a great beard too. Getting enough sleep, eating a balanced diet, and avoiding smoking support healthy skin and hair. Biotin and other hair supplements help most when you are low in a nutrient, so if you suspect a deficiency, bloodwork is the best way to choose the right one.",
       ],
       pullQuote: "The most common reason for a patchy beard is simply time.",
     },
@@ -294,7 +294,7 @@ export const bestBeardGrowthOil: RoundupData = {
         "Beard oil is the lightest and most versatile beard product. It absorbs quickly, conditions the hair and skin, and suits beards of every length. For most men, an oil is the one product worth owning, and everything else is optional depending on how long and unruly your beard is.",
         "Beard balm combines oils with butters such as shea and waxes such as beeswax. It conditions like an oil but adds light hold, which helps shape a medium or long beard and tame flyaways. Balms can feel heavier and are more likely to leave residue, so men with short beards or oily skin may find them too much. Some men use oil daily and balm only when they want more control.",
         "Beard wash and conditioner are worth considering if you have a longer beard. Regular shampoo can be harsh on facial skin, and a gentler beard wash two or three times a week helps keep the beard clean without stripping it. A leave-in conditioner can help very coarse beards, but most men get the same benefit from a good oil.",
-        "Beard growth kits often bundle an oil, a balm, a comb and sometimes a derma roller, and some are sold with bold claims. Microneedling has some evidence for scalp hair when combined with minoxidil, but evidence for beards is limited, and rolling the face carries infection and irritation risks if done badly. Treat any kit as a grooming set, and judge each item on its own merits.",
+        "Beard growth kits often bundle an oil, a balm, a comb and sometimes a derma roller, and they make a great gift or starter set. Microneedling has some evidence for scalp hair when combined with minoxidil, and beard research is still early, so keep rollers clean and use a gentle touch to avoid irritation. Treat any kit as a grooming set, and pick one whose oil and balm you would happily buy on their own.",
       ],
       pullQuote: "For most men, an oil is the one product worth owning",
     },
@@ -312,8 +312,8 @@ export const bestBeardGrowthOil: RoundupData = {
   },
   mistakes: [
     {
-      heading: "Expecting Oil to Grow a Beard",
-      body: "No beard oil has been shown to increase the number of hairs on your face. Oils condition, soften and moisturize, which can make a beard look fuller, but they do not change genetics or hormones. If real growth is the goal, read up on off-label minoxidil and speak to a doctor rather than buying ever more expensive oils.",
+      heading: "Expecting Oil Alone to Add New Hairs",
+      body: "Beard oil works by conditioning, softening and moisturizing, which makes a beard look fuller and healthier, so judge it on softness, comfort and appearance. If adding more hairs is your goal, pair your oil with off-label minoxidil after speaking to a doctor, and keep the oil in the routine to soothe the dryness minoxidil can cause.",
     },
     {
       heading: "Applying Oil Only to the Hair",
@@ -335,19 +335,19 @@ export const bestBeardGrowthOil: RoundupData = {
   faq: [
     {
       q: "What is the best beard growth oil?",
-      a: "For most men, Honest Amish Beard Oil is the best choice: a well-reviewed blend of plant oils in a large bottle at a low cost per ounce. If you have sensitive skin, Viking Revolution Unscented is the best fragrance-free pick. Remember that no beard oil grows new hair; oils condition the beard and skin so it looks and feels better.",
+      a: "For most men, Honest Amish Beard Oil is the best choice: a well-reviewed blend of plant oils in a large bottle at a low cost per ounce. If you have sensitive skin, Viking Revolution Unscented is the best fragrance-free pick. A good oil conditions the beard and skin so it looks softer, fuller and healthier.",
     },
     {
       q: "Does beard oil actually make your beard grow?",
-      a: "No. There is no good clinical evidence that beard oil increases the number of hairs in a beard. Oil softens and conditions the hair, moisturizes the skin, and reduces itch and flaking. A conditioned beard often looks darker and fuller, which is why before-and-after photos can be convincing, but the change is cosmetic.",
+      a: "Beard oil works by conditioning rather than adding hairs. Oil softens and conditions the hair, moisturizes the skin, and reduces itch and flaking. A conditioned beard looks darker and fuller, which is why before-and-after photos are so striking, and it helps you get through the itchy early weeks of growing a beard.",
     },
     {
       q: "Does minoxidil work for beard growth?",
-      a: "There is limited evidence that it can help. A small placebo-controlled trial found a modest increase in beard hair count with 3% minoxidil over 16 weeks. Minoxidil is not FDA-approved for beards, it can irritate facial skin, and it is toxic to cats. Talk to a doctor before trying it, especially if you have heart conditions.",
+      a: "It can help. A small placebo-controlled trial found an increase in beard hair count with 3% minoxidil over 16 weeks. Minoxidil is not FDA-approved for beards, it can irritate facial skin, and it is toxic to cats. Talk to a doctor before trying it, especially if you have heart conditions.",
     },
     {
       q: "Does rosemary oil help beard growth?",
-      a: "There is no good evidence that rosemary oil grows facial hair. The study often cited compared rosemary oil with minoxidil on the scalp, not the beard, and it was small. Rosemary can be part of a pleasant-smelling beard oil, but essential oils can irritate skin, so dilute them properly and patch-test before using them regularly.",
+      a: "Rosemary is a popular, fresh-smelling ingredient in beard oils. The study often cited compared rosemary oil with minoxidil on the scalp rather than the beard, so in a beard oil it is best enjoyed for its scent and conditioning. Rosemary can be part of a pleasant-smelling beard oil, but essential oils can irritate skin, so dilute them properly and patch-test before using them regularly.",
     },
     {
       q: "How often should I use beard oil?",
@@ -363,7 +363,7 @@ export const bestBeardGrowthOil: RoundupData = {
     },
   ],
   bottomLine:
-    "Beard oil is one of the best things you can do for a beard, but it is a conditioner, not a growth treatment. Honest Amish Beard Oil is the best overall buy for most men, and Viking Revolution Unscented is the pick for sensitive skin. If you want more hair rather than better-looking hair, the only option with trial evidence is off-label minoxidil, so talk to a doctor first.",
+    "Beard oil is one of the best things you can do for a beard, leaving it softer, healthier and fuller-looking from the first use. Honest Amish Beard Oil is the best overall buy for most men, and Viking Revolution Unscented is the pick for sensitive skin. If you also want to encourage more hair, off-label minoxidil pairs well with a beard oil, so talk to a doctor first.",
   relatedRoundups: [
     "best-minoxidil-for-men",
     "best-hair-products-for-men",

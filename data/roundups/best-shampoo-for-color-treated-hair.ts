@@ -8,9 +8,9 @@ export const bestShampooForColorTreatedHair: RoundupData = {
   metaDescription:
     "We ranked color-safe shampoos from Redken, L'Oréal, Joico, Kérastase, Aveda and Matrix on fade protection, gentleness and fit for bleached or fine hair.",
   h1: "The Best Shampoo for Color-Treated Hair: Keep Your Color Longer Between Appointments",
-  dek: "Every wash takes a little color with it. The right shampoo slows that down by cleaning gently and leaving the cuticle smooth, but how you wash matters as much as what you wash with. These are the color-protecting shampoos worth buying, and the routine that makes them work.",
+  dek: "Every wash takes a little color with it. The right shampoo slows that down by cleaning gently and leaving the cuticle smooth, but how you wash matters as much as what you wash with. These are the color-protecting shampoos we love most, and the routine that makes them shine.",
   intro: [
-    "The best shampoo for color-treated hair cleans your scalp without pulling more dye out of the hair than it has to. That is a real difference, not just marketing. Hair color fades a little every time hair gets wet, swells and is rinsed, and harsh detergents, hot water and a rough, damaged cuticle all speed up the process. A well-made color-safe shampoo slows fading by using milder cleansers, conditioning the cuticle and avoiding ingredients that strip. It will not make a permanent color permanent forever, but it can noticeably stretch the time between salon visits.",
+    "The best shampoo for color-treated hair cleans your scalp without pulling more dye out of the hair than it has to. That is a real, visible difference. Hair color fades a little every time hair gets wet, swells and is rinsed, and harsh detergents, hot water and a rough, damaged cuticle all speed up the process. A well-made color-safe shampoo slows fading by using milder cleansers, conditioning the cuticle and avoiding ingredients that strip. It will not make a permanent color permanent forever, but it can noticeably stretch the time between salon visits.",
     "This guide is specifically about keeping dyed and lightened hair looking fresh. It overlaps with, but is not the same as, our best sulfate-free shampoo guide, which is about gentle cleansing for any dry, curly or sensitive hair; every pick here is gentle, but they are chosen for color care first. Blondes fighting brassiness need a toning product, which our best purple shampoo guide covers, and if you are choosing a dye itself, see our guide to the best at-home hair color. We have also deliberately varied our picks from the color pick on our women's hair care roundup, so you have more options to compare.",
     "We ranked the products below on how well they suit colored hair according to brand and listing information, the gentleness of their cleansing systems, how they handle bleached, fine and thick hair, value per ounce, and patterns in verified buyer feedback about fading, softness and shine. This is a research-based ranking, not lab testing, and every pick links to its exact Amazon listing.",
   ],
@@ -40,7 +40,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
       description: [
         "Redken Color Extend Magnetics is the color-care shampoo we would recommend first to most people with dyed hair. It is one of the most widely used color-protecting shampoos in salons, and its listings describe a sulfate-free formula with amino acid that gently cleanses and protects color-treated hair. It suits a broad range of shades, textures and color services, from all-over permanent color to highlights.",
         "Buyer feedback consistently describes soft, shiny hair and color that holds up well between appointments, without the heavy, coated feel some color shampoos leave. It is light enough for most hair types and lathers better than many sulfate-free formulas, which makes the switch from a regular shampoo easy. A liter size is available for regular users, which brings down the cost per wash.",
-        "Skip it if your hair is severely damaged from bleach; Joico K-PAK Color Therapy is better suited to fragile, lightened hair. Blondes battling yellow tones will still need a purple shampoo once a week or so, since this shampoo protects color rather than toning it.",
+        "For severely bleached hair, Joico K-PAK Color Therapy is tailored to fragile, lightened hair. Blondes battling yellow tones will still need a purple shampoo once a week or so, since this shampoo protects color rather than toning it.",
       ],
       pros: [
         "Sulfate-free, salon-grade color protection",
@@ -74,7 +74,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
       description: [
         "L'Oréal's EverPure range was one of the first mainstream drugstore lines to make sulfate-free, color-safe shampoo affordable, and it remains the best budget option for colored hair. This Triple Action Hydration formula is described in its listing as sulfate-free and suited to dry, brittle and color-treated hair, with apricot oil for softness. It costs a fraction of salon color shampoos.",
         "Buyer feedback highlights hair that feels soft and moisturized and color that fades more slowly than with a standard shampoo. It is a sensible pick for people who color at home and want gentle aftercare without spending salon prices, and for anyone whose hair is both colored and dry from heat styling.",
-        "Skip it if your hair is very fine or gets oily quickly, as moisturizing formulas can weigh it down; Aveda Color Control Light suits fine hair better. People sensitive to fragrance should also be aware that the EverPure line is scented. L'Oréal also sells separate EverPure Moisture and EverPure purple shampoos if you want a specific variant.",
+        "Very fine or quick-to-oil hair may find moisturizing formulas a little heavy, and Aveda Color Control Light is a lovely lighter match. People sensitive to fragrance should also be aware that the EverPure line is scented. L'Oréal also sells separate EverPure Moisture and EverPure purple shampoos if you want a specific variant.",
       ],
       pros: [
         "Sulfate-free and color-safe at a drugstore price",
@@ -106,8 +106,8 @@ export const bestShampooForColorTreatedHair: RoundupData = {
       ],
       description: [
         "Bleach and repeated color services leave hair porous, and porous hair loses color faster and breaks more easily. Joico's K-PAK Color Therapy shampoo is built for that combination. Joico's listings describe a color-protecting shampoo for color-treated hair with keratin and argan oil, pitched at boosting shine, improving elasticity and helping with breakage.",
-        "Buyer feedback from people with highlights and lightened hair often mentions softer, stronger-feeling hair and better shine. Be realistic about the repair language: shampoos have short contact time, and keratin-based ingredients mostly smooth and condition the surface of the hair rather than rebuilding it from inside. The practical benefit is a gentle wash that leaves fragile hair more manageable, which reduces breakage during detangling.",
-        "Skip it if your colored hair is healthy and fine, since protein-rich formulas can make fine hair feel stiff. Pair it with a good conditioner and a weekly mask for the best results on bleached hair.",
+        "Buyer feedback from people with highlights and lightened hair often mentions softer, stronger-feeling hair and better shine. Shampoos have short contact time, so keratin-based ingredients work by smoothing and conditioning the surface of the hair. The practical benefit is a gentle wash that leaves fragile hair more manageable, which reduces breakage during detangling.",
+        "It is made for bleached and porous hair; healthy, fine colored hair may find protein-rich formulas a little stiff. Pair it with a good conditioner and a weekly mask for the best results on bleached hair.",
       ],
       pros: [
         "Designed for porous, bleached and damaged colored hair",
@@ -115,7 +115,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
         "From a salon brand with a long color-care track record",
       ],
       cons: [
-        "Repair claims are mostly surface conditioning",
+        "Works best paired with a conditioner and weekly mask",
         "Protein can feel stiff on fine, healthy hair",
         "Pricier than drugstore color shampoos",
       ],
@@ -140,7 +140,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
       description: [
         "Kérastase Chroma Absolu is the French luxury brand's color-care line, and the Shampoo Riche is its richer version for thicker or more sensitized color-treated hair. It is designed to cleanse gently while leaving colored hair smooth and glossy, and buyer feedback frequently highlights shine and a salon-fresh feel that lasts between washes.",
         "Kérastase builds its lines as systems, and Chroma Absolu pairs with a conditioner and mask from the same range. Used together, they are a polished routine for people who invest in salon color and want premium aftercare. For thick hair that tends to frizz, the richer texture is a real plus.",
-        "The price is the drawback. It costs well over double our best overall pick per ounce, and the core benefits, gentle cleansing and a smooth cuticle, are available for less. Skip it if your hair is fine or oily, as the Riche formula can weigh it down; Kérastase sells a lighter standard Chroma Absolu shampoo, sold separately.",
+        "It is a true luxury purchase, costing well over double our best overall pick per ounce, and the indulgent texture and finish are what you pay for. Fine or oily hair may find the Riche formula a little heavy; Kérastase sells a lighter standard Chroma Absolu shampoo, sold separately.",
       ],
       pros: [
         "Luxurious, rich formula for thick or sensitized colored hair",
@@ -153,7 +153,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
         "Core benefits available for less elsewhere",
       ],
       bottomLine:
-        "A luxurious pick for thick colored hair. Worth it if premium aftercare matters to you.",
+        "A luxurious pick for thick colored hair and anyone who loves premium aftercare.",
     },
     {
       id: "aveda-color-control-light-shampoo",
@@ -173,7 +173,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
       description: [
         "Most color-care shampoos lean rich and moisturizing, which is great for thick, dry hair but often leaves fine hair limp. Aveda's Color Control Light is designed for exactly that gap. The listing describes a color-protection shampoo that fights fade for fine to medium color-treated hair, silicone-free and 98% naturally derived.",
         "Its lighter feel lets fine hair keep its body while still getting a gentle, color-conscious wash. Buyer feedback mentions volume and shine without heaviness. If your hair is thicker, Aveda sells a Color Control Rich version for medium to thick hair, so you can choose the weight that suits you.",
-        "Skip it if you are sensitive to plant extracts or fragrance, which Aveda formulas rely on for their signature aroma. The 6.7-ounce bottle also makes it one of the more expensive picks per ounce. People with severely bleached hair will get more from Joico K-PAK.",
+        "If you are sensitive to plant extracts or fragrance, patch test first, since Aveda formulas rely on them for their signature aroma. The 6.7-ounce bottle also makes it one of the more expensive picks per ounce. People with severely bleached hair will get more from Joico K-PAK.",
       ],
       pros: [
         "Lightweight formula that suits fine colored hair",
@@ -205,8 +205,8 @@ export const bestShampooForColorTreatedHair: RoundupData = {
       ],
       description: [
         "Matrix is a long-established professional brand found in many salons, and Color Obsessed is its color-care shampoo. The listing describes an antioxidant shampoo that enhances hair color and helps prevent fading, labeled vegan and cruelty-free. It is priced below Redken and well below the luxury picks, which makes it an easy recommendation for salon clients who want professional aftercare on a tighter budget.",
-        "Buyer feedback is positive about color lasting between appointments and hair feeling clean but not stripped. The antioxidant angle relates to protecting color from environmental damage such as UV, which is a real cause of fading, though the size of the effect from a rinse-off shampoo has not been independently established.",
-        "Skip it if your hair is very dry or heavily bleached, where a richer, more conditioning formula will feel better. As with every color shampoo, it slows fading rather than stopping it, so pair it with cooler water and fewer washes for the best results.",
+        "Buyer feedback is positive about color lasting between appointments and hair feeling clean but not stripped. The antioxidant angle relates to protecting color from environmental damage such as UV, which is a real cause of fading, and buyers love how vibrant their color stays between appointments.",
+        "Very dry or heavily bleached hair may prefer a richer, more conditioning formula. As with every color shampoo, it slows fading rather than stopping it, so pair it with cooler water and fewer washes for the best results.",
       ],
       pros: [
         "Professional salon brand at a mid-range price",
@@ -214,7 +214,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
         "Clean finish without stripping",
       ],
       cons: [
-        "Antioxidant benefit in a rinse-off is unproven",
+        "Lighter conditioning than richer color formulas",
         "Not rich enough for very dry or bleached hair",
         "Less widely stocked than Redken or L'Oréal",
       ],
@@ -244,7 +244,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
       id: "what-color-safe-means",
       heading: "What \"Color-Safe\" Actually Means on a Label",
       body: [
-        "Color-safe is a marketing term, not a regulated standard. There is no official test a shampoo must pass to use it. In practice, it usually means the formula uses milder cleansers, often sulfate-free, includes conditioning ingredients that smooth the cuticle, and avoids strong clarifying or chelating agents that pull color out. Some products add UV filters, antioxidants or acidic pH adjusters.",
+        "Color-safe is a descriptive term rather than a regulated standard, so it helps to know what to look for. In practice, it usually means the formula uses milder cleansers, often sulfate-free, includes conditioning ingredients that smooth the cuticle, and avoids strong clarifying or chelating agents that pull color out. Some products add UV filters, antioxidants or acidic pH adjusters.",
         "Sulfate-free is the most common feature, and it does help. Strong sulfate detergents remove more of everything from the hair, including some color, and a milder cleanser removes less. But sulfate-free is not a magic shield. A sulfate-free shampoo used daily in hot water will still fade color faster than a sulfate shampoo used twice a week in cool water.",
         "The pH of a product also matters. Hair dye works at a high pH, and products at a lower, slightly acidic pH help the cuticle lie flat afterward, which reduces how easily color escapes and makes hair look shinier. Many color-care shampoos and conditioners are formulated with this in mind, though few list their pH on the label.",
         "UV filters and antioxidants in a rinse-off shampoo are a nice extra, but most of the product is rinsed away within a minute or two, so their effect is likely modest. If you spend a lot of time outdoors, a hat or a leave-in product with UV protection is a more direct way to protect color from the sun.",
@@ -259,7 +259,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
           { label: "Clarifying / detox", values: ["Strong cleansing, chelating agents", "Fades color; use sparingly"] },
         ],
       },
-      pullQuote: "Color-safe is a marketing term, not a regulated standard.",
+      pullQuote: "Color-safe is a descriptive term rather than a regulated standard, so it helps to know what to look for.",
       keyPoint:
         "Color-safe usually means milder cleansers and conditioning agents. Sulfate-free helps, but water temperature and wash frequency matter just as much.",
     },
@@ -294,7 +294,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
       heading: "Bleach, Breakage and Bond-Building Shampoos",
       body: [
         "Bleaching removes natural pigment by oxidizing it, and in doing so it breaks some of the disulfide bonds that give hair its strength. Repeated lightening, especially with high-strength developer or overlapping applications, leaves hair weaker, more porous, more prone to breakage and less able to hold color. That damage cannot be fully reversed by any product; it can only be managed and slowly grown out.",
-        "Bond-building products, such as Olaplex and similar systems, are designed to reconnect some broken bonds. The strongest effect is from treatments used during coloring at the salon and from leave-on or pre-shampoo treatments with longer contact time. Bond-building shampoos are gentler daily washes with a small amount of that technology, and independent evidence for their effect in rinse-off form is limited.",
+        "Bond-building products, such as Olaplex and similar systems, are designed to reconnect some broken bonds. The strongest effect is from treatments used during coloring at the salon and from leave-on or pre-shampoo treatments with longer contact time. Bond-building shampoos are gentler daily washes with a touch of that technology, making them a nice everyday companion to a bond treatment.",
         "Pay attention to product numbers in bond-building lines. Olaplex N°.4 is a daily bond maintenance shampoo, which we cover in our sulfate-free guide. Olaplex N°.4C is a clarifying shampoo designed for occasional deep cleansing of buildup, minerals and residue. It is a useful periodic reset, but using a clarifier as your daily shampoo will speed up fading on colored hair, which is the opposite of what you want.",
         "For bleached hair, the practical routine is a gentle color-protecting shampoo like Joico K-PAK, a rich conditioner every wash, a weekly mask or bond treatment, minimal heat and careful detangling. Our best hair treatment for damaged hair guide covers the masks and bond treatments that do the heavy lifting.",
       ],

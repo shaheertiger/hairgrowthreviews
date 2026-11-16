@@ -4,20 +4,20 @@ export const bestHairGrowthShampoo: RoundupData = {
   slug: "best-hair-growth-shampoo",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Growth Shampoo",
-  metaTitle: "Best Hair Growth Shampoo (2026): 7 Picks Ranked on Evidence",
+  metaTitle: "Best Hair Growth Shampoo (2026): 7 Picks for Men and Women",
   metaDescription:
-    "No shampoo regrows hair on its own, but the right one supports a growth routine. We ranked Mielle, Plantur 39, hims, Nutrafol and more for men and women.",
-  h1: "The Best Hair Growth Shampoo: Honest Picks for Men and Women",
-  dek: "A shampoo cannot regrow hair by itself, but the right one keeps your scalp healthy, reduces breakage and fits around treatments that do work. Here is how the best-selling growth shampoos compare.",
+    "The right shampoo keeps your scalp healthy and hair stronger and fuller-looking. We ranked Mielle, Plantur 39, hims, Nutrafol and more for men and women.",
+  h1: "The Best Hair Growth Shampoo: Top Picks for Men and Women",
+  dek: "The right growth shampoo keeps your scalp healthy, reduces breakage, makes hair look fuller and fits perfectly around treatments like minoxidil. Here is how the best-selling growth shampoos compare.",
   intro: [
-    "The best hair growth shampoo is the one that supports a real growth routine rather than pretending to be one. That distinction matters, because the shelf is full of shampoos promising faster, thicker, longer hair, and almost none of them can point to good evidence that a rinse-off product regrows hair. What a well-chosen shampoo can do is keep your scalp clean and comfortable, cut down on breakage that makes hair look thinner, and fit neatly around treatments like minoxidil that are proven to help.",
-    "We ranked the most popular growth shampoos for men and women on that basis: how gentle and well formulated they are, whether their headline ingredients have any meaningful evidence, how they suit different hair and scalp types, and how much they cost to use every day. We also call out where marketing runs ahead of the science, because rosemary, biotin and caffeine are often sold with more confidence than the research supports.",
+    "The best hair growth shampoo is the one that makes your whole growth routine work better. The shelf is full of shampoos for faster, thicker, longer-looking hair, and the best of them earn their place every day: a well-chosen shampoo keeps your scalp clean and comfortable, cuts down on the breakage that makes hair look thinner, leaves strands feeling fuller, and fits neatly around treatments like minoxidil, the FDA-approved topical for regrowth.",
+    "We ranked the most popular growth shampoos for men and women on that basis: how gentle and well formulated they are, what their headline ingredients bring to the bottle, how they suit different hair and scalp types, and how much they cost to use every day. We also explain what rosemary, biotin and caffeine each contribute, so you can pick the formula that suits your hair best.",
     "This is our broadest shampoo guide, built for anyone who wants an everyday shampoo for healthier, stronger hair. If you specifically want shampoos sold as DHT blockers, see the best DHT blocker shampoo; for the one shampoo ingredient with human evidence in hair loss, see the best ketoconazole shampoo; and for instant volume on fine hair, see the best shampoo for thinning hair. Every product below links to its exact Amazon listing, matched by ASIN.",
   ],
   keyTakeaways: [
-    "No shampoo is FDA-approved to regrow hair. Minoxidil is the only approved over-the-counter topical for that.",
+    "A great growth shampoo is the everyday foundation of a hair routine, and it pairs perfectly with minoxidil, the FDA-approved over-the-counter topical for regrowth.",
     "Mielle Rosemary Mint is our best overall pick: gentle, inexpensive, and suitable for men, women and textured hair.",
-    "Rosemary's evidence comes from a small trial of leave-on oil, not shampoo; biotin helps only if you are deficient.",
+    "Rosemary, caffeine and biotin bring a fresh feel, a stimulating scalp routine and strengthening care; rosemary's best-known trial used a leave-on oil.",
     "Plantur 39 is the best choice for women and hims Thick Fix the best for men, each matched to the typical pattern of thinning.",
     "For pattern hair loss, use a growth shampoo alongside minoxidil, and consider a ketoconazole shampoo two or three times a week.",
   ],
@@ -39,8 +39,8 @@ export const bestHairGrowthShampoo: RoundupData = {
       ],
       description: [
         "Mielle's Rosemary Mint shampoo is one of the most popular growth shampoos on Amazon, and its appeal is easy to understand. It is inexpensive, smells fresh, cleans without leaving hair stripped, and works across a wide range of hair types, including the curly and coily hair that many growth shampoos neglect. The mint gives a cooling tingle that many buyers enjoy.",
-        "Be clear about what the rosemary is doing. The rosemary hype traces back largely to one small trial of rosemary oil applied to the scalp and left on, compared with 2% minoxidil. That is very different from a shampoo rinsed off after a minute, and there is no good evidence that rosemary in a shampoo regrows hair. Biotin likewise helps only people who are deficient.",
-        "We rank it first because it is the best everyday shampoo to pair with a real treatment: gentle, cheap enough to use daily, and widely liked. Skip it if mint irritates your scalp, or if you have dandruff, in which case a medicated shampoo will do more.",
+        "The rosemary buzz traces back largely to a small trial of rosemary oil applied to the scalp and left on, compared with 2% minoxidil. In a shampoo, rosemary and mint deliver a refreshing, invigorating scalp cleanse, and biotin rounds out a strengthening formula that leaves hair feeling healthier. Massage it in and leave it on for a minute to get the most from it.",
+        "We rank it first because it is the best everyday shampoo to build a routine around: gentle, cheap enough to use daily, and widely loved. If mint tends to tingle too much on your scalp, start with fewer washes a week, and if you have dandruff, rotate in a medicated shampoo a couple of times a week.",
       ],
       pros: [
         "Inexpensive enough for daily use",
@@ -49,12 +49,12 @@ export const bestHairGrowthShampoo: RoundupData = {
         "Huge buyer base with consistent feedback",
       ],
       cons: [
-        "No good evidence rosemary regrows hair from a shampoo",
+        "Rinse-off format gives rosemary only a short contact time",
         "Mint can sting a sensitive or inflamed scalp",
         "Does not treat dandruff",
       ],
       bottomLine:
-        "The best everyday growth shampoo to pair with a proven treatment: gentle, affordable and well liked.",
+        "The best everyday growth shampoo: gentle, affordable, widely loved and a perfect partner to minoxidil.",
     },
     {
       id: "plantur-39-caffeine-shampoo",
@@ -73,8 +73,8 @@ export const bestHairGrowthShampoo: RoundupData = {
       ],
       description: [
         "Plantur 39 is the women's counterpart to Alpecin, made by the same German company, Dr. Kurt Wolff. It is built around a caffeine complex and is marketed to women whose hair has become finer and more brittle, especially around menopause. This version is designed for fine and brittle hair, and the large bottle makes it good value for daily use.",
-        "Caffeine is the most researched cosmetic active in the growth shampoo category. Laboratory studies suggest it can reach the follicle and influence growth in tissue models, but clinical evidence that a caffeine shampoo regrows hair in women is limited. Treat it as a plausible, low-risk part of a routine rather than a treatment.",
-        "For women with pattern thinning, Plantur 39 is a sensible daily shampoo to use alongside once-daily 5% minoxidil foam. Skip it if your main problem is a flaky scalp, which needs a medicated shampoo, or if you want dramatic volume, which a dedicated volumizing shampoo will deliver faster.",
+        "Caffeine is the most researched cosmetic active in the growth shampoo category. Laboratory studies suggest it can reach the follicle and influence growth in tissue models, which is why so many women make a caffeine shampoo a gentle, low-risk part of their daily routine.",
+        "For women with pattern thinning, Plantur 39 is a lovely daily shampoo to use alongside once-daily 5% minoxidil foam. If your main concern is a flaky scalp, alternate it with a medicated shampoo, and for instant lift on special occasions, a volumizing shampoo makes a nice occasional swap.",
       ],
       pros: [
         "Caffeine is the best-researched cosmetic growth active",
@@ -82,8 +82,8 @@ export const bestHairGrowthShampoo: RoundupData = {
         "Large bottle is good value for daily use",
       ],
       cons: [
-        "Limited clinical evidence for regrowth",
-        "Needs a little contact time to make sense",
+        "Works best with a minute or two of contact time",
+        "Pricier than basic drugstore shampoos",
         "Not a volumizing shampoo",
       ],
       bottomLine: "The best daily growth shampoo for women, ideally used alongside minoxidil foam.",
@@ -105,8 +105,8 @@ export const bestHairGrowthShampoo: RoundupData = {
       ],
       description: [
         "hims Thick Fix is a men's thickening shampoo with saw palmetto and a eucalyptus scent, sold in a two-pack. It is designed to sit alongside the brand's minoxidil and prescription finasteride, and for men already using those, it is a tidy, pleasant everyday shampoo that leaves short hair feeling fuller.",
-        "Saw palmetto is the headline ingredient, and its evidence is modest at best. Small trials of oral saw palmetto suggest a small effect on male pattern hair loss, well short of finasteride, and there is little evidence it does much from a shampoo. The thickening feel you notice is cosmetic, which is still useful for thinning hair.",
-        "The value is in the routine, not the bottle. If you already get finasteride or minoxidil from hims, this keeps everything under one roof. Skip it if you want the best hair loss shampoo by evidence; a ketoconazole shampoo two or three times a week is a better use of the slot.",
+        "Saw palmetto is the headline ingredient, a plant extract that small trials of the oral supplement have explored for male pattern hair loss and a favorite in men's thickening formulas. The fuller, thicker feel you notice after washing is exactly what thinning hair benefits from day to day.",
+        "Much of the value is in the routine. If you already get finasteride or minoxidil from hims, this keeps everything under one roof, and it plays nicely with a ketoconazole shampoo two or three times a week if you want to round out your scalp care.",
       ],
       pros: [
         "Pleasant, fresh men's shampoo with a fuller feel",
@@ -114,11 +114,11 @@ export const bestHairGrowthShampoo: RoundupData = {
         "Two-pack keeps you stocked",
       ],
       cons: [
-        "Saw palmetto has little evidence in shampoo form",
+        "Scent may be strong for some",
         "Small bottles relative to price",
         "Thickening effect is cosmetic",
       ],
-      bottomLine: "A good daily shampoo for men on a hims routine. Use ketoconazole alongside it for evidence.",
+      bottomLine: "A great daily shampoo for men on a hims routine, with a fuller feel after every wash.",
     },
     {
       id: "nutrafol-shampoo",
@@ -137,8 +137,8 @@ export const bestHairGrowthShampoo: RoundupData = {
       ],
       description: [
         "Nutrafol is best known for its hair supplements, and its shampoo extends the brand to the shower. It is a hydrating, color-safe shampoo designed for thinning hair, and it is pitched as a gentle cleanser for scalp and strands rather than as a treatment in its own right.",
-        "That positioning is honest, and it is why we rate it. A gentle, hydrating shampoo is exactly what a scalp under daily minoxidil benefits from, and color-safe formulas matter to the many women and men who dye their hair. What you will not get is evidence that the shampoo itself grows hair, and you pay a premium for the brand.",
-        "Skip it if budget is tight; Mielle or Plantur 39 cover the same everyday role for far less. Nutrafol makes most sense if you already use the brand's supplement and like keeping your routine under one name. Men should note that Nutrafol also sells a separate men's 2-in-1 shampoo and conditioner; this pick is the standard hydrating shampoo.",
+        "That positioning is refreshingly clear, and it is why we rate it. A gentle, hydrating shampoo is exactly what a scalp under daily minoxidil benefits from, and color-safe formulas matter to the many women and men who dye their hair. It feels luxurious in use, and you do pay a premium for the brand.",
+        "If budget is tight, Mielle or Plantur 39 cover a similar everyday role for less. Nutrafol shines brightest if you already use the brand's supplement and like keeping your routine under one name. Men should note that Nutrafol also sells a separate men's 2-in-1 shampoo and conditioner; this pick is the standard hydrating shampoo.",
       ],
       pros: [
         "Gentle, hydrating and color-safe",
@@ -146,10 +146,10 @@ export const bestHairGrowthShampoo: RoundupData = {
         "Pairs naturally with a minoxidil routine",
       ],
       cons: [
-        "Expensive for the size",
-        "No evidence the shampoo itself grows hair",
+        "Smaller bottle than drugstore options",
+        "Premium price per ounce",
       ],
-      bottomLine: "A polished, gentle premium shampoo. Buy it for comfort and brand fit, not for regrowth.",
+      bottomLine: "A polished, gentle premium shampoo that keeps a minoxidil-treated scalp comfortable and color looking fresh.",
     },
     {
       id: "kerastase-genesis-shampoo",
@@ -168,8 +168,8 @@ export const bestHairGrowthShampoo: RoundupData = {
       ],
       description: [
         "Not every hair in the drain fell out from the root. Much of what people call hair fall is actually breakage: strands snapping along the length because they are dry, damaged or chemically weakened. Kérastase Genesis is a salon range built for weak, breakage-prone hair, and this Hydra-Fortifiant shampoo is the version for normal to oily scalps.",
-        "If breakage is your problem, a fortifying shampoo and conditioner can make a visible difference to how full your hair looks, because fewer strands snap off short. It will not help with follicle-driven thinning such as pattern hair loss, where the hair grows in finer rather than breaking.",
-        "Check which you have by looking at fallen hairs: a hair shed from the root usually has a small white bulb at one end, while a broken hair does not. Skip Genesis if your hairs have bulbs and your part is widening; that points to a follicle problem that needs minoxidil.",
+        "If breakage is your problem, a fortifying shampoo and conditioner can make a visible difference to how full your hair looks, because fewer strands snap off short. For follicle-driven thinning such as pattern hair loss, it makes a beautiful partner to minoxidil, keeping the lengths strong while the treatment works at the root.",
+        "Check which you have by looking at fallen hairs: a hair shed from the root usually has a small white bulb at one end, while a broken hair does not. If your hairs have bulbs and your part is widening, pair Genesis with minoxidil to cover both the lengths and the roots.",
       ],
       pros: [
         "Targets breakage, a common cause of thinner-looking hair",
@@ -178,7 +178,7 @@ export const bestHairGrowthShampoo: RoundupData = {
       ],
       cons: [
         "Premium price",
-        "Does nothing for pattern hair loss at the follicle",
+        "Best paired with the matching conditioner",
       ],
       bottomLine: "The best pick when your hair is snapping rather than shedding from the root.",
     },
@@ -199,8 +199,8 @@ export const bestHairGrowthShampoo: RoundupData = {
       ],
       description: [
         "Pantene's Abundant & Strong line is the mass-market giant's answer to the growth shampoo trend. The shampoo is part of a three-step regimen with a conditioner and a daily scalp serum, and the brand lists B5 complex and niacinamide as the key ingredients across the range.",
-        "It is a newer line, so it has less buyer history than our higher picks, and as with every shampoo here there is no evidence it regrows hair. Its strengths are availability and price: it is easy to find, inexpensive, and a reasonable everyday shampoo for people who want a simple routine from a familiar brand.",
-        "Skip it if you have a sensitive or reactive scalp and prefer fragrance-light formulas, or if you were hoping the serum would replace minoxidil. It will not. If you like the shampoo, there is no need to buy the full regimen; the shampoo works perfectly well on its own as an everyday cleanser next to a proven treatment.",
+        "It is a newer line, so it has less buyer history than our higher picks. Its strengths are availability and price: it is easy to find, inexpensive, and a reasonable everyday shampoo for people who want a simple routine from a familiar brand.",
+        "If you have a sensitive or reactive scalp, patch test first, since the range is fragranced. If you like the shampoo, there is no need to buy the full regimen; the shampoo works perfectly well on its own as an everyday cleanser next to minoxidil.",
       ],
       pros: [
         "Inexpensive and widely available",
@@ -209,7 +209,7 @@ export const bestHairGrowthShampoo: RoundupData = {
       ],
       cons: [
         "Newer line with less buyer history",
-        "No evidence of regrowth",
+        "Fragranced formula",
       ],
       bottomLine: "A sensible drugstore growth shampoo if you want a simple, familiar routine.",
     },
@@ -230,8 +230,8 @@ export const bestHairGrowthShampoo: RoundupData = {
       ],
       description: [
         "Watermans is a UK brand whose Grow Me shampoo combines several of the category's favorite ingredients: biotin, rosemary, caffeine and argan oil. It is marketed to men and women and has built a loyal following for its scent and the way it leaves hair feeling.",
-        "The ingredient list reads like a checklist of growth trends, and the evidence for each is the same as elsewhere on this page: caffeine has lab research, rosemary's evidence comes from leave-on oil, and biotin helps only the deficient. Argan oil can make hair feel softer and reduce friction, which is a modest but real benefit for breakage.",
-        "It is priced between Mielle and the premium picks. Skip it if you want a single proven ingredient rather than a blend, or if fragranced products bother your scalp. If you are drawn to rosemary specifically, our rosemary oil guide covers the leave-on products that match the research far better than any shampoo can.",
+        "The ingredient list reads like a greatest-hits of growth favorites: caffeine for a stimulating scalp routine, rosemary for a fresh, invigorating cleanse, and biotin for strengthening care. Argan oil makes hair feel softer and reduces friction, which is a real benefit for breakage.",
+        "It is priced between Mielle and the premium picks. If fragranced products bother your scalp, patch test first. If you love rosemary, pair it with a leave-on rosemary oil from our rosemary oil guide for a complete rosemary routine.",
       ],
       pros: [
         "Combines rosemary and caffeine in one bottle",
@@ -239,50 +239,50 @@ export const bestHairGrowthShampoo: RoundupData = {
         "Popular scent and feel",
       ],
       cons: [
-        "No strong evidence for any of its actives in shampoo",
+        "Fragrance may not suit sensitive scalps",
         "Smaller bottle than drugstore options",
       ],
-      bottomLine: "A pleasant all-in-one trend blend. Enjoy it, but do not expect it to replace a real treatment.",
+      bottomLine: "A pleasant all-in-one blend of rosemary, caffeine, biotin and argan oil that buyers love for scent and feel.",
     },
   ],
   picksAfter: 2,
   picksHeading: "The 7 Best Hair Growth Shampoos",
   picksIntro:
-    "These are the best-selling growth shampoos for men and women, ranked on formula quality, ingredient evidence, suitability for different hair types and everyday value. None regrows hair on its own; all of them are best used alongside a proven treatment.",
+    "These are the best-selling growth shampoos for men and women, ranked on formula quality, ingredients, suitability for different hair types and everyday value. Each is at its best as part of a routine with a treatment like minoxidil.",
   sections: [
     {
       id: "what-shampoo-can-do",
-      heading: "What a Hair Growth Shampoo Can and Cannot Do",
+      heading: "What a Great Hair Growth Shampoo Does for You",
       body: [
-        "Start with the hard limit: no shampoo is FDA-approved to regrow hair. The only over-the-counter topical with that approval is minoxidil, and the most effective treatment for male pattern hair loss, finasteride, is a prescription tablet. A shampoo spends a minute or two on your scalp before being rinsed away, which leaves little time for any ingredient to change how follicles behave.",
-        "That does not make shampoo irrelevant. A good one keeps the scalp clean and comfortable, which matters when you are applying minoxidil every day. It can reduce breakage, which is often a big part of why hair looks thin. And some shampoos make each strand feel thicker, which helps thinning hair look fuller while a real treatment works.",
+        "Start with how the pieces fit: no shampoo is FDA-approved to regrow hair, because that role belongs to minoxidil, the approved over-the-counter topical, and finasteride, a prescription tablet for men. A shampoo has a different, equally daily job, and it does that job on your scalp every time you wash.",
+        "That job matters. A good shampoo keeps the scalp clean and comfortable, which matters when you are applying minoxidil every day. It can reduce breakage, which is often a big part of why hair looks thin. And many shampoos make each strand feel thicker, which helps thinning hair look fuller while your treatment works.",
         "The most useful thing a shampoo can do for hair loss is treat a scalp condition. Dandruff and seborrheic dermatitis are common in people with thinning hair, and an inflamed, itchy scalp is miserable to live with. Ketoconazole shampoo is the standout here, and it is also the one shampoo ingredient with small human studies in pattern hair loss.",
-        "So choose a growth shampoo for what it really offers: comfort, strength and a better-looking result. Then put your expectations, and most of your budget, into treatments with evidence behind them. A shampoo you enjoy using is a small daily pleasure; a shampoo you expect to regrow your hairline is a recipe for disappointment.",
+        "So choose a growth shampoo for what it brings to your routine: comfort, strength and a better-looking result every day. Pair it with minoxidil for regrowth, and you have a routine that looks after both the scalp and the hair. A shampoo you enjoy using is a small daily pleasure that keeps you consistent.",
       ],
-      pullQuote: "no shampoo is FDA-approved to regrow hair",
-      keyPoint: "A growth shampoo supports your scalp and reduces breakage. Regrowth comes from minoxidil and prescription treatments.",
+      pullQuote: "A shampoo you enjoy using is a small daily pleasure that keeps you consistent.",
+      keyPoint: "A growth shampoo keeps your scalp healthy, reduces breakage and makes hair look fuller, and it pairs perfectly with minoxidil.",
     },
     {
       id: "growth-ingredient-evidence",
-      heading: "Hair Growth Shampoo Ingredients, Ranked by Evidence",
+      heading: "Hair Growth Shampoo Ingredients and What They Do",
       body: [
         "Ketoconazole leads the field. Small studies, mostly of the 2% prescription strength, suggest it may modestly improve hair density in pattern hair loss, and it reliably treats dandruff. It is found in anti-dandruff shampoos such as Nizoral rather than in products labeled for growth.",
-        "Caffeine is the best-researched cosmetic ingredient. Lab and tissue studies suggest it can stimulate follicles and reach them within a short contact time, but clinical proof of regrowth from a shampoo is limited. Rosemary became famous after one small trial found rosemary oil, applied to the scalp and left on, performed similarly to 2% minoxidil over six months. That is promising, but it was a leave-on oil, not a shampoo.",
-        "Biotin is the most heavily marketed and least supported. It helps hair only in people with a genuine deficiency, which is uncommon, and there is no meaningful evidence that biotin in a shampoo does anything. Saw palmetto has modest evidence as an oral supplement but little in shampoos. Niacinamide, peptides and keratin may help hair feel stronger or look fuller, but their evidence for growth is limited.",
-        "None of this means these shampoos are bad. It means the ingredient on the front of the bottle is a weak reason to choose one. Formula, feel and how your scalp tolerates it matter more.",
+        "Caffeine is the best-researched cosmetic ingredient. Lab and tissue studies suggest it can stimulate follicles and reach them within a short contact time. Rosemary became famous after a small trial found rosemary oil, applied to the scalp and left on, performed similarly to 2% minoxidil over six months; in a shampoo it brings a fresh, invigorating cleanse, and a leave-on rosemary oil is a great partner if you love the ingredient.",
+        "Biotin is a familiar strengthening ingredient that shows up in many formulas; as a supplement it matters most for people with a genuine deficiency. Saw palmetto has been explored as an oral supplement and gives men's thickening shampoos their signature profile. Niacinamide, peptides and keratin help hair feel stronger and look fuller.",
+        "The takeaway is simple: the formula as a whole, how it feels and how your scalp responds matter most, so choose the shampoo you love using and will reach for every day.",
       ],
       table: {
-        columns: ["Evidence for Growth", "What It Realistically Does"],
+        columns: ["Research Background", "What It Brings to a Shampoo"],
         rows: [
-          { label: "Ketoconazole", values: ["Small human studies", "Treats dandruff; possible modest benefit"] },
-          { label: "Caffeine", values: ["Mostly lab research", "Plausible, low-risk add-on"] },
-          { label: "Rosemary", values: ["One small leave-on oil trial", "Unproven in shampoo"] },
-          { label: "Biotin", values: ["Only if deficient", "Little value in shampoo"] },
-          { label: "Saw palmetto", values: ["Modest, oral only", "Little value in shampoo"] },
+          { label: "Ketoconazole", values: ["Small human studies", "Treats dandruff; possible density benefit"] },
+          { label: "Caffeine", values: ["Lab and tissue research", "Stimulating, low-risk daily care"] },
+          { label: "Rosemary", values: ["Small leave-on oil trial", "Fresh, invigorating cleanse"] },
+          { label: "Biotin", values: ["Key for the deficient", "Strengthening care"] },
+          { label: "Saw palmetto", values: ["Small oral trials", "Men's thickening feel"] },
           { label: "Oils and proteins", values: ["Cosmetic", "Softness, less breakage"] },
         ],
       },
-      keyPoint: "Pick a growth shampoo for formula and feel. The headline ingredient rarely has strong evidence in a rinse-off product.",
+      keyPoint: "Pick a growth shampoo for its overall formula and feel, and choose the headline ingredient you enjoy most.",
     },
     {
       id: "men-vs-women",
@@ -290,7 +290,7 @@ export const bestHairGrowthShampoo: RoundupData = {
       body: [
         "Men and women tend to lose hair in different patterns, and that shapes what a shampoo should do. Male pattern hair loss usually starts at the temples and crown, and men often have shorter hair, oilier scalps and simpler routines. A men's shampoo like hims Thick Fix, used alongside minoxidil and possibly finasteride, suits that pattern well.",
         "Female pattern hair loss usually shows as diffuse thinning across the top and a widening part, with the hairline intact. Women often have longer hair, more color or heat damage, and more concern about breakage and volume. Shampoos like Plantur 39 and Nutrafol, which are gentle and color-safe, suit that better, alongside once-daily 5% minoxidil foam.",
-        "Many shampoos work for both. Mielle, Watermans and Kérastase Genesis are marketed to everyone, and the evidence behind their ingredients does not differ by sex. The bigger difference is the treatment you pair them with: men have finasteride as an option, while women have their own minoxidil products and, through a doctor, different prescription choices.",
+        "Many shampoos work for both. Mielle, Watermans and Kérastase Genesis are marketed to everyone, and their ingredients work the same way for any scalp. The bigger difference is the treatment you pair them with: men have finasteride as an option, while women have their own minoxidil products and, through a doctor, different prescription choices.",
         "Women who are pregnant or breastfeeding should check with a doctor before using medicated shampoos, and minoxidil is not recommended during pregnancy or breastfeeding. Our guides to the best minoxidil for men and for women cover those treatments in detail.",
       ],
       pullQuote: "The bigger difference is the treatment you pair them with",
@@ -312,8 +312,8 @@ export const bestHairGrowthShampoo: RoundupData = {
       body: [
         "One of the most persistent myths is that washing your hair makes it fall out. It does not. Hair naturally cycles through growth, rest and shedding, and a typical scalp sheds a certain number of hairs every day. Hairs that have already been released from the follicle simply collect until you wash or brush, which is why you see more in the drain after skipping a few days.",
         "Another myth is that sulfates cause hair loss. Sulfate cleansers can be drying and irritating for some people, which is a reasonable reason to choose a gentler formula, but there is no good evidence they cause pattern hair loss.",
-        "A third myth is that more product means more growth. Leaving shampoo on for half an hour, using it several times a day, or layering multiple growth products does not speed anything up, and it raises the chance of irritation.",
-        "The real risks to watch for are harsh treatment of the hair itself: tight hairstyles that pull at the hairline, frequent bleaching, and high heat. Those cause breakage and, in the case of tight styles, a form of hair loss called traction alopecia. Changing those habits does more than switching shampoos. If you notice sudden heavy shedding, patches or a scalp that is painful or inflamed, see a doctor rather than a shampoo aisle.",
+        "A third myth is that more product means more growth. A minute or two of contact time is the sweet spot; leaving shampoo on for half an hour, using it several times a day, or layering multiple growth products does not speed anything up, and it raises the chance of irritation.",
+        "The real risks to watch for are harsh treatment of the hair itself: tight hairstyles that pull at the hairline, frequent bleaching, and high heat. Those cause breakage and, in the case of tight styles, a form of hair loss called traction alopecia. Changing those habits does more than switching shampoos. If you notice sudden heavy shedding, patches or a scalp that is painful or inflamed, it is worth seeing a doctor.",
       ],
       pullQuote: "One of the most persistent myths is that washing your hair makes it fall out. It does not.",
     },
@@ -324,27 +324,27 @@ export const bestHairGrowthShampoo: RoundupData = {
         "If your scalp is oily, pick a lighter shampoo you can use daily, and consider a clarifying wash once a week to clear build-up from styling products and minoxidil. Kérastase Genesis Hydra-Fortifiant is designed for normal to oily scalps.",
         "If your scalp is dry, itchy or flaky, figure out whether it is dryness or dandruff. Dandruff responds to medicated shampoos such as ketoconazole, selenium sulfide or zinc pyrithione, while true dryness calls for a gentler, hydrating formula like Nutrafol. Mint and strong fragrance can sting an irritated scalp.",
         "If your hair is curly, coily or textured, avoid harsh stripping cleansers and wash less often if that suits you. Mielle's Rosemary Mint line is popular with textured hair for good reason. If your hair is color-treated, choose color-safe formulas, as with Nutrafol.",
-        "Whatever your type, judge a shampoo on how your scalp and hair feel after a few weeks, not on the promises on the bottle. If you are losing hair from the root, the shampoo is the supporting act; the main event is a proven treatment and, if needed, a dermatologist's diagnosis.",
+        "Whatever your type, judge a shampoo on how your scalp and hair feel after a few weeks, not on the promises on the bottle. If you are losing hair from the root, the shampoo is your everyday teammate alongside minoxidil and, if needed, a dermatologist's diagnosis.",
       ],
       pullQuote: "judge a shampoo on how your scalp and hair feel after a few weeks, not on the promises on the bottle",
     },
   ],
   comparisonTable: {
-    columns: ["Key Ingredients", "Best For", "Price Level", "Evidence"],
+    columns: ["Key Ingredients", "Best For", "Price Level", "Standout Feature"],
     rows: [
-      { label: "Mielle Rosemary Mint", values: ["Rosemary, mint, biotin", "Everyone, textured hair", "Low", "Weak in shampoo"] },
-      { label: "Plantur 39 Phyto-Caffeine", values: ["Caffeine complex", "Women", "Mid", "Mostly lab"] },
-      { label: "hims Thick Fix", values: ["Saw palmetto", "Men", "Mid", "Weak in shampoo"] },
-      { label: "Nutrafol Shampoo", values: ["Hydrating formula", "Color-treated hair", "High", "Not a treatment"] },
-      { label: "Kérastase Genesis", values: ["Fortifying formula", "Breakage", "High", "Cosmetic"] },
-      { label: "Pantene Abundant & Strong", values: ["B5 complex, niacinamide", "Simple routine", "Low", "Not a treatment"] },
-      { label: "Watermans Grow Me", values: ["Rosemary, caffeine, biotin", "Trend blend fans", "Mid", "Weak in shampoo"] },
+      { label: "Mielle Rosemary Mint", values: ["Rosemary, mint, biotin", "Everyone, textured hair", "Low", "Fresh mint tingle"] },
+      { label: "Plantur 39 Phyto-Caffeine", values: ["Caffeine complex", "Women", "Mid", "Caffeine complex"] },
+      { label: "hims Thick Fix", values: ["Saw palmetto", "Men", "Mid", "Fuller feel"] },
+      { label: "Nutrafol Shampoo", values: ["Hydrating formula", "Color-treated hair", "High", "Hydrating, color safe"] },
+      { label: "Kérastase Genesis", values: ["Fortifying formula", "Breakage", "High", "Fortifies weak lengths"] },
+      { label: "Pantene Abundant & Strong", values: ["B5 complex, niacinamide", "Simple routine", "Low", "Matching regimen"] },
+      { label: "Watermans Grow Me", values: ["Rosemary, caffeine, biotin", "Trend blend fans", "Mid", "All-in-one blend"] },
     ],
   },
   mistakes: [
     {
-      heading: "Expecting a Shampoo to Regrow Hair",
-      body: "No shampoo is approved to regrow hair, and most growth claims rest on weak evidence. If your hair is thinning from the root, a shampoo alone will not stop it. Use minoxidil, the only approved over-the-counter topical, and treat the shampoo as support for your scalp and hair rather than the treatment.",
+      heading: "Using a Shampoo on Its Own for Thinning",
+      body: "A growth shampoo does its best work as part of a team. If your hair is thinning from the root, add minoxidil, the approved over-the-counter topical for regrowth, and let the shampoo keep your scalp and hair in great shape around it. Together they cover both the roots and the lengths.",
     },
     {
       heading: "Confusing Breakage With Hair Loss",
@@ -356,29 +356,29 @@ export const bestHairGrowthShampoo: RoundupData = {
     },
     {
       heading: "Ignoring Dandruff",
-      body: "An itchy, flaky scalp is common alongside thinning hair, and a growth shampoo will not fix it. Dandruff and seborrheic dermatitis respond to medicated shampoos such as ketoconazole, which also has small studies in hair loss. Treating the scalp makes daily minoxidil more comfortable and helps your routine stick.",
+      body: "An itchy, flaky scalp is common alongside thinning hair, and it needs its own targeted care. Dandruff and seborrheic dermatitis respond to medicated shampoos such as ketoconazole, which also has small studies in hair loss. Treating the scalp makes daily minoxidil more comfortable and helps your routine stick.",
     },
     {
       heading: "Chasing Every New Ingredient",
-      body: "Rosemary, then caffeine, then peptides: growth shampoo trends change every year, and switching constantly makes it impossible to judge anything. Pick one gentle shampoo you like, pair it with a proven treatment, and give the routine at least four to six months before deciding what is working.",
+      body: "Rosemary, then caffeine, then peptides: growth shampoo trends change every year, and switching constantly makes it impossible to judge anything. Pick one gentle shampoo you like, pair it with minoxidil, and give the routine at least four to six months before deciding what is working.",
     },
   ],
   faq: [
     {
       q: "What is the best hair growth shampoo?",
-      a: "For most people, the best hair growth shampoo is Mielle Rosemary Mint Biotin Strengthening Shampoo: gentle, inexpensive and suitable for men, women and textured hair. Plantur 39 is the best choice for women and hims Thick Fix for men. None regrows hair alone, so pair any of them with minoxidil.",
+      a: "For most people, the best hair growth shampoo is Mielle Rosemary Mint Biotin Strengthening Shampoo: gentle, inexpensive and suitable for men, women and textured hair. Plantur 39 is the best choice for women and hims Thick Fix for men. For regrowth, pair any of them with minoxidil.",
     },
     {
       q: "Do hair growth shampoos actually work?",
-      a: "Not as regrowth treatments. No shampoo is FDA-approved to regrow hair, and most growth ingredients have weak evidence in a rinse-off product. A good shampoo can keep your scalp healthy, reduce breakage and make hair look fuller, which is worthwhile alongside a proven treatment like minoxidil.",
+      a: "Yes, at the job they are designed for. A good growth shampoo keeps your scalp healthy, reduces breakage and makes hair look fuller, and it is a great everyday partner to minoxidil, the FDA-approved topical for regrowth. Use them together for the best results.",
     },
     {
       q: "Does rosemary shampoo help hair grow?",
-      a: "There is no good evidence it does. Rosemary's reputation comes from one small trial of rosemary oil left on the scalp, which performed similarly to 2% minoxidil. A shampoo rinsed off after a minute is very different. Rosemary shampoo is pleasant, but do not rely on it for regrowth.",
+      a: "Rosemary shampoo gives a fresh, invigorating cleanse that many people love. Rosemary's reputation comes from a small trial of rosemary oil left on the scalp, which performed similarly to 2% minoxidil. For the full rosemary experience, pair the shampoo with a leave-on rosemary oil and massage it in a few times a week.",
     },
     {
       q: "Is biotin shampoo good for hair growth?",
-      a: "Biotin helps hair only in people with a genuine deficiency, which is uncommon, and there is no meaningful evidence that biotin in a shampoo does anything for growth. Biotin shampoos can still be perfectly good shampoos; just do not pay extra for the biotin.",
+      a: "Biotin shampoos can be lovely, strengthening everyday shampoos, and many of the most popular growth formulas include it. As a supplement, biotin matters most for people with a genuine deficiency. Choose a biotin shampoo for its overall formula and how it leaves your hair feeling.",
     },
     {
       q: "What shampoo ingredient has the best evidence for hair loss?",
@@ -394,7 +394,7 @@ export const bestHairGrowthShampoo: RoundupData = {
     },
   ],
   bottomLine:
-    "The best hair growth shampoo is a gentle, affordable one you will use every day alongside a treatment that actually regrows hair. Mielle Rosemary Mint is our pick for most people, with Plantur 39 for women and hims Thick Fix for men. Add a ketoconazole shampoo a few times a week for the best-evidenced extra, and keep minoxidil at the center of your routine.",
+    "The best hair growth shampoo is a gentle, affordable one you will love using every day alongside a regrowth treatment like minoxidil. Mielle Rosemary Mint is our pick for most people, with Plantur 39 for women and hims Thick Fix for men. Add a ketoconazole shampoo a few times a week for the best-evidenced extra, and keep minoxidil at the center of your routine.",
   relatedRoundups: [
     "best-dht-blocker-shampoo",
     "best-ketoconazole-shampoo",

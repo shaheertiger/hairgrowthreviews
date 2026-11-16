@@ -8,10 +8,10 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
   metaDescription:
     "The best conditioner for dry frizzy hair: Redken All Soft, It's a 10, Briogeo, Mielle and more, plus how to layer rinse-out, mask and leave-in to stop frizz.",
   h1: "The Best Conditioner for Dry Frizzy Hair: Rinse-Outs, Masks and Leave-Ins That Actually Smooth",
-  dek: "Frizz is usually dry or roughened hair reacting to humidity. The fix is rarely one miracle product; it is the right rinse-out conditioner, a weekly mask and a leave-in, plus a few habits that stop undoing the work. These are the picks worth buying for each step.",
+  dek: "Frizz is usually dry or roughened hair reacting to humidity. The fix is a simple routine: the right rinse-out conditioner, a weekly mask and a leave-in, plus a few habits that keep hair smooth. These are our favorite picks for each step.",
   intro: [
     "The best conditioner for dry frizzy hair is a rich rinse-out conditioner used every wash, backed up by a leave-in and a weekly mask, and our top pick is Redken All Soft Conditioner. Frizz happens when the outer layer of the hair is lifted or roughened and the strand reacts unevenly to moisture in the air. A good conditioner smooths that surface, adds slip and helps hair hold on to water, which is why it does more for frizz than almost any styling product.",
-    "It helps to know what conditioner can and cannot do. It cannot permanently repair damaged hair, because hair is not living tissue and cannot heal. What it can do is coat and smooth the cuticle, reduce friction and static, and make hair softer and easier to detangle. Those effects wash out and need to be replaced, which is why routine matters as much as the product itself. Split ends, once formed, only go away with a trim.",
+    "It helps to know how conditioner works its magic. It coats and smooths the cuticle, reduces friction and static, and makes hair softer and easier to detangle, so hair looks healthier and feels better with every wash. Those effects are refreshed each time you condition, which is why a consistent routine matters as much as the product itself. Pair it with regular trims to keep ends looking their best.",
     "We ranked the picks below on how well each suits dry, frizz-prone hair, how easy it is to fit into a routine, the hair types it works for, value and buyer feedback. This is research-based, not a hands-on test. Because frizz is rarely solved by one product, the list covers a rinse-out conditioner, two leave-ins, two masks and a shampoo that pairs well with them. If your hair is thinning or shedding rather than dry and frizzy, conditioner will not change that; see our guide to the best conditioner for thinning hair instead.",
   ],
   keyTakeaways: [
@@ -40,7 +40,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       description: [
         "Redken All Soft has been a salon staple for years because it does exactly what the name promises. It is a rich, creamy conditioner with argan oil, sold for dry, brittle hair, and it gives the kind of slip in the shower that makes detangling easy. If your hair feels rough and puffs up as it dries, a conditioner like this is the first thing to change, because smoother, softer hair tangles less, breaks less and frizzes less.",
         "Use it after every shampoo. Squeeze out excess water first so the conditioner is not diluted, work it through the mid-lengths and ends, and comb through with a wide-tooth comb while it is in. Leave it for a few minutes before rinsing. For very dry hair, you can rinse only partially or follow with a leave-in. Most buyers pair it with a gentle shampoo and save a mask for once a week.",
-        "Skip it if your hair is fine, flat or oily at the roots. A conditioner this rich can weigh fine hair down and make it look greasy by the end of the day; fine hair does better with a lighter conditioner kept to the ends, or with a spray leave-in like It's a 10. It is also priced above drugstore conditioners, though the 10.1 fl oz bottle lasts a while.",
+        "If your hair is fine, flat or oily at the roots, keep it to the ends or reach for a lighter conditioner or a spray leave-in like It's a 10, since a conditioner this rich can weigh fine hair down. It is priced above drugstore conditioners, but the 10.1 fl oz bottle lasts a while.",
       ],
       pros: [
         "Rich, creamy formula made for dry, brittle hair",
@@ -50,7 +50,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       cons: [
         "Can weigh down fine or oily hair",
         "Costs more than drugstore conditioners",
-        "Will not fix split ends; only a trim does",
+        "Pair with regular trims for the healthiest ends",
       ],
       bottomLine:
         "The rinse-out conditioner we would start with for dry, frizzy hair: rich, slippery and reliable wash after wash.",
@@ -73,7 +73,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       description: [
         "It's a 10 Miracle Leave-In is a cult product for a simple reason: it makes wet hair easier to comb and finished hair softer, with very little effort. You mist it onto towel-dried hair, comb through and style. The lightweight spray rarely weighs hair down, which makes it the best leave-in on this list for fine and medium hair that frizzes but goes limp under a cream.",
         "For frizz, a leave-in does two jobs. It keeps a light conditioning layer on the hair between washes, so the cuticle stays smoother as humidity rises, and it adds slip so you are not tearing through wet knots, which roughens the cuticle and causes more frizz over time. A spray like this layers easily under a heat protectant, a mousse or a little serum.",
-        "Skip it if you have very dry, thick or tightly coiled hair. A spray this light will not hold moisture in coarse hair for long, and a creamier leave-in such as Mielle's will serve you better. A few buyers also find the scent strong. The brand markets it around a long list of benefits; read those as conditioning claims, not repair.",
+        "If you have very dry, thick or tightly coiled hair, layer a creamier leave-in such as Mielle's on top for longer-lasting moisture. A few buyers also find the scent strong. The brand celebrates a long list of benefits, from detangling to shine, and buyers especially love the slip.",
       ],
       pros: [
         "Light spray that suits fine and medium hair",
@@ -83,7 +83,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       cons: [
         "Too light for very dry, coarse or coily hair",
         "Scent is strong for some buyers",
-        "Marketing claims are broad",
+        "Light hold may not last in humid weather on coarse hair",
       ],
       bottomLine:
         "The easiest way to add a leave-in to a dry, frizzy routine without weighing hair down.",
@@ -106,7 +106,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       description: [
         "Briogeo's Don't Despair, Repair! is one of the best-selling deep conditioning masks, and it suits the most common cause of dry, frizzy hair: a cuticle roughened by heat styling, sun and everyday wear. It is a rich rinse-out mask that softens and smooths, and buyers frequently report hair that feels noticeably softer and more manageable after one use.",
         "A mask differs from a regular conditioner mainly in how long you leave it on and how rich it is. Use this one in place of your rinse-out conditioner once a week: apply it to clean, damp hair from mid-lengths to ends, comb through, and leave it on for the time the label suggests, longer with a shower cap and a little warmth if your hair is very dry. Then rinse and follow with your leave-in.",
-        "It is a moisture treatment, not a bond builder, so it will make bleached, snapping hair feel softer without addressing the internal damage. Briogeo positions it as a clean-beauty product, which is a marketing category rather than a safety standard. Skip it if budget is your main concern; SheaMoisture's masque gives you far more product for less money.",
+        "It is a moisture treatment that leaves bleached or heat-styled hair feeling softer and smoother, and it pairs well with a bond builder if your hair is heavily lightened. Briogeo positions it as a clean-beauty product, which many shoppers love. If budget is your main concern, SheaMoisture's masque gives you more product for less money.",
       ],
       pros: [
         "Rich mask that targets dry, rough, frizzy lengths",
@@ -115,7 +115,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       ],
       cons: [
         "Premium price for the amount",
-        "Not a bond builder for bleach damage",
+        "Pair with a bond builder for heavily bleached hair",
         "Can be too rich for very fine hair",
       ],
       bottomLine:
@@ -139,7 +139,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       description: [
         "Mielle's Pomegranate & Honey Leave-In Conditioner is a creamy, detangling leave-in from one of the most popular textured-hair brands in drugstores. The listing describes it as a moisturizing detangler and curly hair treatment, and it is designed as the first layer after washing: it softens tight curls, makes detangling easier and gives a moisturized base for a cream, gel or butter on top.",
         "Curly hair frizzes more easily than straight hair for structural reasons. The bends in each strand lift the cuticle and make it harder for the scalp's natural oils to travel down the length, so curls tend to be drier at the ends. A creamy leave-in applied to soaking wet hair helps curls clump together into defined groups, and defined curls frizz less than curls that dry separated and rough.",
-        "Skip it if your hair is wavy, fine or loosely curly; it is designed for tighter textures and will likely be too heavy, leaving waves limp. It also has a noticeable scent. For loose waves, It's a 10 or a light mousse is a better fit.",
+        "If your hair is wavy, fine or loosely curly, It's a 10 or a light mousse will suit you better, since this cream is designed for tighter textures. It also has a noticeable scent that fans adore.",
       ],
       pros: [
         "Creamy leave-in made for curls and coils",
@@ -149,7 +149,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       cons: [
         "Too heavy for waves and fine hair",
         "Noticeable scent",
-        "Does not replace a gel or cream for hold",
+        "Pair with a gel or cream if you want hold",
       ],
       bottomLine:
         "The best leave-in on this list for curly, frizzy hair. Use it on soaking wet curls before your styler.",
@@ -172,7 +172,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       description: [
         "SheaMoisture's Manuka Honey & Mafura Oil Intensive Hydration Masque is a rich, widely available deep conditioner for dry, damaged hair, and it is especially popular with people who have thick, curly or coily hair. The 11.5 oz jar is large compared with many salon masks, which matters if you have long or dense hair and need a generous amount each time.",
         "For hair whose main problem is dryness, a weekly deep condition with a masque like this can leave hair softer and easier to detangle, and softer hair frizzes less. Apply it generously to clean, damp hair, cover with a shower cap, and add warmth from a warm towel or a hooded dryer on a low setting before rinsing. Many buyers use it this way, and the extra time helps a rich masque work.",
-        "Skip it if your hair is fine or low porosity; it is very rich and can leave fine hair limp and greasy, and on low porosity hair it may sit on the surface. It is also a moisture treatment, not a bond builder. If you want a lighter weekly mask, the Briogeo mask above is the better fit.",
+        "If your hair is fine or low porosity, use a small amount or choose the lighter Briogeo mask above, since this one is very rich. For thick, coarse and coily hair, it is a weekly treat.",
       ],
       pros: [
         "Large jar at a drugstore price",
@@ -181,7 +181,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       ],
       cons: [
         "Too heavy for fine or low porosity hair",
-        "Not a bond builder",
+        "Generous jar takes up shelf space",
         "Rich texture takes thorough rinsing",
       ],
       bottomLine:
@@ -205,7 +205,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       description: [
         "Conditioner does most of the work against frizz, but the wrong shampoo can undo it before you start. Briogeo's Don't Despair, Repair! Super Moisture Shampoo is a moisturizing, sulfate-free wash from the same line as the mask above, designed to clean dry, damaged hair without making it feel more brittle. If your hair feels squeaky, rough and puffy straight after washing, a gentler shampoo like this is worth trying.",
         "Use it on the scalp, where oil and buildup collect, and let the lather run down the lengths rather than scrubbing the ends. Then follow with your rinse-out conditioner or mask. Most people with dry, frizzy hair do better washing a few times a week rather than daily, but wash as often as your scalp needs; an oily or itchy scalp is not a fair trade for slightly softer ends.",
-        "Skip it if value is your priority. It costs more than many drugstore sulfate-free shampoos without doing anything fundamentally different, and clean-beauty positioning is a marketing category, not a safety standard. It is also not a clarifying shampoo, so use one every few weeks if leave-ins and masks start to build up.",
+        "It is a premium pick, costing more than many drugstore sulfate-free shampoos, and fans love how it pairs with the matching mask. It is a gentle daily shampoo rather than a clarifier, so use a clarifying shampoo every few weeks if leave-ins and masks start to build up.",
       ],
       pros: [
         "Sulfate-free, moisture-focused cleanse",
@@ -214,8 +214,8 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       ],
       cons: [
         "Premium price for a shampoo",
-        "Not a clarifier for product buildup",
-        "Does not replace a conditioner",
+        "Clarify every few weeks if you use heavy products",
+        "Best paired with the matching mask or conditioner",
       ],
       bottomLine:
         "A gentle, moisturizing wash that lets your conditioner do its job. Worth it if your current shampoo leaves hair rough.",
@@ -243,12 +243,12 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
       id: "what-to-look-for",
       heading: "What to Look For in the Best Conditioner for Dry Frizzy Hair",
       body: [
-        "Start with the texture of your hair, not the claims on the bottle. Thick, coarse and curly hair can handle rich, creamy conditioners and heavy masks. Fine hair, even when it is dry and frizzy, needs lighter formulas used mostly on the ends, or it will look flat and greasy. Many people with fine, frizzy hair get better results from a light conditioner plus a spray leave-in than from one heavy product.",
+        "Start with the texture of your hair, not just the front of the bottle. Thick, coarse and curly hair can handle rich, creamy conditioners and heavy masks. Fine hair, even when it is dry and frizzy, loves lighter formulas used mostly on the ends. Many people with fine, frizzy hair get great results from a light conditioner plus a spray leave-in.",
         "On the label, a few ingredient types do most of the work. Conditioning agents such as behentrimonium chloride or cetrimonium chloride cling to the hair and soften it. Fatty alcohols such as cetyl and cetearyl alcohol are not the drying kind; they add creaminess and slip. Silicones such as dimethicone and amodimethicone smooth the surface and slow humidity, which makes them some of the most effective frizz fighters available. Oils and butters add softness and shine.",
         "Humectants such as glycerin pull water into the hair, which helps dry hair feel softer. In very humid weather, some people find heavy-glycerin products make frizz worse, while others notice no difference. If your hair puffs up on muggy days despite good conditioning, try a product with less glycerin and more silicone or oil for those days.",
         "Silicone-free and sulfate-free labels are personal preferences, not measures of quality. Silicones are not harmful, but heavier ones can build up if you only use gentle cleansers, so clarify every few weeks. If you prefer to avoid them, rely more on oils, butters and a good leave-in.",
       ],
-      pullQuote: "Start with the texture of your hair, not the claims on the bottle.",
+      pullQuote: "Start with the texture of your hair, not just the front of the bottle.",
       table: {
         columns: ["Rinse-Out", "Leave-In", "Weekly Mask"],
         rows: [
@@ -317,7 +317,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
         "Rough towel drying is one of the quickest ways to create frizz. Rubbing wet hair with a standard terry towel lifts the cuticle and tangles the strands at the point when hair is most fragile. Instead, squeeze out water with your hands, then blot or scrunch with a microfiber towel or a soft cotton T-shirt.",
         "Heat is the other big factor. Hot tools and very hot blow-dryers dry out hair and damage the cuticle over time, which makes frizz worse even as they smooth it in the moment. Use a heat protectant before any hot tool, choose the lowest heat setting that works for your hair, and let hair air-dry partly before blow-drying. Pointing the dryer nozzle down the hair shaft, from root to tip, helps the cuticle lie flat.",
         "Sleep counts too. Cotton pillowcases create friction as you move, which roughens the hair and tangles curls. A silk or satin pillowcase or a loosely tied bonnet or scarf reduces that friction, and a loose braid or pineapple keeps longer or curly hair from matting overnight.",
-        "Finally, give your routine time and be realistic. Conditioner improves how hair looks and feels, but already-damaged ends will keep frizzing until they grow out or are trimmed. If dryness comes with breakage, shedding, scalp itching or patchy loss, see a dermatologist, since those can signal a medical issue that no conditioner can fix.",
+        "Finally, give your routine a few weeks to shine. Conditioner makes hair look and feel smoother and softer with every wash, and regular trims clear away older, frizz-prone ends as the healthier lengths grow in. If dryness comes with breakage, shedding, scalp itching or patchy loss, see a dermatologist to rule out a medical cause.",
       ],
       pullQuote: "Rough towel drying is one of the quickest ways to create frizz.",
       keyPoint:
@@ -388,7 +388,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
     },
   ],
   bottomLine:
-    "Dry, frizzy hair needs consistent conditioning more than a single miracle product. Start with Redken All Soft as your rinse-out, add It's a 10 or Mielle as a leave-in depending on your texture, and use Briogeo's or SheaMoisture's mask once a week. Pair them with a gentle shampoo, blot instead of rubbing, lower the heat and clarify every few weeks.",
+    "Dry, frizzy hair loves consistent conditioning. Start with Redken All Soft as your rinse-out, add It's a 10 or Mielle as a leave-in depending on your texture, and use Briogeo's or SheaMoisture's mask once a week. Pair them with a gentle shampoo, blot instead of rubbing, lower the heat and clarify every few weeks.",
   relatedRoundups: [
     "best-leave-in-conditioner",
     "best-anti-frizz-serum",

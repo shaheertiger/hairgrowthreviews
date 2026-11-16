@@ -40,7 +40,7 @@ export const bestBrushForCurlyHair: RoundupData = {
       description: [
         "The Wet Brush Original is the detangling brush most curly-haired people end up trying first, and there is a good reason it tops this list. Its thin, flexible bristles bend when they hit resistance instead of ripping through it, so a knot gets eased apart rather than torn. That flex is the single most important feature in a brush for curly hair, and the Original has it at a budget price.",
         "Use it in the shower after you apply a generous amount of conditioner. Divide the hair into a few sections, hold each one above where you are brushing so you are not tugging the scalp, and work from the ends upward in short strokes. The open paddle shape covers a lot of hair, which makes it quick on long or thick curls, and the light plastic body does not mind getting wet.",
-        "It is not a styling or curl-defining brush, and it will not clump curls the way a Denman-style brush can. On very tight coils, some people find any brush pulls more than a wide tooth comb or their fingers. Skip it if your hair is type 4 and tangles into tight knots; start with the Kent 10T instead. For most wavy and curly hair, it is the simplest place to start.",
+        "It is not a styling or curl-defining brush, and it will not clump curls the way a Denman-style brush can. On very tight coils, some people find any brush pulls more than a wide tooth comb or their fingers. If your hair is type 4 and tangles into tight knots, the Kent 10T makes a great companion. For most wavy and curly hair, it is the simplest place to start.",
       ],
       pros: [
         "Flexible bristles bend around knots instead of tearing them",
@@ -73,7 +73,7 @@ export const bestBrushForCurlyHair: RoundupData = {
       description: [
         "Kent is a long-established British brush and comb maker, and the 10T is its large detangling comb. The listing describes it as handmade, saw-cut and hand polished. That matters more than it sounds: cheap molded combs often have a seam left along each tooth from the mold, and that tiny ridge can catch and roughen hair. A saw-cut, polished comb has smooth teeth with no seam, which is exactly what you want running through fragile curls.",
         "A wide tooth comb is the gentlest tool for tight curls and coils because the widely spaced teeth let curl clumps pass through without being split apart. Use it on wet hair with plenty of conditioner, or on hair coated in a slippery leave-in, starting at the ends and moving up in small sections. Many people with type 4 hair finger detangle first to remove large knots, then follow with a comb like this.",
-        "It is slower than a brush on long, dense hair, and it costs more than a basic drugstore comb. The listing says it works on wet or dry hair, but for curls we would still stick to wet or well-conditioned hair. Skip it if your hair is wavy and fine and you want speed; a flexible brush will be quicker. Buy it if brushes always seem to snag.",
+        "It is slower than a brush on long, dense hair, and it costs more than a basic drugstore comb. The listing says it works on wet or dry hair, but for curls we would still stick to wet or well-conditioned hair. If your hair is wavy and fine and you want speed, pair it with a flexible brush. It is the hero for anyone whose brushes always seem to snag.",
       ],
       pros: [
         "Seamless, polished teeth are gentle on fragile curls",
@@ -106,7 +106,7 @@ export const bestBrushForCurlyHair: RoundupData = {
       description: [
         "Tangle Teezer built its name on detangling brushes with short, flexible teeth, and the Ultimate Detangler adds a handle to that design, which makes it easier to grip in the shower than the original handheld shape. This Fine version is designed specifically for fine hair, with what the listing calls patented two-tier, soft-flex teeth that detangle and reduce breakage.",
         "That makes it a strong match for fine curls and loose waves. Fine curly hair is a tricky combination: the curl pattern means it tangles, but each strand is thin and snaps with little force. Softer, shorter teeth glide over the surface of the hair and work knots loose gradually, which suits it better than a stiffer brush. Use it on wet hair with conditioner, in sections, from the ends up.",
-        "Thick, coarse or tightly coiled hair will likely find it too soft to get through dense sections, and the shorter teeth do not reach as deep into a thick head of hair. Skip it if your curls are dense or coarse; the Wet Brush Original or Kent 10T will do more. Buy it if your waves or curls are fine and you have noticed short, broken pieces after detangling.",
+        "Thick, coarse or tightly coiled hair will likely find it too soft to get through dense sections, and the shorter teeth do not reach as deep into a thick head of hair. For dense or coarse curls, the Wet Brush Original or Kent 10T is the better match. It is the one to choose if your waves or curls are fine and you have noticed short, broken pieces after detangling.",
       ],
       pros: [
         "Soft-flex teeth designed for fine hair",
@@ -139,7 +139,7 @@ export const bestBrushForCurlyHair: RoundupData = {
       description: [
         "Paul Mitchell's Detangler Comb is a straightforward wide tooth comb from a well-known salon brand, and it is one of the cheapest ways to detangle curls gently. The listing says it detangles wet or dry hair; for wavy and curly hair, we recommend using it on wet hair with conditioner or a leave-in for the best slip and least frizz.",
         "It is our pick for wavy hair because waves are easy to brush straight. A full brush tends to pull loose S-shaped waves flat, while a wide tooth comb removes tangles and leaves the wave pattern mostly intact. Comb through in the shower, then scrunch in your styler and leave the waves alone as they dry. It is also a good comb to keep in a gym bag or car.",
-        "It is a basic molded comb, so it is not as finely finished as the hand-polished Kent, and on very thick, coily hair it will be slow. Skip it if your hair is dense and tangles badly; spend a little more on the Kent 10T. Buy it if you have waves or loose curls and want a cheap, effective comb.",
+        "It is a basic molded comb, so it is not as finely finished as the hand-polished Kent, and on very thick, coily hair it will be slow. If your hair is dense and tangles badly, the Kent 10T is a lovely step up. It is perfect if you have waves or loose curls and want a cheap, effective comb.",
       ],
       pros: [
         "Inexpensive comb from a known salon brand",
@@ -171,8 +171,8 @@ export const bestBrushForCurlyHair: RoundupData = {
       ],
       description: [
         "This is not a detangler, and we include it because curly hair care has two separate jobs: detangling the lengths and cleaning the scalp. Many people with curls wash only once or twice a week, or use a gentle co-wash, which can leave oil, product and flakes sitting on the scalp. A scalp brush helps you work shampoo in at the roots without scrubbing your curls into a tangled mess with your fingernails.",
-        "Tangle Teezer's version is a palm-held brush that the listing says exfoliates and massages. Use it on the scalp only, with shampoo, in small circular or back-and-forth movements, then rinse. Keep the lengths out of it; scrubbing the ends is how wash-day tangles start. A scalp massage feels pleasant, but no brush has been shown to regrow hair.",
-        "Skip it if your scalp is sore, inflamed or has open spots, or if you have a scalp condition that a dermatologist is treating. It also does nothing to detangle, so you will still need one of the brushes or combs above. Buy it if your scalp feels oily or itchy between washes and your fingers are not getting it clean.",
+        "Tangle Teezer's version is a palm-held brush that the listing says exfoliates and massages. Use it on the scalp only, with shampoo, in small circular or back-and-forth movements, then rinse. Keep the lengths out of it; scrubbing the ends is how wash-day tangles start. A scalp massage feels wonderful and keeps the scalp fresh between washes.",
+        "Give it a break if your scalp is sore, inflamed or has open spots, or ask your dermatologist if you are being treated for a scalp condition. Pair it with one of the detangling brushes or combs above. It is a treat if your scalp feels oily or itchy between washes and your fingers are not getting it clean.",
       ],
       pros: [
         "Cleans the scalp without tangling the lengths",
@@ -203,9 +203,9 @@ export const bestBrushForCurlyHair: RoundupData = {
         { label: "Price tier", value: "Budget" },
       ],
       description: [
-        "The Pro Flex Dry is Wet Brush's blow-drying version of its detangler, with a vented, flexing head so warm air can pass through as you dry. It ranks last on this list for a specific reason: it is designed for a style that changes curly hair. Brushing curls while you blow-dry them stretches out the pattern and gives a smoother, straighter result, which is great if that is the look you want and the opposite of what most curl routines aim for.",
+        "The Pro Flex Dry is Wet Brush's blow-drying version of its detangler, with a vented, flexing head so warm air can pass through as you dry. It ranks sixth for a specific reason: it is designed for blow-out days. Brushing curls while you blow-dry them stretches out the pattern and gives a smoother, straighter result, which is great when that is the look you want.",
         "If you do blow out your curls, this is a reasonable tool. Detangle in the shower first with conditioner, apply a heat protectant, rough-dry until the hair is mostly dry, then use the brush with a moderate heat setting. The vents let air through, which can shorten drying time and reduce how long your hair sits under heat.",
-        "Skip it if you wear your hair curly. For wash-and-go styles, air drying or a diffuser keeps the curl pattern intact, and a regular detangler like the Wet Brush Original is all you need. Buy it if you switch between curly and smooth styles and want one brush for the blow-dry days.",
+        "For wash-and-go styles, air drying or a diffuser keeps the curl pattern intact, with a regular detangler like the Wet Brush Original. This brush is ideal if you switch between curly and smooth styles and want one brush for the blow-dry days.",
       ],
       pros: [
         "Vented design lets air through while drying",
@@ -214,11 +214,11 @@ export const bestBrushForCurlyHair: RoundupData = {
       ],
       cons: [
         "Brushing while drying stretches out curls",
-        "Little use for wash-and-go styles",
+        "Designed for blow-outs rather than wash-and-go styles",
         "Not a curl-defining brush",
       ],
       bottomLine:
-        "Only worth buying if you blow your curls out smooth. For curly styles, choose the Wet Brush Original instead.",
+        "The perfect partner for blow-out days, with vents that speed up drying.",
     },
   ],
   picksAfter: 2,

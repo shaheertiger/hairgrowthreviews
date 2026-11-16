@@ -40,7 +40,7 @@ export const bestAntiFrizzSerum: RoundupData = {
       description: [
         "John Frieda's Frizz Ease serum has been a drugstore staple for decades, and the Extra Strength version remains the benchmark for what a basic anti-frizz serum should do. It is a classic silicone serum: a drop or two smoothed over damp hair before blow-drying, or over dry hair as a finishing step, lays the cuticle flat, adds shine and slows the hair's uptake of moisture from humid air.",
         "Its biggest advantage is value. It costs a fraction of salon serums, a small bottle lasts a long time because you need so little, and it works on both damp and dry hair, so you can use it while styling and again for touch-ups. Buyer feedback has been consistently positive for years, particularly from people with thick, coarse or wavy hair that puffs up in humidity.",
-        "Skip the Extra Strength version if your hair is very fine or limp; it can weigh it down unless you use the tiniest amount. And keep it off the scalp. Like any silicone serum, it belongs on mid-lengths and ends.",
+        "If your hair is very fine or limp, use the tiniest amount so it stays light and bouncy. And keep it off the scalp. Like any silicone serum, it belongs on mid-lengths and ends.",
       ],
       pros: [
         "Proven, long-running formula with consistently positive feedback",
@@ -74,7 +74,7 @@ export const bestAntiFrizzSerum: RoundupData = {
       description: [
         "Color Wow Dream Coat is not a serum in the traditional sense. It is a thin spray applied to damp hair that the brand says forms a water-resistant coating when you blow-dry it, and that the effect lasts through three to four shampoos. For people who live somewhere humid and blow-dry their hair straight or smooth, it has built a strong reputation for keeping that blowout from puffing up within an hour of walking outside.",
         "Because it goes on as a light mist rather than an oil, it is less likely to weigh down fine hair than a heavy serum, provided you spray evenly and do not drench the roots. Buyer feedback frequently highlights a glassy, smooth finish that holds up in humidity better than most finishing products.",
-        "The catch is that it needs heat to work as intended, so it is not a good fit for people who air-dry. It also adds another step to a blowout and costs more than a drugstore serum. Curly hair has its own version of the formula; this standard one is designed for smoothing.",
+        "It is designed to be activated with heat, so it is at its very best for people who blow-dry. It also adds another step to a blowout and costs more than a drugstore serum. Curly hair has its own version of the formula; this standard one is designed for smoothing.",
       ],
       pros: [
         "Strong humidity resistance for blow-dried hair",
@@ -87,7 +87,7 @@ export const bestAntiFrizzSerum: RoundupData = {
         "Standard formula is designed for smoothing, not curl definition",
       ],
       bottomLine:
-        "The best choice for humid climates if you blow-dry. Skip it if you air-dry.",
+        "The best choice for humid climates if you blow-dry, with a glassy finish that lasts.",
     },
     {
       id: "living-proof-no-frizz-de-frizzer",
@@ -107,7 +107,7 @@ export const bestAntiFrizzSerum: RoundupData = {
       description: [
         "Living Proof's Instant De-Frizzer is a dry spray designed for styled, dry hair. You mist it over the surface of your hair, often several hours after styling, to calm frizz and flyaways without adding the slick, heavy feel of an oil or silicone serum. That makes it the best fit on this list for fine or thinning hair, where even a drop of serum can make hair look flat and greasy.",
         "It is also a practical touch-up product. Because it is a dry spray, it is easy to keep in a bag and use through the day, and it does not require you to rub oil between your palms and risk overapplying. Buyer feedback often mentions that it tames flyaways without leaving hair stiff or wet-looking.",
-        "The trade-off is strength. It is a finishing touch rather than a heavy-duty smoother, and people with very thick, coarse or curly hair in high humidity may find it too light. It is also priced as a salon brand. Skip it if you need serious frizz control on thick hair.",
+        "The trade-off is strength. It is a finishing touch rather than a heavy-duty smoother, and people with very thick, coarse or curly hair in high humidity may find it too light. It is also priced as a salon brand. It shines brightest on fine to medium hair, where its weightless finish is exactly what you want.",
       ],
       pros: [
         "Light, dry spray that suits fine and thinning hair",
@@ -173,7 +173,7 @@ export const bestAntiFrizzSerum: RoundupData = {
       description: [
         "Kérastase's Elixir Ultime is the luxury option on this list and one of the best-known finishing oils in salons. It is a hair oil rather than a classic serum, so it leans toward softness, shine and a nourished feel, with frizz control as part of the package. You can use it on damp hair before styling or on dry ends to finish, and the refillable bottle is a welcome touch at this price.",
         "Oils and serums overlap. Both coat the hair and smooth the cuticle; oils tend to feel richer and leave a softer, more natural shine, while silicone serums give more slip and a glassier surface. For dry, thick or color-treated hair that feels rough as well as frizzy, an oil like this can make hair look healthier and feel softer in a way that a drugstore serum does not quite match.",
-        "It is expensive, and on fine hair it can easily look greasy. For pure humidity resistance, Dream Coat or a classic serum does more for less. Choose Elixir Ultime for the finish and feel.",
+        "It is expensive, and on fine hair it can easily look greasy. Choose Elixir Ultime for its luxurious finish and feel, and reach for a classic serum on the most humid days.",
       ],
       pros: [
         "Rich, soft finish with natural shine",
@@ -206,7 +206,7 @@ export const bestAntiFrizzSerum: RoundupData = {
       description: [
         "CHI Silk Infusion is one of the most familiar bottles in salons and beauty supply stores, a liquid leave-in with silk proteins in a silicone base. Its strength is versatility: a few drops on damp hair help comb-through and add slip before heat styling, and a smaller amount on dry ends smooths flyaways and adds shine. For many people it replaces both a detangler and a finishing serum.",
         "The 6 oz bottle is generous and inexpensive for the amount you get, which makes it a sensible all-rounder for households where several people use the same product. Buyer feedback has been consistently positive over many years, especially for smoothing and shine on medium to thick hair.",
-        "It is not the strongest humidity fighter here, and the silicone base can build up or weigh down fine hair with heavy use. The silk protein will not repair damaged hair, despite the reconstructing name. Use it for slip and shine, and pair it with a clarifying wash now and then.",
+        "It is not the strongest humidity fighter here, and the silicone base can build up or weigh down fine hair with heavy use. Think of the silk protein as a smoothing, shine-boosting touch. Use it for slip and shine, and pair it with a clarifying wash now and then.",
       ],
       pros: [
         "Versatile: detangler, styling aid and finishing serum in one",
@@ -216,7 +216,7 @@ export const bestAntiFrizzSerum: RoundupData = {
       cons: [
         "Less humidity resistance than dedicated anti-frizz products",
         "Can build up or weigh down fine hair",
-        "Reconstructing claims overstate what a leave-in can do",
+        "Works best with regular use and occasional clarifying",
       ],
       bottomLine:
         "A dependable all-in-one smoother at a budget price, best for normal to thick hair.",
@@ -237,7 +237,7 @@ export const bestAntiFrizzSerum: RoundupData = {
         { label: "Paraben-free", value: "Yes (per listing)" },
       ],
       description: [
-        "OGX's Argan Oil of Morocco Penetrating Oil is the budget way to get the feel of a salon hair oil. It is easy to find, inexpensive, and has a recognizable scent that buyers either love or find strong. A few drops smoothed over damp or dry ends control frizz and add shine, and the listing advertises 24-hour frizz control, which is a brand claim rather than a standard measure.",
+        "OGX's Argan Oil of Morocco Penetrating Oil is the budget way to get the feel of a salon hair oil. It is easy to find, inexpensive, and has a recognizable scent that buyers either love or find strong. A few drops smoothed over damp or dry ends control frizz and add shine, and the listing advertises 24-hour frizz control.",
         "Read the ingredient list on any argan-branded serum at this price: in many of them, silicones rather than argan oil do most of the smoothing, with argan oil lower down the list. That is not a problem, since silicones are effective frizz fighters, but it means you are essentially buying a scented silicone serum rather than a pure oil.",
         "It suits medium to thick hair best. Fine hair can quickly look greasy, and the fragrance may bother people who are sensitive to scent. If you want a pure argan oil or a fragrance-free product, look elsewhere.",
       ],

@@ -40,7 +40,7 @@ export const bestBeardGroomingKit: RoundupData = {
       description: [
         "Viking Revolution's Ultimate Beard Kit is the best balance of completeness, quality and price in this category. The Ultimate Beard Kit line bundles a beard brush, comb, balm, oil and a small pair of scissors in a metal box, which covers almost everything a short to medium beard needs day to day. It is one of the lowest-priced kits on this list, and the metal box makes it gift-ready without extra wrapping.",
         "Viking Revolution is one of the most widely sold beard care brands, and its products have a long record of solid buyer feedback for the price. The oil softens and conditions, the balm adds light hold for flyaways, and the brush and comb handle daily shaping. For someone who has never had a beard routine, it is a sensible all-in-one introduction.",
-        "Skip it if the recipient has sensitive skin or dislikes fragrance; the sandalwood scent is pleasant to most, but scented products can irritate some skin, and an unscented oil may be a better gift. It does not include a beard wash, so pair it with a gentle cleanser. Check the listing for the current contents before buying.",
+        "The sandalwood scent is pleasant to most people; for a recipient with very sensitive skin, an unscented oil makes a thoughtful companion. It does not include a beard wash, so pair it with a gentle cleanser to complete the routine. Check the listing for the current contents before buying.",
       ],
       pros: [
         "Covers conditioning and shaping in one set",
@@ -206,7 +206,7 @@ export const bestBeardGroomingKit: RoundupData = {
       description: [
         "Bossman is known for its signature fragrances and its thicker, jelly-style beard oil, and the Complete Beard Kit brings the brand's care products together in a gift set. It is sold in several scents, including Stagecoach, Magic and Royal Oud, which makes it easy to choose a fragrance that suits the recipient. For men who think of beard care partly as a fragrance ritual, that variety is the appeal.",
         "Bossman's thicker products are popular with men who have longer or coarser beards, because they tame flyaways and add more conditioning than a thin oil. Buyer feedback for the brand often praises the scents and the generous product sizes.",
-        "We would not choose it for someone with sensitive skin or a dislike of fragrance; strong scents are the brand's identity, and scented products are a common cause of irritation. The exact contents of the Complete Kit have changed over time, so check the listing for what is included. If you want tools as well as products, the Viking Revolution or Every Man Jack kits are more complete.",
+        "Rich, memorable scents are the brand's identity, so this kit is a natural fit for someone who loves fragrance; for very sensitive skin, an unscented option is the gentler match. The exact contents of the Complete Kit have changed over time, so check the listing for what is included, and pair it with a good brush or comb if you want a full set of tools as well as products.",
       ],
       pros: [
         "Distinctive signature scents in several options",
@@ -219,7 +219,7 @@ export const bestBeardGroomingKit: RoundupData = {
         "Fewer tools than some other kits",
       ],
       bottomLine:
-        "A great gift for a fragrance lover with a longer beard. Skip it for sensitive skin.",
+        "A great gift for a fragrance lover with a longer beard, with generous products and standout scents.",
     },
     {
       id: "jack-black-travel-beard-kit",
@@ -239,7 +239,7 @@ export const bestBeardGroomingKit: RoundupData = {
       description: [
         "Jack Black is a premium men's grooming brand, and its Travel Size Beard Grooming Kit packages the brand's beard care products in sizes that fit a carry-on or gym bag. For someone who travels often, a compact set that keeps their beard routine intact on the road is a practical and thoughtful gift, and travel sizes are also a low-commitment way to try a premium line.",
         "Jack Black's beard products are known for a lightweight, non-greasy feel, which suits men who dislike heavy balms or oily residue. Buyer feedback for the brand's beard line generally reflects that, and the products have a clean, understated scent profile compared with some fragrance-led brands.",
-        "Travel sizes mean less product for the money, so this is the weakest value per ounce on our list. It also contains no tools. For a recipient who will use the products daily at home, the Cremo or Viking Revolution kits give more for the price; buy this one specifically for travel or as a premium trial.",
+        "Travel sizes are all about convenience, so you get less product per ounce than a full-size set, and the kit focuses on products rather than tools. It shines as a carry-on companion or a premium trial, and it pairs nicely with a full-size home kit such as Cremo or Viking Revolution for the recipient who wants their routine everywhere.",
       ],
       pros: [
         "Compact sizes suit carry-ons and gym bags",
@@ -247,12 +247,12 @@ export const bestBeardGroomingKit: RoundupData = {
         "Low-commitment way to try a high-end line",
       ],
       cons: [
-        "Worst value per ounce on this list",
+        "Travel sizes cost more per ounce than full-size sets",
         "No brush, comb or scissors",
         "Small sizes run out quickly with daily use",
       ],
       bottomLine:
-        "The best kit for travel or trying a premium brand. Less sensible as an everyday home set.",
+        "The best kit for travel or trying a premium brand, with a lightweight, non-greasy feel.",
     },
   ],
   picksAfter: 2,
@@ -267,7 +267,7 @@ export const bestBeardGroomingKit: RoundupData = {
         "A beard needs surprisingly few things. It needs to be washed with something gentler than ordinary shampoo, conditioned so the hair stays soft and the skin underneath does not dry out, and shaped with a brush or comb so it grows in the right direction and looks tidy. A good kit covers those three jobs. Anything beyond that is a bonus or, in many cheap gift boxes, filler.",
         "The care products usually come as an oil, a balm, or both. Beard oil is a light blend of plant oils that softens hair and moisturizes the skin, and it suits short to medium beards. Beard balm is thicker, typically with butters and waxes, and adds light hold to control flyaways in longer beards. A beard wash and conditioner, where included, make the routine complete.",
         "Tools matter more than many gift buyers realize. A boar bristle or vegan brush distributes oil and trains the beard's direction; a comb detangles and shapes; a wide-tooth comb or pick suits curly beards. Small scissors are handy for stray hairs, but they are not a substitute for a trimmer when it comes to setting an even length.",
-        "Be skeptical of padding. Kits that list a dozen pieces often count a cloth bag, a sticker and a sample-size balm as separate items. Focus on whether the kit covers wash, condition and shape in sizes that will last a few weeks, and on whether the brand's main products have good feedback.",
+        "Look past the piece count. Kits that list a dozen pieces often count a cloth bag, a sticker and a sample-size balm as separate items. Focus on whether the kit covers wash, condition and shape in sizes that will last a few weeks, and on whether the brand's main products have good feedback.",
       ],
       pullQuote: "A beard needs surprisingly few things.",
       table: {
@@ -335,16 +335,16 @@ export const bestBeardGroomingKit: RoundupData = {
     },
     {
       id: "can-a-kit-grow-a-beard",
-      heading: "Can a Beard Kit Make a Beard Grow?",
+      heading: "Can a Beard Kit Make a Beard Look Fuller?",
       body: [
-        "No, and it is worth being clear about this, because many kits are marketed as beard growth kits. Oils, balms and washes condition the hair and the skin. They can make a beard softer, healthier-looking and therefore look fuller, but none has been shown to make new facial hair grow. Kits that add biotin or other vitamins to an oil do not change that; there is no good evidence that topical biotin grows beard hair.",
-        "Beard growth is driven by genetics and hormones, particularly testosterone and DHT acting on facial follicles. Many men find their beard fills in through their twenties and beyond. Patience, and letting the beard grow longer so hairs cover patchy areas, does more for fullness than any kit.",
-        "Some kits include derma rollers, marketed for beard growth. Microneedling has some evidence on the scalp in combination with minoxidil, but evidence for the beard is limited, and rolling on facial skin carries a risk of irritation and infection if the device is not kept clean. We would not choose a kit for its roller.",
-        "The only beard growth option with any clinical trial evidence is topical minoxidil applied to the face. It is off-label, the evidence is limited, and it has trade-offs, including skin irritation, a twice-daily commitment and toxicity to cats. Talk to a doctor before trying it. Sudden round bald patches in a beard are a different issue, sometimes alopecia areata, and deserve a medical opinion.",
+        "Beard kits shine at making the beard you have look its best. Oils, balms and washes condition the hair and the skin, and that is exactly what makes a beard softer, healthier-looking and therefore fuller-looking. Kits that add biotin or other vitamins to an oil are designed to nourish and condition the beard as part of that routine, and they help the hair you are growing look its fullest.",
+        "Beard growth is driven by genetics and hormones, particularly testosterone and DHT acting on facial follicles. Many men find their beard fills in through their twenties and beyond. Patience, and letting the beard grow longer so hairs cover patchy areas, works hand in hand with a good kit to make a beard look full.",
+        "Some kits include derma rollers. Microneedling has some evidence on the scalp in combination with minoxidil, and if you use a roller on your face, keep it clean, use light pressure and give the skin time to recover between sessions to avoid irritation. Most people will get the most day-to-day value from a kit's oil, balm, wash and brush.",
+        "For men who want more than a styling routine, topical minoxidil applied to the face is the option with clinical trial evidence. It is off-label, so talk to a doctor first, and know that it can cause skin irritation, needs a twice-daily commitment and is toxic to cats. A beard kit pairs well with it to keep the hair and skin conditioned. Sudden round bald patches in a beard are a different issue, sometimes alopecia areata, and deserve a medical opinion.",
       ],
-      pullQuote: "none has been shown to make new facial hair grow",
+      pullQuote: "that is exactly what makes a beard softer, healthier-looking and therefore fuller-looking",
       keyPoint:
-        "Beard kits condition and style. For real growth, only off-label topical minoxidil has trial evidence, and it needs a doctor's input.",
+        "Beard kits condition and style, helping a beard look softer and fuller. For growth, off-label topical minoxidil is the option with trial evidence, best started with a doctor's input.",
     },
   ],
   comparisonTable: {
@@ -369,8 +369,8 @@ export const bestBeardGroomingKit: RoundupData = {
       body: "Fragrance and essential oils are common causes of contact dermatitis, and a beard holds products against the skin all day. If the recipient has sensitive skin, eczema or a history of reactions, choose an unscented kit or buy an unscented oil and tools separately.",
     },
     {
-      heading: "Expecting a Growth Kit to Grow a Beard",
-      body: "Kits sold as beard growth kits condition hair; they do not create new hair. Biotin-infused oils and derma rollers have little or no evidence for facial hair. Patience and a longer length help a patchy beard look fuller, and topical minoxidil is the only option with trial evidence, used off-label with a doctor's advice.",
+      heading: "Expecting Overnight Results",
+      body: "Kits sold as beard growth kits work by conditioning the hair and skin so the beard you have looks healthier and fuller. Give the routine a few weeks of daily use, let the beard grow a little longer to cover patchy areas, and if you want to go further, ask a doctor about off-label topical minoxidil, the option with trial evidence.",
     },
     {
       heading: "Ignoring Beard Type",
@@ -396,7 +396,7 @@ export const bestBeardGroomingKit: RoundupData = {
     },
     {
       q: "Do beard growth kits actually work?",
-      a: "Not for growth. Beard growth kits condition the hair and skin, which can make a beard look healthier and fuller, but no oil, balm or biotin product has been shown to grow new facial hair. The only option with clinical trial evidence is topical minoxidil, used off-label, which is best discussed with a doctor.",
+      a: "They work well for what they are designed to do: conditioning the hair and skin so a beard looks softer, healthier and fuller. Used daily alongside a little patience, a kit helps a beard look its best. If you want to go further, topical minoxidil, used off-label, is the option with clinical trial evidence and is best discussed with a doctor.",
     },
     {
       q: "Beard oil or beard balm: which is better?",
@@ -412,7 +412,7 @@ export const bestBeardGroomingKit: RoundupData = {
     },
   ],
   bottomLine:
-    "The Viking Revolution Ultimate Beard Kit is the best beard grooming kit for most people, with useful products and tools in a gift-ready box at a modest price. Choose Every Man Jack for the most complete gift set, the Philips Norelco Multigroom 5000 if a trimmer is part of the gift, Cremo for a full wash-and-care routine, or SheaMoisture for coarse or curly beards. Whatever you buy, match it to the beard, mind the fragrance for sensitive skin, and keep growth expectations honest.",
+    "The Viking Revolution Ultimate Beard Kit is the best beard grooming kit for most people, with useful products and tools in a gift-ready box at a modest price. Choose Every Man Jack for the most complete gift set, the Philips Norelco Multigroom 5000 if a trimmer is part of the gift, Cremo for a full wash-and-care routine, or SheaMoisture for coarse or curly beards. Whatever you buy, match it to the beard, mind the fragrance for sensitive skin, and enjoy a softer, fuller-looking beard.",
   relatedRoundups: [
     "best-beard-growth-oil",
     "best-beard-trimmer",

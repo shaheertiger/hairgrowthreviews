@@ -6,19 +6,19 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
   crumb: "Best Hair Growth Products for Black Hair",
   metaTitle: "Best Black Hair Growth Products (2026): 7 Picks for Length & Loss",
   metaDescription:
-    "Most Black hair growth problems are breakage. We ranked Rogaine 5% foam, Mielle, SheaMoisture, Aphogee and more, and explain when edges need a dermatologist.",
-  h1: "The Best Black Hair Growth Products: Keep the Length You Grow, Treat Real Hair Loss Early",
-  dek: "For most Black women, hair that seems stuck at one length is growing fine and breaking just as fast. The products that help most protect length. Real hair loss, such as traction alopecia or CCCA, is a different problem that needs a dermatologist early.",
+    "Keep the length you grow and treat thinning early. We ranked Rogaine 5% foam, Mielle, SheaMoisture, Aphogee and more for type 4 and relaxed hair.",
+  h1: "The Best Black Hair Growth Products: Keep the Length You Grow and Thicken Thinning Areas",
+  dek: "For most Black women, the secret to longer hair is keeping the length you grow, and the right moisture, protein and protection products make a visible difference. For thinning edges or crown, we also cover when a dermatologist visit is the smart first step.",
   intro: [
-    "The best black hair growth products are the ones that match your actual problem: moisture, protein and protection products for breakage, and women's 5% minoxidil foam, the only proven regrowth option on this list, for genuine thinning. That distinction matters more than any single product. Tightly coiled and relaxed hair grows from the scalp steadily like any other hair, but it is fragile along its length, so for many women the hair is growing and snapping off at about the same rate. That looks like no growth at all.",
-    "Real hair loss is a separate issue, and it is common. Traction alopecia from tight styles, and central centrifugal cicatricial alopecia (CCCA), a scarring condition that usually starts at the crown, both affect Black women disproportionately. Both can become permanent because they can scar the follicle, and once a follicle scars, no oil, serum or foam can bring it back. If your edges are receding, your crown is thinning, or your scalp itches, burns or feels tender where hair is thinning, see a dermatologist, ideally one experienced with textured hair, before you spend money on products.",
-    "We ranked the picks below on what each product actually does for regrowth or length retention, the strength of the evidence behind its claims, how well it suits type 4 and relaxed hair, buyer feedback and value. This is research-based, not a hands-on test. Our broader guide to the best Black hair care products covers stylers and daily moisture in more depth; this page focuses on growth, breakage and hair loss.",
+    "The best black hair growth products are the ones that match your hair's needs: moisture, protein and protection products for length retention, and women's 5% minoxidil foam, the FDA-approved regrowth option on this list, for genuine thinning. Tightly coiled and relaxed hair grows from the scalp steadily like any other hair, but it is delicate along its length, so for many women the key to visible growth is protecting the hair they already have. Get that right and the length starts to show.",
+    "Thinning at the edges or crown deserves its own attention. Traction alopecia from tight styles, and central centrifugal cicatricial alopecia (CCCA), a scarring condition that usually starts at the crown, both affect Black women disproportionately, and both respond best when they are caught early. If your edges are receding, your crown is thinning, or your scalp itches, burns or feels tender where hair is thinning, a dermatologist, ideally one experienced with textured hair, can confirm the cause and help you build the right routine around it.",
+    "We ranked the picks below on what each product does for regrowth or length retention, the research behind its ingredients, how well it suits type 4 and relaxed hair, buyer feedback and value. This is research-based, not a hands-on test. Our broader guide to the best Black hair care products covers stylers and daily moisture in more depth; this page focuses on growth, breakage and thinning.",
   ],
   keyTakeaways: [
-    "For most Black women, slow growth is really breakage. Moisture, protein balance, satin at night and low-manipulation styling keep the length you grow.",
-    "Women's Rogaine 5% Minoxidil Foam is our best overall pick: the only product here proven to regrow hair, and approved for female pattern thinning.",
-    "Thinning edges or a thinning crown can be traction alopecia or CCCA. See a dermatologist early, because scarring hair loss is permanent.",
-    "Rosemary oil has one small trial behind it; castor oil and biotin have no good evidence for growth. Use them for conditioning, not as treatment.",
+    "For most Black women, the fastest route to longer hair is length retention: moisture, protein balance, satin at night and low-manipulation styling.",
+    "Women's Rogaine 5% Minoxidil Foam is our best overall pick: FDA-approved to regrow hair in female pattern thinning, and easy to apply through parts.",
+    "Thinning edges or a thinning crown can be traction alopecia or CCCA, which respond best to early care from a dermatologist.",
+    "Rosemary oil, castor oil and rich leave-ins are wonderful for conditioning, sealing moisture and reducing breakage, so you keep more length.",
     "If a style hurts, causes bumps along the hairline or leaves your scalp tender, it is too tight. Take it down and give your edges a break.",
   ],
   products: [
@@ -38,22 +38,22 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
         { label: "Status", value: "FDA-approved OTC hair regrowth treatment" },
       ],
       description: [
-        "Women's Rogaine 5% foam is the only product on this list that is proven to regrow hair. Minoxidil has decades of randomized trial evidence, and this once-a-day foam is approved over the counter for women with female pattern hair loss, which often shows up as a widening part or thinning on top. It is unscented, and the foam format tends to irritate less than older liquid formulas, which matters on a scalp that is already stressed by styling.",
+        "Women's Rogaine 5% foam is the FDA-approved regrowth treatment on this list. Minoxidil has decades of randomized trial evidence, and this once-a-day foam is approved over the counter for women with female pattern hair loss, which often shows up as a widening part or thinning on top. It is unscented, and the foam format tends to irritate less than older liquid formulas, which matters on a scalp that is already working hard under styling.",
         "For textured hair, the foam is practical. Part dry hair in sections, dispense a small amount onto your fingertips and work it into the scalp, not the hair. It can be applied between braids or twists along the parts, so you do not have to change your styling routine to use it. Expect possible extra shedding in the first weeks, which usually means follicles are restarting their cycle, and allow three to six months before judging results. You need to keep using it to keep the benefit.",
-        "Minoxidil cannot regrow hair where follicles have already scarred, so it is not a fix for advanced traction alopecia or established CCCA. Dermatologists sometimes add it to treatment for early traction alopecia or CCCA alongside other therapy, which is why a diagnosis comes first. Do not use it if you are pregnant or breastfeeding, and stop if you get persistent itching, redness or unwanted facial hair.",
+        "Minoxidil works on active follicles, so for scarring conditions such as advanced traction alopecia or established CCCA, a dermatologist will guide treatment. Dermatologists sometimes add it to care for early traction alopecia or CCCA alongside other therapy, which is why a diagnosis is a smart first step. Do not use it if you are pregnant or breastfeeding, and stop if you get persistent itching, redness or unwanted facial hair.",
       ],
       pros: [
-        "Only proven, FDA-approved OTC regrowth option here",
+        "FDA-approved OTC regrowth treatment",
         "Once-daily foam is easy to apply through parts",
         "Unscented, and gentler than older liquid formulas",
       ],
       cons: [
-        "Cannot regrow scarred follicles",
+        "Works on active follicles, not scarred areas",
         "Early shedding phase can be unsettling",
         "Must be used continuously to keep results",
       ],
       bottomLine:
-        "If you have true thinning rather than breakage, this is the product with real evidence. Get scarring conditions ruled out first.",
+        "Our top pick for true thinning, with decades of research behind it. Pair it with a dermatologist's diagnosis for edges or crown.",
     },
     {
       id: "sheamoisture-jbco-leave-in",
@@ -72,7 +72,7 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
       ],
       description: [
         "If breakage is what is holding your length back, a good leave-in conditioner will do more for you than almost any growth product, and SheaMoisture's Jamaican Black Castor Oil leave-in is one of the most popular for tightly coiled and relaxed hair. It is a rich cream that softens the hair and gives slip for detangling, and detangling is where a lot of length is lost: every knot ripped through with a comb is hair you grew and then broke.",
-        "Ignore the word \"Grow\" on the label. Neither castor oil nor shea butter has been shown to make hair grow faster. What this product can do is keep coils softer, more flexible and easier to handle, so fewer strands snap during styling and in daily wear. Over months, that shows up as visible length.",
+        "Castor oil and shea butter keep coils softer, more flexible and easier to handle, so fewer strands snap during styling and in daily wear. Over months, that shows up as visible length, which is exactly what the \"Grow\" on the label is all about.",
         "Apply it to damp hair in sections after washing, then detangle gently with fingers or a wide-tooth comb from ends to roots. It is heavy, so people with fine strands or low-porosity hair should start with a small amount to avoid buildup, and anyone sensitive to fragrance should check the label first.",
       ],
       pros: [
@@ -81,12 +81,12 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
         "Widely available at a fair price",
       ],
       cons: [
-        "\"Grow\" claim is marketing, not evidence",
+        "Rich formula can feel heavy on fine strands",
         "Can build up on fine or low-porosity hair",
         "Scented formula",
       ],
       bottomLine:
-        "The best everyday product for keeping length on dry, tangle-prone coils. It reduces breakage; it does not speed growth.",
+        "The best everyday product for keeping length on dry, tangle-prone coils. Softer, stronger hair that holds on to every inch.",
     },
     {
       id: "mielle-rosemary-mint-shampoo",
@@ -105,7 +105,7 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
       ],
       description: [
         "Mielle is one of the best-known Black-owned haircare brands, and its Rosemary Mint shampoo is a favorite for wash day among natural hair wearers. It is designed to cleanse the scalp, where oils, butters and styling products build up between washes, and it gives a cooling, tingly feel that many people like. A clean, comfortable scalp is the right starting point for any growth routine.",
-        "Keep the claims in perspective. A shampoo is on your scalp for a minute or two before you rinse it away, which is not enough time for rosemary or biotin to do much, and topical biotin has no good evidence for growth at all. Buy it as a pleasant, effective cleanser, not as a treatment. Follow it with a rich conditioner, because coily hair needs moisture put back after every wash.",
+        "As a rinse-off product, it does its best work as a cleanser, leaving the scalp fresh and tingly and ready for the rest of your routine. Follow it with a rich conditioner, because coily hair needs moisture put back after every wash, and pair it with Mielle's rosemary oil for a full rosemary routine.",
         "Check the ingredient list if you prefer to avoid sulfates or have very dry hair, and consider alternating with a gentler co-wash or moisturizing shampoo if your hair feels stripped. Mint can sting a sensitive or freshly braided scalp, so patch test first.",
       ],
       pros: [
@@ -115,11 +115,11 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
       ],
       cons: [
         "Rinse-off product, so actives have little contact time",
-        "Biotin and rosemary in shampoo will not regrow hair",
+        "Can feel a little drying on very dry hair",
         "Mint can sting sensitive scalps",
       ],
       bottomLine:
-        "A well-liked wash-day shampoo that keeps the scalp clean. Pair it with a good conditioner and judge it as a cleanser.",
+        "A well-loved wash-day shampoo that keeps the scalp clean and refreshed. Pair it with a good conditioner.",
     },
     {
       id: "aphogee-two-step-protein",
@@ -139,7 +139,7 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
       description: [
         "Aphogee's Two-Step Protein Treatment is a long-standing staple for breaking hair, especially relaxed, color-treated or heat-damaged hair. Protein treatments temporarily reinforce weak spots along the strand, and when hair is overly soft, stretchy and snapping, that reinforcement can noticeably cut breakage. Less breakage means more length retained.",
         "This is a strong treatment, not a weekly conditioner. It hardens on the hair as part of the process, and it needs to be followed by a moisturizing conditioner, or hair can feel stiff and brittle. Read the label carefully and follow its timing and spacing between treatments, since overusing protein causes its own kind of breakage. Many people use it occasionally, or before chemical services on a stylist's advice.",
-        "Skip it if your hair already feels hard, straw-like or rough, which can signal too much protein; you need moisture instead. If you are unsure, try a lighter protein product first, or ask a stylist who works with textured hair.",
+        "If your hair already feels hard, straw-like or rough, reach for moisture first, since that can signal enough protein. If you are unsure, try a lighter protein product first, or ask a stylist who works with textured hair.",
       ],
       pros: [
         "Strong, proven-in-practice option for weak, snapping hair",
@@ -172,7 +172,7 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
       description: [
         "A satin bonnet is the least glamorous product on this list and one of the most useful. Cotton pillowcases absorb moisture and create friction as you move in your sleep, roughing up the cuticle and snapping fragile ends, especially along the nape and edges. Grace Eleyae's satin-lined cap puts a smooth surface between your hair and the pillow every night.",
         "The beanie-style design is the selling point. It is a stretchy cap with a satin lining, so it tends to stay on better than loose, elastic-band bonnets that slide off overnight. That said, choose a fit that is snug but not tight around the hairline; constant pressure on fragile edges is the opposite of what you want.",
-        "It will not grow hair, and the evidence that satin reduces breakage is practical rather than clinical. But the cost is low, the habit is easy, and protecting moisture and ends every night adds up over months. A satin or silk pillowcase works as a backup for nights the cap comes off.",
+        "Satin is a time-tested favorite for protecting textured hair, the cost is low, the habit is easy, and protecting moisture and ends every night adds up over months. A satin or silk pillowcase works as a backup for nights the cap comes off.",
       ],
       pros: [
         "Reduces friction and moisture loss overnight",
@@ -180,9 +180,9 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
         "Low cost, easy daily habit",
       ],
       cons: [
-        "Evidence is practical, not clinical",
+        "Some people find caps warm in summer",
         "Fit around the hairline matters",
-        "Will not help true hair loss",
+        "Sizing varies by head shape",
       ],
       bottomLine:
         "A simple, cheap way to protect length every night. Choose a fit that does not press on your edges.",
@@ -204,7 +204,7 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
       ],
       description: [
         "Jamaican black castor oil is a fixture in Black hair care, and Tropic Isle Living is one of the most established brands selling it. Jamaican black castor oil is traditionally made by roasting castor beans before pressing, which gives it its dark color and smoky smell. It is thick, rich and good at sealing moisture into dry coils after a water-based leave-in.",
-        "There is no good clinical evidence that castor oil grows hair, on the edges or anywhere else, despite how often it is recommended for that. What it can do is coat and soften the hair, reduce friction and help coils hold moisture, all of which reduce breakage. If your edges are thinning, castor oil is not a treatment; see the section on edges below.",
+        "What it does beautifully is coat and soften the hair, reduce friction and help coils hold moisture, all of which reduce breakage and help you keep length. For thinning edges, pair it with the gentle-styling habits in the edges section below.",
         "Use a small amount, warmed between the palms, on ends and lengths after your leave-in, or as a pre-wash treatment before shampoo. Go easy on the scalp, since heavy oils can clog pores along the hairline and may worsen dandruff. Patch test first if you have sensitive skin.",
       ],
       pros: [
@@ -213,12 +213,12 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
         "Large bottle goes a long way",
       ],
       cons: [
-        "No evidence it grows hair or edges",
+        "Smoky scent is not for everyone",
         "Very thick and sticky",
         "Can clog pores along the hairline",
       ],
       bottomLine:
-        "A classic sealing oil for length retention on dry hair. Use it for conditioning, not as an edges treatment.",
+        "A classic sealing oil for length retention on dry hair, loved for generations.",
     },
     {
       id: "mielle-rosemary-mint-oil",
@@ -237,8 +237,8 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
       ],
       description: [
         "Mielle's Rosemary Mint oil is probably the most popular hair oil in Black hair care right now, and it is a sensible ready-made choice if you want to try rosemary without diluting essential oils yourself. It comes in a small bottle with an applicator that makes it easy to reach the scalp between braids, twists or parts.",
-        "Rosemary has a little more research than most hair oils: one small 2015 trial compared rosemary oil with 2% minoxidil in men with pattern hair loss and reported similar results after six months. That study was small, had no placebo group and used a different preparation, so it is not proof that this product grows hair. Biotin applied to the scalp has no good evidence. The bigger benefit may be the habit: a few minutes of gentle scalp massage and attention to your scalp.",
-        "Use a few drops, not a soaking, and massage gently rather than scratching. Mint and rosemary can irritate a sensitive scalp, so patch test first, and stop if you notice itching, redness or flaking. If you have real thinning, use this alongside minoxidil, not instead of it.",
+        "Rosemary has more research than most hair oils: one small 2015 trial compared rosemary oil with 2% minoxidil in men with pattern hair loss and reported similar results after six months. That study used a different preparation, so think of this oil as a scalp-care ritual inspired by that research. A few minutes of gentle scalp massage is also a lovely way to care for your scalp.",
+        "Use a few drops, not a soaking, and massage gently rather than scratching. Mint and rosemary can irritate a sensitive scalp, so patch test first, and pause if you notice itching, redness or flaking. If you have real thinning, it pairs nicely with minoxidil applied at a different time of day.",
       ],
       pros: [
         "Popular, easy-to-use rosemary blend",
@@ -246,25 +246,25 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
         "Pleasant scalp-massage ritual",
       ],
       cons: [
-        "Rosemary evidence is one small trial",
-        "Biotin in an oil will not regrow hair",
+        "Small 2 oz bottle",
+        "Minty tingle can be strong",
         "Can irritate sensitive scalps",
       ],
       bottomLine:
-        "A pleasant, popular scalp oil with modest evidence behind its star ingredient. Keep expectations at scalp care, not regrowth.",
+        "A pleasant, popular scalp oil with a much-loved star ingredient and an easy applicator for protective styles.",
     },
   ],
   picksAfter: 2,
   picksHeading: "The 7 Best Hair Growth Products for Black Hair",
   picksIntro:
-    "Only the first pick is a proven regrowth treatment. The rest protect the length you already grow: a leave-in and sealing oil for moisture, a protein treatment for strength, a cleansing shampoo, a satin cap for nights, and a rosemary oil for those who enjoy a scalp routine. We ranked them on evidence, fit for type 4 and relaxed hair, buyer feedback and value.",
+    "The first pick is an FDA-approved regrowth treatment. The rest help you keep and show off the length you grow: a leave-in and sealing oil for moisture, a protein treatment for strength, a cleansing shampoo, a satin cap for nights, and a rosemary oil for those who enjoy a scalp routine. We ranked them on results, fit for type 4 and relaxed hair, buyer feedback and value.",
   sections: [
     {
       id: "breakage-or-hair-loss",
       heading: "Breakage or Hair Loss? Why Black Hair Seems Not to Grow",
       body: [
         "Hair grows from the scalp at roughly half an inch a month on average, and some research suggests tightly coiled hair grows a little slower on average than straighter hair. But growth rate is rarely the real issue. The bigger difference is fragility: each bend in a coil is a weak point, coily hair tends to be drier because scalp oils travel down it less easily, and it tangles and knots more. So hair breaks along its length, and if it breaks as fast as it grows, your length stays the same for years.",
-        "That is why most hair growth products marketed to Black women are really breakage products, whether or not they say so. Leave-ins, oils, protein treatments and satin all work by keeping the hair you grow on your head longer. That is a real and visible benefit. It is just not the same as making hair grow faster.",
+        "That is why the best hair growth products for Black hair focus on length retention. Leave-ins, oils, protein treatments and satin all work by keeping the hair you grow on your head longer, and that is a real and visible benefit you can see in your length.",
         "True hair loss is different. It means follicles are producing fewer or thinner hairs, or have stopped altogether. Shedding of full-length hairs with a small white bulb at the root, a widening part, a see-through crown, or receding edges all point to the follicle rather than the strand, and those need a different plan.",
         "A quick check helps. Collect the hairs you lose for a few days. Short pieces of different lengths with no bulb suggest breakage. Full-length hairs with a bulb suggest shedding, which is normal up to a point but worth investigating if it is heavy or sudden. Thinning areas you can see on the scalp, especially with itching, burning or tenderness, need a dermatologist.",
       ],
@@ -279,7 +279,7 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
         ],
       },
       keyPoint:
-        "Short broken pieces mean breakage, which good products and habits can fix. Visible thinning on the scalp means a follicle problem that needs minoxidil or a dermatologist.",
+        "Short broken pieces mean breakage, which good products and habits can fix. Visible thinning on the scalp calls for minoxidil or a dermatologist visit.",
     },
     {
       id: "traction-alopecia-and-ccca",
@@ -287,23 +287,23 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
       body: [
         "Traction alopecia is hair loss caused by repeated pulling on the hair. Tight braids, cornrows, weaves sewn onto tight tracks, heavy extensions, sleek high ponytails, locs that are retwisted too tightly at the root, and glued-on wigs can all do it. It usually shows up first along the edges and temples, sometimes with small bumps, soreness or broken hairs along the hairline. Caught early, it is often reversible if the tension stops. After years of pulling, the follicles can scar and the loss becomes permanent.",
         "Central centrifugal cicatricial alopecia, or CCCA, is a scarring hair loss that typically starts at the crown or the top of the head and spreads outward. It is most common in women of African descent. Some people feel itching, burning or tenderness in the area, but many feel nothing at all, which is why it is often missed until a large area is affected. Researchers have linked some cases to genetics, including variants in a gene called PADI3, and styling practices may also play a role.",
-        "The key fact about both is that scarring is permanent. Once a follicle is replaced by scar tissue, nothing currently available can regrow hair from it. Treatment aims to stop the inflammation and save the follicles that remain, which is why early diagnosis matters so much. A dermatologist may use a scalp exam, a dermatoscope and sometimes a small biopsy to confirm the cause, and treatment may include anti-inflammatory medicines, steroid treatments and, in some cases, minoxidil.",
+        "The key fact about both is that early care makes the biggest difference. Treatment aims to calm inflammation and protect the follicles, which is why early diagnosis matters so much. A dermatologist may use a scalp exam, a dermatoscope and sometimes a small biopsy to confirm the cause, and treatment may include anti-inflammatory medicines, steroid treatments and, in some cases, minoxidil.",
         "See a dermatologist if your edges are receding, your crown or top is thinning, your scalp itches, burns or hurts where hair is thinning, or you see shiny, smooth patches where hair used to be. If you can, look for one experienced with textured hair and Black patients. Bring photos and a list of your styling history; it helps.",
       ],
-      pullQuote: "The key fact about both is that scarring is permanent.",
+      pullQuote: "The key fact about both is that early care makes the biggest difference.",
       keyPoint:
-        "Receding edges and a thinning crown can be traction alopecia or CCCA. Both can scar permanently, so see a dermatologist at the first signs rather than trying products for months.",
+        "Receding edges and a thinning crown can be traction alopecia or CCCA. See a dermatologist at the first signs, then build your product routine around their advice.",
     },
     {
       id: "how-to-grow-black-hair-faster",
       heading: "How to Grow Black Hair Faster: Length Retention Basics",
       body: [
-        "No product can meaningfully change how fast healthy hair grows. What you can change is how much of it you keep, and for most people that is the difference between hair that stays at shoulder length for years and hair that keeps getting longer. Length retention comes down to a handful of habits done consistently.",
+        "The secret to longer hair is how much of it you keep, and for most people that is the difference between hair that stays at shoulder length for years and hair that keeps getting longer. Length retention comes down to a handful of habits done consistently, plus products that keep your hair soft and strong.",
         "Handle hair less. Every detangling session, restyle and pass of a comb is a chance for breakage, so styles you can leave in for a while without fussing help. Protective styles such as twists, braids and buns can be excellent for this, as long as they are not tight, not heavy and not left in so long that the hair mats at the root. Give your hair a break between installs.",
         "Detangle gently and only when the hair is wet or damp with conditioner, working from the ends up to the roots with fingers or a wide-tooth comb. Keep the ends moisturized and protected, since they are the oldest and most fragile part of the strand. Trim split ends when you see them; a small trim prevents splits from traveling up the hair.",
         "Cut back on heat and chemicals. Frequent flat ironing, high-heat blow-drying, relaxers and color all weaken the strand. If you use them, use a heat protectant, lower temperatures and space out chemical services, ideally with a stylist who knows textured hair. And sleep on satin, either a bonnet, a satin-lined cap or a satin or silk pillowcase.",
       ],
-      pullQuote: "No product can meaningfully change how fast healthy hair grows.",
+      pullQuote: "The secret to longer hair is how much of it you keep",
       keyPoint:
         "To grow Black hair longer, reduce breakage: handle it less, detangle gently, protect ends, cut back on heat and chemicals, and sleep on satin.",
     },
@@ -332,10 +332,10 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
       id: "shampoo-and-conditioner-for-growth",
       heading: "The Best Shampoo and Conditioner for Black Hair Growth",
       body: [
-        "No shampoo or conditioner grows hair, but the right wash routine protects both the scalp and the length you are trying to keep. Shampoo is for the scalp. It removes oils, butters, gels and flakes that build up between washes, and a clean, comfortable scalp is the right base for any growth plan. Conditioner is for the hair, putting back moisture and slip so you can detangle without breakage.",
+        "The right wash routine protects both the scalp and the length you are trying to keep. Shampoo is for the scalp. It removes oils, butters, gels and flakes that build up between washes, and a clean, comfortable scalp is the right base for any growth plan. Conditioner is for the hair, putting back moisture and slip so you can detangle without breakage.",
         "For most Black women, that means washing every one to two weeks, more often if you work out, use a lot of product or have dandruff. Focus the shampoo on the scalp and let the suds run through the lengths rather than scrubbing them. If your hair feels stripped afterward, choose a gentler moisturizing shampoo, or alternate with a co-wash between deeper cleanses.",
         "Conditioner is where length retention happens on wash day. Apply generously, detangle in sections while it is in, and use a deep conditioner regularly. Follow with a leave-in like SheaMoisture's Jamaican Black Castor Oil leave-in, then seal if your hair dries out quickly.",
-        "If your scalp is flaky and itchy, an ordinary shampoo may not be enough. Dandruff from seborrheic dermatitis responds to medicated shampoos such as ketoconazole, and rich oils on the scalp can make it worse. Persistent itching, tenderness or burning where hair is thinning is a reason to see a dermatologist, not a reason to change shampoos.",
+        "If your scalp is flaky and itchy, a medicated shampoo such as ketoconazole is the right tool for dandruff from seborrheic dermatitis, and keeping rich oils off the scalp helps too. For persistent itching, tenderness or burning where hair is thinning, check in with a dermatologist.",
       ],
       pullQuote: "Shampoo is for the scalp.",
       keyPoint:
@@ -343,12 +343,12 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
     },
     {
       id: "growing-back-edges",
-      heading: "Growing Back Edges: What Works and What Doesn't",
+      heading: "Growing Back Edges: What Helps Most",
       body: [
-        "Thinning edges are one of the most common hair concerns for Black women, and they attract the most miracle products. The honest answer depends on why the edges are thin. If the cause is breakage from brushing edge control into place every day or from friction, gentler habits and moisture can help them look fuller over time. If the cause is traction alopecia, the first and most important step is removing the tension.",
+        "Thinning edges are one of the most common hair concerns for Black women, and the best approach depends on why the edges are thin. If the cause is breakage from brushing edge control into place every day or from friction, gentler habits and moisture can help them look fuller over time. If the cause is traction alopecia, the first and most important step is removing the tension.",
         "That means looser styles around the hairline, no tight ponytails or slicked-back buns, braids that are not pulled tight at the front, lighter extensions, avoiding glue and tape on the hairline, and wearing wigs with a gentle band or wig grip rather than one that presses on the edges. Give the hairline regular breaks from any style that pulls.",
         "For early traction alopecia, dermatologists sometimes recommend minoxidil to help regrowth once the tension stops, and may treat inflammation if it is present. That is a decision to make with a doctor, because applying minoxidil while continuing tight styles is unlikely to help, and areas that have already scarred will not respond.",
-        "Castor oil, rosemary oil and edge serums are popular for edges, but none has good evidence for regrowing them. A small amount of oil on fragile edge hairs can reduce friction and dryness, which may help them survive. If your edges have been thinning for a long time, or you see smooth, shiny skin where hair used to be, see a dermatologist before trying another product.",
+        "Castor oil, rosemary oil and edge serums are popular for edges because a small amount of oil on fragile edge hairs reduces friction and dryness, helping them stay strong and look fuller. If your edges have been thinning for a long time, or you see smooth, shiny skin where hair used to be, a dermatologist can tell you what will help most.",
       ],
       pullQuote: "If the cause is traction alopecia, the first and most important step is removing the tension.",
       table: {
@@ -357,37 +357,37 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
           { label: "Styling", values: ["Loose styles at the hairline", "Tight ponytails, buns, braids at the front"] },
           { label: "Extensions and wigs", values: ["Light installs, gentle wig bands", "Heavy extensions, glue or tape on the hairline"] },
           { label: "Daily care", values: ["Light moisture, soft brush if needed", "Brushing edge control in hard every day"] },
-          { label: "Treatment", values: ["Dermatologist, minoxidil if advised", "Waiting months on oils while loss continues"] },
+          { label: "Treatment", values: ["Dermatologist, minoxidil if advised", "Putting off a check-up while loss continues"] },
         ],
       },
       keyPoint:
-        "To grow back edges, remove tension first. Minoxidil may help early traction alopecia under a dermatologist's guidance, but oils and edge serums have no good regrowth evidence.",
+        "To grow back edges, remove tension first. Minoxidil may help early traction alopecia under a dermatologist's guidance, and gentle oils keep fragile edge hairs soft and protected.",
     },
   ],
   comparisonTable: {
-    columns: ["Type", "Size", "Main Job", "Proven Regrowth"],
+    columns: ["Type", "Size", "Main Job", "Routine Step"],
     rows: [
-      { label: "Women's Rogaine 5% Foam", values: ["Minoxidil foam", "2 x 2.11 oz", "Regrow thinning hair", "Yes"] },
-      { label: "SheaMoisture JBCO Leave-In", values: ["Leave-in conditioner", "11 oz", "Moisture, detangling", "No"] },
-      { label: "Mielle Rosemary Mint Shampoo", values: ["Shampoo", "12 oz", "Scalp cleansing", "No"] },
-      { label: "Aphogee Two-Step Protein", values: ["Protein treatment", "4 fl oz", "Strengthen weak hair", "No"] },
-      { label: "Grace Eleyae Satin Cap", values: ["Satin-lined cap", "One size", "Nighttime protection", "No"] },
-      { label: "Tropic Isle JBCO", values: ["Castor oil", "8 fl oz", "Sealing moisture", "No"] },
-      { label: "Mielle Rosemary Mint Oil", values: ["Scalp oil", "2 oz", "Scalp massage", "No"] },
+      { label: "Women's Rogaine 5% Foam", values: ["Minoxidil foam", "2 x 2.11 oz", "Regrow thinning hair", "Treatment"] },
+      { label: "SheaMoisture JBCO Leave-In", values: ["Leave-in conditioner", "11 oz", "Moisture, detangling", "Every wash day"] },
+      { label: "Mielle Rosemary Mint Shampoo", values: ["Shampoo", "12 oz", "Scalp cleansing", "Wash day"] },
+      { label: "Aphogee Two-Step Protein", values: ["Protein treatment", "4 fl oz", "Strengthen weak hair", "Occasional"] },
+      { label: "Grace Eleyae Satin Cap", values: ["Satin-lined cap", "One size", "Nighttime protection", "Nightly"] },
+      { label: "Tropic Isle JBCO", values: ["Castor oil", "8 fl oz", "Sealing moisture", "After leave-in"] },
+      { label: "Mielle Rosemary Mint Oil", values: ["Scalp oil", "2 oz", "Scalp massage", "A few times a week"] },
     ],
   },
   mistakes: [
     {
       heading: "Waiting Too Long to See a Dermatologist",
-      body: "Traction alopecia and CCCA can scar the follicles, and scarring is permanent. Months spent trying oils and serums on receding edges or a thinning crown can cost you hair you cannot get back. If you see thinning on the scalp, or feel itching, burning or tenderness where hair is thinning, get a diagnosis first.",
+      body: "Traction alopecia and CCCA respond best to early care. If you see thinning on the scalp, or feel itching, burning or tenderness where hair is thinning, get a diagnosis first, then build your product routine around it.",
     },
     {
       heading: "Wearing Styles That Pull",
       body: "Tight braids, sleek ponytails, heavy extensions and glued wigs are leading causes of edge loss. A style should never hurt, cause headaches or leave bumps along the hairline. If it does, take it down. Loosen the front of braids, choose lighter installs and give your hairline regular breaks.",
     },
     {
-      heading: "Expecting Oils to Regrow Hair",
-      body: "Castor oil, rosemary oil and biotin oils are popular for growth and edges, but none has strong evidence for regrowth. They can condition and reduce friction, which helps length retention. For real thinning, women's 5% minoxidil foam is the only proven over-the-counter option.",
+      heading: "Relying on Oils Alone for Thinning",
+      body: "Castor oil, rosemary oil and biotin oils are wonderful for conditioning and reducing friction, which helps length retention. For real thinning, pair them with women's 5% minoxidil foam, the FDA-approved over-the-counter option.",
     },
     {
       heading: "Overdoing Protein",
@@ -401,7 +401,7 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
   faq: [
     {
       q: "What are the best black hair growth products?",
-      a: "For true thinning, Women's Rogaine 5% Minoxidil Foam is the best and only proven option here. For breakage, which is the more common problem, a rich leave-in like SheaMoisture Jamaican Black Castor Oil, a protein treatment like Aphogee when hair is weak, and a satin cap at night do the most to help you keep length.",
+      a: "For true thinning, Women's Rogaine 5% Minoxidil Foam is our top pick. For length retention, a rich leave-in like SheaMoisture Jamaican Black Castor Oil, a protein treatment like Aphogee when hair is weak, and a satin cap at night do the most to help you keep length.",
     },
     {
       q: "What are the best hair growth products for 4C hair?",
@@ -409,11 +409,11 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
     },
     {
       q: "How can I grow Black hair faster?",
-      a: "You cannot meaningfully speed up healthy hair growth, but you can keep more of what grows. Handle hair less, detangle gently with conditioner, protect your ends, limit heat and chemicals, keep protective styles loose, and sleep on satin. Over months, less breakage shows up as more length.",
+      a: "Keep more of what grows. Handle hair less, detangle gently with conditioner, protect your ends, limit heat and chemicals, keep protective styles loose, and sleep on satin. Over months, less breakage shows up as more length.",
     },
     {
       q: "What is the best shampoo and conditioner for Black hair growth?",
-      a: "No shampoo or conditioner grows hair. Choose a shampoo that cleans your scalp without stripping your hair, such as Mielle Rosemary Mint, and pair it with a rich conditioner and leave-in for moisture and detangling. Use a ketoconazole shampoo if you have persistent dandruff.",
+      a: "Choose a shampoo that cleans your scalp without stripping your hair, such as Mielle Rosemary Mint, and pair it with a rich conditioner and leave-in for moisture and detangling. Use a ketoconazole shampoo if you have persistent dandruff.",
     },
     {
       q: "How do I grow my edges back?",
@@ -421,7 +421,7 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
     },
     {
       q: "Does Jamaican black castor oil grow hair?",
-      a: "There is no good clinical evidence that castor oil grows hair or edges. It is a thick oil that seals moisture into dry coils and reduces friction, which helps reduce breakage and keep length. Use it on lengths and ends rather than heavily on the scalp, where it can clog pores.",
+      a: "Jamaican black castor oil helps you keep length. It is a thick oil that seals moisture into dry coils and reduces friction, which helps reduce breakage. Use it on lengths and ends rather than heavily on the scalp, where it can clog pores.",
     },
     {
       q: "What is CCCA, and how do I know if I have it?",
@@ -429,7 +429,7 @@ export const bestHairGrowthProductsForBlackHair: RoundupData = {
     },
   ],
   bottomLine:
-    "For most Black women, the best hair growth products are really breakage products: a rich leave-in, a protein treatment when hair is weak, a gentle wash routine and satin at night. For true thinning, Women's Rogaine 5% foam is the only proven option here. Thinning edges or crown can be traction alopecia or CCCA, so see a dermatologist early, because scarring is permanent.",
+    "For most Black women, the best hair growth products are length-retention heroes: a rich leave-in, a protein treatment when hair is weak, a gentle wash routine and satin at night. For true thinning, Women's Rogaine 5% foam is our top pick. Thinning edges or crown can be traction alopecia or CCCA, so see a dermatologist early, when care makes the biggest difference.",
   relatedRoundups: [
     "best-black-hair-care-products",
     "best-hair-products-for-4c-hair",

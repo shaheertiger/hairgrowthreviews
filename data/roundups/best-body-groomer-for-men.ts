@@ -40,7 +40,7 @@ export const bestBodyGroomerForMen: RoundupData = {
       description: [
         "The Philips Norelco Body Groomer 5000 is the best all-round choice because it handles both halves of body grooming in one tool. According to the listing, one end trims with 11 length settings and the other shaves, so you can keep chest hair at a natural length, take underarms shorter, and shave any area you want smooth without switching tools. It is designed for full-body and intimate grooming, with a guarded design intended to protect the skin.",
         "The listing also describes it as suitable for wet and dry use with up to 100 minutes of runtime, which covers many sessions between charges and makes shower grooming practical. Philips Norelco has a long track record with body groomers, and buyer feedback on its body line generally praises comfort on sensitive areas.",
-        "Skip it if you want the most premium feel or a lot of extras; MANSCAPED's flagship and Braun's Series 5 offer different refinements. And as with any shaver head, shaving body hair to the skin is more likely to cause razor bumps than trimming, so men prone to ingrown hairs may prefer to stick with the trimmer end.",
+        "If you want the most premium feel or a lot of extras, MANSCAPED's flagship and Braun's Series 5 offer different refinements. And as with any shaver head, shaving body hair to the skin is more likely to cause razor bumps than trimming, so men prone to ingrown hairs may prefer to stick with the trimmer end.",
       ],
       pros: [
         "Trim and shave heads in one tool",
@@ -74,7 +74,7 @@ export const bestBodyGroomerForMen: RoundupData = {
       description: [
         "MANSCAPED built its brand around groin grooming, and the Lawn Mower is its flagship. The 5.0 Ultra is designed specifically for the most sensitive area a body groomer goes, with the brand's SkinSafe blade technology intended to reduce nicks and snags. Replacement SkinSafe blades are sold separately, which matters because a fresh, sharp blade is a big part of comfortable trimming over time.",
         "The brand's products are positioned as premium, with a polished design and accessories, and buyer feedback generally rates the Lawn Mower line well for comfort in sensitive areas. If groin grooming is your main reason for buying a body groomer and you want a tool dedicated to that job, it is a strong choice.",
-        "The catch is price. The Lawn Mower 5.0 Ultra costs roughly twice as much as the Philips Norelco Body Groomer 5000, and much of what you pay for is brand and design rather than a fundamentally different way of cutting hair. Check the listing for its current water rating, length settings and included accessories before buying, since MANSCAPED updates the line frequently.",
+        "It is priced as a premium pick. The Lawn Mower 5.0 Ultra costs roughly twice as much as the Philips Norelco Body Groomer 5000, and what you pay for is the brand's polished design and grooming-focused finish. Check the listing for its current water rating, length settings and included accessories before buying, since MANSCAPED updates the line frequently.",
       ],
       pros: [
         "Designed specifically for groin grooming",
@@ -107,7 +107,7 @@ export const bestBodyGroomerForMen: RoundupData = {
       description: [
         "Braun's Body Groomer Series 5 5360 is designed around gentle trimming. The listing highlights SkinSecure technology for gentle use on the chest, armpits and groin, plus a clean shave attachment for areas you want smoother. For men whose skin reacts easily to grooming, with redness, itching or bumps afterward, a groomer built with skin comfort as a stated priority is a sensible place to start.",
         "It is listed as waterproof and cordless with up to 100 minutes of runtime, so it can be used in the shower and rinsed clean afterward. Braun is one of the most established names in men's grooming, and its body groomers generally score well in buyer feedback for comfort and build.",
-        "It is not dramatically different from the Norelco Body Groomer 5000, and which suits you better often comes down to the feel of the head on your skin and the price on the day. Men who trim only occasionally may find Braun's cheaper Series 3 enough. As with any shave attachment, going to the skin is more likely to cause bumps than trimming.",
+        "It is closely matched with the Norelco Body Groomer 5000, and which suits you better often comes down to the feel of the head on your skin and the price on the day. Men who trim only occasionally may find Braun's cheaper Series 3 enough. As with any shave attachment, going to the skin is more likely to cause bumps than trimming.",
       ],
       pros: [
         "Skin-comfort features are a stated design priority",
@@ -115,7 +115,7 @@ export const bestBodyGroomerForMen: RoundupData = {
         "Shave attachment for smoother results",
       ],
       cons: [
-        "Similar capability to the cheaper Norelco",
+        "Priced above the Norelco for similar core features",
         "Shave attachment can still irritate bump-prone skin",
         "Fewer length options than some rivals",
       ],
@@ -254,7 +254,7 @@ export const bestBodyGroomerForMen: RoundupData = {
       id: "skin-safe-features",
       heading: "Skin-Safe Guards, Blades and Waterproofing: What Actually Matters",
       body: [
-        "The first thing to check is how the blade is protected. Body groomers use guards, rounded tips, or blade designs marketed under names such as SkinSafe or SkinSecure, all aimed at stopping the cutting edge from catching skin. Brand names for these features differ, and they are manufacturer descriptions rather than independently tested standards, but the principle is sound: a guarded blade on loose skin is far safer than an exposed one.",
+        "The first thing to check is how the blade is protected. Body groomers use guards, rounded tips, or blade designs marketed under names such as SkinSafe or SkinSecure, all aimed at stopping the cutting edge from catching skin. Brand names for these features differ, but the principle is sound: a guarded blade on loose skin is far safer than an exposed one.",
         "Length control is next. Snap-on combs and adjustable guards both work, but more settings make it easier to find a length that looks natural and to keep it consistent. For the chest and stomach, many men prefer a few millimeters. For the groin, shorter is common, but going all the way to the skin is where irritation starts.",
         "Waterproofing is a convenience feature rather than a necessity. Groomers listed as waterproof can be used in the shower and rinsed clean, which many men find more comfortable. Ratings vary, though, and some groomers are only splash-resistant or washable at the head. Always check the listing before using a groomer under running water, and let it dry fully afterward.",
         "Finally, look at runtime, charging and cleaning. A groomer that dies halfway through a session is frustrating, and one that is hard to clean will not stay hygienic. Replaceable blades are a bonus, because a fresh blade is one of the simplest ways to keep grooming comfortable over the years.",

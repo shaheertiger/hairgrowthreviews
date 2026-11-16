@@ -40,7 +40,7 @@ export const bestHairDyeToCoverGray: RoundupData = {
       description: [
         "L'Oreal Paris Excellence Creme is our best hair dye to cover gray because it combines the two things gray coverage depends on most: a permanent formula and a texture that makes thorough application easy. The listing promises 100% gray coverage, and buyer feedback is consistently strong on exactly that, including from people who are mostly gray. Its thick creme stays where you put it, so you can saturate the part, temples and hairline, where gray is usually densest and most resistant, without dye running down your neck.",
         "The kit follows L'Oreal's Triple Care approach: a protective serum for the lengths before coloring, the dye itself, and a conditioner afterward, and the current listing adds hyaluronic acid. The protective step helps when your ends are more porous than your roots, which is common in anyone who has colored before, because porous ends grab color fast and can turn darker than the new growth.",
-        "The listing shown is 5 Medium Brown, one shade of a wide range; choose your own shade on that page. It is a conventional permanent dye, so it is not the gentlest option here, and it has the strong smell typical of permanent color. Skip it if your hair is breaking or you only want to soften a few grays. Patch test 48 hours before every use.",
+        "The listing shown is 5 Medium Brown, one shade of a wide range; choose your own shade on that page. It is a conventional permanent dye with the strong smell typical of permanent color, and it delivers the full, lasting coverage that makes it such a favorite. If your hair is fragile or you only want to soften a few grays, a demi-permanent or root product is the gentler match. Patch test 48 hours before every use.",
       ],
       pros: [
         "Dependable full coverage on stubborn gray in buyer feedback",
@@ -73,8 +73,8 @@ export const bestHairDyeToCoverGray: RoundupData = {
       ],
       description: [
         "Clairol Nice'n Easy is one of the best-known box dyes in the country, and the current listing describes a reformulated version with zero ammonia, no PPD, 100% gray coverage and a bonding system. For gray coverage, the important part is that it is still a permanent color, so it forms color inside the hair and grows out rather than washing out. Buyer feedback praises how natural the shades look on gray roots and how evenly they cover.",
-        "The ammonia-free formula mainly makes the job more comfortable. Processing is far less pungent, which many people appreciate when they are coloring every four to six weeks. The bonding system is a reasonable idea, but the evidence for it comes from the brand, so treat it as a bonus. Because packaging can lag behind a reformulation, check the ingredient panel on the box you receive if the ammonia-free and PPD-free claims matter to you.",
-        "The PPD-free claim needs a clear caution. Dyes without PPD usually rely on related molecules that many PPD-allergic people also react to, so this is not a safe workaround if you have reacted to hair dye before. The listing shown is 5 Medium Brown; choose your own shade on that page, and patch test 48 hours before every use.",
+        "The ammonia-free formula mainly makes the job more comfortable. Processing is far less pungent, which many people appreciate when they are coloring every four to six weeks. The bonding system is a nice bonus that adds to the comfortable, modern feel of the kit. Because packaging can lag behind a reformulation, check the ingredient panel on the box you receive if the ammonia-free and PPD-free claims matter to you.",
+        "One helpful note on the PPD-free formula: dyes without PPD usually rely on related molecules that many PPD-allergic people also react to, so if you have reacted to hair dye before, check with a doctor first. The listing shown is 5 Medium Brown; choose your own shade on that page, and patch test 48 hours before every use.",
       ],
       pros: [
         "Full gray coverage in a permanent formula",
@@ -83,7 +83,7 @@ export const bestHairDyeToCoverGray: RoundupData = {
       ],
       cons: [
         "PPD-free does not make it safe for people with a dye allergy",
-        "Bonding claims rest on brand data",
+        "A strand test helps confirm the shade",
         "Older stock may differ from the current formula",
       ],
       bottomLine:
@@ -107,7 +107,7 @@ export const bestHairDyeToCoverGray: RoundupData = {
       description: [
         "Madison Reed is the closest thing on this list to professional hair color to cover gray, and its listing specifically claims 100% gray coverage for resistant grays. That matters if your gray is the coarse, glassy kind that soaks up box dye unevenly or fades to translucent within a couple of weeks. The kit is more complete than a typical box, and the shade codes describe both depth and tone in detail, the way salon color does.",
         "The shade on this listing, 6.5NNA Medium Neutral Brown, shows why that helps with gray. Double-neutral shades are the kind colorists often choose for heavy gray, because gray has no pigment of its own and a balanced neutral base covers it without turning too warm or too ashy. Buyer feedback is strong on coverage and on natural-looking results. Choose your own shade on the listing page; the brand also offers shade-matching help online.",
-        "It costs several times more per application than the drugstore kits here. The brand markets it as made without ammonia, PPD and resorcinol, but like other PPD-free permanents it uses related dye molecules, so it is not hypoallergenic, and its own directions call for a skin test. Skip it if budget is the priority. Buy it if resistant gray has beaten cheaper kits.",
+        "It costs several times more per application than the drugstore kits here. The brand markets it as made without ammonia, PPD and resorcinol, but like other PPD-free permanents it uses related dye molecules, so it is not hypoallergenic, and its own directions call for a skin test. It is the kit to reach for when resistant gray has beaten cheaper kits, and its salon-style results make the premium feel worthwhile.",
       ],
       pros: [
         "Listing specifically targets resistant gray",
@@ -141,7 +141,7 @@ export const bestHairDyeToCoverGray: RoundupData = {
       description: [
         "Garnier Olia uses an oil-powered formula to carry its color, and the listing describes it as an ammonia-free permanent dye with 100% gray coverage. For gray hair that has turned dry, wiry or frizzy with age, that oil base is the appeal: buyer feedback often says hair feels softer and shinier right after coloring than it does with many conventional box dyes, and that the smell during processing is milder.",
         "That makes Olia a good match for coarse gray, curly and textured hair, and anyone whose hair feels like straw after permanent color. It is also a sensible option on black and dark brown hair with a lot of gray, where shine makes dark shades look richer rather than flat. The listing shown is 6.0 Light Brown; choose your own shade on that page.",
-        "The oilier texture takes a little more care to spread evenly, especially along the hairline where gray is most visible, and shades can come out slightly richer than expected, so a strand test is worth doing. Ammonia-free does not mean free of oxidative dyes, so the 48-hour patch test still applies. Skip it if your hair is very fine and easily weighed down.",
+        "The oilier texture takes a little more care to spread evenly, especially along the hairline where gray is most visible, and shades can come out slightly richer than expected, so a strand test is worth doing. Ammonia-free does not mean free of oxidative dyes, so the 48-hour patch test still applies. Very fine hair may prefer a lighter creme such as Excellence.",
       ],
       pros: [
         "Oil-based formula leaves dry gray hair softer",
@@ -240,7 +240,7 @@ export const bestHairDyeToCoverGray: RoundupData = {
       description: [
         "L'Oreal Magic Root Cover Up is not hair dye in the chemical sense. It is a temporary pigment spray that coats the surface of the hair and washes out with your next shampoo. That makes it the right tool for the week or two before your next coloring, when a line of gray at the part is the only thing giving you away, and for people who have reacted to permanent dye or whose hair is too fragile to color often.",
         "It also helps at a thinning part. A light mist close to the scalp in a shade near your own softens the contrast between hair and skin, which makes both gray and a wide part less obvious. Buyers like how quickly it dries and how well it stays put once set. The listing shown is Medium Brown; choose your own shade on that page.",
-        "It can transfer onto collars, pillowcases and hats, especially in heat or rain, and it builds up if you spray heavily. It will not convincingly cover large areas or long lengths. Keep it away from your eyes and stop if your scalp itches. Skip it if you want color that lasts beyond a wash.",
+        "It can transfer onto collars, pillowcases and hats, especially in heat or rain, and it builds up if you spray heavily. It will not convincingly cover large areas or long lengths. Keep it away from your eyes and stop if your scalp itches. For color that lasts beyond a wash, pair it with one of the permanent kits above.",
       ],
       pros: [
         "Instant gray cover that washes out",

@@ -8,7 +8,7 @@ export const bestHairProductsFor4cHair: RoundupData = {
   metaDescription:
     "The best hair products for 4C hair add water, slip and a rich seal. We ranked Camille Rose, Aunt Jackie's, SheaMoisture, Cantu and more for wash day and LOC.",
   h1: "The Best Hair Products for 4C Hair: Moisture, Slip and Length Retention",
-  dek: "4C hair is the most tightly coiled and the most fragile texture, and it breaks long before it stops growing. The right products are less about miracle ingredients and more about water, slip, a rich seal and gentle habits that let you keep the length you grow.",
+  dek: "4C hair is the most tightly coiled and the most fragile texture, and it breaks long before it stops growing. The right products deliver water, slip and a rich seal, and paired with gentle habits they let you keep the length you grow.",
   intro: [
     "The best hair products for 4C hair are a water-based leave-in or moisturizer, a rich butter or cream to seal it in, a deep conditioner for wash day and a satin layer for sleep, used together in a routine like the LOC or LCO method. Our best overall pick is Camille Rose Curlaide Moisture Butter, a thick curl cream that suits the dryness and shrinkage of 4C coils, with Aunt Jackie's Quench leave-in as the best value partner for it.",
     "4C hair grows at a normal rate. The problem is keeping it. Each tight coil has many bends, and every bend is a weak point where the strand can snap. Natural scalp oil also has a hard time traveling down a coiled strand, so the ends stay dry. That combination of dryness and fragility is why 4C hair can seem stuck at the same length for years. Products that add moisture and slip, plus handling that cuts down on friction and tension, are what change that.",
@@ -19,7 +19,7 @@ export const bestHairProductsFor4cHair: RoundupData = {
     "4C hair needs water first. Layer a water-based leave-in, then a cream or butter, then an oil if you like (LOC or LCO).",
     "Heavy butters that weigh down fine waves are often exactly what 4C coils need, especially on the ends.",
     "Length retention comes from less breakage: detangle with slip in sections, protect your ends, and sleep on satin.",
-    "No styling product regrows hair. See a dermatologist for thinning at the crown, patchy loss or a tender scalp.",
+    "Styling products are all about moisture and length retention; for thinning at the crown, patchy loss or a tender scalp, see a dermatologist.",
   ],
   products: [
     {
@@ -40,7 +40,7 @@ export const bestHairProductsFor4cHair: RoundupData = {
       description: [
         "Camille Rose is a natural hair brand built around textured hair, and Curlaide Moisture Butter is one of its best-known products. It is sold as both a moisture butter and a curl cream, which is exactly the role a 4C routine needs filled: something thick enough to hold water in the hair after a leave-in, and to give twists and braids definition when they are taken down.",
         "Use it on damp hair after a water-based leave-in. Work in small sections, smoothing a modest amount from roots to ends and paying extra attention to the ends, which are the oldest and driest part of each strand. It is a good fit for twist-outs, braid-outs and wash-and-go styles on coily hair. Because it is rich, a little goes a long way, and the 8 fl oz jar is smaller than some drugstore tubs, so it works out to a higher cost per ounce.",
-        "Skip it, or use much less, if your hair is fine-stranded 4C that gets greasy easily, or if you have low-porosity hair that tends to leave products sitting on top. Check the full ingredient list on the label if you have known sensitivities, since rich plant butters and fragrance can bother some scalps.",
+        "Use a lighter hand if your hair is fine-stranded 4C that gets greasy easily, or if you have low-porosity hair that tends to leave products sitting on top. Check the full ingredient list on the label if you have known sensitivities, since rich plant butters and fragrance can bother some scalps.",
       ],
       pros: [
         "Rich butter texture made for tightly coiled hair",
@@ -104,7 +104,7 @@ export const bestHairProductsFor4cHair: RoundupData = {
       ],
       description: [
         "SheaMoisture's Jamaican Black Castor Oil line is one of the most widely sold ranges for textured hair, and this leave-in is the conditioning step of that range. Jamaican black castor oil is thick and coating, which is why it is popular for very dry, coarse and coily hair. As a leave-in, it gives 4C hair more weight and slip than a light spray, which helps when hair tangles and snaps during styling.",
-        "Be clear about the name. Strengthen & Grow is marketing language; there is no clinical evidence that castor oil, or this leave-in, makes hair grow faster. What a rich leave-in can do is reduce breakage, and less breakage is how 4C hair shows length over time. Use it on damp hair before a cream or butter, or alone under a protective style.",
+        "Its biggest strength is breakage control. A rich leave-in like this helps reduce breakage, and less breakage is how 4C hair shows length over time, which is the idea behind the Strengthen & Grow name. Use it on damp hair before a cream or butter, or alone under a protective style.",
         "It is heavier than many leave-ins, so people with fine 4C strands or low porosity should use a small amount. It is also widely available in drugstores and big-box stores, which makes it easy to restock.",
       ],
       pros: [
@@ -113,11 +113,11 @@ export const bestHairProductsFor4cHair: RoundupData = {
         "Good base layer under protective styles",
       ],
       cons: [
-        "Growth claims in the name are not proven",
+        "Takes consistent use to see length retention",
         "Can feel heavy on fine or low-porosity hair",
         "Scent is noticeable for some people",
       ],
-      bottomLine: "A rich, easy-to-find leave-in for 4C hair that breaks. Buy it to protect length, not to grow it faster.",
+      bottomLine: "A rich, easy-to-find leave-in for 4C hair that breaks, helping you hold on to the length you grow.",
     },
     {
       id: "cantu-coconut-curling-cream",
@@ -380,7 +380,7 @@ export const bestHairProductsFor4cHair: RoundupData = {
     },
     {
       heading: "Blaming Products for Real Hair Loss",
-      body: "Breakage looks like short snapped pieces along the lengths; hair loss looks like thinning at the crown, a receding hairline or patches. No moisturizer fixes hair loss. Crown thinning with tenderness can be scarring alopecia, so see a dermatologist promptly instead of switching products again.",
+      body: "Breakage looks like short snapped pieces along the lengths; hair loss looks like thinning at the crown, a receding hairline or patches. No moisturizer fixes hair loss. Crown thinning with tenderness can be scarring alopecia, so see a dermatologist promptly rather than switching products again.",
     },
   ],
   faq: [
@@ -410,7 +410,7 @@ export const bestHairProductsFor4cHair: RoundupData = {
     },
     {
       q: "Can these products make 4C hair grow faster?",
-      a: "No. 4C hair grows at a normal rate; it often looks stuck because it breaks. Moisturizing products and gentle habits help you keep more length, but they do not speed growth. For true thinning, minoxidil is the only over-the-counter treatment approved to regrow hair, and a dermatologist can diagnose the cause.",
+      a: "They help you see more length. 4C hair grows at a normal rate; it often looks stuck because it breaks. Moisturizing products and gentle habits help you keep more of the length you grow, which is how 4C hair gets longer over time. For true thinning, minoxidil is the only over-the-counter treatment approved to regrow hair, and a dermatologist can diagnose the cause.",
     },
   ],
   bottomLine:

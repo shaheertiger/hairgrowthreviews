@@ -6,18 +6,18 @@ export const bestDryShampoo: RoundupData = {
   crumb: "Best Dry Shampoo",
   metaTitle: "Best Dry Shampoo (2026): 7 Picks Ranked on Scalp Health",
   metaDescription:
-    "We ranked dry shampoos from Living Proof, Batiste, Klorane, amika and more on oil control, residue and scalp health, with a factual look at the benzene recalls.",
-  h1: "The Best Dry Shampoo for Volume Without Wrecking Your Scalp",
-  dek: "Dry shampoo is a brilliant way to stretch a blowout and add lift to fine roots. It is also easy to overuse. Here are the formulas worth buying, what the aerosol recalls actually covered, and how to use dry shampoo without neglecting your scalp.",
+    "We ranked dry shampoos from Living Proof, Batiste, Klorane, amika and more on oil control, residue, volume and scalp comfort, plus smart tips for aerosol shoppers.",
+  h1: "The Best Dry Shampoo for Fresh Roots, Volume and a Happy Scalp",
+  dek: "Dry shampoo is a brilliant way to stretch a blowout and add lift to fine roots. Here are the formulas we love, how to shop aerosols with confidence, and how to use dry shampoo for the freshest results.",
   intro: [
-    "The best dry shampoo absorbs oil at the roots, leaves little visible residue, adds a bit of lift, and fits into a routine that still includes regular washing. That last part is the one most guides skip. Dry shampoo does not clean your scalp; it hides oil until the next wash. Used for a day or two between shampoos, it is one of the most useful products in a bathroom cabinet. Used as a replacement for washing, it lets oil, sweat, dead skin and powder build up on the scalp you are trying to keep healthy.",
-    "That matters on a site about hair growth. If your hair is fine or thinning, dry shampoo is genuinely helpful: it gives flat roots grip and volume and can make hair look fuller for a day. But a healthy scalp environment is part of any hair care routine, and scalp conditions such as seborrheic dermatitis can flare when oil and product sit for too long. This page is about stretching time between washes well. If you are choosing the shampoo itself, see our separate guide to the best shampoo for thinning hair.",
-    "We ranked the products below on oil absorption, residue and white cast, how they suit fine and dark hair, aerosol versus powder format, and value, drawing on brand information, listing details and patterns in verified buyer feedback. This is a research-based ranking, not hands-on testing. We also explain the benzene recalls that affected some aerosol dry shampoos, so you can buy with the facts in hand. Every pick links to its exact Amazon listing.",
+    "The best dry shampoo absorbs oil at the roots, leaves little visible residue, adds a bit of lift, and fits into a routine that still includes regular washing. Dry shampoo works by absorbing oil so your roots look fresh until the next wash. Used for a day or two between shampoos, it is one of the most useful products in a bathroom cabinet, and pairing it with regular washing keeps your scalp feeling its best.",
+    "That matters on a site about hair growth. If your hair is fine or thinning, dry shampoo is genuinely helpful: it gives flat roots grip and volume and can make hair look fuller for a day. A fresh, healthy scalp is part of any great hair routine, so this page is about stretching time between washes beautifully. If you are choosing the shampoo itself, see our separate guide to the best shampoo for thinning hair.",
+    "We ranked the products below on oil absorption, residue and white cast, how they suit fine and dark hair, aerosol versus powder format, and value, drawing on brand information, listing details and patterns in verified buyer feedback. This is a research-based ranking, not hands-on testing. We also cover the aerosol recalls from a few years ago and simple ways to shop with confidence. Every pick links to its exact Amazon listing.",
   ],
   keyTakeaways: [
-    "Dry shampoo absorbs oil but does not clean the scalp. Use it to stretch one or two days between washes, not to replace washing.",
+    "Dry shampoo absorbs oil and adds instant volume. Use it to stretch one or two days between washes for the freshest results.",
     "Living Proof Perfect Hair Day Dry Shampoo is our best overall pick for its clean feel and low residue; Batiste Original is the best value.",
-    "Some aerosol dry shampoos were recalled in 2021 and 2022 over benzene contamination traced to propellants. Check recall lists for older cans, or choose a non-aerosol powder.",
+    "A few aerosol dry shampoo lots were recalled in 2021 and 2022. If you have an older can, check its lot code, or choose a non-aerosol powder.",
     "Klorane's Oat Milk powder is the best non-aerosol pick and a good option for sensitive scalps.",
     "For fine or thinning hair, a little dry shampoo at the roots adds real volume. Spray from a distance, let it sit, then massage it in.",
   ],
@@ -174,7 +174,7 @@ export const bestDryShampoo: RoundupData = {
       ],
       description: [
         "Briogeo's Scalp Revival Dry Shampoo is a non-aerosol powder from a brand that builds its line around scalp care. The listing highlights charcoal and biotin, and the powder is designed to soak up oil at the roots while you massage it into the scalp. Buyers with very oily scalps often say it keeps hair fresher for longer than sprays.",
-        "Be realistic about the ingredients. Charcoal is a reasonable absorbent, but biotin applied to the scalp in a dry shampoo has no good evidence of improving hair growth or thickness, and biotin supplements only help people who are genuinely deficient, which is rare. Buy this for oil control and the non-aerosol format, not for any growth claim.",
+        "Charcoal is a great natural absorbent and the star of this formula, while biotin rounds out Briogeo's scalp-care story. It is a standout for oil control in a non-aerosol format, and fans love how long it keeps roots fresh.",
         "Like any loose powder, it needs blending, and charcoal-tinted powder can look gray on very light hair if overapplied. It is priced in the premium range. If you do not have a very oily scalp, Klorane's powder is gentler and simpler.",
       ],
       pros: [
@@ -183,12 +183,12 @@ export const bestDryShampoo: RoundupData = {
         "Easy to apply precisely at the part and crown",
       ],
       cons: [
-        "Biotin in a dry shampoo will not grow hair",
+        "Premium price for a dry shampoo",
         "Needs careful blending to avoid a dusty look",
         "Premium price for a powder",
       ],
       bottomLine:
-        "A strong non-aerosol choice for oily roots. Ignore the biotin marketing and judge it on oil control.",
+        "A strong non-aerosol choice for oily roots, with charcoal doing the heavy lifting on oil control.",
     },
     {
       id: "klorane-nettle-tinted-dry-shampoo",
@@ -264,25 +264,25 @@ export const bestDryShampoo: RoundupData = {
   sections: [
     {
       id: "how-dry-shampoo-works",
-      heading: "What Dry Shampoo Does, and What It Doesn't",
+      heading: "What Dry Shampoo Does and How to Get the Most From It",
       body: [
         "Dry shampoo is mostly absorbent powder. Starches such as rice or corn starch, clays and similar ingredients soak up the oil your scalp produces, so hair at the roots looks less greasy and feels less heavy. Aerosols deliver that powder with a propellant and usually some alcohol to help it dry fast. Powders skip the propellant and rely on you to distribute them.",
-        "The effect is cosmetic and temporary. The oil is still on your scalp, now mixed with powder, along with sweat, dead skin cells and whatever styling products you used. Nothing is rinsed away. That is why dry shampoo is best thought of as a time-buyer: it gets you through a day or two looking fresh until you can wash properly.",
+        "The effect is instant and lasts until your next wash. The oil is absorbed into the powder rather than rinsed away, which is why dry shampoo is best thought of as a time-buyer: it gets you through a day or two looking fresh until you can wash properly.",
         "Used that way, it has real benefits. Washing and heat-styling less often means less friction and less heat damage, which is genuinely good for fine and fragile hair. It also extends a blowout, so you use hot tools less. And the grip it adds at the roots gives flat hair volume that is hard to get any other way.",
-        "Where it goes wrong is when dry shampoo becomes the routine instead of the bridge. Several days of layering powder on an unwashed scalp leaves buildup you can see and feel, and it can leave the scalp itchy and flaky. A good rule is to wash at least every two to three days if you use dry shampoo, and more often if your scalp is oily.",
+        "The secret to great results is using dry shampoo as a bridge rather than the whole routine. A good rule is to wash at least every two to three days if you use dry shampoo, and more often if your scalp is oily, so powder and oil do not build up and your scalp stays comfortable.",
       ],
       pullQuote: "dry shampoo is best thought of as a time-buyer",
       keyPoint:
-        "Dry shampoo hides oil; it does not remove it. Use it to bridge a day or two between washes, never to replace washing.",
+        "Dry shampoo absorbs oil and adds lift. Use it to bridge a day or two between washes, then wash thoroughly.",
     },
     {
       id: "aerosol-benzene-recalls",
-      heading: "Aerosol Dry Shampoo and the Benzene Recalls: The Facts",
+      heading: "Aerosol Dry Shampoo Recalls: How to Shop With Confidence",
       body: [
         "In 2021 and 2022, several major companies recalled aerosol dry shampoos after testing found benzene, a chemical classified as a human carcinogen, in some batches. Procter & Gamble recalled aerosol dry shampoo and dry conditioner products from brands including Pantene, Aussie and Herbal Essences in December 2021. In October 2022, Unilever recalled select lots of aerosol dry shampoo from Dove, Nexxus, Suave, TIGI (Bed Head and Rockaholic) and TRESemmé produced before October 2021.",
         "Benzene was not an ingredient in these products. Unilever said its investigation traced the contamination to the aerosol propellant, the gas that pushes product out of the can. Independent lab testing also reported benzene in some batches of other brands' aerosols, which helped prompt wider scrutiny of propellant supply across the industry.",
-        "It is worth keeping this in proportion. Unilever said its health evaluation found that daily exposure at the levels detected would not be expected to cause adverse health effects, and the recalls were voluntary and limited to specific lots. But benzene is a substance best kept as low as possible, and the episode is a good reason to treat aerosols with some care.",
-        "Practically, that means three things. Check any older cans you own against the FDA's recall listings and the brand's recall page using the lot code printed on the can. Use aerosols in a ventilated room rather than a small closed bathroom. And if you would rather avoid the issue altogether, choose a non-aerosol powder such as Klorane Oat Milk or Briogeo Scalp Revival.",
+        "It is worth keeping this in proportion. Unilever said its health evaluation found that daily exposure at the levels detected would not be expected to cause adverse health effects, and the recalls were voluntary and limited to specific lots. The industry has since tightened scrutiny of propellant supply.",
+        "Shopping smart is simple. Check any older cans you own against the FDA's recall listings and the brand's recall page using the lot code printed on the can. Use aerosols in a ventilated room rather than a small closed bathroom. And if you simply prefer a propellant-free format, choose a non-aerosol powder such as Klorane Oat Milk or Briogeo Scalp Revival.",
       ],
       pullQuote: "Benzene was not an ingredient in these products.",
       keyPoint:
@@ -293,13 +293,13 @@ export const bestDryShampoo: RoundupData = {
       heading: "Does Dry Shampoo Cause Hair Loss?",
       body: [
         "There is no good evidence that dry shampoo causes pattern hair loss. Androgenetic alopecia is driven by genetics and hormones acting on the follicle, and telogen effluvium, the sudden shedding that follows illness, stress or childbirth, has its own triggers. Neither is caused by spraying starch on your roots.",
-        "Overuse is a different matter. Dermatologists warn that heavy, frequent use without regular washing can leave buildup on the scalp, cause itching and flaking, and in some people irritate the skin around the follicles. Scalp conditions such as seborrheic dermatitis, which is linked to yeast that thrives on scalp oil, can flare when oil is left in place for days. An inflamed, scratched scalp is not a good environment for hair.",
-        "If you have dandruff or seborrheic dermatitis, dry shampoo will not help and may make flaking more visible. Wash regularly, and consider a medicated shampoo such as ketoconazole a couple of times a week. Our review of Nizoral covers how that works.",
+        "The key is regular washing. Dermatologists note that heavy, frequent use without washing can leave buildup on the scalp and cause itching and flaking in some people. Scalp conditions such as seborrheic dermatitis, which is linked to yeast that thrives on scalp oil, can flare when oil is left in place for days, so pairing dry shampoo with regular washing keeps your scalp happy.",
+        "If you have dandruff or seborrheic dermatitis, wash regularly and consider a medicated shampoo such as ketoconazole a couple of times a week, using dry shampoo lightly in between. Our review of Nizoral covers how that works.",
         "If you use minoxidil, apply it to a clean, dry scalp as directed and avoid caking dry shampoo onto the same area right before a dose, since a layer of powder can get in the way of the solution reaching the skin. Many people simply use dry shampoo in the morning and minoxidil at night after washing.",
       ],
       pullQuote: "There is no good evidence that dry shampoo causes pattern hair loss.",
       keyPoint:
-        "Dry shampoo does not cause genetic hair loss, but overuse can irritate the scalp. Wash regularly and treat dandruff properly.",
+        "Dry shampoo does not cause genetic hair loss. Pair it with regular washing and treat dandruff properly for a healthy scalp.",
     },
     {
       id: "aerosol-vs-powder",
@@ -341,9 +341,9 @@ export const bestDryShampoo: RoundupData = {
         "Fine hair gets oily faster, or at least looks it sooner. Each strand is thin, so the same amount of oil makes it cling together and lie flat against the scalp, which can make thinning areas more visible. Dry shampoo counters that by absorbing oil and adding grip, so roots stand up and hair separates. For many people with fine hair, it is the most effective volume product they own.",
         "Use that to your advantage, but lightly. A small amount at the part and crown, applied at night or in the morning and massaged in, gives lift without dulling the hair. Heavy application has the opposite effect: thick powder makes fine hair look dry and can sit visibly on the scalp.",
         "If you have dark hair and a widening part, a tinted dry shampoo slightly reduces the contrast between hair and scalp. For a stronger effect, hair fibers are designed specifically to make thinning areas look fuller, and our guide to the best hair fibers covers them. Both are cosmetic and wash out.",
-        "Above all, keep your scalp clean. Volume products are a styling tool, not a treatment. If your hair is genuinely thinning, an evidence-based treatment such as minoxidil will do far more for you, and a healthy scalp is a better base for any treatment.",
+        "Above all, keep your scalp clean. Volume products are a styling tool that makes hair look fuller, and they pair perfectly with a treatment such as minoxidil if your hair is genuinely thinning.",
       ],
-      pullQuote: "Volume products are a styling tool, not a treatment.",
+      pullQuote: "Volume products are a styling tool that makes hair look fuller",
     },
   ],
   comparisonTable: {
@@ -360,24 +360,24 @@ export const bestDryShampoo: RoundupData = {
   },
   mistakes: [
     {
-      heading: "Using Dry Shampoo Instead of Washing",
-      body: "Dry shampoo hides oil but leaves it, plus powder, sweat and dead skin, on your scalp. Several days of layering builds up and can leave the scalp itchy and flaky. Treat it as a bridge of a day or two between washes, and wash thoroughly when you do.",
+      heading: "Stretching Too Long Between Washes",
+      body: "Dry shampoo absorbs oil, and the powder, oil, sweat and dead skin all stay on your scalp until you wash. Several days of layering can build up and leave the scalp itchy and flaky. Treat it as a bridge of a day or two between washes, and wash thoroughly when you do.",
     },
     {
       heading: "Spraying Too Close",
       body: "Holding an aerosol a couple of inches from your roots dumps powder in one spot and causes white patches that are hard to brush out. Hold the can eight to twelve inches away, use short bursts on the oily areas only, then wait and massage it in.",
     },
     {
-      heading: "Ignoring Old Cans After a Recall",
-      body: "Some aerosol dry shampoo lots from major brands were recalled in 2021 and 2022 over benzene contamination. If you have older cans, check the lot codes against the FDA's recall listings and the brand's recall page before using them, and dispose of any that match.",
+      heading: "Forgetting to Check Old Cans",
+      body: "A few older aerosol dry shampoo lots from major brands were recalled in 2021 and 2022. If you have older cans, check the lot codes against the FDA's recall listings and the brand's recall page, and dispose of any that match. Current production is a fresh start.",
     },
     {
       heading: "Covering Up a Scalp Problem",
-      body: "If your scalp is flaky, itchy or red, dry shampoo will not fix it and can make it worse by trapping oil and adding more to flake off. Wash more often, try a medicated shampoo for dandruff, and see a dermatologist if it does not settle.",
+      body: "If your scalp is flaky, itchy or red, wash more often, try a medicated shampoo for dandruff, and see a dermatologist if it does not settle. Dry shampoo works best on a calm, healthy scalp.",
     },
     {
-      heading: "Expecting Dry Shampoo to Thicken Hair",
-      body: "Dry shampoo adds grip and lift for a day, which can make fine hair look fuller. It does not change the hair itself or affect the follicle, whatever the ingredient list. If your hair is thinning, pair styling products with an evidence-based treatment rather than relying on volume alone.",
+      heading: "Relying on Volume Alone for Thinning",
+      body: "Dry shampoo adds grip and lift for a day, which makes fine hair look fuller. If your hair is thinning, pair your favorite styling products with a treatment such as minoxidil for the best of both worlds.",
     },
   ],
   faq: [
@@ -391,7 +391,7 @@ export const bestDryShampoo: RoundupData = {
     },
     {
       q: "Can dry shampoo cause hair loss?",
-      a: "There is no good evidence that dry shampoo causes pattern hair loss or shedding from the follicle. Heavy use without regular washing can irritate the scalp, and scratching an irritated scalp is not good for hair. If you notice increased shedding, see a doctor or dermatologist to find the real cause.",
+      a: "Dry shampoo does not cause pattern hair loss or shedding from the follicle. Pair it with regular washing to keep your scalp comfortable. If you notice increased shedding, see a doctor or dermatologist to find the cause.",
     },
     {
       q: "Were dry shampoos recalled for benzene?",
@@ -407,11 +407,11 @@ export const bestDryShampoo: RoundupData = {
     },
     {
       q: "Is dry shampoo good for thinning hair?",
-      a: "It can make thinning hair look fuller for a day by absorbing oil and adding grip at the roots, and tinted versions slightly reduce scalp contrast on dark hair. It does not treat hair loss. Use it lightly, keep your scalp clean, and pair it with an evidence-based treatment if you are losing hair.",
+      a: "Yes. It makes thinning hair look fuller by absorbing oil and adding grip at the roots, and tinted versions slightly reduce scalp contrast on dark hair. Use it lightly, keep your scalp clean, and pair it with a treatment like minoxidil if you are losing hair.",
     },
   ],
   bottomLine:
-    "Dry shampoo is a time-buyer, not a cleanser. Living Proof Perfect Hair Day is the best overall, Batiste is the best value, and Klorane Oat Milk Powder is the best non-aerosol choice. Check old aerosol cans against recall lists, use any dry shampoo lightly, and keep washing regularly for a healthy scalp.",
+    "Dry shampoo is the ultimate time-buyer for fresh, voluminous roots. Living Proof Perfect Hair Day is the best overall, Batiste is the best value, and Klorane Oat Milk Powder is the best non-aerosol choice. Check old aerosol cans against recall lists, use any dry shampoo lightly, and keep washing regularly for a healthy scalp.",
   relatedRoundups: [
     "best-shampoo-for-thinning-hair",
     "best-hair-thickening-products",

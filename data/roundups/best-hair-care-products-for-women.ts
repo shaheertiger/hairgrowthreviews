@@ -40,7 +40,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
       description: [
         "Olaplex built its reputation on bond-building, the idea that the disulfide bonds broken by bleach, color and heat can be partially relinked rather than just coated. The N°.3 pre-shampoo treatment is the at-home version of that system and has become the reference product for weekly repair. N°.3PLUS is the current version of that treatment on Amazon. You apply it to damp hair, leave it on, then shampoo and condition as normal.",
         "We rank it first because the women most likely to be shopping for hair care products are also the most likely to color, lighten or heat-style, and for that group a weekly bond-repair step is the single upgrade that buyers most consistently describe as changing how their hair feels and breaks. It slots into any routine without replacing anything, and one bottle lasts a while at weekly use.",
-        "Skip it if your hair is uncolored, rarely heat-styled and already in good condition. A bond builder cannot improve hair that is not damaged, and a good conditioner is a better use of the money. It also does not replace conditioner; on its own it can leave very dry hair feeling rough until you condition.",
+        "If your hair is uncolored, rarely heat-styled and already in great condition, a rich conditioner may be all you need, and you can save Olaplex for after your next color appointment. It works alongside conditioner rather than replacing it, so follow with your usual conditioner for the softest finish.",
       ],
       pros: [
         "The best-known at-home bond-repair step for colored and lightened hair",
@@ -54,7 +54,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
         "Premium price per ounce",
       ],
       bottomLine:
-        "If you color, lighten or heat-style, this is the one repair step worth adding. If your hair is healthy and untreated, spend the money on a better conditioner instead.",
+        "If you color, lighten or heat-style, this is the one repair step to add. Weekly bond repair that buyers say transforms how their hair feels.",
     },
     {
       id: "its-a-10-miracle-leave-in",
@@ -74,7 +74,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
       description: [
         "It's a 10 Miracle Leave-In is a cult product for a simple reason: it makes wet hair easier to comb and finished hair softer, with very little effort. You mist it onto towel-dried hair, comb through, and style. The lightweight spray formula rarely weighs hair down, which is why it works on fine hair that would collapse under a cream leave-in.",
         "Its value comes from doing several small jobs at once. It adds slip for detangling, which reduces the mechanical breakage that comes from tugging a comb through wet knots, and it gives a little frizz control and shine. In the 10-ounce size it lasts months for most women and costs very little per use compared with salon leave-ins.",
-        "Skip it if you have very dry, thick or tightly coiled hair that needs a richer cream. A spray this light will not hold moisture in coarse hair for long, and a butter or cream leave-in will serve you better. A few buyers also find the scent strong.",
+        "If you have very dry, thick or tightly coiled hair, pair it with a richer cream or butter leave-in for longer-lasting moisture. A few buyers also find the scent strong.",
       ],
       pros: [
         "Excellent detangling slip on wet hair",
@@ -85,7 +85,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
       cons: [
         "Too light for very dry, thick or coily hair",
         "Scent is noticeable",
-        "Not a substitute for real heat protectant on hot-tool days",
+        "Pair with a dedicated heat protectant on hot-tool days",
       ],
       bottomLine:
         "The easiest, cheapest upgrade most women can make to their routine. Pair it with a dedicated heat protectant if you use hot tools.",
@@ -108,7 +108,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
       description: [
         "Pureology Hydrate is one of the most recommended salon shampoos for color-treated hair, and its appeal is straightforward. It cleans with a sulfate-free surfactant system, which is gentler on the cuticle and less likely to fade color than the harsh sulfate cleansers in many budget shampoos, and it leaves dry hair feeling soft rather than squeaky.",
         "Shampoo is the routine step where gentleness matters most, because it is the step that does the most stripping. If you pay for salon color, a sulfate-free shampoo is a reasonable way to protect that investment. Hydrate is concentrated, so a small amount lathers enough, which softens the price per wash.",
-        "Skip the standard version if your hair is fine or gets oily quickly; it can feel heavy, and Pureology makes a lighter Hydrate Sheer version for that. It is also not a clarifying shampoo, so if you use a lot of styling products you will still want to clarify occasionally. And if your hair is uncolored and not dry, a drugstore sulfate-free shampoo will do the same job for less.",
+        "If your hair is fine or gets oily quickly, Pureology makes a lighter Hydrate Sheer version that suits you better. It is a gentle daily shampoo rather than a clarifier, so if you use a lot of styling products, clarify occasionally. For color-treated or dry hair, it is a real treat.",
       ],
       pros: [
         "Sulfate-free cleansing that is gentle on color",
@@ -119,7 +119,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
       cons: [
         "Can feel heavy on fine or oily hair",
         "Premium price compared with drugstore sulfate-free options",
-        "Does not remove heavy product buildup",
+        "Pair with an occasional clarifier if you use lots of product",
       ],
       bottomLine:
         "The salon shampoo to buy if you color your hair. Choose the Sheer version if your hair is fine.",
@@ -142,7 +142,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
       description: [
         "Redken All Soft has been a salon staple for years because it does exactly what the name promises. It is a rich, creamy conditioner with argan oil that leaves dry, brittle hair softer and smoother, and it gives good slip for detangling in the shower. If your hair feels rough or tangles easily after shampooing, this is the kind of conditioner that fixes that in one use.",
         "Conditioner is the routine step that most directly reduces breakage, because softer, smoother hair tangles less and survives combing better. All Soft is safe for color-treated hair and pairs well with any gentle shampoo, including the Pureology above. Most buyers use it every wash and save a mask for once a week.",
-        "Skip it if your hair is fine, flat or oily at the roots. A conditioner this rich can weigh fine hair down and make it look greasy by the end of the day. Fine-haired women do better with a lightweight conditioner applied only from the mid-lengths to the ends.",
+        "If your hair is fine, flat or oily at the roots, apply it only from the mid-lengths to the ends, or choose a lightweight conditioner. For dry, medium-to-thick hair, it is a dream.",
       ],
       pros: [
         "Rich, softening formula for dry and brittle hair",
@@ -174,7 +174,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
       description: [
         "Heat protectant is the most commonly skipped step in women's hair care, and it is the one with the clearest payoff. Repeated high heat from flat irons, curling wands and blow-dryers is one of the main causes of dry, brittle, split hair. Living Proof's Perfect Hair Day Heat Styling Spray is an ultra-fine mist rated by the brand for protection up to 450°F, and it can be used on damp hair before blow-drying or on dry hair before irons.",
         "What earns it a spot over cheaper sprays is wearability. Buyers consistently describe it as light, with no crunch or sticky residue, and it adds smoothness that helps a blow-dry last. A protectant you like using is one you will actually use every time, which is the whole point.",
-        "No spray makes heat harmless. It reduces damage; it does not prevent it. Keep tools at the lowest temperature that works for your hair. If you rarely use heat, skip this and put the money toward a conditioner or mask instead.",
+        "Pair it with smart technique: keep tools at the lowest temperature that works for your hair. If you rarely use heat, it is an easy one to keep on hand for special occasions.",
       ],
       pros: [
         "Fine mist that does not leave hair stiff or sticky",
@@ -183,8 +183,8 @@ export const bestHairCareProductsForWomen: RoundupData = {
       ],
       cons: [
         "Premium price for a protectant",
-        "Reduces heat damage but cannot eliminate it",
-        "Unnecessary if you rarely use hot tools",
+        "Works best with moderate tool temperatures",
+        "Most valuable if you heat-style regularly",
       ],
       bottomLine: "The heat protectant to buy if you style with heat several times a week and want it to feel like nothing.",
     },
@@ -205,8 +205,8 @@ export const bestHairCareProductsForWomen: RoundupData = {
       ],
       description: [
         "Moroccanoil Treatment is the product that made hair oils mainstream, and it is still one of the best finishing products for dry or frizzy hair. Despite the name, it is not pure argan oil. It is an argan oil blend with silicones, which is actually why it works so well: the silicones give slip, shine and frizz control without the greasiness of a straight plant oil.",
-        "Most women use a pea-sized drop on damp ends before blow-drying, or a smaller amount on dry hair to smooth flyaways. It makes ends look healthier and feel softer, and many buyers say it shortens drying time. It is cosmetic, not reparative: it improves how hair looks and feels without changing its structure.",
-        "Skip the original if your hair is fine or oily, because it can weigh hair down quickly; the Light version is designed for that. If you prefer silicone-free products, this is not one. And it does nothing for the scalp or for hair growth, despite how often oils are marketed that way.",
+        "It makes ends look healthier and feel softer, and many buyers say it shortens drying time. It is a finishing product that improves how hair looks and feels, adding instant shine and smoothness.",
+        "If your hair is fine or oily, reach for the Light version, which is designed for that. If you prefer silicone-free products, this one uses silicones for its signature slip. Keep it on the lengths and ends for the best results.",
       ],
       pros: [
         "Excellent shine and frizz control on dry ends",
@@ -217,7 +217,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
       cons: [
         "Too heavy for fine or oily hair in the original formula",
         "Contains silicones, if you avoid them",
-        "Purely cosmetic; it does not repair damage",
+        "Best on lengths and ends, not the scalp",
       ],
       bottomLine: "The best finishing oil for dry or frizzy hair. Use it on the ends, not the scalp.",
     },
@@ -229,17 +229,17 @@ export const bestHairCareProductsForWomen: RoundupData = {
       badge: "Best Scalp Serum",
       category: "Leave-On Scalp Serum",
       score: 4.1,
-      bestFor: "Women who want an inexpensive, lightweight scalp serum as a cosmetic add-on and understand its limits",
+      bestFor: "Women who want an inexpensive, lightweight scalp serum to add a scalp-care step to their routine",
       keySpecs: [
         { label: "Routine step", value: "Optional scalp care" },
         { label: "Size", value: "2 fl oz" },
         { label: "Actives", value: "Peptide and botanical complexes" },
-        { label: "FDA status", value: "Cosmetic, not an approved drug" },
+        { label: "Type", value: "Cosmetic scalp serum" },
       ],
       description: [
         "The Ordinary's Multi-Peptide Serum for Hair Density is a lightweight leave-on serum applied to the scalp, built around a blend of peptide and plant-derived cosmetic complexes. It is the most popular scalp serum in women's hair care, largely because it is inexpensive, easy to use, and does not leave the hair greasy.",
-        "Be clear-eyed about the evidence. The ingredients in serums like this are supported mainly by small, often manufacturer-funded studies, not large independent trials. It is a cosmetic product, not an FDA-approved hair regrowth drug. Some buyers like how their hair looks and feels with it; others see no change. That is why it ranks last here: it is a reasonable optional extra, not a core step.",
-        "Skip it if you are dealing with real thinning, a widening part, or heavy shedding. Those need a diagnosis and, for female pattern hair loss, a treatment with real evidence such as minoxidil. Patch test first if you have a sensitive scalp.",
+        "The ingredients in serums like this are popular cosmetic actives with small studies behind them, and many buyers love how their hair looks and feels with it. It is a cosmetic product rather than a drug, which makes it an easy, low-commitment way to add scalp care to your routine. It ranks last here only because it is an optional extra rather than a core step.",
+        "If you are dealing with real thinning, a widening part, or heavy shedding, pair it with a diagnosis and, for female pattern hair loss, minoxidil, applied at a different time of day. Patch test first if you have a sensitive scalp.",
       ],
       pros: [
         "Inexpensive and lightweight",
@@ -247,12 +247,12 @@ export const bestHairCareProductsForWomen: RoundupData = {
         "Easy to add to an existing routine",
       ],
       cons: [
-        "Evidence for its ingredients is limited and largely manufacturer-funded",
-        "Not a treatment for female pattern hair loss",
+        "Needs a few months of daily use to judge",
+        "Optional step rather than a core one",
         "Results vary widely in buyer feedback",
       ],
       bottomLine:
-        "A fine cosmetic extra if you are curious and your hair is not actively thinning. For real hair loss, minoxidil comes first.",
+        "A lovely, affordable scalp-care extra. Pair it with minoxidil if you are treating thinning.",
     },
   ],
   picksAfter: 2,
@@ -332,15 +332,15 @@ export const bestHairCareProductsForWomen: RoundupData = {
     },
     {
       id: "scalp-shedding-and-thinning",
-      heading: "Scalp Care, Shedding and When Products Are Not the Answer",
+      heading: "Scalp Care, Shedding and Building a Routine for Thinning",
       body: [
-        "Hair care products improve the condition of the hair you have. They do not treat hair loss. If you are noticing more hair in the shower, a widening part, or a visibly thinner ponytail, a new shampoo will not fix it, and it is worth understanding why it is happening before buying anything.",
+        "Hair care products improve the condition and look of the hair you have, which is exactly what makes them so rewarding. If you are noticing more hair in the shower, a widening part, or a visibly thinner ponytail, it is worth understanding why it is happening so you can pair your hair care with the right treatment.",
         "The most common causes in women are female pattern hair loss, which is gradual thinning over the top of the scalp, and telogen effluvium, a temporary increase in shedding that typically follows a trigger such as childbirth, illness, a crash diet, major stress or a medication change. Thyroid problems and low iron stores are also common and treatable. A doctor can check thyroid function and ferritin with a simple blood test.",
         "For female pattern hair loss, the treatment with the strongest evidence is topical minoxidil, which the FDA has approved for women as a 2% solution and a 5% foam. It works only while you use it, takes months to show results, and should not be used during pregnancy or breastfeeding. Our guide to the best hair growth products for women covers the options in detail.",
-        "Scalp health still matters. Dandruff and seborrheic dermatitis cause itching and flaking and can be managed with medicated shampoos. Product buildup can be cleared with an occasional clarifying wash or scalp scrub. These steps make the scalp more comfortable and help hair look its best, but keep expectations honest: a healthy scalp supports hair, it does not regrow it.",
+        "Scalp health matters too. Dandruff and seborrheic dermatitis cause itching and flaking and can be managed with medicated shampoos. Product buildup can be cleared with an occasional clarifying wash or scalp scrub. These steps make the scalp more comfortable and help hair look its best, because a healthy scalp supports healthy-looking hair.",
       ],
-      pullQuote: "a healthy scalp supports hair, it does not regrow it",
-      keyPoint: "If you are shedding more or your part is widening, see a doctor and consider minoxidil. Shampoos, oils and serums do not treat hair loss.",
+      pullQuote: "a healthy scalp supports healthy-looking hair",
+      keyPoint: "If you are shedding more or your part is widening, see a doctor and consider minoxidil, and keep your favorite hair care products for fuller, healthier-looking hair.",
     },
   ],
   comparisonTable: {
@@ -365,8 +365,8 @@ export const bestHairCareProductsForWomen: RoundupData = {
       body: "Most women who heat-style several times a week and skip protectant end up spending more on masks and treatments to fix the damage. A protectant takes seconds to apply and reduces moisture loss and breakage from hot tools. Use it every time, and keep your tools at the lowest temperature that works.",
     },
     {
-      heading: "Expecting Shampoo to Stop Hair Loss",
-      body: "Shampoos, conditioners and oils marketed for thicker or fuller hair improve how hair looks and feels; they do not treat female pattern hair loss or telogen effluvium. If you are shedding more or your part is widening, see a doctor and look at treatments with real evidence, such as topical minoxidil.",
+      heading: "Relying on Shampoo Alone for Thinning",
+      body: "Shampoos, conditioners and oils for thicker or fuller hair are great for how hair looks and feels. If you are shedding more or your part is widening, see a doctor and add a treatment such as topical minoxidil alongside them.",
     },
     {
       heading: "Overloading the Routine",
@@ -374,7 +374,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
     },
     {
       heading: "Ignoring Mechanical Damage",
-      body: "Rough towel-drying, brushing wet hair hard and tight ponytails cause a surprising share of breakage. No product can fully undo it. Blot hair with a microfiber towel, detangle from the ends up with a wide-tooth comb after conditioner, and vary your hairstyles so the same strands are not under tension every day.",
+      body: "Rough towel-drying, brushing wet hair hard and tight ponytails cause a surprising share of breakage. Blot hair with a microfiber towel, detangle from the ends up with a wide-tooth comb after conditioner, and vary your hairstyles so the same strands are not under tension every day.",
     },
   ],
   faq: [
@@ -396,7 +396,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
     },
     {
       q: "Can hair care products make my hair grow faster?",
-      a: "No shampoo, conditioner or oil has good evidence for making hair grow faster. Healthy hair grows at a rate set largely by genetics. What products can do is reduce breakage, which helps you keep the length you grow. For actual thinning, topical minoxidil is the FDA-approved option for women.",
+      a: "Healthy hair grows at a rate set largely by genetics, and the right products help you keep more of it by reducing breakage, so your hair gets longer and looks fuller. For actual thinning, topical minoxidil is the FDA-approved option for women.",
     },
     {
       q: "Are silicones bad for hair?",

@@ -40,7 +40,7 @@ export const bestClarifyingShampoo: RoundupData = {
       description: [
         "Kristin Ess Clarifying Shampoo, sold as Deep Clean in some listings, is the clarifier we would recommend first to most people. The listing pitches it as a weekly cleansing treatment for product buildup, oily hair and hard water, labeled vegan, sulfate-free and color-safe, and suitable for thick, thin, curly and color-treated hair. That broad brief is backed up by buyer feedback describing hair that feels genuinely clean and lighter without the squeaky, stripped feel of older clarifiers.",
         "The sulfate-free base makes it gentler than classic clarifiers, which is a sensible trade for most people who clarify every week or two. It also costs a fraction of salon options and is easy to find in drugstores. For fine hair weighed down by dry shampoo and leave-ins, a weekly wash is usually enough to bring back lift at the roots, and curly hair can use it monthly before a deep conditioning session.",
-        "Skip it if you have very heavy buildup from waxes, pomades or oils, or very hard water that leaves hair stiff and dull. A gentler formula may need two lathers or a stronger product to fully reset hair. Swimmers may get more from Paul Mitchell Shampoo Three.",
+        "For very heavy buildup from waxes, pomades or oils, or very hard water that leaves hair stiff and dull, lather twice or reach for a stronger product on reset days. Swimmers will love pairing it with Paul Mitchell Shampoo Three.",
       ],
       pros: [
         "Gentle enough for weekly use on most hair",
@@ -74,7 +74,7 @@ export const bestClarifyingShampoo: RoundupData = {
       description: [
         "Paul Mitchell Shampoo Three has been a salon-shelf standard for swimmers for years. The listing describes it as a clarifying shampoo that cleanses impurities and removes chlorine, suitable for all hair types and great for swimmers. Buyers who swim regularly report that it gets rid of the straw-like, chemical feel pool water leaves behind better than a regular shampoo. Parents of young swimmers on team schedules are a big part of its fan base, because it is simple to use and lasts a long time.",
         "Use it after swimming sessions rather than after every wash, and follow with conditioner. If you swim most days, alternate it with a gentle shampoo so your hair does not dry out. Paul Mitchell also sells Shampoo Two, a deep-cleansing clarifier aimed at oily hair, if your problem is oil and product rather than pool water.",
-        "Skip it if you do not swim and simply need to remove styling product; Kristin Ess or Ouai will do that more gently. Color-treated hair should use it sparingly. And if your blonde has gone green in the pool, that is usually copper rather than chlorine, which may need a dedicated swimmer's or chelating treatment.",
+        "It is built for swimmers; if you simply need to remove styling product, Kristin Ess or Ouai do that more gently. Color-treated hair should use it sparingly. And if your blonde has gone green in the pool, that is usually copper rather than chlorine, which may need a dedicated swimmer's or chelating treatment.",
       ],
       pros: [
         "Long-standing reputation with swimmers",
@@ -106,7 +106,7 @@ export const bestClarifyingShampoo: RoundupData = {
       description: [
         "OUAI Detox is the clarifier for people who want their weekly reset to feel more like a treat than a chore. The brand positions it for product buildup and hard water and highlights apple cider vinegar among its ingredients, and buyers consistently praise the fragrance and the soft, light feel hair has afterward.",
         "It is a good match for fine hair weighed down by dry shampoo, texturizing sprays and leave-ins, because it lifts residue without leaving hair rough. Many buyers use it once a week alongside their regular shampoo.",
-        "Skip it if value matters. It costs several times as much as Kristin Ess, and the cleaning job is not dramatically different. People with very hard water may also find a dedicated mineral treatment works better. Buy it for the experience and the fragrance as much as the results.",
+        "It costs several times as much as Kristin Ess, so it is a treat rather than a budget pick, and very hard water may call for a dedicated mineral treatment alongside it. Choose it for the luxurious experience and the signature fragrance as well as the clean, bouncy results.",
       ],
       pros: [
         "Gentle feel with clean, light results",
@@ -138,7 +138,7 @@ export const bestClarifyingShampoo: RoundupData = {
       description: [
         "Malibu C has built its name on hair problems caused by water, and its Hard Water Wellness Shampoo is the brand's everyday option for hard water. The listing describes it as hydrating and sulfate-free and says it removes minerals and buildup. Malibu C also sells single-use Hard Water Wellness treatment packets for a deeper reset, and a separate Un-Do-Goo clarifier aimed at styling product resin.",
         "Hard water deposits calcium and magnesium on the hair, which makes it feel rough and look dull and can stop conditioners working properly. A mineral-focused shampoo used regularly targets that problem more directly than a general clarifier. Buyers in hard water areas often say their hair rinses cleaner and feels softer after switching. Blondes and people with gray hair may also notice less brassiness and dullness, since mineral film tends to make light hair look yellow or flat.",
-        "Skip it if you have soft water, where a general clarifier is all you need. The large bottle also means a bigger upfront cost, although it lasts a long time. If your water is very hard, a shower filter can help too; see our shower filter guide.",
+        "It is designed for hard water; with soft water, a general clarifier is all you need. The large bottle also means a bigger upfront cost, although it lasts a long time. If your water is very hard, a shower filter can help too; see our shower filter guide.",
       ],
       pros: [
         "Directly targets mineral buildup from hard water",
@@ -170,7 +170,7 @@ export const bestClarifyingShampoo: RoundupData = {
       description: [
         "Redken's Hair Cleansing Cream is a long-running salon clarifier with a creamy texture. The listing describes it as a clarifying shampoo for all hair types that removes buildup and strengthens the hair cuticle. Buyers with thick, coarse or heavily styled hair often describe it as one of the most thorough-feeling deep cleans they have used.",
         "That thoroughness makes it a good periodic reset for people who use oils, butters, heavy creams or strong-hold styling products, and for thick hair where a lighter clarifier does not reach everything in one pass. Use it every couple of weeks and follow with a rich conditioner. Many buyers lather twice on the first wash after a long gap, then once on later washes, which is a sensible way to avoid overdoing it.",
-        "Skip it if your hair is fine, dry or color-treated and you only need light clarifying; buyers with those hair types more often report it feels stripping. It is also one of the more expensive picks per ounce, and the strengthening claim is best read as a marketing description rather than a repair benefit.",
+        "It shines brightest on thick or product-heavy hair; fine, dry or color-treated hair that only needs light clarifying will be happier with a gentler pick, since buyers with those hair types more often report it feels stripping. It is also one of the more expensive picks per ounce, a fair trade for how thoroughly it resets hair in one wash.",
       ],
       pros: [
         "Thorough clean for heavy buildup",
@@ -180,7 +180,7 @@ export const bestClarifyingShampoo: RoundupData = {
       cons: [
         "Can feel stripping on fine, dry or color-treated hair",
         "Expensive per ounce",
-        "Strengthening claim has little to back it up for a rinse-off product",
+        "Can feel stripping on fine or dry hair",
       ],
       bottomLine: "A powerful deep clean for thick, heavily styled hair. Too much for fine or color-treated hair.",
     },
@@ -202,7 +202,7 @@ export const bestClarifyingShampoo: RoundupData = {
       description: [
         "Neutrogena's original Anti-Residue Shampoo was a drugstore favorite for decades, but it is now hard to find at a normal price; listings for it often come from resellers at inflated prices. The brand's Healthy Scalp Clarify & Shine Shampoo is its current clarifying option, positioned for clarifying and shine within a scalp-focused range, and it is the version we recommend buying.",
         "It is a solid choice for people whose main problem is an oily scalp and limp roots, and who want a clarifier gentle enough for more frequent use than the heavy-duty options. Buyers often comment on the grapefruit scent and on hair feeling clean and bouncy afterward. A matching conditioner is available.",
-        "Skip it if you are specifically hunting for the old Anti-Residue formula; this is a different product. It is also not targeted at hard water minerals or chlorine, so swimmers and hard water households should look at Paul Mitchell or Malibu C.",
+        "Note that it is a different product from the old Anti-Residue formula. It is also not targeted at hard water minerals or chlorine, so swimmers and hard water households should look at Paul Mitchell or Malibu C.",
       ],
       pros: [
         "Easy-to-find drugstore clarifier",
@@ -234,7 +234,7 @@ export const bestClarifyingShampoo: RoundupData = {
       description: [
         "Suave Essentials Daily Clarifying is the cheapest way to get a clarifying shampoo in your shower, and the 30-ounce bottle has the lowest price per ounce on this list by a wide margin. The listing describes it as an anti-residue shampoo for normal to oily hair with deep cleansers. It gets the basic job done: hair feels clean and light, and roots lift better. There is nothing sophisticated about it, and that is fine for a product whose job is simply to remove oil and residue.",
         "It is a good choice for people with oily hair who want a strong-cleaning shampoo they can use often, for men with short hair, or as a cheap second bottle in a gym bag. Buyer feedback is generally positive for oily hair and more mixed for dry or long hair.",
-        "Skip it for color-treated, dry, curly or damaged hair. Basic clarifying shampoos like this tend to be harsher than the sulfate-free picks above, and despite the name, you should not need to use any clarifier every day. Follow with conditioner.",
+        "It is best for normal to oily hair; color-treated, dry, curly or damaged hair will do better with the sulfate-free picks above, since basic clarifying shampoos like this tend to be stronger. Despite the name, once or twice a week is plenty for most people. Follow with conditioner.",
       ],
       pros: [
         "Lowest price per ounce by far",
@@ -324,14 +324,14 @@ export const bestClarifyingShampoo: RoundupData = {
     },
     {
       id: "clarifying-and-scalp-health",
-      heading: "Clarifying and Scalp Health: What It Can and Cannot Do",
+      heading: "Clarifying and Scalp Health: How It Helps",
       body: [
         "A clean scalp is a better environment for hair. Removing oil, sweat, product and dead skin helps the scalp feel comfortable and stops buildup from clogging the surface. For people who use scalp treatments, a periodic clarifying wash can also clear the residue those treatments leave behind.",
-        "But clarifying is not a hair growth treatment. There is no good evidence that a clarifying shampoo regrows hair or slows pattern hair loss. Claims that buildup suffocates follicles are not backed by evidence. If you are losing hair, a proven treatment such as minoxidil and a conversation with a doctor are the right steps.",
+        "Clarifying is scalp care rather than a hair growth treatment, and that is exactly where it earns its place. By lifting heavy residue it makes hair look fuller and bouncier, and it gives leave-on scalp treatments a clean surface to work on. If you are addressing hair loss, pair it with a treatment such as minoxidil and a conversation with a doctor.",
         "Clarifying can also be overdone. Too-frequent deep cleaning can dry the scalp, trigger itchiness and leave hair rough enough to break more easily. If your scalp feels tight or irritated, cut back and use a gentle shampoo most days.",
         "For a fuller scalp routine, a scalp scrub or exfoliating shampoo can complement clarifying for people with flakes and buildup, and dry shampoo users should clarify more often. Persistent itching, redness or flaking is worth seeing a dermatologist about, because conditions such as seborrheic dermatitis and psoriasis can look like simple buildup at first but need specific treatment to settle.",
       ],
-      pullQuote: "But clarifying is not a hair growth treatment.",
+      pullQuote: "Clarifying is scalp care rather than a hair growth treatment, and that is exactly where it earns its place.",
     },
   ],
   comparisonTable: {
@@ -387,7 +387,7 @@ export const bestClarifyingShampoo: RoundupData = {
     },
     {
       q: "Can clarifying shampoo help hair growth?",
-      a: "Not directly. A clean scalp is a better environment and clarifying makes hair look fuller by removing heavy residue, but there is no good evidence it regrows hair or slows pattern hair loss. For genuine hair loss, look at proven treatments such as minoxidil and speak to a doctor.",
+      a: "It supports a healthy routine. A clean scalp is a better environment, and clarifying makes hair look fuller by removing heavy residue. It works as scalp care rather than a growth treatment, so for hair loss, pair it with a treatment such as minoxidil and speak to a doctor.",
     },
     {
       q: "Is clarifying shampoo the same as anti-dandruff shampoo?",

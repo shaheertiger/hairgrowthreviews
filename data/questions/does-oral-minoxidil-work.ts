@@ -12,7 +12,7 @@ export const doesOralMinoxidilWork: QuestionData = {
   shortAnswer:
     "Yes. Low-dose oral minoxidil improves pattern hair loss in most people who take it, and a 2024 trial found 5 mg a day worked about as well as twice-daily 5% topical minoxidil. Women typically take 0.25–2.5 mg a day and men 1.25–5 mg. It is an off-label prescription drug, so a doctor sets the dose and watches for side effects.",
   keyTakeaways: [
-    "Oral minoxidil works for pattern hair loss in most people studied, but the best evidence shows it is comparable to topical minoxidil, not clearly better.",
+    "Oral minoxidil works for pattern hair loss in most people studied, and the best trial so far shows it performs on par with topical minoxidil in a far more convenient daily tablet.",
     "Typical low doses are about 0.25–2.5 mg a day for women and 1.25–5 mg a day for men, usually started low and adjusted.",
     "It is a blood-pressure tablet used off-label for hair loss. It is not FDA-approved for hair loss and needs a prescription.",
     "Unwanted body and facial hair is the most common side effect; fast heartbeat, ankle swelling and lightheadedness also occur.",
@@ -32,10 +32,10 @@ export const doesOralMinoxidilWork: QuestionData = {
         "Yes, for most people with androgenetic alopecia, the common inherited pattern of hair loss in men and women. Since around 2017, a steady stream of observational studies and case series has reported that low-dose oral minoxidil improves hair density or stops further thinning in most of the patients treated. These studies vary in size and quality, but their direction has been consistent.",
         "The strongest single piece of evidence so far is a randomized trial published in JAMA Dermatology in 2024. It compared 5 mg of oral minoxidil a day with 5% topical minoxidil applied twice a day in men with pattern hair loss over 24 weeks. Both groups improved, and the trial found no statistically significant difference in efficacy between them.",
         "That result is worth reading carefully. It does not show that oral minoxidil is stronger than topical. It shows that a daily tablet performed comparably to the standard topical treatment over six months. For many people that is still a meaningful finding, because a tablet is far easier to use consistently than a liquid or foam applied twice a day.",
-        "Like topical minoxidil, the oral form works best where thinning hairs are still present. It can thicken miniaturized hairs and slow further loss, but it is unlikely to regrow hair on areas that have been completely smooth for many years. Holding your hair where it is counts as a result, even if it is less dramatic than visible regrowth.",
+        "Like topical minoxidil, the oral form works best where thinning hairs are still present. It can thicken miniaturized hairs and slow further loss, but it is unlikely to regrow hair on areas that have been completely smooth for many years. Holding your hair where it is counts as a real win, alongside any thickening you see.",
       ],
       pullQuote: "It shows that a daily tablet performed comparably to the standard topical treatment over six months.",
-      keyPoint: "Oral minoxidil works for most people with pattern hair loss, and the best trial so far shows it is about as effective as topical minoxidil, not more.",
+      keyPoint: "Oral minoxidil works for most people with pattern hair loss, and the best trial so far shows it is about as effective as twice-daily topical minoxidil.",
     },
     {
       id: "dose-for-hair-loss",

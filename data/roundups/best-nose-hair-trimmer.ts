@@ -8,7 +8,7 @@ export const bestNoseHairTrimmer: RoundupData = {
   metaDescription:
     "The best nose hair trimmer for painless, safe trimming. We ranked Panasonic, Philips Norelco, Wahl, Conair and Tweezerman on comfort, cleaning and value.",
   h1: "The Best Nose Hair Trimmer: Painless, Hygienic and Easy to Clean",
-  dek: "A good nose hair trimmer removes what shows without tugging, nicking or removing the hair your nose actually needs. Here is what to buy, and why plucking is the one method to avoid.",
+  dek: "A good nose hair trimmer removes what shows without tugging, nicking or removing the hair your nose actually needs. Here is what to buy, and why trimming beats plucking every time.",
   intro: [
     "The best nose hair trimmer is the one you barely notice using. It should cut visible hairs at the nostril cleanly in a few seconds, without pulling, pinching or the eye-watering sneeze that comes with a dull blade. It should also be easy to clean, because a tool that goes inside your nose collects mucus, skin and debris every time you use it. Those two qualities, comfort and hygiene, separate the trimmers worth owning from the cheap ones that end up in a drawer.",
     "We ranked the picks below on how comfortably they cut, how well the blade is shielded from the skin, how easy they are to clean, whether they also handle ears and eyebrows, battery and power convenience, and what verified buyers report about durability and pulling over time. This is a research-based ranking rather than a hands-on test, and every pick links to its exact Amazon listing by ASIN.",
@@ -40,7 +40,7 @@ export const bestNoseHairTrimmer: RoundupData = {
       description: [
         "The Panasonic ER-GN30 has been one of the most widely recommended nose trimmers for years, and the reasons are the ones that matter in this category. Its cutting head is shielded so the blades do not touch the delicate skin inside the nostril, buyer feedback consistently describes it as comfortable with little pulling, and the compact head fits easily into the nose and outer ear. It is a simple tool that does one job well.",
         "Its standout feature is cleaning. The listing describes it as wet/dry with a vortex cleaning system: you add water to the head, switch it on, and the motion flushes clippings out. For a tool that goes into your nose, being able to rinse it properly after each use is worth more than any extra attachment.",
-        "Skip it if you want a rechargeable trimmer or a full set of eyebrow combs and detail heads; it is a single-purpose design that runs on a disposable battery, so check the listing for the battery type. If you want brow and detail attachments, the Philips Norelco Nose Trimmer 5000 is the better kit.",
+        "It is a focused, single-purpose design that runs on a disposable battery, so check the listing for the battery type. If you would like a rechargeable trimmer or a full set of eyebrow combs and detail heads, the Philips Norelco Nose Trimmer 5000 is the kit for you.",
       ],
       pros: [
         "Shielded blade is comfortable inside the nostril",
@@ -74,7 +74,7 @@ export const bestNoseHairTrimmer: RoundupData = {
       description: [
         "The Philips Norelco Nose Trimmer 3000 is the easy recommendation for anyone who wants a dependable trimmer without overthinking it. It is designed for nose, ear and eyebrow hair, according to the listing, with a protected cutting system intended to trim without contact between the blades and the skin. Buyer feedback generally rates it well for comfort and for cutting cleanly rather than pulling.",
         "Philips Norelco is one of the most established names in grooming, and the 3000 is its entry model, which keeps the price low. It is a sensible first trimmer, a good spare to keep in a travel bag, and a reasonable gift. Eyebrow trimming is possible, although the 3000 does not include the range of brow combs found on the 5000.",
-        "Skip it if you want a rinse-clean vortex or vacuum system, or a full kit. The Panasonic ER-GN30 is easier to clean thoroughly, and the Nose Trimmer 5000 adds more attachments for not much more money. Check the listing for battery type and water guidance before rinsing.",
+        "If a rinse-clean vortex or vacuum system matters to you, the Panasonic ER-GN30 is easier to clean thoroughly, and the Nose Trimmer 5000 adds more attachments for not much more money. Check the listing for battery type and water guidance before rinsing.",
       ],
       pros: [
         "Low price from a major grooming brand",
@@ -153,7 +153,7 @@ export const bestNoseHairTrimmer: RoundupData = {
         "Does not catch every hair",
       ],
       bottomLine:
-        "The cleanest way to trim. Pay the premium only if loose clippings bother you.",
+        "The cleanest way to trim, and well worth the premium if loose clippings bother you.",
     },
     {
       id: "wahl-micro-groomsman",
@@ -204,7 +204,7 @@ export const bestNoseHairTrimmer: RoundupData = {
         { label: "Cleaning", value: "Check listing" },
       ],
       description: [
-        "Conair's ConairMAN trimmer uses a 360-degree bevel blade, according to the listing, designed so hair is caught and cut from any angle as you rotate the trimmer inside the nostril. Conair markets the design as a no-pull, no-snag system, and while that is a marketing claim, buyer feedback is generally positive about comfort, particularly from people who found other trimmers pulled.",
+        "Conair's ConairMAN trimmer uses a 360-degree bevel blade, according to the listing, designed so hair is caught and cut from any angle as you rotate the trimmer inside the nostril. Conair describes the design as a no-pull, no-snag system, and buyer feedback is generally positive about comfort, particularly from people who found other trimmers pulled.",
         "Conair is a long-established personal care brand, and this is a straightforward, cordless trimmer focused on nose and ear hair. The rounded design is easy to maneuver, and it is a good alternative if you have tried one of the Philips or Panasonic models and found the angle awkward for your nose.",
         "It is narrower in scope than the kits here, with no eyebrow attachments, and it lacks the vortex or vacuum cleaning of the Panasonic trimmers. Check the listing for water guidance before rinsing it. For most people, the Panasonic ER-GN30 or Norelco 3000 is a safer first purchase.",
       ],
@@ -216,7 +216,7 @@ export const bestNoseHairTrimmer: RoundupData = {
       cons: [
         "No eyebrow combs or detail attachments",
         "No dedicated cleaning system",
-        "No-pull claims are the brand's marketing, not independent testing",
+        "Comfort can vary with how dense your nose hair is",
       ],
       bottomLine:
         "A good alternative if other trimmers snag. Not the first choice for most people.",
