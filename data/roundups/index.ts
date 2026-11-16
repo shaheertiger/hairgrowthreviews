@@ -113,6 +113,11 @@ import { bestShampooForLowPorosityHair } from "./best-shampoo-for-low-porosity-h
 import { bestHaloHairExtensions } from "./best-halo-hair-extensions";
 import { bestHairCuttingShears } from "./best-hair-cutting-shears";
 import { bestEdgeControlFor4cHair } from "./best-edge-control-for-4c-hair";
+import { bestHairOilForCurlyHair } from "./best-hair-oil-for-curly-hair";
+import { bestShampooForThickHair } from "./best-shampoo-for-thick-hair";
+import { bestHairGelForCurlyHair } from "./best-hair-gel-for-curly-hair";
+import { bestRoundBrushForFineHair } from "./best-round-brush-for-fine-hair";
+import { bestHairBonnetForSleeping } from "./best-hair-bonnet-for-sleeping";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -237,4 +242,9 @@ export const roundups: RoundupData[] = [
   bestHaloHairExtensions,
   bestHairCuttingShears,
   bestEdgeControlFor4cHair,
+  bestHairOilForCurlyHair,
+  bestShampooForThickHair,
+  bestHairGelForCurlyHair,
+  bestRoundBrushForFineHair,
+  bestHairBonnetForSleeping,
 ];

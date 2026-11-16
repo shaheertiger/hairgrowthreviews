@@ -38,7 +38,7 @@ export const bestShampooForThickHair: RoundupData = {
         { label: "Extras", value: "Vegan, color-safe (per listing)" },
       ],
       description: [
-        "Pureology is one of the best-loved salon brands for color-treated hair, and its smoothing range, which longtime fans knew as Smooth Perfection, is now sold as Smooth Gloss. This shampoo is made for frizz-prone hair: it is sulfate-free and vegan, and it is designed to control frizz, protect against humidity and add shine while it cleans. That combination is exactly what thick hair wants from a daily-use shampoo.",
+        "Pureology is one of the best-loved salon brands for color-treated hair, and its Smooth Gloss range is built for frizz-prone hair that wants a polished finish. This shampoo is made for frizz-prone hair: it is sulfate-free and vegan, and it is designed to control frizz, protect against humidity and add shine while it cleans. That combination is exactly what thick hair wants from a daily-use shampoo.",
         "It lathers into a rich, creamy foam that spreads easily through a lot of hair, rinses clean and leaves the lengths noticeably softer and smoother. Thick hair washed with it tends to dry with less puffiness and fewer flyaways, which makes blow-drying faster and helps a straightened or curled style last. Because it is gentle and color-safe, it is a great choice if you color or highlight your hair.",
         "It sits at the premium end of the price range, but Pureology formulas are concentrated, so a modest amount goes further than you might expect. For thick, frizz-prone hair that you want sleek, glossy and manageable, this is the shampoo we would buy first.",
       ],
