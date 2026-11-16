@@ -221,7 +221,7 @@ export const bestEdgeControlFor4cHair: RoundupData = {
         "Edge control is a styling product made to smooth and hold the short, fine hairs along your hairline, often called your edges or baby hairs. It usually comes as a thick gel, gel-wax or cream in a small jar, and it is designed to grip much more firmly than an everyday styling gel so those hairs stay exactly where you place them.",
         "For 4C hair, that strength matters. Type 4C coils are tightly wound and full of natural spring, so the hairs at the hairline want to curl back up the moment you smooth them down. A strong edge control holds them flat long enough to lay sleek lines, swoops and swirls that last through the day.",
         "Edge control does more than hold. The best formulas add shine, tame frizz and flyaways, and give a polished finish to everything from a sleek bun or ponytail to braids, twists, locs and wash-and-gos. Many also include conditioning oils such as argan, castor or coconut oil to keep the hairline feeling soft.",
-        "Think of it as the finishing touch rather than a treatment. It is a styling product, so the goal is a beautiful look that washes out cleanly, while the health of your edges comes from gentle handling and a good overall routine.",
+        "Think of it as the finishing touch rather than a treatment. It is a styling product, so the goal is a beautiful look that washes out cleanly, while the health of your edges comes from gentle handling and a good overall routine. That is why this guide pairs our product picks with simple hairline habits: the best results come from a great product and a kind routine working together.",
       ],
       pullQuote: "For 4C hair, that strength matters.",
       keyPoint:
@@ -234,7 +234,7 @@ export const bestEdgeControlFor4cHair: RoundupData = {
         "Edges on 4C hair are often the finest, most delicate hairs on the head, and they also tend to be the most tightly coiled. That combination means they need a product with real grip, but they also need gentle handling, because fine hairs along the hairline break more easily than the rest of your hair.",
         "Flaking is the most common frustration. When an edge control dries, some formulas leave white specks or a cloudy cast, especially when too much is used or when it is layered over other products. Coily hair shows flakes easily, so a smooth-drying formula used in thin layers makes a big difference.",
         "Humidity is the other challenge. 4C hair loves moisture from the air, and as it absorbs that moisture the coils start to spring back. A firm, long-wearing edge control resists that pull, and many people keep a compact jar in their bag for a midday touch-up.",
-        "The good news is that with the right product and a light hand, 4C edges lay beautifully. The picks below were chosen for strong hold that suits coily texture, a good finish, and formulas that wash out cleanly at the end of the style.",
+        "The good news is that with the right product and a light hand, 4C edges lay beautifully. The picks below were chosen for strong hold that suits coily texture, a good finish, and formulas that wash out cleanly at the end of the style. Whether you want soft, natural-looking edges for a wash-and-go or crisp, dramatic swirls for a night out, there is a formula here that fits.",
       ],
       pullQuote: "Flaking is the most common frustration.",
       keyPoint:
@@ -246,7 +246,7 @@ export const bestEdgeControlFor4cHair: RoundupData = {
       body: [
         "Start with hold strength. For everyday laid edges on 4C hair, a strong-hold formula like Style Factor Edge Booster or Mielle's edge gel is usually plenty. For slick buns, ponytails and special occasions, an extra firm or extreme-hold option like Creme of Nature Perfect Edges or Murray's Edgewax gives you more control.",
         "Next, think about the base. Water-based formulas tend to rinse out more easily and suit people who lay their edges every day. Wax-style and very firm gels hold longer but take a more thorough wash to remove. Neither is better in every case; it depends on how long you need your edges to last and how often you wash.",
-        "Look for conditioning ingredients. Many edge controls include argan, castor, coconut or babassu oil, or honey, which help the product feel softer on the hairline and add shine. These ingredients make the experience more comfortable, especially if you lay your edges often.",
+        "Look for conditioning ingredients. Many edge controls include argan, castor, coconut or babassu oil, or honey, which help the product feel softer on the hairline and add shine. These ingredients make the experience more comfortable, especially if you lay your edges often. Scent matters too: you will be wearing it right at your face all day, so pick a fragrance you genuinely enjoy, or a lightly scented option if you are sensitive. As with any new product, patch test first if your skin reacts easily.",
         "Finally, test how a product plays with the rest of your routine. Some edge controls flake when layered over heavy creams or certain leave-ins. Apply edge control to clean edges with only a light layer of moisturizer underneath, and if you see flaking, try using less product or switching the leave-in on your hairline.",
       ],
       pullQuote: "Start with hold strength.",
@@ -296,7 +296,7 @@ export const bestEdgeControlFor4cHair: RoundupData = {
         "Dedicated edge controls are thicker and grippier than everyday gels, and they are designed for small areas. They give the firmest, crispest hold on the hairline and usually come in small jars that last a long time when used only on your edges.",
         "Styling gels like Eco Style are lighter and spread easily over larger sections of hair. They work well on edges too, especially for softer laid looks, and they are perfect if you want one product for your edges, puffs, ponytails and twist-outs. For very stubborn 4C edges, two thin layers help.",
         "Edge waxes like Murray's Edgewax give the most hold of all and are ideal for slick, polished styles. They take a little more effort to wash out, so they are best for special occasions or styles you plan to wear for a day or two. Some people also reach for very strong styling glues such as Got2b Glued for ultra-sleek looks, but a dedicated edge product is gentler on the hairline for everyday use.",
-        "Many people keep two products: an everyday strong-hold edge control and a firmer option for special styles. Paired with a good leave-in and the occasional castor oil treatment on the hairline, that simple kit covers almost every look.",
+        "Many people keep two products: an everyday strong-hold edge control and a firmer option for special styles. Paired with a good leave-in and the occasional castor oil treatment on the hairline, that simple kit covers almost every look. Budget-friendly options such as Cantu Extra Hold Edge Stay Gel are also easy to find if you want a backup jar for your bag or gym kit.",
       ],
       table: {
         columns: ["Hold", "Washes Out", "Best Use"],
@@ -358,7 +358,7 @@ export const bestEdgeControlFor4cHair: RoundupData = {
     },
     {
       q: "Is edge control bad for your edges?",
-      a: "Edge control is a styling product, and used gently it is part of millions of healthy hair routines. The keys are a soft brush, a light touch, washing it out regularly and giving your hairline breaks from tight styles. If you notice thinning, tenderness or patchy loss along your hairline, see a dermatologist.",
+      a: "Edge control is a styling product, and used gently it is a normal part of countless healthy hair routines. The keys are a soft brush, a light touch, washing it out regularly and giving your hairline breaks from tight styles. A satin bonnet or scarf at night helps too. If you notice thinning, tenderness or patchy loss along your hairline, see a dermatologist.",
     },
     {
       q: "How do I lay 4C edges without them reverting?",
@@ -370,7 +370,7 @@ export const bestEdgeControlFor4cHair: RoundupData = {
     },
     {
       q: "How often should I wash out edge control?",
-      a: "Wash it out on every wash day, and if you lay your edges daily, gently wipe your hairline with a damp cloth and a little cleanser every couple of days. Follow with a light moisturizer so your edges stay soft and comfortable.",
+      a: "Wash it out on every wash day, and if you lay your edges daily, gently wipe your hairline with a damp cloth and a little cleanser every couple of days. Follow with a light moisturizer so your edges stay soft and comfortable. Firmer waxes and extra-hold gels may need a second lather of shampoo to come out completely, so take your time at the hairline when you rinse.",
     },
   ],
   bottomLine:
