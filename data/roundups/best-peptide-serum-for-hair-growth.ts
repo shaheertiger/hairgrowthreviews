@@ -191,7 +191,7 @@ export const bestPeptideSerumForHairGrowth: RoundupData = {
       id: "kerastase-genesis-serum",
       name: "Kérastase Genesis Hair Serum Daily Strengthening Treatment (3.04 fl oz)",
       brand: "Kérastase",
-      asin: "B083JKPCFB",
+      asin: "B086TPQJTT",
       badge: "Best for Breakage",
       category: "Strengthening Hair Serum",
       score: 3.9,

@@ -103,6 +103,16 @@ import { bestJojobaOilForHair } from "./best-jojoba-oil-for-hair";
 import { bestHairSkinAndNailsSupplement } from "./best-hair-skin-and-nails-supplement";
 import { bestRosemaryShampooForHairGrowth } from "./best-rosemary-shampoo-for-hair-growth";
 import { bestShampooForKeratinTreatedHair } from "./best-shampoo-for-keratin-treated-hair";
+import { bestShampooForCurlyHair } from "./best-shampoo-for-curly-hair";
+import { bestConditionerForCurlyHair } from "./best-conditioner-for-curly-hair";
+import { bestCurlCreamForCurlyHair } from "./best-curl-cream-for-curly-hair";
+import { bestMousseForCurlyHair } from "./best-mousse-for-curly-hair";
+import { bestHairStraightenerForThickHair } from "./best-hair-straightener-for-thick-hair";
+import { bestTextureSprayForFineHair } from "./best-texture-spray-for-fine-hair";
+import { bestShampooForLowPorosityHair } from "./best-shampoo-for-low-porosity-hair";
+import { bestHaloHairExtensions } from "./best-halo-hair-extensions";
+import { bestHairCuttingShears } from "./best-hair-cutting-shears";
+import { bestEdgeControlFor4cHair } from "./best-edge-control-for-4c-hair";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -217,4 +227,14 @@ export const roundups: RoundupData[] = [
   bestHairSkinAndNailsSupplement,
   bestRosemaryShampooForHairGrowth,
   bestShampooForKeratinTreatedHair,
+  bestShampooForCurlyHair,
+  bestConditionerForCurlyHair,
+  bestCurlCreamForCurlyHair,
+  bestMousseForCurlyHair,
+  bestHairStraightenerForThickHair,
+  bestTextureSprayForFineHair,
+  bestShampooForLowPorosityHair,
+  bestHaloHairExtensions,
+  bestHairCuttingShears,
+  bestEdgeControlFor4cHair,
 ];
