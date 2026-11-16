@@ -98,6 +98,6 @@ export const homeFeaturedRoundups = [
 /** Home page: the "Find a Treatment" cards. */
 export const homeTreatments = [
   { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine", note: "The most clinically proven OTC option, explained" },
-  { href: "/find-a-treatment/supplements", label: "Supplements", note: "What actually works vs. what's marketing hype" },
+  { href: "/find-a-treatment/supplements", label: "Supplements", note: "The best vitamins and nutrients for healthy hair" },
   { href: "/find-a-treatment/scalp-reduction", label: "Scalp Reduction Surgery", note: "Why it's largely been replaced by FUE/FUT" },
 ];
