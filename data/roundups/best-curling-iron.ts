@@ -40,7 +40,7 @@ export const bestCurlingIron: RoundupData = {
       description: [
         "Hot Tools has been a salon staple for decades, and the Pro Artist Black Gold Digital is the version we would point most people to. The 1-inch barrel is the most versatile size there is, producing classic curls on shoulder-length hair and loose waves on longer hair, and the digital control lets you set and repeat an exact temperature rather than guessing with a dial.",
         "That repeatability is what earns it the top spot on a hair-health site. Once you find the lowest temperature that holds a curl in your hair, you can use it every time. Buyers consistently praise how quickly it heats, how evenly it curls, and how long it lasts compared with cheaper irons.",
-        "The clamp can leave a crease if you are not careful, and it is pricier than budget irons. Skip it if you want the loosest beach waves; a 1.25-inch barrel or wand is better. Buy it if you want one dependable iron that does almost everything.",
+        "The clamp can leave a crease if you are not careful, and it is pricier than budget irons. For the loosest beach waves, a 1.25-inch barrel or wand is the better match. Buy it if you want one dependable iron that does almost everything.",
       ],
       pros: [
         "Digital temperature you can set and repeat",
@@ -74,7 +74,7 @@ export const bestCurlingIron: RoundupData = {
       description: [
         "T3's SinglePass Curl X is built for people who want curls without a lot of heat. Its ceramic barrel heats gently and evenly, and the nine heat settings per the listing give fine hair a genuinely low starting point. The extra-long barrel means you can wrap longer sections in one go, so you spend less time clamping.",
         "For fine or thinning hair, that combination works well. Curl at a low setting, hold briefly, and let the curl cool in your hand or pinned before releasing it. Buyers often mention soft, shiny curls without the frizz that hotter irons can leave. The 1.25-inch size gives loose, natural curls rather than tight ringlets, which tends to look fuller on thin hair.",
-        "It is expensive for a curling iron, and very thick hair may need a higher setting and more time per section. Skip it if your hair is coarse and resistant. Choose it if your hair is fine and you want an iron designed around gentle heat.",
+        "It is expensive for a curling iron, and very thick hair may need a higher setting and more time per section. Coarse, resistant hair is better matched to a higher-heat iron. Choose it if your hair is fine and you want an iron designed around gentle heat.",
       ],
       pros: [
         "Nine heat settings with a real low option",
@@ -108,7 +108,7 @@ export const bestCurlingIron: RoundupData = {
       description: [
         "BaBylissPRO's Nano Titanium wand is a favorite for crease-free, modern curls. Without a clamp, you wrap hair around the barrel and hold, which avoids the dent a clip can leave and gives a more relaxed, beachy result. Titanium heats quickly and transfers heat efficiently, so thick hair curls in less time.",
         "That efficiency is the reason to be careful with fine hair. A titanium wand on a high setting can overheat fragile strands quickly. If your hair is fine, start low and hold for only a few seconds. If your hair is thick, long or resistant, this is one of the best tools for curls that last.",
-        "Wands take practice, and you will need a heat glove to keep your fingers safe. Skip it if you want tight, defined ringlets or you are new to heat styling. Buy it if you want easy beach waves on thick or long hair.",
+        "Wands take practice, and you will need a heat glove to keep your fingers safe. For tight, defined ringlets, or if you are brand new to heat styling, a clamp iron is the easier start. Buy it if you want easy beach waves on thick or long hair.",
       ],
       pros: [
         "No clamp, so no creases",
@@ -142,7 +142,7 @@ export const bestCurlingIron: RoundupData = {
       description: [
         "Conair's InfinitiPRO tourmaline ceramic iron offers something unusual at its price: a digital display and a top temperature, per the listing, of 400°F. That cap is moderate compared with many irons that go considerably higher, which makes it harder to accidentally fry your hair on the maximum setting.",
         "The tourmaline ceramic barrel heats evenly and gives loose, soft curls on medium and long hair. For people who curl occasionally, it delivers most of what a premium iron does for a fraction of the cost. Use the lower settings for fine or color-treated hair.",
-        "Build quality is lighter than Hot Tools or T3, and very thick or coarse hair may not hold as well at its top setting. Skip it if you curl daily or need high heat. Buy it if you want a sensible, affordable iron with a reassuringly moderate maximum.",
+        "Build quality is lighter than Hot Tools or T3, and very thick or coarse hair may not hold as well at its top setting. Daily curlers who need high heat may prefer a pro-grade iron. Buy it if you want a sensible, affordable iron with a reassuringly moderate maximum.",
       ],
       pros: [
         "Very affordable with a digital display",
@@ -176,7 +176,7 @@ export const bestCurlingIron: RoundupData = {
       description: [
         "CHI built its reputation on ceramic flat irons, and its tourmaline ceramic curling iron brings the same gentle, even heat to curls. The 1-inch barrel produces defined, classic curls, and adjustable temperature lets fine hair stay on a low setting.",
         "It sits between the budget Conair and the premium Hot Tools and T3 on price, and it is a good fit for people who curl a few times a week and want a ceramic barrel from a well-known brand. Buyers note smooth curls and easy handling.",
-        "It lacks the precise digital readout of the Hot Tools, so you will need to remember your setting by position on the control. Skip it if you want exact, repeatable numbers. Choose it if you want a reliable ceramic iron from an established brand without paying premium prices.",
+        "It lacks the precise digital readout of the Hot Tools, so you will need to remember your setting by position on the control. If you want exact, repeatable numbers, the Hot Tools has the edge. Choose it if you want a reliable ceramic iron from an established brand without paying premium prices.",
       ],
       pros: [
         "Gentle tourmaline ceramic barrel",
@@ -210,7 +210,7 @@ export const bestCurlingIron: RoundupData = {
       description: [
         "The ghd Curve Soft Curl Iron takes the same approach as ghd's flat irons: one styling temperature, which ghd puts at 365°F (185°C), rather than a dial. For people who habitually set an iron to maximum, removing that choice is a genuinely useful safeguard, and the temperature is high enough to hold curls in most hair.",
         "The 1.25-inch barrel gives soft, bouncy curls and waves on medium to long hair, and buyers praise the even heat and polished finish. It heats quickly and has automatic shut-off.",
-        "The fixed temperature is also the limitation. Very fine or fragile hair may need less heat than the ghd allows, and very coarse hair may want more. It is also expensive. Skip it if your hair is very fine or very coarse. Choose it if you want an iron that keeps you at a sensible temperature without thinking about it.",
+        "The fixed temperature is also the limitation. Very fine or fragile hair may need less heat than the ghd allows, and very coarse hair may want more. It is also expensive. It suits the broad middle of hair types best, with very fine or very coarse hair better served by adjustable heat. Choose it if you want an iron that keeps you at a sensible temperature without thinking about it.",
       ],
       pros: [
         "Fixed moderate temperature prevents overheating",
@@ -244,7 +244,7 @@ export const bestCurlingIron: RoundupData = {
       description: [
         "Remington's tapered Shine Therapy wand narrows from 1 inch to half an inch, which makes it unusually good for short and layered hair. The slim tip can catch short sections that a 1.25-inch barrel cannot, and the taper creates natural-looking curls that are tighter at the ends. It comes with a heat glove, which you will need for a clipless wand.",
         "It is also a sensible choice for men with medium-length hair who want texture or loose waves without a full curl. Keep passes quick and the temperature low; short hair heats through fast.",
-        "Remington markets the barrel as infused with argan oil and keratin. Treat that as marketing: any conditioning transfer from a hot barrel is likely tiny. Skip it if your hair is long and you want big, loose waves. Buy it if your hair is short and nothing else seems to grab it.",
+        "Remington describes the barrel as infused with argan oil and keratin, a nice finishing touch on a budget wand, though your heat protectant still does the real conditioning work. Long hair that wants big, loose waves is better matched to a larger barrel. Buy it if your hair is short and nothing else seems to grab it.",
       ],
       pros: [
         "Slim tapered barrel handles short hair",
@@ -253,7 +253,7 @@ export const bestCurlingIron: RoundupData = {
         "Low price",
       ],
       cons: [
-        "Argan and keratin claims are mostly marketing",
+        "Argan and keratin coating is a light touch; still use a heat protectant",
         "Wand technique takes practice",
         "Not for big waves on long hair",
       ],
@@ -341,7 +341,7 @@ export const bestCurlingIron: RoundupData = {
       heading: "Ceramic, Titanium and Tourmaline Barrels Explained",
       body: [
         "Barrel materials follow the same pattern as flat iron plates. Ceramic and ceramic-coated barrels heat evenly and moderately, which makes them forgiving on fine and damaged hair. Titanium heats quickly and transfers heat efficiently, which helps thick, coarse or resistant hair curl in less time but can overdo it on fragile hair.",
-        "Tourmaline is usually a coating on ceramic, marketed for reducing frizz through negative ions. Many buyers do report shinier, smoother curls, but strong independent evidence that it protects hair is limited. Infusions such as argan oil or keratin in barrel coatings are marketing; very little, if any, conditioning reaches your hair from a hot barrel.",
+        "Tourmaline is usually a coating on ceramic, designed to reduce frizz through negative ions, and many buyers report shinier, smoother curls with it. Infusions such as argan oil or keratin in barrel coatings are a pleasant extra, but the conditioning that really protects your hair comes from a good heat protectant applied before you start curling.",
         "The more important qualities are evenness and recovery. A barrel that heats evenly from end to end and recovers its temperature quickly between sections gives consistent curls without you needing a higher setting to compensate.",
         "Match the material to your hair: ceramic or tourmaline ceramic for fine, normal or damaged hair; titanium for thick or coarse hair. Then prioritize precise temperature control and the right barrel size.",
         "Safety features deserve a look too. Automatic shut-off protects against an iron left on the counter, a cool tip gives you somewhere safe to hold the barrel, and a swivel cord stops the cable from twisting as you rotate the iron. Dual voltage matters if you travel. None of these change how your curls look, but they make the tool easier and safer to use every day.",

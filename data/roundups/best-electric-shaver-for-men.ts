@@ -40,7 +40,7 @@ export const bestElectricShaverForMen: RoundupData = {
       description: [
         "Braun's Series 9 has been the reference foil shaver for years, and the PRO+ is the current version of it. According to the listing, it uses five shave elements in a flexing head, includes a precision trimmer for longer hairs and sideburns, works wet or dry, and runs for up to an hour per charge. Buyer feedback is consistently strong on two points: it shaves very close in one or two passes, and it stays comfortable on the neck, where many shavers cause redness.",
         "The design is especially good with dense or coarse beards. Braun's foil systems are built to catch hairs that lie flat against the skin, which is a frequent complaint about cheaper shavers. If you have tried a budget electric and found it left patches along the jaw or under the chin, a flagship foil shaver is the most reliable fix.",
-        "It is expensive, and replacement heads cost more than budget-shaver heads. Skip it if you only shave a few times a week or have a very angular jaw and prefer a rotary feel, in which case the Philips Norelco i9000 Prestige is a better match. Check the listing for what is in the box, since Braun sells several bundles under similar names.",
+        "It is expensive, and replacement heads cost more than budget-shaver heads. If you only shave a few times a week, or have a very angular jaw and prefer a rotary feel, the Philips Norelco i9000 Prestige is the better match. Check the listing for what is in the box, since Braun sells several bundles under similar names.",
       ],
       pros: [
         "Excellent closeness in one or two passes",
@@ -74,7 +74,7 @@ export const bestElectricShaverForMen: RoundupData = {
       description: [
         "Philips Norelco's Prestige line is its flagship rotary range, and the i9000 Prestige is a recent version of it. Like other Norelco rotary shavers, it uses three circular cutting heads on a flexing unit that tilts to follow the face. That design is particularly good on the curves of the jaw and chin and on neck hair that grows in swirls, where a straight foil has to be turned and angled.",
         "Rotary shavers are also typically more forgiving of a few days' growth, because the slotted heads can guide longer hairs into the cutters. If you shave every second or third day, or your neck growth points in several directions, a premium rotary shaver may suit you better than any foil. Buyer feedback on Norelco's top tiers commonly praises comfort for sensitive skin.",
-        "On flat areas like the cheeks, a top foil shaver may still edge it on closeness, and Prestige models sit at the upper end of Norelco's pricing, though this one has typically cost noticeably less than the Braun Series 9 PRO+. Skip it if you already know you prefer foil. Check the listing for included accessories, since Prestige bundles vary.",
+        "On flat areas like the cheeks, a top foil shaver may still edge it on closeness, and Prestige models sit at the upper end of Norelco's pricing, though this one has typically cost noticeably less than the Braun Series 9 PRO+. If you already know you prefer foil, the Braun is your pick. Check the listing for included accessories, since Prestige bundles vary.",
       ],
       pros: [
         "Rotary heads follow the jaw, chin and neck contours",
@@ -108,7 +108,7 @@ export const bestElectricShaverForMen: RoundupData = {
       description: [
         "The Series 7 is where Braun's range offers the most value. It is a waterproof foil shaver for wet or dry use, and, according to the listing, it has Turbo and Gentle shaving modes plus a precision trimmer. Those two modes are genuinely useful: Turbo for a thicker beard or a few days' growth, Gentle for the neck or a day when your skin is irritated.",
         "Buyer feedback on the current Series 7 is positive about closeness and comfort for the price, and many men who step up from a budget shaver find it a clear improvement. It typically costs well under half as much as the Series 9 PRO+, which makes it the best balance of performance and price on this list.",
-        "What you give up compared with the Series 9 is some of the closeness in one pass and the most refined head flexibility, which matter most on very dense beards. Skip it if you have an especially coarse beard and shave daily; the flagship justifies its price there. For everyone else, this is the one to buy.",
+        "What you give up compared with the Series 9 is some of the closeness in one pass and the most refined head flexibility, which matter most on very dense beards. For an especially coarse beard shaved daily, the flagship justifies its price. For everyone else, this is the one to buy.",
       ],
       pros: [
         "Most of the flagship experience at a much lower price",
@@ -141,7 +141,7 @@ export const bestElectricShaverForMen: RoundupData = {
       description: [
         "Panasonic's ARC5 has built a loyal following among men with thick beards. It is a five-blade foil shaver for wet or dry use, driven by Panasonic's high-speed linear motor, and the ARC5 range adjusts its power to beard density. The practical result, according to buyer feedback, is a fast shave that gets through a heavy beard in fewer passes than most competitors.",
         "Panasonic is also known for very sharp blades, which help on coarse hair. A pop-up trimmer handles sideburns and mustache edges. Several ARC5 variants are sold on Amazon with different bundles and docks, so make sure the listing you buy matches what you want, and note that Panasonic's ARC6 sits above it in the range at a much higher price.",
-        "The flip side of that speed and sharpness is that some men with sensitive skin find Panasonic shavers a little more aggressive than Braun's or Norelco's top models, especially during the first weeks. Skip it if comfort on a reactive neck is your top priority. If your beard is dense and you are tired of making five passes, it is an excellent choice.",
+        "The flip side of that speed and sharpness is that some men with sensitive skin find Panasonic shavers a little more aggressive than Braun's or Norelco's top models, especially during the first weeks. If comfort on a reactive neck is your top priority, Braun or Norelco may suit you better. If your beard is dense and you are tired of making five passes, it is an excellent choice.",
       ],
       pros: [
         "Fast, efficient on thick and coarse beards",
@@ -173,7 +173,7 @@ export const bestElectricShaverForMen: RoundupData = {
       description: [
         "The Norelco 5400 is a mid-range rotary shaver from Philips' 5000 series, and it is the most affordable rotary model we would recommend to someone with sensitive skin. It uses Norelco's three-head rotary design for wet or dry shaving, and it costs roughly half as much as the i9000 Prestige.",
         "For men who shave daily and have an average beard, the 5000 series delivers a comfortable, reliable shave, and buyer feedback is generally positive about its gentleness on the neck. Genuine replacement heads for the 5000 series are widely available, which keeps running costs low over the life of the shaver.",
-        "What you lose against the premium Norelco is closeness in one pass and the most refined head flexing. Skip it if your beard is dense or coarse; it will need more passes than a flagship shaver. Check the listing for the exact trimmer attachment and accessories included.",
+        "What you lose against the premium Norelco is closeness in one pass and the most refined head flexing. Dense or coarse beards will need more passes than with a flagship shaver, so it shines brightest on light to medium growth. Check the listing for the exact trimmer attachment and accessories included.",
       ],
       pros: [
         "Affordable rotary shaver with a comfort focus",
@@ -206,7 +206,7 @@ export const bestElectricShaverForMen: RoundupData = {
       description: [
         "Braun's Series 5 brings the brand's foil design to an entry-level price. According to the listing, the 5118s is waterproof for wet or dry use, includes a Turbo mode and a precision trimmer, and runs for up to 50 minutes per charge. That is a solid specification for a shaver that typically costs about half as much as the Series 7.",
         "It is a good first electric shaver for a man moving from cartridge razors, or a dependable second shaver for travel or the gym bag. Buyer feedback generally describes a comfortable shave on light to average beards, with replacement heads easy to find.",
-        "Skip it if you have a thick beard or shave only every few days. Entry-level foil shavers need more passes on dense or longer growth, and that extra friction is what causes irritation. In that case, the Series 7 or the Panasonic ARC5 is worth the step up.",
+        "It is happiest on light to medium growth shaved regularly. Entry-level foil shavers need more passes on dense or longer growth, and that extra friction is what causes irritation, so for a thick beard or a shave every few days, the Series 7 or the Panasonic ARC5 is the natural step up.",
       ],
       pros: [
         "Braun foil design at an entry-level price",
@@ -331,7 +331,7 @@ export const bestElectricShaverForMen: RoundupData = {
         "The features that make a real difference are the cutting system, head flexibility and battery reliability. More expensive shavers generally cut closer in fewer passes and follow the face more closely, which reduces irritation as well as saving time. That is why flagship models are worth the money for men who shave daily with dense beards.",
         "Cleaning and charging stations are convenient but optional. They clean, dry and charge the shaver automatically, but they add cost upfront and need cleaning cartridges over time. Rinsing a waterproof shaver under the tap and letting it air dry does most of the same job for free. Buy a station if you value the convenience and will keep up with the refills.",
         "Replacement heads are the hidden running cost. Manufacturers typically suggest replacing foil and cutter cassettes or rotary heads every one to two years, depending on the model and how often you shave. Before buying, check that genuine replacements are easy to find and what they cost, since that is part of the true price of the shaver.",
-        "Things that matter less than marketing suggests include the number of blades on its own, app connectivity, and vague smart claims. A well-made shaver with fewer blades can outperform a cheaper one with more. Focus on the brand's track record, buyer feedback on comfort, and whether the model suits your beard.",
+        "Features that matter less than you might expect include the number of blades on its own, app connectivity, and smart extras. A well-made shaver with fewer blades can outperform a cheaper one with more. Focus on the brand's track record, buyer feedback on comfort, and whether the model suits your beard.",
       ],
       pullQuote: "Replacement heads are the hidden running cost.",
     },

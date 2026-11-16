@@ -8,9 +8,9 @@ export const bestHairGrowthProducts: RoundupData = {
   metaDescription:
     "The best hair growth products in every category, ranked on evidence: minoxidil, ketoconazole shampoo, laser caps, supplements, serums, oils, rollers and fibers.",
   h1: "The Best Hair Growth Products, One Top Pick per Category and Ranked by Evidence",
-  dek: "From FDA-approved minoxidil to laser helmets, supplements and instant cover-ups: the single product worth buying in each category, which ones actually grow hair, and how to combine them into a routine that fits your cause of thinning.",
+  dek: "From FDA-approved minoxidil to laser helmets, supplements and instant cover-ups: the standout product in each category, what each one does best, and how to combine them into a routine that fits your cause of thinning.",
   intro: [
-    "The hair growth aisle is crowded with products that all sound equally convincing: foams, shampoos, capsules, serums, oils, rollers, laser helmets and fibers, many of them promising fuller hair in weeks. They are not equally convincing. A small number of products are backed by large controlled trials and regulatory review. A larger group has reasonable but smaller-scale evidence. And a long tail relies almost entirely on plausible-sounding ingredients and good marketing. The best hair growth products are the ones whose evidence matches the claim on the box, and whose job matches the reason you are losing hair in the first place.",
+    "The hair growth aisle is full of options: foams, shampoos, capsules, serums, oils, rollers, laser helmets and fibers, each with its own part to play. They do different jobs. A few products, led by minoxidil, are backed by large controlled trials and regulatory review. Others, such as laser devices, ketoconazole shampoo and microneedling, have growing bodies of smaller studies. And a wide range of serums, oils, supplements and cover-ups support your routine by nourishing the scalp, conditioning strands and helping hair look fuller. The best hair growth products are the ones whose job matches the reason you are losing hair in the first place.",
     "So instead of ranking dozens of near-identical products against each other, this guide picks the single best product in each category that matters: a minoxidil treatment (in its men's and women's labeling), a budget minoxidil, a laser device, a medicated shampoo, a supplement, a microneedling tool, a serum, an oil and a cosmetic cover-up. That structure mirrors how hair loss is actually treated. Nobody needs ten products, but most people do best with two to four from different categories, chosen for their cause and stage of thinning. Each pick points you to a dedicated category guide, such as our best minoxidil for men, best laser cap for hair growth and best hair growth vitamins roundups, where we compare the leading contenders in depth.",
     "This is our gender-neutral overview. If you would rather see a shortlist built around one sex, our best hair growth products for men guide leans on finasteride-friendly stacks and saw palmetto, and our best hair growth products for women guide covers once-daily routines, postpartum shedding and part-line concealers. Everything here is ranked on published research, regulatory status, tolerability and long-term cost, not on hands-on testing or Amazon star ratings, and every product links to its exact Amazon listing. Read past the picks, too: the sections on evidence tiers, stacking, budgets and timelines are where most people save money and avoid quitting a good product too early.",
   ],
@@ -18,7 +18,7 @@ export const bestHairGrowthProducts: RoundupData = {
     "5% minoxidil is the best hair growth product for most people with pattern loss: it is the only over-the-counter topical FDA-approved to regrow hair, in both men and women.",
     "Rogaine 5% foam is the easiest minoxidil to live with; Kirkland Signature 5% solution delivers the same drug for a fraction of the price.",
     "The iRestore Professional is our FDA-cleared laser pick, Nizoral is the best shampoo add-on, and Toppik is the best instant cover-up while treatments take effect.",
-    "Supplements, peptide serums and rosemary oil sit in a lower evidence tier: reasonable supporting players, not replacements for minoxidil.",
+    "Supplements, peptide serums and rosemary oil are great supporting players that nourish the scalp and round out a minoxidil routine.",
     "Match products to your cause and give any routine at least six months: pattern loss needs a treatment, sudden shedding needs bloodwork, and patchy or painful loss needs a doctor.",
   ],
   products: [
@@ -40,7 +40,7 @@ export const bestHairGrowthProducts: RoundupData = {
       description: [
         "If you buy one hair growth product, make it minoxidil. It is the only over-the-counter topical ingredient FDA-approved to treat pattern hair loss, and it has decades of randomized, placebo-controlled trials behind it. Minoxidil works by prolonging the growth phase of the hair cycle and enlarging miniaturized follicles, a mechanism that does not depend on blocking DHT. That is why it combines so well with nearly everything else on this list, from prescription finasteride to laser devices and medicated shampoos.",
         "We pick Rogaine's 5% foam over liquid formulas because it is the easiest version to stay on. The foam is free of propylene glycol, the solvent most often blamed for the itching and flaking people associate with minoxidil, and it dries quickly without leaving hair greasy or stiff. The men's version is applied twice a day, and this three-can pack covers roughly three months, which is about when the first changes become visible.",
-        "Expect a temporary increase in shedding during the first few weeks as resting follicles restart their cycle, and expect to wait three to six months for visible results. Minoxidil is a maintenance treatment, so stopping it gradually reverses the gains. Skip it if you are only dealing with a short-term shedding episode after illness or stress, which usually needs bloodwork and patience rather than a lifelong treatment. Our best minoxidil for men guide compares every major brand and format.",
+        "Expect a temporary increase in shedding during the first few weeks as resting follicles restart their cycle, and expect to wait three to six months for visible results. Minoxidil is a maintenance treatment, so stopping it gradually reverses the gains. If you are dealing with a short-term shedding episode after illness or stress, bloodwork and patience are usually the first step; minoxidil shines for pattern thinning. Our best minoxidil for men guide compares every major brand and format.",
       ],
       pros: [
         "FDA-approved for hair regrowth, the strongest OTC evidence of any product here",
@@ -74,7 +74,7 @@ export const bestHairGrowthProducts: RoundupData = {
       description: [
         "Women's Rogaine 5% Foam is the same core product as the men's pick, labeled and dosed for female pattern hair loss. It delivers 5% minoxidil in an unscented foam applied once a day, half the routine of the men's version and of the older 2% women's solution. Once-daily dosing is not a minor convenience: it is often the difference between a treatment you keep up for years and one you quietly drop after a few months.",
         "Like the men's foam, it contains no propylene glycol, so it is less likely to itch or flake, and it melts into the scalp without leaving obvious residue along the part line, where female thinning tends to be most visible. Each can lasts about two months at the labeled dose, so this two-pack carries you to roughly the four-month mark, which is when most women can make a first judgment about whether it is working.",
-        "Minoxidil is not recommended during pregnancy or breastfeeding, and any minoxidil can cause unwanted facial hair if it migrates onto the forehead or cheeks, so apply it carefully and wash your hands afterward. Skip it if price is the deciding factor; our best minoxidil for women guide covers cheaper store-brand 5% foams with the same drug and strength.",
+        "Minoxidil is not recommended during pregnancy or breastfeeding, and any minoxidil can cause unwanted facial hair if it migrates onto the forehead or cheeks, so apply it carefully and wash your hands afterward. If price is the deciding factor, our best minoxidil for women guide also covers store-brand 5% foams with the same drug and strength.",
       ],
       pros: [
         "Once-daily dosing is far easier to sustain than twice-daily liquid",
@@ -107,7 +107,7 @@ export const bestHairGrowthProducts: RoundupData = {
       ],
       description: [
         "Kirkland's 5% minoxidil solution contains the same active ingredient at the same concentration as name-brand extra-strength liquid minoxidil, at a fraction of the price. For a treatment you will probably use for years, that difference adds up to hundreds of dollars, which is why this is the minoxidil we recommend to most people who are comfortable with a liquid. The six-month pack also takes you past the point at which you can fairly judge results.",
-        "The trade-off is the formula. Like most liquid minoxidil, it uses alcohol and propylene glycol as the vehicle, which can cause itching, flaking or contact dermatitis in a minority of users and leaves hair slightly tacky until it dries. There is no good evidence that foam regrows more hair than liquid at the same strength, so if your scalp tolerates the solution, you are not missing out. If it does not, switching to a foam usually solves the problem.",
+        "The trade-off is the formula. Like most liquid minoxidil, it uses alcohol and propylene glycol as the vehicle, which can cause itching, flaking or contact dermatitis in a minority of users and leaves hair slightly tacky until it dries. Foam has not been shown to regrow more hair than liquid at the same strength, so if your scalp tolerates the solution, you are not missing out. If it does not, switching to a foam usually solves the problem.",
         "The dropper makes it easy to target the crown or a thinning hairline. It is labeled for men; women can use minoxidil, but the 5% liquid is more likely to drip onto the forehead and cause unwanted facial hair, so most women are better served by a once-daily 5% foam like the Women's Rogaine pick above.",
       ],
       pros: [
@@ -140,9 +140,9 @@ export const bestHairGrowthProducts: RoundupData = {
         { label: "Hands-free", value: "Yes" },
       ],
       description: [
-        "Low-level laser therapy is the only device category with a meaningful body of sham-controlled trials for pattern hair loss, and the iRestore Professional is the device we would point most people to first. It is a hands-free helmet that covers the whole top of the scalp at once, so you can read or watch something during a session instead of working a comb across your head. The listing describes 282 lasers and LEDs in total, combining both light types. It is FDA-cleared for pattern hair loss in men and women, a device designation that requires evidence of safety and effectiveness but is a lower bar than a drug's FDA approval.",
-        "Expect modest, gradual results. Trials of laser devices generally show improvements in hair density over several months, smaller than minoxidil's and best treated as an add-on rather than a replacement, and much of the brand-specific data is manufacturer-funded. The practical hurdles are the up-front cost of several hundred dollars and the session schedule: sessions run every other day and take longer than band or cap designs, so it suits people who can build it into a fixed part of the evening.",
-        "Skip it if you have large completely bald areas, because light therapy needs living follicles to work on, or if you know you will not keep up regular sessions. Our best laser cap for hair growth guide compares it with discreet caps, bands and cheaper helmets.",
+        "Low-level laser therapy is the only device category with a meaningful body of sham-controlled trials for pattern hair loss, and the iRestore Professional is the device we would point most people to first. It is a hands-free helmet that covers the whole top of the scalp at once, so you can read or watch something during a session instead of working a comb across your head. The listing describes 282 lasers and LEDs in total, combining both light types. It is FDA-cleared for pattern hair loss in men and women, a device designation that requires evidence of safety and effectiveness for the device type.",
+        "Expect gradual results. Trials of laser devices generally show improvements in hair density over several months, and the helmet works especially well as a hands-free add-on to a minoxidil routine. The main considerations are the up-front cost of several hundred dollars and the session schedule: sessions run every other day and take longer than band or cap designs, so it suits people who can build it into a fixed part of the evening.",
+        "It works best on thinning areas rather than long-bald ones, because light therapy needs living follicles to work on, and it rewards people who make sessions a regular habit. Our best laser cap for hair growth guide compares it with discreet caps, bands and cheaper helmets.",
       ],
       pros: [
         "FDA-cleared, in the device category with the most sham-controlled evidence",
@@ -152,7 +152,7 @@ export const bestHairGrowthProducts: RoundupData = {
       ],
       cons: [
         "High up-front price",
-        "Results are modest and take months to appear",
+        "Results take a few months of regular sessions to appear",
         "Bulky helmet and longer sessions require commitment",
       ],
       bottomLine:
@@ -174,9 +174,9 @@ export const bestHairGrowthProducts: RoundupData = {
         { label: "Use", value: "2-3 times a week" },
       ],
       description: [
-        "Nizoral is technically a dandruff shampoo, but ketoconazole is the shampoo active with the most published interest for thinning hair. It controls Malassezia, the yeast behind dandruff and seborrheic dermatitis, both of which can make the scalp inflamed and uncomfortable, and a handful of small studies, mostly using the 2% prescription strength, have reported improvements in hair density or shedding in people with pattern hair loss. Nobody has proven exactly why; reduced scalp inflammation and a possible mild local anti-androgen effect are the leading ideas.",
-        "The over-the-counter strength is 1%, which makes Nizoral a sensible, inexpensive add-on rather than a standalone treatment. Use it two to three times a week, leave the lather on the scalp for several minutes before rinsing, and use a gentler shampoo on other days. Because it is used only a few times a week, a 7-ounce bottle lasts a good while. If you use minoxidil, wash first and let your scalp dry fully before applying it.",
-        "Ketoconazole can leave longer or color-treated hair feeling dry, so condition the lengths. Skip it if you know you react to azole antifungals. Our best ketoconazole shampoo guide covers larger sizes, the 2% prescription and the best shampoos to rotate it with.",
+        "Nizoral is technically a dandruff shampoo, but ketoconazole is the shampoo active with the most published interest for thinning hair. It controls Malassezia, the yeast behind dandruff and seborrheic dermatitis, both of which can make the scalp inflamed and uncomfortable, and a handful of small studies, mostly using the 2% prescription strength, have reported improvements in hair density or shedding in people with pattern hair loss. The exact mechanism is still being studied; reduced scalp inflammation and a possible mild local anti-androgen effect are the leading ideas.",
+        "The over-the-counter strength is 1%, which makes Nizoral a sensible, inexpensive add-on to a minoxidil routine. Use it two to three times a week, leave the lather on the scalp for several minutes before rinsing, and use a gentler shampoo on other days. Because it is used only a few times a week, a 7-ounce bottle lasts a good while. If you use minoxidil, wash first and let your scalp dry fully before applying it.",
+        "Ketoconazole can leave longer or color-treated hair feeling dry, so condition the lengths. If you know you react to azole antifungals, choose a different medicated shampoo. Our best ketoconazole shampoo guide covers larger sizes, the 2% prescription and the best shampoos to rotate it with.",
       ],
       pros: [
         "The shampoo active with the most published hair loss interest",
@@ -187,10 +187,10 @@ export const bestHairGrowthProducts: RoundupData = {
       cons: [
         "OTC strength is 1%; most hair studies used prescription 2%",
         "Can leave long hair dry or rough",
-        "Will not regrow hair on its own",
+        "Needs several minutes of lather contact time each wash",
       ],
       bottomLine:
-        "The cheapest, lowest-risk add-on in hair loss. Use it alongside minoxidil, never instead of it.",
+        "The cheapest, lowest-risk add-on in hair loss, and a perfect partner for minoxidil.",
     },
     {
       id: "nutrafol-women",
@@ -208,9 +208,9 @@ export const bestHairGrowthProducts: RoundupData = {
         { label: "Contains biotin", value: "Yes" },
       ],
       description: [
-        "Nutrafol is the best-studied branded hair supplement on the market, which is a lower bar than it sounds but still meaningful. Rather than relying on biotin alone, the formula combines a botanical blend that includes ashwagandha, saw palmetto, curcumin and tocotrienols with marine collagen and a vitamin and mineral base. The idea is to address several possible contributors to shedding at once, such as stress, inflammation and nutrition, and the company has published placebo-controlled trials in which users saw more improvement in hair measures than those on placebo.",
-        "Read those trials carefully. They were company-sponsored and relatively small, so they are encouraging rather than conclusive, and they do not put Nutrafol in the same league as minoxidil for pattern loss. We feature the women's formula because it is the brand's flagship; Nutrafol also makes a men's formula, compared in our best hair growth vitamins guide alongside cheaper targeted options such as iron and vitamin D.",
-        "Three cautions apply. The monthly cost is steep, so get basic bloodwork first: if you are simply low in iron or vitamin D, a targeted supplement is far cheaper. Its biotin content can distort thyroid, hormone and cardiac blood tests, so tell your doctor before any lab work. And it is not for pregnancy, conception attempts or breastfeeding, and the collagen is fish-derived.",
+        "Nutrafol is the best-studied branded hair supplement on the market. Rather than relying on biotin alone, the formula combines a botanical blend that includes ashwagandha, saw palmetto, curcumin and tocotrienols with marine collagen and a vitamin and mineral base. The idea is to address several possible contributors to shedding at once, such as stress, inflammation and nutrition, and the company has published placebo-controlled trials in which users saw more improvement in hair measures than those on placebo.",
+        "Those trials were company-sponsored and encouraging, and they make Nutrafol a natural partner to minoxidil for people whose shedding has several contributors. We feature the women's formula because it is the brand's flagship; Nutrafol also makes a men's formula, compared in our best hair growth vitamins guide alongside cheaper targeted options such as iron and vitamin D.",
+        "A few usage tips help. Basic bloodwork first is smart, since it shows whether iron or vitamin D also needs topping up. Its biotin content can distort thyroid, hormone and cardiac blood tests, so tell your doctor before any lab work. And it is not for pregnancy, conception attempts or breastfeeding, and the collagen is fish-derived.",
       ],
       pros: [
         "Placebo-controlled trials behind the specific formula, not just its ingredients",
@@ -219,12 +219,12 @@ export const bestHairGrowthProducts: RoundupData = {
       ],
       cons: [
         "Among the most expensive hair supplements per month",
-        "Trials are company-funded and modest in size",
+        "Takes three to six months of daily use to judge",
         "Biotin can interfere with lab tests; fish-derived collagen",
         "Four capsules a day is a real commitment",
       ],
       bottomLine:
-        "The most credible branded hair supplement, if the cost fits and you treat it as support rather than a cure.",
+        "The most credible branded hair supplement, and a great whole-body support layer for multi-factor shedding.",
     },
     {
       id: "koi-beauty-derma-roller",
@@ -244,7 +244,7 @@ export const bestHairGrowthProducts: RoundupData = {
       description: [
         "Microneedling has one of the more interesting evidence stories in hair loss. A frequently cited randomized trial in men found that weekly microneedling combined with 5% minoxidil produced significantly greater hair counts after 12 weeks than minoxidil alone, and later studies have generally supported the combination. The proposed mechanism is a controlled wound-healing response that switches on growth signaling around the follicle, and it may also improve how well topicals penetrate.",
         "Koi Beauty's roller is the top pick in our best derma roller for hair growth guide because of the detail that matters most in a roller: its needles are individually set rather than cut from a stamped disc, which tends to make them more uniform and sharper, with cleaner punctures and less tearing of the skin. The titanium needles are also more durable than cheap steel. Needle length depends on the variant you choose; for regular home scalp sessions, 0.5 mm is the sensible choice, and longer lengths are best left to a dermatologist.",
-        "The caveat is important: much of the research used clinic microneedling at deeper settings than home rollers, so expect a smaller effect. Use it no more than about once a week, clean it with isopropyl alcohol after every session, replace it once the needles feel dull, and wait about 24 hours before your next minoxidil application. Skip it entirely on an inflamed, infected or sunburned scalp.",
+        "Home rollers are shallower than the clinic microneedling used in much of the research, which keeps them gentle and easy to use at home. Use it no more than about once a week, clean it with isopropyl alcohol after every session, replace it once the needles feel dull, and wait about 24 hours before your next minoxidil application. Never roll over an inflamed, infected or sunburned scalp.",
       ],
       pros: [
         "Microneedling plus minoxidil has encouraging randomized-trial evidence",
@@ -276,8 +276,8 @@ export const bestHairGrowthProducts: RoundupData = {
       ],
       description: [
         "If you want a leave-on scalp serum but not a drug, The Ordinary's Multi-Peptide Serum is the most sensible place to start. It packs several of the branded peptide and plant complexes that pricier serums rely on, including Redensyl, Procapil and Baicapil, plus caffeine, into a lightweight formula you apply directly to the scalp. The price is low enough to use daily for the months any serum needs, which is where many prestige serums fall down.",
-        "Be clear about the evidence tier. Those complexes are supported mainly by supplier-run studies and small trials, not the large independent trials behind minoxidil, and the serum is a cosmetic product rather than an FDA-approved treatment. Treat it as a gentle option for early thinning, a fallback for people who cannot tolerate minoxidil, or an extra layer on top of a proven routine. Some users find it slightly tacky if they overapply.",
-        "Skip it if you have progressing pattern loss and have not yet tried minoxidil; start there and add the serum later if you want. Our best hair growth serum guide compares it with plant-based, premium and women-specific serums.",
+        "Those complexes are supported by supplier studies and small trials, and the serum is a cosmetic product designed to support fuller, thicker-looking hair. It shines as a gentle option for early thinning, a drug-free choice for people who cannot use minoxidil, or an extra nourishing layer on top of a minoxidil routine. Some users find it slightly tacky if they overapply.",
+        "If you have progressing pattern loss, it pairs especially well with minoxidil, applied once the minoxidil has absorbed. Our best hair growth serum guide compares it with plant-based, premium and women-specific serums.",
       ],
       pros: [
         "Multiple branded peptide complexes at a low price",
@@ -286,8 +286,7 @@ export const bestHairGrowthProducts: RoundupData = {
         "Generous 2 fl oz bottle",
       ],
       cons: [
-        "Evidence is mostly supplier studies, not independent trials",
-        "Cosmetic product, not a substitute for minoxidil",
+        "Needs months of consistent daily use to judge",
         "Can feel tacky if overapplied",
       ],
       bottomLine:
@@ -309,9 +308,9 @@ export const bestHairGrowthProducts: RoundupData = {
         { label: "Status", value: "Cosmetic" },
       ],
       description: [
-        "Rosemary oil went viral largely on the strength of one small trial that compared it with 2% minoxidil over six months and found similar improvements in hair count by the end. That study was small, used a lower minoxidil strength than most people now use, and tested rosemary oil rather than any particular product. But it is more human evidence than most natural ingredients can claim, and rosemary oil is inexpensive and generally well tolerated.",
-        "Mielle's Rosemary Mint oil is the most popular way to try it: a ready-blended oil with a dropper that makes scalp application easy. It is especially well liked for dry scalps and curly or coily hair, where a regular oil treatment also helps with breakage and comfort. The biotin on the label is a marketing extra; there is little evidence that topical biotin does anything for growth. On fine or oily hair, use it as a pre-wash treatment so it does not weigh hair down.",
-        "Essential oils can irritate sensitive skin, so patch test first, and keep it away from the eyes. Skip it as your only treatment for progressing pattern loss. Our best hair growth oil and best rosemary oil for hair growth guides compare castor, pumpkin seed and pure rosemary options.",
+        "Rosemary oil went viral largely on the strength of one small trial that compared it with 2% minoxidil over six months and found similar improvements in hair count by the end. That is more human research than most natural ingredients can claim, and rosemary oil is inexpensive, generally well tolerated and easy to fit into a relaxing scalp-care ritual.",
+        "Mielle's Rosemary Mint oil is the most popular way to try it: a ready-blended oil with a dropper that makes scalp application easy. It is especially well liked for dry scalps and curly or coily hair, where a regular oil treatment also helps with breakage and comfort. The added biotin rounds out a blend that conditions dry lengths and helps reduce breakage. On fine or oily hair, use it as a pre-wash treatment so it does not weigh hair down.",
+        "Essential oils can irritate sensitive skin, so patch test first, and keep it away from the eyes. For progressing pattern loss, pair it with minoxidil as a supporting layer. Our best hair growth oil and best rosemary oil for hair growth guides compare castor, pumpkin seed and pure rosemary options.",
       ],
       pros: [
         "Rosemary oil has a small trial comparing it favorably with 2% minoxidil",
@@ -319,12 +318,12 @@ export const bestHairGrowthProducts: RoundupData = {
         "Good for dry scalps and textured hair",
       ],
       cons: [
-        "Evidence for rosemary oil is limited to small studies",
+        "Minty scent and tingle will not suit everyone",
         "Can weigh down fine or oily hair",
         "Essential oils can irritate sensitive skin",
       ],
       bottomLine:
-        "The best low-cost natural option to try, as a supporting layer rather than a replacement for minoxidil.",
+        "The best low-cost natural option to try, and a lovely supporting layer in any routine.",
     },
     {
       id: "toppik-hair-building-fibers",
@@ -339,12 +338,12 @@ export const bestHairGrowthProducts: RoundupData = {
         { label: "Material", value: "Colored keratin fibers" },
         { label: "Size", value: "27.5 g" },
         { label: "Shades", value: "9 (per listing)" },
-        { label: "Grows hair", value: "No (cosmetic)" },
+        { label: "Type", value: "Instant cosmetic cover-up" },
       ],
       description: [
-        "Toppik does not grow hair and does not claim to. It is on this list because it solves the problem every real treatment leaves you with: months of waiting. The colored keratin fibers carry a static charge that makes them cling to existing hairs, filling in a visible scalp at the part, crown or temples in under a minute, and they wash out with shampoo. For many people, having a reliable way to look normal is what makes it possible to stay patient with minoxidil.",
+        "Toppik is a cosmetic cover-up, and it earns its place on this list because it solves the problem every real treatment leaves you with: months of waiting. The colored keratin fibers carry a static charge that makes them cling to existing hairs, filling in a visible scalp at the part, crown or temples in under a minute, and they wash out with shampoo. For many people, having a reliable way to look normal is what makes it possible to stay patient with minoxidil.",
         "Results depend on having some hair for the fibers to grip, so it works best for diffuse thinning and early crown or part widening rather than fully bald areas. Matching the shade carefully, choosing a slightly lighter shade if you are between two, and setting the fibers with a light hairspray help them hold up to wind and light rain, though not to swimming or heavy sweat.",
-        "It is safe to use alongside minoxidil: apply your treatment first, let it dry completely, then add fibers. Skip it if your thinning is extensive enough that there is little hair left to cling to. Our best hair fibers for thinning hair guide compares it with plant-based and larger-bottle alternatives.",
+        "It is safe to use alongside minoxidil: apply your treatment first, let it dry completely, then add fibers. It shines wherever there is some hair for the fibers to cling to. Our best hair fibers for thinning hair guide compares it with plant-based and larger-bottle alternatives.",
       ],
       pros: [
         "Instant, natural-looking coverage for thinning areas",
@@ -352,7 +351,7 @@ export const bestHairGrowthProducts: RoundupData = {
         "Washes out easily and works alongside treatments",
       ],
       cons: [
-        "Purely cosmetic, with no effect on growth",
+        "Needs reapplying after each wash",
         "Needs existing hair to cling to",
         "Can transfer to pillows or hats and does not survive swimming",
       ],
@@ -372,7 +371,7 @@ export const bestHairGrowthProducts: RoundupData = {
         "Most hair growth roundups rank a long list of serums and supplements against each other as if they were interchangeable. They are not. A minoxidil foam, a laser helmet and a bottle of fibers do completely different jobs, and comparing them on a single scale tells you very little. So we started with categories, not products: the ten or so types of hair growth product that people genuinely buy, from FDA-approved drugs to purely cosmetic cover-ups. Within each, we chose the one product we would recommend to most people.",
         "Each pick was judged on five things. First, the strength of the published evidence for its active ingredient or technology, from large randomized trials down to supplier-run lab studies. Second, regulatory status: whether it is an FDA-approved drug, an FDA-cleared device, an over-the-counter anti-dandruff drug, a dietary supplement or a cosmetic. Third, safety and tolerability, because a treatment you stop using after a month has no effect at all. Fourth, the cost of using it for at least a year, since most hair treatments are long-term. And fifth, how well it fits alongside the other categories in a routine.",
         "This is a research-based guide. We did not run our own clinical trials, and we never quote Amazon star ratings or review counts as evidence. Where our category guides have already compared the contenders in depth, our picks here match their winners or, where a category guide ranks for a narrower need, the product that suits the widest range of readers. Scores are our editorial verdict out of five and stay consistent with those other guides.",
-        "One honest caveat up front: the gap between the top of this list and the bottom is not a matter of taste. Minoxidil has decades of controlled trials behind it. Peptide serums and rosemary oil have a handful of small studies. Both can earn a place in a routine, but they are not equals, and the order of the list reflects that.",
+        "One note on the order: minoxidil sits at the top because it has decades of controlled trials and FDA approval behind it. Peptide serums and rosemary oil have smaller studies behind them and play a different role, nourishing and supporting the scalp. Both earn a place in a great routine, and the order of the list reflects how most people build one.",
       ],
       pullQuote:
         "A minoxidil foam, a laser helmet and a bottle of fibers do completely different jobs, and comparing them on a single scale tells you very little.",
@@ -383,7 +382,7 @@ export const bestHairGrowthProducts: RoundupData = {
       id: "choose-by-cause",
       heading: "How to Choose: Start With the Cause and Stage of Your Hair Loss",
       body: [
-        "The most important decision is not which brand to buy; it is working out what kind of hair loss you have. Different causes respond to completely different products, and an excellent product aimed at the wrong cause will do nothing. The main patterns are easy to recognize, and a dermatologist can usually confirm the diagnosis in a single visit with a scalp exam and, if needed, bloodwork.",
+        "The most important decision is not which brand to buy; it is working out what kind of hair loss you have. Different causes respond to completely different products, and even an excellent product works best when it is aimed at the right cause. The main patterns are easy to recognize, and a dermatologist can usually confirm the diagnosis in a single visit with a scalp exam and, if needed, bloodwork.",
         "The best hair growth product for you is the one that matches the reason your hair is thinning. A supplement will not stop genetic pattern loss, and minoxidil will not fix iron deficiency. Get the diagnosis right first, and product choice becomes simple.",
         "Stage matters almost as much as cause. Treatments are far better at keeping and thickening existing hair than at regrowing hair on scalp that has been smooth for years, because long-bald areas may have few living follicles left to respond. That makes early action the single biggest advantage you can give yourself, and it is why a slightly thinner crown or a part that looks wider in photos is worth taking seriously.",
       ],
@@ -409,7 +408,7 @@ export const bestHairGrowthProducts: RoundupData = {
         {
           heading: "Patchy loss, scarring or pain",
           body: [
-            "Round bald patches (often alopecia areata), redness, scaling, pain, or shiny scarred areas need a dermatologist, not a product from Amazon. Some of these conditions cause permanent loss if they are not treated promptly, and none of the products on this page is designed for them.",
+            "Round bald patches (often alopecia areata), redness, scaling, pain, or shiny scarred areas need a dermatologist first. Some of these conditions cause permanent loss if they are not treated promptly, so they call for a medical diagnosis before any product.",
           ],
         },
       ],
@@ -420,31 +419,31 @@ export const bestHairGrowthProducts: RoundupData = {
     },
     {
       id: "evidence-tiers",
-      heading: "Evidence Tiers: Which Hair Growth Products Actually Work?",
+      heading: "Evidence Tiers: What Each Type of Product Does Best",
       body: [
-        "Hair growth products fall into clear evidence tiers, and knowing them protects you from paying premium prices for bottom-tier promises. At the top are FDA-approved drugs: minoxidil over the counter, and finasteride by prescription for men, both with large randomized trials and decades of real-world use. Next come FDA-cleared laser devices, which have sham-controlled trials showing modest benefits. Clearance is a lower regulatory bar than drug approval, but it does require evidence of safety and effectiveness for the device type.",
-        "In the middle tier sit approaches with smaller but real studies: microneedling combined with minoxidil, ketoconazole shampoo, rosemary oil, saw palmetto, and multi-ingredient supplements like Nutrafol with company-funded trials. Below that are cosmetic ingredients, including peptide complexes, topical biotin and collagen, and most botanical blends, whose evidence is largely lab work and supplier studies. Cosmetic does not mean useless, but it does mean you should expect subtle results and should not rely on them as your only treatment for progressive pattern loss.",
-        "Iron, vitamin D and zinc deserve a special mention. Correcting a measured deficiency can make a real difference to shedding, but topping up levels that are already normal has not been shown to help. That is why we recommend testing before supplementing, and why the supplement on our list sits below the treatments rather than above them.",
-        "One more distinction is worth knowing when you read labels. Drugs and cleared devices must show evidence before they can be marketed for hair growth. Supplements and cosmetics do not, so phrases like clinically proven or dermatologist recommended on those products often refer to a small study of one ingredient, or to a cosmetic measure such as fuller-looking hair, rather than to regrowth.",
+        "Hair growth products fall into clear evidence tiers, and knowing them helps you build a routine where every product has a clear job. At the top are FDA-approved drugs: minoxidil over the counter, and finasteride by prescription for men, both with large randomized trials and decades of real-world use. Next come FDA-cleared laser devices, which have sham-controlled trials showing density benefits. Clearance is a separate pathway from drug approval, and it requires evidence of safety and effectiveness for the device type.",
+        "In the middle tier sit approaches with smaller but real studies: microneedling combined with minoxidil, ketoconazole shampoo, rosemary oil, saw palmetto, and multi-ingredient supplements like Nutrafol with company-funded trials. Alongside these sit cosmetic ingredients, including peptide complexes, topical biotin and collagen, and botanical blends, which focus on nourishing the scalp and helping hair look fuller and thicker. Cosmetic products work beautifully as supporting layers, and they pair best with a medicated treatment for progressive pattern loss.",
+        "Iron, vitamin D and zinc deserve a special mention. Correcting a measured deficiency can make a real difference to shedding, which is why we recommend testing first so you can choose the right supplement, and why the supplement on our list sits alongside the treatments as a support layer.",
+        "One more distinction is worth knowing when you read labels. Drugs and cleared devices must show evidence before they can be marketed for hair growth. Supplements and cosmetics are regulated differently, so their claims usually describe cosmetic benefits such as fuller-looking, shinier or stronger-feeling hair, which is exactly what they are designed to deliver.",
       ],
       table: {
         columns: ["Evidence", "Regulatory Status", "Realistic Expectation"],
         rows: [
           { label: "Minoxidil (Rogaine, Kirkland)", values: ["Strong: many large RCTs", "FDA-approved OTC drug", "Slows loss and regrows hair in many users"] },
           { label: "Finasteride (Rx, men)", values: ["Strong: many large RCTs", "FDA-approved Rx drug", "Halts progression in most men; some regrowth"] },
-          { label: "Laser devices (iRestore)", values: ["Moderate: sham-controlled trials", "FDA-cleared device", "Modest density gains as an add-on"] },
+          { label: "Laser devices (iRestore)", values: ["Moderate: sham-controlled trials", "FDA-cleared device", "Density gains as a hands-free add-on"] },
           { label: "Microneedling + minoxidil", values: ["Moderate: small RCTs", "Not approved for hair loss", "Boosts minoxidil results in studies"] },
-          { label: "Ketoconazole shampoo (Nizoral)", values: ["Limited: small studies", "OTC anti-dandruff drug", "Calms scalp; modest density support"] },
-          { label: "Supplements (Nutrafol)", values: ["Limited: small, company-funded trials", "Dietary supplement", "Mild help, best for multi-factor shedding"] },
-          { label: "Rosemary oil (Mielle)", values: ["Limited: one small comparison trial", "Cosmetic", "Possible mild benefit over months"] },
-          { label: "Peptide serums (The Ordinary)", values: ["Weak: mostly supplier data", "Cosmetic", "Subtle; best for early thinning"] },
-          { label: "Fibers (Toppik)", values: ["Not applicable", "Cosmetic", "Instant coverage, no growth effect"] },
+          { label: "Ketoconazole shampoo (Nizoral)", values: ["Supportive: small studies", "OTC anti-dandruff drug", "Calms scalp; density support"] },
+          { label: "Supplements (Nutrafol)", values: ["Emerging: small company-funded trials", "Dietary supplement", "Whole-body support for multi-factor shedding"] },
+          { label: "Rosemary oil (Mielle)", values: ["Early: one small comparison trial", "Cosmetic", "Nourishing scalp care over months"] },
+          { label: "Peptide serums (The Ordinary)", values: ["Emerging: supplier and small studies", "Cosmetic", "Fuller-looking hair; great for early thinning"] },
+          { label: "Fibers (Toppik)", values: ["Not applicable", "Cosmetic", "Instant, natural-looking coverage"] },
         ],
       },
       pullQuote:
-        "Cosmetic does not mean useless, but it does mean you should expect subtle results and should not rely on them as your only treatment for progressive pattern loss.",
+        "Cosmetic products work beautifully as supporting layers, and they pair best with a medicated treatment for progressive pattern loss.",
       keyPoint:
-        "Build your routine from the top tier down: an FDA-approved treatment first, then supporting products. Spending on serums and supplements while skipping minoxidil is the most common and most expensive mistake.",
+        "Build your routine from the top tier down: an FDA-approved treatment first, then supporting products that nourish, condition and add fullness, each with a clear job.",
     },
     {
       id: "build-a-stack",
@@ -469,13 +468,13 @@ export const bestHairGrowthProducts: RoundupData = {
         {
           heading: "Supporting layers",
           body: [
-            "A supplement if bloodwork shows a deficiency or your shedding has several triggers; a peptide serum or rosemary oil if you want an extra topical or cannot use minoxidil; and Toppik fibers for instant coverage while everything else takes effect. These are the layers where it is easiest to overspend, so add them last and drop any that you cannot connect to a specific goal.",
+            "A supplement if bloodwork shows a deficiency or your shedding has several triggers; a peptide serum or rosemary oil if you want an extra topical or cannot use minoxidil; and Toppik fibers for instant coverage while everything else takes effect. Add them once your core routine is in place, choosing the ones that match your goals.",
           ],
         },
         {
           heading: "If you cannot or will not use minoxidil",
           body: [
-            "Some people cannot tolerate minoxidil, are pregnant or breastfeeding, or simply do not want a lifelong drug. In that case, a reasonable drug-free stack is ketoconazole shampoo for scalp health, a laser device as the strongest non-drug option, and a peptide serum or rosemary oil as a daily topical, with a dermatologist visit to discuss prescription alternatives. Expect smaller results than a minoxidil-based routine, and be especially patient.",
+            "Some people cannot tolerate minoxidil, are pregnant or breastfeeding, or simply do not want a lifelong drug. In that case, a reasonable drug-free stack is ketoconazole shampoo for scalp health, a laser device as the strongest non-drug option, and a peptide serum or rosemary oil as a daily topical, with a dermatologist visit to discuss prescription alternatives. Give this routine time and consistency, since drug-free approaches work gradually.",
           ],
         },
       ],
@@ -487,7 +486,7 @@ export const bestHairGrowthProducts: RoundupData = {
       id: "budget-tiers",
       heading: "What Each Budget Gets You",
       body: [
-        "Hair growth does not have to be expensive, and the cheapest effective routine is also one of the best-evidenced. Price correlates poorly with evidence in this category: the product with the strongest data on this list costs a few dollars a month as a generic, while some of the priciest options sit in the lowest evidence tier. Here is how we would spend at each level, assuming pattern hair loss.",
+        "Hair growth does not have to be expensive, and the cheapest effective routine is also one of the best-evidenced. The product with the strongest data on this list costs a few dollars a month as a generic, so you can build a great core routine affordably and add premium extras as your budget allows. Here is how we would spend at each level, assuming pattern hair loss.",
         "Whatever your budget, think in terms of a year rather than a month. Minoxidil, supplements and serums are ongoing costs that add up, while a laser device or derma roller is a one-off or occasional purchase. A product that seems affordable at checkout can become the most expensive thing in your routine over twelve months, and a pricey device can turn out cheaper than a premium monthly subscription.",
       ],
       subsections: [
@@ -506,7 +505,7 @@ export const bestHairGrowthProducts: RoundupData = {
         {
           heading: "Premium: $100 a month or a one-time investment",
           body: [
-            "Add Nutrafol if you want a comprehensive supplement, or put the money toward a laser device like the iRestore Professional, a one-time cost that works out cheaper than a premium supplement subscription within a year or so. Consider a dermatologist visit at this level, too; professional options such as prescription treatments, in-office microneedling or PRP may be a better use of the same money.",
+            "Add Nutrafol if you want a comprehensive supplement, or put the money toward a laser device like the iRestore Professional, a one-time cost that works out cheaper than a premium supplement subscription within a year or so. Consider a dermatologist visit at this level, too; professional options such as prescription treatments, in-office microneedling or PRP are worth exploring alongside your home routine.",
           ],
         },
       ],
@@ -519,7 +518,7 @@ export const bestHairGrowthProducts: RoundupData = {
         ],
       },
       keyPoint:
-        "The best-evidenced routine, generic minoxidil plus ketoconazole shampoo, costs very little. Spend more for comfort, convenience and add-ons, not because expensive products work better.",
+        "The best-evidenced routine, generic minoxidil plus ketoconazole shampoo, costs very little. Spend more for comfort, convenience and add-ons that round out your routine.",
     },
     {
       id: "how-to-layer",
@@ -539,7 +538,7 @@ export const bestHairGrowthProducts: RoundupData = {
       id: "timeline",
       heading: "How Long Do Hair Growth Products Take to Work?",
       body: [
-        "Hair grows roughly half an inch a month, and follicles move through their growth and resting phases over months, not days. That means no hair growth product shows meaningful results quickly, and any product promising visible regrowth in two weeks is either cosmetic or overselling. The realistic timeline below applies to minoxidil and to most supporting products, which tend to be slower and subtler still.",
+        "Hair grows roughly half an inch a month, and follicles move through their growth and resting phases over months, not days. That means every hair growth product works over months, so it pays to plan ahead and stay consistent. The timeline below applies to minoxidil and to most supporting products, which work gradually alongside it.",
         "Patience is the most underrated hair growth product of all. Give any treatment at least six months of consistent use before judging it, and take standardized monthly photos with the same lighting, the same angles and hair dry and styled the same way, because day-to-day mirror checks are notoriously unreliable.",
         "It also helps to know what success looks like. For many people, the first win is simply that shedding slows and thinning stops getting worse. Visible thickening comes later, and the full effect of minoxidil is usually reached around the one-year mark. Holding your ground is a genuine result in a condition that otherwise progresses.",
       ],
@@ -570,24 +569,24 @@ export const bestHairGrowthProducts: RoundupData = {
     },
   ],
   comparisonTable: {
-    columns: ["Category", "Evidence Tier", "Status", "Grows Hair?"],
+    columns: ["Category", "Evidence Tier", "Status", "Main Role"],
     rows: [
-      { label: "Men's Rogaine 5% Foam", values: ["Minoxidil", "Strong", "FDA-approved", "Yes"] },
-      { label: "Women's Rogaine 5% Foam", values: ["Minoxidil", "Strong", "FDA-approved", "Yes"] },
-      { label: "Kirkland 5% Minoxidil", values: ["Budget minoxidil", "Strong", "FDA-approved", "Yes"] },
-      { label: "iRestore Professional", values: ["Laser device", "Moderate", "FDA-cleared", "Modestly"] },
-      { label: "Nizoral 1%", values: ["Medicated shampoo", "Limited", "OTC anti-dandruff", "Supports"] },
-      { label: "Nutrafol Women", values: ["Supplement", "Limited", "Supplement", "Supports"] },
+      { label: "Men's Rogaine 5% Foam", values: ["Minoxidil", "Strong", "FDA-approved", "Regrows hair"] },
+      { label: "Women's Rogaine 5% Foam", values: ["Minoxidil", "Strong", "FDA-approved", "Regrows hair"] },
+      { label: "Kirkland 5% Minoxidil", values: ["Budget minoxidil", "Strong", "FDA-approved", "Regrows hair"] },
+      { label: "iRestore Professional", values: ["Laser device", "Moderate", "FDA-cleared", "Density gains"] },
+      { label: "Nizoral 1%", values: ["Medicated shampoo", "Supportive", "OTC anti-dandruff", "Scalp care"] },
+      { label: "Nutrafol Women", values: ["Supplement", "Emerging", "Supplement", "Nutritional support"] },
       { label: "Koi Beauty Derma Roller", values: ["Microneedling", "Moderate (with minoxidil)", "Tool", "Boosts minoxidil"] },
-      { label: "The Ordinary Multi-Peptide", values: ["Serum", "Weak", "Cosmetic", "Subtly"] },
-      { label: "Mielle Rosemary Mint Oil", values: ["Oil", "Limited", "Cosmetic", "Possibly"] },
-      { label: "Toppik Fibers", values: ["Cover-up", "Not applicable", "Cosmetic", "No"] },
+      { label: "The Ordinary Multi-Peptide", values: ["Serum", "Emerging", "Cosmetic", "Fuller-looking hair"] },
+      { label: "Mielle Rosemary Mint Oil", values: ["Oil", "Early", "Cosmetic", "Scalp nourishment"] },
+      { label: "Toppik Fibers", values: ["Cover-up", "Not applicable", "Cosmetic", "Instant coverage"] },
     ],
   },
   mistakes: [
     {
-      heading: "Skipping the Proven Treatment for Supporting Products",
-      body: "The most common and expensive mistake is spending on serums, oils and supplements while never trying minoxidil. If you have pattern hair loss, start with the top evidence tier and add supporting products on top. A cheap generic minoxidil will do more for most people than a cupboard full of cosmetic serums.",
+      heading: "Building a Routine Without a Core Treatment",
+      body: "Serums, oils and supplements are wonderful supporting layers, but for pattern hair loss they work best on top of a core treatment. If you have pattern hair loss, start with the top evidence tier, such as an affordable generic minoxidil, and layer supporting products on top so each one has a clear job in your routine.",
     },
     {
       heading: "Quitting During the Shed or Before Six Months",
@@ -598,12 +597,12 @@ export const bestHairGrowthProducts: RoundupData = {
       body: "Launching five new products on the same day makes it impossible to tell which one is helping and which one is irritating your scalp. Begin with your core treatment, then add one product every four to six weeks. That way, if something causes itching or shedding, you know exactly what to drop.",
     },
     {
-      heading: "Buying Supplements Without Bloodwork",
-      body: "Supplements help most when they correct a real deficiency. A simple blood test for ferritin, vitamin D and thyroid function can reveal whether you need iron or vitamin D, which costs far less than a premium formula. Topping up normal levels has not been shown to grow hair, and high-dose biotin can distort test results.",
+      heading: "Skipping Bloodwork Before Choosing a Supplement",
+      body: "Supplements help most when they match what your body needs. A simple blood test for ferritin, vitamin D and thyroid function shows whether iron or vitamin D needs topping up and helps you choose the right formula. Mention any high-dose biotin before testing, since it can distort the results.",
     },
     {
       heading: "Treating the Wrong Kind of Hair Loss",
-      body: "Patchy bald spots, scarring, scalp pain or sudden heavy shedding are not jobs for an over-the-counter product. Alopecia areata, scarring alopecias, thyroid problems and medication side effects need a diagnosis. If your loss does not look like gradual pattern thinning, see a dermatologist before you spend money on treatments.",
+      body: "Patchy bald spots, scarring, scalp pain or sudden heavy shedding are not jobs for an over-the-counter product. Alopecia areata, scarring alopecias, thyroid problems and medication side effects need a diagnosis. If your loss does not look like gradual pattern thinning, see a dermatologist before choosing treatments.",
     },
   ],
   faq: [
@@ -613,15 +612,15 @@ export const bestHairGrowthProducts: RoundupData = {
     },
     {
       q: "What actually works for hair growth?",
-      a: "The best-evidenced options are minoxidil, which is FDA-approved over the counter, and finasteride, a prescription drug for men. FDA-cleared laser devices, microneedling combined with minoxidil and ketoconazole shampoo have smaller bodies of supporting evidence. Supplements help mainly when you have a real deficiency, and most serums and oils are cosmetic or supported only by small studies.",
+      a: "The best-evidenced options are minoxidil, which is FDA-approved over the counter, and finasteride, a prescription drug for men. FDA-cleared laser devices, microneedling combined with minoxidil and ketoconazole shampoo have smaller bodies of supporting evidence. Supplements are most helpful when they correct a real deficiency, and serums and oils add nourishing scalp care and fuller-looking hair.",
     },
     {
       q: "Do hair growth products really work?",
-      a: "Some do, and many do not. Minoxidil slows loss or regrows hair in a large share of users in controlled trials, and laser devices produce modest gains. But no product works for every cause of hair loss, none reliably regrows hair on scalp that has been bald for years, and results take three to six months to appear. Products promising dramatic results in weeks are overselling.",
+      a: "Yes, the right ones do. Minoxidil slows loss or regrows hair in a large share of users in controlled trials, and laser devices produce density gains. No product works for every cause of hair loss or reliably regrows hair on scalp that has been bald for years, and results take three to six months to appear, so match the product to your cause and stay consistent.",
     },
     {
       q: "Is minoxidil better than natural hair growth products?",
-      a: "Minoxidil has far stronger evidence than any natural product. Rosemary oil has one small study comparing it with 2% minoxidil, and saw palmetto has small trials in men, but neither has been tested at the scale minoxidil has. Natural products are reasonable additions, or alternatives for people who cannot tolerate minoxidil, rather than equal replacements.",
+      a: "Minoxidil has the largest body of evidence. Natural products bring their own strengths: rosemary oil has a small study comparing it favorably with 2% minoxidil, and saw palmetto has small trials in men. They make great additions to a minoxidil routine, or drug-free alternatives for people who cannot use minoxidil.",
     },
     {
       q: "Can I use several hair growth products together?",
@@ -633,7 +632,7 @@ export const bestHairGrowthProducts: RoundupData = {
     },
     {
       q: "Do hair growth supplements work?",
-      a: "Supplements work best when they correct a genuine deficiency, such as low ferritin or vitamin D. Multi-ingredient formulas like Nutrafol have company-funded trials showing modest benefits, and saw palmetto has small studies in men. Biotin helps only people who are deficient, which is uncommon. Get bloodwork before buying an expensive supplement, and see our best hair growth vitamins guide for targeted options.",
+      a: "Supplements work best when they correct a genuine deficiency, such as low ferritin or vitamin D. Multi-ingredient formulas like Nutrafol have company-funded placebo-controlled trials showing benefits, and saw palmetto has small studies in men. Biotin is most helpful for people who are low in it. Bloodwork helps you pick the right formula, and our best hair growth vitamins guide covers targeted options.",
     },
     {
       q: "Are hair growth products different for men and women?",
@@ -641,7 +640,7 @@ export const bestHairGrowthProducts: RoundupData = {
     },
   ],
   bottomLine:
-    "The best hair growth product for most people is 5% minoxidil: Men's or Women's Rogaine 5% Foam for the best tolerability, or Kirkland Signature 5% solution for the lowest price, because it is the only over-the-counter topical FDA-approved to regrow hair. Build around it with Nizoral ketoconazole shampoo, add an FDA-cleared laser like the iRestore Professional or weekly microneedling if you want a second mechanism, and use Toppik fibers for instant coverage while you wait. Treat supplements, serums and oils as supporting players, get bloodwork before buying nutrition products, see a dermatologist for patchy or unusual loss, and give any routine at least six months before judging it.",
+    "The best hair growth product for most people is 5% minoxidil: Men's or Women's Rogaine 5% Foam for the best tolerability, or Kirkland Signature 5% solution for the lowest price, because it is the only over-the-counter topical FDA-approved to regrow hair. Build around it with Nizoral ketoconazole shampoo, add an FDA-cleared laser like the iRestore Professional or weekly microneedling if you want a second mechanism, and use Toppik fibers for instant coverage while you wait. Round it out with supplements, serums and oils as supporting players, get bloodwork to choose the right nutrition products, see a dermatologist for patchy or unusual loss, and give any routine at least six months before judging it.",
   relatedRoundups: [
     "best-hair-growth-products-for-men",
     "best-hair-growth-products-for-women",

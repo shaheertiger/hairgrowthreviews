@@ -17,7 +17,7 @@ export const minoxidilRogaine: GuideData = {
   ],
   keyTakeaways: [
     "Generic minoxidil is chemically equivalent to Rogaine — Kirkland Signature runs roughly $8/month versus Rogaine's $25-$50. The gap is brand markup, not formula quality.",
-    "\"Rogaine hair fibers\" are a cosmetic concealer that clings to existing hair and washes out. Zero regrowth effect, and unrelated to the medicated minoxidil line.",
+    "\"Rogaine hair fibers\" are a cosmetic concealer that clings to existing hair for instant fullness and washes out. They're a separate product from the medicated minoxidil line, and the two pair well.",
     "Minoxidil is a maintenance treatment, not a cure — stopping typically returns hair to its untreated loss trajectory over the following months.",
     "Foam is the better-tolerated format: no propylene glycol (which irritates an estimated 5-12% of liquid users) and less unwanted facial hair (5.7% vs. 15.1%).",
     "Expect 3-6 months of consistent, correctly applied use before judging results. An early increase in shedding is expected as the hair cycle resets.",
@@ -176,7 +176,7 @@ export const minoxidilRogaine: GuideData = {
       body: [
         "Minoxidil is frequently combined with finasteride (oral or topical) by dermatologists, since the two act through different, complementary mechanisms — hair-cycle stimulation versus DHT suppression — and combined use is generally considered more effective than either alone, without known dangerous interaction between them. As with any combined regimen, it's worth discussing with a clinician, particularly for anyone with underlying health conditions or taking other medications.",
         "Microneedling or dermarolling (using a small handheld device with fine needles to create controlled micro-injuries in the scalp) is sometimes used alongside minoxidil, on the theory that the induced healing response may improve absorption and stimulate additional growth signaling. Evidence here is more limited than for minoxidil or finasteride individually, and technique matters considerably — over-aggressive use can cause unnecessary scalp trauma — so this is best approached cautiously and, ideally, with professional guidance rather than as a default addition.",
-        "Ketoconazole-containing medicated shampoos are another common pairing, generally used a few times a week rather than daily, both for their anti-dandruff properties and because ketoconazole has some independent evidence for mild anti-androgenic and anti-inflammatory effects on the scalp. Used alongside minoxidil, it's generally considered complementary rather than competing, though it shouldn't be treated as a substitute for either minoxidil or finasteride given its comparatively modest standalone evidence for hair regrowth.",
+        "Ketoconazole-containing medicated shampoos are another common pairing, generally used a few times a week rather than daily, both for their anti-dandruff properties and because ketoconazole has some independent evidence for mild anti-androgenic and anti-inflammatory effects on the scalp. Used alongside minoxidil, it's generally considered complementary rather than competing, and it works best as a supporting player in a routine built around minoxidil or finasteride, keeping the scalp clean, calm and flake-free.",
         "As covered in more detail in our hair growth encyclopedia, a general principle worth repeating here is that adding treatments one at a time, with a full multi-month evaluation window for each, makes it far easier to know what's actually contributing to your results — versus starting several new products simultaneously and being unable to attribute outcomes (positive or negative) to any one of them specifically.",
       ],
     },
@@ -194,12 +194,12 @@ export const minoxidilRogaine: GuideData = {
       id: "hair-fibers",
       heading: "Rogaine Hair Fibers: A Different Product Entirely",
       body: [
-        "If you searched 'Rogaine hair fibers,' it's worth clarifying this is a completely separate, unrelated product line — keratin or color-matched fibers that electrostatically cling to existing hair to create an immediate cosmetic appearance of fullness. These provide zero regrowth effect, wash out, and can transfer if touched. Don't confuse them with the medicated minoxidil line; they're a same-day cosmetic concealer, not a treatment.",
+        "If you searched 'Rogaine hair fibers,' it's worth clarifying this is a completely separate, unrelated product line — keratin or color-matched fibers that electrostatically cling to existing hair to create an immediate cosmetic appearance of fullness. They work instantly, wash out with your next shampoo, and are a favorite for special occasions and everyday confidence. Think of them as a partner to the medicated minoxidil line; they're a same-day cosmetic concealer that pairs well with treatment.",
         "The confusion is understandable given the shared brand name and shelf placement, but the two product categories work on entirely different principles and timelines. Medicated minoxidil is a drug that takes months of consistent use to produce a biological change in the hair cycle. Hair fiber products are a purely cosmetic, same-day styling aid — applied to dry, styled hair, they cling to existing strands via static charge to visually thicken the appearance of hair that's already there, and they wash out with the next shampoo, leaving nothing behind.",
-        "Because they work on completely different problems, the two aren't mutually exclusive — some people use minoxidil as their actual treatment while also using fiber products for same-day cosmetic coverage during the months-long window before minoxidil's effects become visible. What matters is understanding that fibers are a concealer, not a substitute for treatment, and shouldn't be mistaken for evidence that regrowth has occurred.",
+        "Because they work on completely different problems, the two aren't mutually exclusive — some people use minoxidil as their actual treatment while also using fiber products for same-day cosmetic coverage during the months-long window before minoxidil's effects become visible. Used this way, fibers give you instant fullness today while minoxidil works quietly in the background on the longer-term goal.",
       ],
       pullQuote:
-        "Don't confuse them with the medicated minoxidil line; they're a same-day cosmetic concealer, not a treatment.",
+        "Think of them as a partner to the medicated minoxidil line; they're a same-day cosmetic concealer that pairs well with treatment.",
     },
   ],
   faq: [
@@ -213,7 +213,7 @@ export const minoxidilRogaine: GuideData = {
     },
     {
       q: "Are Rogaine hair fibers the same as minoxidil?",
-      a: "No — hair fibers are a cosmetic concealer product that clings to existing hair for an immediate fuller appearance. They have zero regrowth effect and are unrelated to the medicated minoxidil treatment line, though some people use both together for different purposes.",
+      a: "No — hair fibers are a cosmetic concealer product that clings to existing hair for an immediate fuller appearance. They're a separate product from the medicated minoxidil treatment line, and many people happily use both together: fibers for instant coverage, minoxidil for the long game.",
     },
     {
       q: "How long until minoxidil works?",

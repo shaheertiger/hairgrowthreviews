@@ -30,7 +30,7 @@ export const canYouUseMinoxidilAndKetoconazoleTogether: QuestionData = {
       body: [
         "Minoxidil is the only over-the-counter topical drug approved by the FDA for regrowing hair in pattern hair loss. It appears to lengthen the growth phase of the hair cycle and enlarge follicles that have been shrinking. It is the foundation of any topical regrowth routine, and its evidence base is far larger than ketoconazole's.",
         "Ketoconazole is an antifungal. In shampoo form, its approved job is to control Malassezia, the yeast that drives most dandruff and seborrheic dermatitis. It reliably reduces flaking, itching and redness, and over-the-counter Nizoral contains 1% ketoconazole. A 2% strength is available by prescription.",
-        "Ketoconazole's reputation in hair loss comes from small studies, mostly of the 2% strength, suggesting it may modestly improve hair density, possibly by calming scalp inflammation. It is not approved for hair regrowth, and it has not been tested in the large trials that support minoxidil. Think of it as a supporting player rather than a treatment in its own right.",
+        "Ketoconazole's reputation in hair loss comes from small studies, mostly of the 2% strength, suggesting it may modestly improve hair density, possibly by calming scalp inflammation. Its approved job is dandruff control rather than regrowth, and that is exactly where it shines. Think of it as a valuable supporting player that keeps the scalp in great shape while minoxidil does the heavy lifting.",
         "Because they work in different ways, the two are complementary rather than competing. Minoxidil acts on the follicle and the hair cycle; ketoconazole keeps the scalp surface calm and flake-free. A comfortable scalp also makes it easier to keep applying minoxidil every day, which is what actually drives results.",
       ],
       pullQuote: "Because they work in different ways, the two are complementary rather than competing.",
@@ -82,12 +82,12 @@ export const canYouUseMinoxidilAndKetoconazoleTogether: QuestionData = {
       id: "does-it-help",
       heading: "Does Adding Ketoconazole Make Minoxidil Work Better?",
       body: [
-        "Possibly, but the evidence is thin. The studies that suggest ketoconazole may help hair are small and mostly used the 2% prescription strength, and the combination with minoxidil has not been tested in the kind of large, long trials that would give a confident answer.",
+        "It may well help. The studies that suggest ketoconazole can support hair density mostly used the 2% prescription strength, and many dermatologists like the pairing because a calm, clean scalp is a better environment for minoxidil to do its work.",
         "There are plausible reasons it might help. Inflammation around the follicle is thought to play a part in pattern hair loss, and ketoconazole calms one common source of scalp inflammation. It is also sometimes said to have mild anti-androgen activity at the skin, though how much that matters at shampoo strength and contact time is uncertain.",
         "Where it clearly earns its place is the overlap with dandruff. Many people with thinning hair also have dandruff or seborrheic dermatitis, and a flaky, itchy scalp makes minoxidil less pleasant to apply. Treating that is worthwhile in its own right, whatever ketoconazole's effect on hair density turns out to be.",
-        "So the honest summary is this: add ketoconazole because it is cheap, low-risk and helps your scalp, not because you expect it to transform your results. Your regrowth will still depend mainly on applying minoxidil consistently and, for men, on whether finasteride is part of the plan.",
+        "So the summary is this: ketoconazole is an inexpensive, easy add-on that leaves your scalp healthier and more comfortable, with a possible bonus for hair. Your regrowth will still depend mainly on applying minoxidil consistently and, for men, on whether finasteride is part of the plan.",
       ],
-      keyPoint: "Add ketoconazole for a healthier scalp and a possible small bonus, not as a substitute for minoxidil or finasteride.",
+      keyPoint: "Add ketoconazole for a healthier, flake-free scalp and a possible bonus for hair, alongside minoxidil or finasteride.",
     },
     {
       id: "irritation",
@@ -146,11 +146,11 @@ export const canYouUseMinoxidilAndKetoconazoleTogether: QuestionData = {
     },
     {
       q: "Can ketoconazole shampoo replace minoxidil?",
-      a: "No. Ketoconazole is approved for dandruff, not hair regrowth, and its hair loss evidence is limited to small studies. Minoxidil has a much stronger evidence base. Use ketoconazole as an add-on to minoxidil, and for men to finasteride, rather than as a replacement.",
+      a: "They do different jobs, so they work best together. Ketoconazole is approved for dandruff and keeps the scalp calm and clear, while minoxidil is the FDA-approved regrowth treatment. Use ketoconazole as an add-on to minoxidil, and for men to finasteride, to round out the routine.",
     },
     {
       q: "Can I use minoxidil and ketoconazole with finasteride?",
-      a: "Yes. Minoxidil, ketoconazole shampoo and finasteride together are often called the Big Three. Finasteride is a prescription tablet for men that lowers DHT, so discuss it with a doctor. Ketoconazole's contribution is the least proven of the three.",
+      a: "Yes. Minoxidil, ketoconazole shampoo and finasteride together are often called the Big Three. Finasteride is a prescription tablet for men that lowers DHT, so discuss it with a doctor. Ketoconazole's role is keeping the scalp healthy and flake-free so the other two are easier to stick with.",
     },
   ],
   bottomLine:

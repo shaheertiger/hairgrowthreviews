@@ -8,18 +8,18 @@ export const bestShampooForChemoHair: RoundupData = {
   metaDescription:
     "Gentle, fragrance-free and sulfate-free shampoos for a tender scalp during and after chemo, plus scalp care, chemo curls and what really helps regrowth.",
   h1: "The Best Shampoo and Conditioner for Chemo Hair: Gentle Picks for a Tender Scalp",
-  dek: "No shampoo can stop chemotherapy hair loss or make hair grow back faster. What the right one can do is keep a sore, sensitive scalp clean and comfortable, and treat fragile new growth kindly. These are the gentle options worth considering, and the care habits that matter more than any bottle.",
+  dek: "The right shampoo keeps a sore, sensitive scalp clean and comfortable through treatment, and treats fragile new growth kindly. These are our favorite gentle picks, plus the simple care habits that make every stage easier.",
   intro: [
     "The best shampoo and conditioner for chemo hair is a mild, fragrance-free or low-irritant formula that cleans without stripping, paired with a light moisturizing conditioner, because during treatment the scalp is often dry, tender and easily irritated. Our top pick is Vanicream Shampoo, which is made without common irritants for sensitive skin. For the regrowth months, a sulfate-free moisturizing pair such as Kristin Ess The One or L'Oreal EverPure is a kind, affordable choice.",
-    "We want to be clear about one thing up front, because the marketing in this space is not always careful: no shampoo, conditioner or supplement has been shown to prevent chemotherapy hair loss or speed up regrowth afterward. Chemotherapy drugs target fast-dividing cells, and hair follicles are among the fastest-dividing cells in the body, which is why many regimens cause hair to fall out. A product applied to the scalp cannot change that. Scalp cooling, given during infusions, is the only well-studied method for reducing chemo hair loss, and it is something to discuss with your oncology team before treatment starts.",
+    "It helps to know what a shampoo's job is here. Chemotherapy hair loss is driven by the drugs: they target fast-dividing cells, and hair follicles are among the fastest-dividing cells in the body, which is why many regimens cause hair to fall out. Shampoos, conditioners and supplements are about comfort and care rather than preventing that loss or speeding regrowth. Scalp cooling, given during infusions, is the well-studied method for reducing chemo hair loss, and it is something to discuss with your oncology team before treatment starts.",
     "What a good shampoo can do is make this stretch a little easier. A gentle cleanser keeps the scalp comfortable while hair is shedding, keeps a bare scalp clean under wigs and scarves, and treats the soft, often different-textured hair that grows back without drying it out. We ranked the picks below on gentleness, fragrance and irritant profile, moisture, ease of use on very short or no hair, and value. This is research-based, not a hands-on test. Please check with your oncology team before using any new product on your scalp, especially if you are having radiation to the head or your skin has become very sensitive.",
   ],
   keyTakeaways: [
-    "No shampoo prevents chemo hair loss or speeds regrowth. Scalp cooling during infusions is the only well-studied way to reduce hair loss, so ask your team about it early.",
+    "A gentle shampoo is about comfort and care; scalp cooling during infusions is the well-studied way to reduce chemo hair loss, so ask your team about it early.",
     "Vanicream Shampoo is our best overall pick: a fragrance-free formula made without common irritants, which suits a dry, tender scalp during treatment.",
     "For regrowth, choose a gentle sulfate-free shampoo and a light moisturizing conditioner. Kristin Ess The One and L'Oreal EverPure are good, easy-to-find options.",
     "Protect a bare or thin scalp from the sun with a hat or sunscreen, use soft fabrics, and skip dye, perms and heat styling until your team says it is fine.",
-    "Do not start minoxidil, biotin or other hair products marketed for growth without your oncologist's approval. Biotin can also interfere with some lab tests.",
+    "Check with your oncologist before starting minoxidil, biotin or other growth-focused products. Biotin can also interfere with some lab tests.",
   ],
   products: [
     {
@@ -40,7 +40,7 @@ export const bestShampooForChemoHair: RoundupData = {
       description: [
         "Vanicream is a brand built around one idea: skin care for people whose skin reacts to almost everything. Its shampoo is fragrance-free and, per the listing, formulated without common irritants for sensitive skin, which matches the general advice for washing hair during treatment: mild products with as few potential irritants as possible. When the scalp is dry, tender or prickly, the fewer extras in a product, the fewer things there are to react to. That is why it tops this list.",
         "It is a simple, plain cleanser, and the listing notes that it helps remove oil, flaking and buildup. That makes it useful through every stage: while hair is thinning and shedding, on a bare scalp that needs gentle cleaning under a wig or head wrap, and on short new growth. On very short hair or a bald scalp, use a small amount, lather it in your palms first and wash with your fingertips, not your nails. Vanicream also makes a matching fragrance-free conditioner if you want one for regrowth.",
-        "Skip it if you want a rich, scented, salon-feel shampoo; it is deliberately plain and will not make longer, dry regrowth feel especially silky on its own. In that case, pair it with a moisturizing conditioner, or move to one of the sulfate-free picks below once your scalp has settled.",
+        "It is deliberately plain rather than a rich, scented, salon-feel shampoo, so longer, dry regrowth may want a little extra help. Pair it with a moisturizing conditioner, or move to one of the sulfate-free picks below once your scalp has settled.",
       ],
       pros: [
         "Fragrance-free, made for sensitive skin",
@@ -73,7 +73,7 @@ export const bestShampooForChemoHair: RoundupData = {
       description: [
         "Kristin Ess The One is one of the most popular sulfate-free shampoos at mass retailers, and it suits the regrowth phase well. The listing describes it as sulfate-free with avocado oil for moisture, softness and shine. Sulfate-free shampoos use milder cleansing agents, so they tend to leave hair and scalp feeling less stripped, which matters when new hair is fine, fragile and sometimes drier than the hair you lost.",
         "It is an easy, affordable daily shampoo once your scalp is comfortable again, and the brand sells a matching conditioner in the same line. Use the conditioner on the lengths once there is enough hair to hold it. In the early fuzz stage, a small amount of shampoo alone is plenty.",
-        "Skip it during active treatment if your scalp is very sensitive or you react to fragrance, since this is a scented product. Vanicream is the safer bet while your skin is reactive. If your team has given you specific skin instructions for radiation, follow those first.",
+        "As a scented product, it shines in the regrowth months; while your scalp is very sensitive or reactive to fragrance, Vanicream is the gentler match. If your team has given you specific skin instructions for radiation, follow those first.",
       ],
       pros: [
         "Sulfate-free and gentle on fine new hair",
@@ -105,7 +105,7 @@ export const bestShampooForChemoHair: RoundupData = {
       description: [
         "L'Oreal EverPure is the drugstore sulfate-free line most people can find at the nearest pharmacy or supermarket, which counts for a lot when you are tired and the last thing you want is a special order. The listing describes this one as a sulfate-free, triple action hydration shampoo for dry hair, and it is also made for damaged and color-treated hair. For the dry, fragile hair that often grows in after chemo, that moisture focus is the right one.",
         "There is a matching EverPure conditioner in the same hydration line, and using the two together is a simple, low-cost regrowth routine. Later on, if your team says it is fine to color your hair again, a color-safe, sulfate-free shampoo like this helps that color last.",
-        "Skip it during treatment if your scalp is reactive to fragrance, because, like most drugstore shampoos, it is scented. It is a regrowth-stage pick, not a sensitive-skin formula.",
+        "Like most drugstore shampoos, it is scented, so it is best saved for the regrowth stage rather than a fragrance-reactive scalp during treatment.",
       ],
       pros: [
         "Low price and sold almost everywhere",
@@ -137,7 +137,7 @@ export const bestShampooForChemoHair: RoundupData = {
       description: [
         "Pureology is a salon brand known for sulfate-free, color-care formulas, and Hydrate is its moisture shampoo for dry hair. The listing describes it as sulfate-free and made to moisturize and nourish dry hair. If your regrowth has come in coarse, dry or tightly curled, which is common, a richer moisture shampoo and its matching Hydrate conditioner can make that new texture easier to manage.",
         "This is a premium product, and it is not more medically appropriate than a drugstore sulfate-free shampoo. You are paying for a salon formula and feel. A little goes a long way on short hair, so a bottle can last a while during the early months.",
-        "Skip it while your scalp is tender or reactive, since it is a fragranced salon product. It is also hard to justify if money is tight during treatment; L'Oreal EverPure does a similar job for much less.",
+        "As a fragranced salon product, it is a lovely treat once your scalp has settled. If budget is tight, L'Oreal EverPure does a similar job for less.",
       ],
       pros: [
         "Rich moisture for dry or coarse new growth",
@@ -169,7 +169,7 @@ export const bestShampooForChemoHair: RoundupData = {
       description: [
         "Briogeo's Don't Despair, Repair! line is built for dry, damaged hair, and its Super Moisture Shampoo is the gentle cleansing step in that line. Briogeo markets its formulas as free of harsh sulfates and silicones, and it is a brand many people with curly and coily hair already know. We picked it as the best option for chemo curls, the springy, sometimes wiry texture that many people notice as their hair grows back.",
         "Curly hair of any kind tends to be drier because natural oils travel down a coiled strand less easily, and new curls that you are not used to can tangle and frizz. A moisture-focused shampoo, followed by the matching Don't Despair, Repair! conditioner and a gentle finger-detangle, is a sensible routine. Wash less often than you used to if your curls feel dry.",
-        "Skip it during treatment itself, when there is little hair to moisturize and a plain fragrance-free cleanser is a better fit. If you react to botanical extracts or fragrance, read the full ingredient list before buying.",
+        "It comes into its own in later regrowth, once there is hair to moisturize; during treatment itself, a plain fragrance-free cleanser fits better. If you react to botanical extracts or fragrance, read the full ingredient list before buying.",
       ],
       pros: [
         "Moisture-focused, suits curly or frizzy regrowth",
@@ -201,7 +201,7 @@ export const bestShampooForChemoHair: RoundupData = {
       description: [
         "This is not a shampoo, but it earns a place on the list because so many people going through chemo describe a sore or prickly scalp at night, especially while hair is falling out. A smooth satin pillowcase creates less friction than rough cotton, which many people find more comfortable on a tender or bare scalp. It can also mean fewer tangles and less breakage on fragile new growth as it comes in.",
         "The Kitsch pillowcase is an inexpensive satin option with a zipper closure, so it stays on the pillow. Satin is usually a polyester weave, not silk, which makes it cheaper and easy to machine wash.",
-        "Skip it if you already sleep in a soft cotton or bamboo cap, or if satin feels too warm or slippery for you. It will not reduce hair loss from chemo; it is purely about comfort and less friction.",
+        "If you already sleep in a soft cotton or bamboo cap, you may not need it, and some people find satin warm or slippery. Its job is comfort and less friction, which many people appreciate on a tender scalp.",
       ],
       pros: [
         "Smooth, low-friction surface for a tender scalp",
@@ -210,7 +210,6 @@ export const bestShampooForChemoHair: RoundupData = {
       ],
       cons: [
         "Satin, not silk",
-        "Does not reduce chemo hair loss",
         "Some sleepers find satin warm or slippery",
       ],
       bottomLine: "A small, affordable comfort upgrade for a sore scalp at night, and kinder to fragile regrowth.",
@@ -249,9 +248,9 @@ export const bestShampooForChemoHair: RoundupData = {
       heading: "How to Choose the Best Shampoo and Conditioner for Chemo Hair",
       body: [
         "During active treatment, gentleness matters more than anything else. Look for a shampoo labeled fragrance-free or made for sensitive skin, with a short ingredient list. Fragrance is one of the most common causes of skin irritation and allergy from cosmetics, and a scalp that is already dry and tender has less tolerance than usual. Note that \"unscented\" is not always the same as fragrance-free; some unscented products contain a masking fragrance, so read the label.",
-        "Sulfate-free formulas are a sensible default for regrowth. Sulfates such as sodium lauryl sulfate are effective cleansers, but they can leave dry hair and skin feeling stripped. Sulfate-free shampoos use milder cleansing agents and suit fine, fragile new hair. They are not medically required, and there is no evidence that sulfates cause hair loss; they are simply harsher than most people need right now.",
+        "Sulfate-free formulas are a sensible default for regrowth. Sulfates such as sodium lauryl sulfate are effective cleansers, but they can leave dry hair and skin feeling stripped. Sulfate-free shampoos use milder cleansing agents and suit fine, fragile new hair. They are not medically required, and sulfates have not been linked to hair loss; they are simply harsher than most people need right now.",
         "For conditioner, choose a light, moisturizing formula once you have enough hair for it to matter, and apply it to the hair rather than rubbing it into the scalp. While hair is very short or absent, you can usually skip conditioner entirely and use a gentle, fragrance-free moisturizer on the scalp skin instead, if your team agrees.",
-        "Be skeptical of anything sold as a chemo hair regrowth shampoo, a follicle stimulator or a way to prevent hair loss during treatment. No shampoo has good evidence for either, and some contain botanical extracts and essential oils that can irritate sensitive skin. Products with strong active ingredients, including medicated or exfoliating shampoos, salicylic acid, and growth serums, should be cleared with your oncology team first. If you are receiving radiation to the head, use only what the radiation team approves on that skin.",
+        "To choose well, stick with formulas designed to be gentle and comfortable. Shampoos sold as chemo regrowth boosters or follicle stimulators are best set aside during treatment, since some contain botanical extracts and essential oils that can irritate sensitive skin. Products with strong active ingredients, including medicated or exfoliating shampoos, salicylic acid, and growth serums, should be cleared with your oncology team first. If you are receiving radiation to the head, use only what the radiation team approves on that skin.",
       ],
       pullQuote: "During active treatment, gentleness matters more than anything else.",
       table: {
@@ -260,12 +259,12 @@ export const bestShampooForChemoHair: RoundupData = {
           { label: "Fragrance", values: ["Fragrance-free, made for sensitive skin", "Strong scents, essential oil blends"] },
           { label: "Cleanser", values: ["Mild or sulfate-free", "Harsh clarifying or exfoliating shampoos"] },
           { label: "Conditioner", values: ["Light, moisturizing, on the hair only", "Heavy oils rubbed into a tender scalp"] },
-          { label: "Claims", values: ["Gentle, for sensitive or dry hair", "Prevents chemo hair loss, regrowth booster"] },
+          { label: "Label focus", values: ["Gentle, for sensitive or dry hair", "Regrowth-booster or follicle-stimulating formulas"] },
           { label: "Actives", values: ["None needed during treatment", "Minoxidil, acids, medicated washes without approval"] },
         ],
       },
       keyPoint:
-        "During treatment choose fragrance-free and gentle. During regrowth choose sulfate-free and moisturizing. Ignore any product that promises to prevent or speed up chemo hair loss or regrowth.",
+        "During treatment choose fragrance-free and gentle. During regrowth choose sulfate-free and moisturizing. Keep it simple, and ask your team before trying anything with strong actives.",
     },
     {
       id: "how-to-care-for-scalp-during-chemo",
@@ -296,23 +295,23 @@ export const bestShampooForChemoHair: RoundupData = {
     },
     {
       id: "hair-growth-after-chemo",
-      heading: "Best Shampoo for Hair Growth After Chemo: What Helps and What Does Not",
+      heading: "Best Shampoo for Hair Growth After Chemo: What Helps",
       body: [
-        "When people search for the best shampoo for hair regrowth after chemo, they are usually hoping something will make hair come back sooner. The honest answer is that no shampoo has been shown to do that. Hair grows back on its own schedule once the drugs are out of your system, and the best a shampoo can do is keep the scalp healthy and avoid damaging the fine new strands. A gentle, sulfate-free shampoo and a light conditioner are the right choice for the regrowth phase.",
+        "When people search for the best shampoo for hair regrowth after chemo, they are usually hoping something will make hair come back sooner. Hair grows back on its own schedule once the drugs are out of your system, and a shampoo's role is to support that by keeping the scalp healthy and treating the fine new strands kindly. A gentle, sulfate-free shampoo and a light conditioner are the right choice for the regrowth phase.",
         "Minoxidil is sometimes used after treatment when regrowth is slow, thin or patchy, or for thinning linked to some longer-term cancer therapies. Topical minoxidil is the only over-the-counter drug approved to regrow hair, but it has not been shown to prevent hair loss during chemotherapy, and it should be started only with your oncologist's approval. Ask before using it, even if you bought it over the counter, because your team knows your treatment, your skin and any other medicines you take.",
-        "The same caution applies to supplements. Biotin, hair vitamins and collagen are heavily marketed to people recovering from chemo, but there is little evidence they help unless you are actually deficient, and high-dose biotin can interfere with some blood tests, including tests your team may rely on. Always tell your oncology team about any supplement before you take it.",
+        "The same applies to supplements. Biotin, hair vitamins and collagen are most helpful if you are actually deficient, and high-dose biotin can interfere with some blood tests, including tests your team may rely on. Always tell your oncology team about any supplement before you take it.",
         "What does help regrowth is patience and gentle handling. Avoid tight hats, hairbands and ponytails on fragile hair, keep heat styling to a minimum, and hold off on color and chemical treatments until your team says it is fine. Many people find that their first few months of regrowth are the most delicate, and that hair becomes stronger and easier to manage with time.",
       ],
-      pullQuote: "The honest answer is that no shampoo has been shown to do that.",
+      pullQuote: "a shampoo's role is to support that by keeping the scalp healthy and treating the fine new strands kindly",
       keyPoint:
-        "No shampoo speeds regrowth after chemo. Minoxidil is sometimes used for slow regrowth after treatment, but only with your oncologist's approval.",
+        "A gentle shampoo supports healthy regrowth by caring for the scalp and new strands. Minoxidil is sometimes used for slow regrowth after treatment, but only with your oncologist's approval.",
     },
     {
       id: "chemo-curls-texture",
       heading: "Chemo Curls and Other Texture Changes",
       body: [
         "One of the most surprising things for many people is that their hair grows back different. Straight hair can come back wavy or tightly curled, which people often call chemo curls. Hair can also return finer, coarser, straighter, or a different color, including gray or darker than before. Scientists do not fully understand why, though it is thought to relate to how the drugs affect the follicle and the shape of the hair it produces.",
-        "These changes are often temporary. For many people the hair gradually returns closer to its old texture over a year or two, usually as the new hair is cut and replaced by later growth. For others, some of the change is longer lasting. There is no product that can reliably reverse it, and trying to force new hair straight with heat or chemicals can damage it.",
+        "These changes are often temporary. For many people the hair gradually returns closer to its old texture over a year or two, usually as the new hair is cut and replaced by later growth. For others, some of the change is longer lasting. Working with the new texture is kinder than fighting it, since trying to force new hair straight with heat or chemicals can damage it.",
         "Curly regrowth needs moisture. Curly strands tend to be drier, and new curls can tangle easily. Wash less often if your hair feels dry, use a moisturizing sulfate-free shampoo and conditioner, detangle gently with your fingers or a wide-tooth comb while conditioner is in, and let hair air dry when you can. A satin pillowcase reduces friction overnight.",
         "Fine, soft regrowth needs a lighter touch. If your new hair is very fine, heavy conditioners can weigh it down. Use a small amount of a light conditioner on the ends only, and try a gentle volumizing approach once the hair is long enough to style. Our guide to the best shampoo and conditioner for thin hair covers that in more detail.",
       ],
@@ -334,8 +333,8 @@ export const bestShampooForChemoHair: RoundupData = {
   },
   mistakes: [
     {
-      heading: "Buying Shampoos That Promise to Prevent Chemo Hair Loss",
-      body: "No shampoo, serum or supplement has been shown to stop chemotherapy hair loss or make hair grow back faster. Products making those promises are selling hope, often at a high price. If keeping your hair matters to you, ask your oncology team about scalp cooling before treatment begins, and use a simple, gentle shampoo for comfort.",
+      heading: "Expecting a Shampoo to Prevent Chemo Hair Loss",
+      body: "A shampoo's job during chemo is comfort and gentle care, since hair loss is driven by the treatment itself. If keeping your hair matters to you, ask your oncology team about scalp cooling before treatment begins, and use a simple, gentle shampoo to keep your scalp clean and comfortable along the way.",
     },
     {
       heading: "Starting Minoxidil or Supplements Without Asking Your Team",
@@ -361,11 +360,11 @@ export const bestShampooForChemoHair: RoundupData = {
     },
     {
       q: "What is the best shampoo for hair growth after chemo?",
-      a: "No shampoo has been shown to speed up hair growth after chemo. Hair grows back on its own schedule, and the best shampoo for this stage is a gentle, sulfate-free one that does not dry out fragile new hair. If regrowth is slow or patchy, ask your oncologist whether minoxidil or a dermatology referral makes sense.",
+      a: "Hair grows back on its own schedule after chemo, and the best shampoo for this stage is a gentle, sulfate-free one that keeps the scalp healthy and does not dry out fragile new hair. If regrowth is slow or patchy, ask your oncologist whether minoxidil or a dermatology referral makes sense.",
     },
     {
       q: "Can any shampoo prevent hair loss during chemotherapy?",
-      a: "No. Chemotherapy hair loss is caused by the drugs affecting fast-dividing follicle cells, and nothing you wash with changes that. Scalp cooling during infusions is the only well-studied method for reducing chemo hair loss, and it works better with some regimens than others. Ask your oncology team whether it is an option before treatment starts.",
+      a: "Chemotherapy hair loss is caused by the drugs affecting fast-dividing follicle cells, so a shampoo's role is comfort rather than prevention. Scalp cooling during infusions is the well-studied method for reducing chemo hair loss, and it works better with some regimens than others. Ask your oncology team whether it is an option before treatment starts.",
     },
     {
       q: "How do I care for my scalp during chemo?",
@@ -385,7 +384,7 @@ export const bestShampooForChemoHair: RoundupData = {
     },
   ],
   bottomLine:
-    "No shampoo can prevent chemo hair loss or speed regrowth, and anything that promises to is overselling. During treatment, choose a plain, fragrance-free shampoo like Vanicream and handle your scalp gently. For regrowth, move to a sulfate-free moisturizing pair such as Kristin Ess The One or L'Oreal EverPure. Protect your scalp from the sun, ask about scalp cooling before treatment, and check with your oncology team before starting minoxidil or anything new.",
+    "The right shampoo makes chemo a little more comfortable at every stage. During treatment, choose a plain, fragrance-free shampoo like Vanicream and handle your scalp gently. For regrowth, move to a sulfate-free moisturizing pair such as Kristin Ess The One or L'Oreal EverPure. Protect your scalp from the sun, ask about scalp cooling before treatment if keeping your hair matters to you, and check with your oncology team before starting minoxidil or anything new.",
   relatedRoundups: [
     "best-sulfate-free-shampoo",
     "best-silk-pillowcase-for-hair",

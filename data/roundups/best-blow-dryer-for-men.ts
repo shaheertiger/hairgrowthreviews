@@ -40,7 +40,7 @@ export const bestBlowDryerForMen: RoundupData = {
       description: [
         "Laifen built its name selling high-speed dryers that borrow the compact design of premium high-speed dryers at a much lower price, and the Swift Professional is the model that best fits men's hair. The listing describes it as a professional high-speed dryer with 200 million negative ions, and its slim body is easy to maneuver close to the head, which is exactly what you want when you are directing air at the roots of a short cut.",
         "The case for a high-speed dryer on short hair is not the top speed. It is that a fast motor moves enough air to dry hair at a lower temperature, so you can leave the heat on a middle setting and still be done in a few minutes. That is gentler on fine hair and the scalp than a cheap dryer cranked to its hottest setting. Fit the nozzle, point it at the roots, and use the cool setting at the end to lock the shape in. Check the listing for the exact attachments in the box, since bundles vary between versions.",
-        "Skip it if you only towel-dry and run some product through, or if your hair is buzzed short, because no dryer adds much to a cut that short. Choose the Conair if you want the least expensive dryer that still has a concentrator, or the Dyson if you want the established premium brand.",
+        "It is ideal for any man who styles his hair rather than just towel-drying, and on a buzzed cut any dryer has very little to do. Choose the Conair if you want the least expensive dryer that still has a concentrator, or the Dyson if you want the established premium brand.",
       ],
       pros: [
         "High-speed motor lets you dry at moderate heat",
@@ -49,7 +49,7 @@ export const bestBlowDryerForMen: RoundupData = {
       ],
       cons: [
         "Attachments vary by bundle; check the listing",
-        "Ion claims are marketing, not measured benefits",
+        "Ion feature is a bonus rather than the main event",
         "More dryer than a very short cut needs",
       ],
       bottomLine:
@@ -72,8 +72,8 @@ export const bestBlowDryerForMen: RoundupData = {
       ],
       description: [
         "Panasonic's nanoe dryers are long-running favorites with stylists, and this model stands out for men with fine or thinning hair because of how it spreads the air. The listing describes an oscillating QuickDry nozzle plus diffuser and concentrator attachments and three speed and heat settings. The oscillating nozzle moves the airflow back and forth, which keeps heat from sitting on one spot of the scalp or one patch of hair.",
-        "Fine hair flattens and frizzes easily when it is blasted with hot air from one direction. For a thin crown or a light top, the better approach is gentle, moving airflow on a lower setting, then the concentrator for a minute or two to shape the front. The nanoe ion system is Panasonic's moisture-focused technology; treat the claims about shine and smoothness as plausible conditioning effects rather than anything that changes how hair grows.",
-        "Skip it if you have very short hair and want the lightest, most compact dryer, since this is a conventional full-size design. Men with thick, coarse hair who want to dry fast may prefer a high-speed model such as the Laifen or Dyson.",
+        "Fine hair flattens and frizzes easily when it is blasted with hot air from one direction. For a thin crown or a light top, the better approach is gentle, moving airflow on a lower setting, then the concentrator for a minute or two to shape the front. The nanoe ion system is Panasonic's moisture-focused technology, designed to leave hair looking shinier and smoother, which is a nice conditioning bonus for a light or fine top.",
+        "As a conventional full-size design, it suits men who value gentle, controllable airflow over a compact body. Men with thick, coarse hair who want to dry fast may prefer a high-speed model such as the Laifen or Dyson.",
       ],
       pros: [
         "Oscillating nozzle spreads heat for gentler drying",
@@ -106,7 +106,7 @@ export const bestBlowDryerForMen: RoundupData = {
       description: [
         "BaBylissPRO is a professional salon and barbershop brand, and its Nano Titanium line is widely used by stylists. This dryer is listed as lightweight with three attachments, and it is the most conventional, barber-style tool on the list: a straightforward full-power dryer built to handle a lot of hair quickly.",
         "That makes it a good fit for thick, coarse or dense hair, where a weak budget dryer can leave the roots damp after ten minutes. With dense hair you need enough airflow to reach the base of the hair, and you will get better results from a strong stream of air on medium heat than from a weak stream on high. Use the concentrator to dry the roots in the direction you want them to sit, and drop the heat as the hair gets close to dry to avoid frying the ends.",
-        "Skip it if your hair is fine or thinning and you mostly need a few minutes of gentle shaping, where the Panasonic or Shark will be kinder. Check the listing for which three attachments come in the box.",
+        "If your hair is fine or thinning and you mostly need a few minutes of gentle shaping, the Panasonic or Shark is the better match. Check the listing for which three attachments come in the box.",
       ],
       pros: [
         "Professional barbershop brand",
@@ -172,7 +172,7 @@ export const bestBlowDryerForMen: RoundupData = {
       description: [
         "Shark's SpeedStyle Pro is a high-speed ionic dryer, and this version is listed specifically for fine to medium hair, which is the hair type most men have on top. The listing highlights a Scalp Shield feature, airflow that reaches up to 100 mph in seconds, a turbo concentrator and a QuickSmooth brush attachment.",
         "The Scalp Shield is the reason it earns a place here. Short hair means the airflow lands on the scalp more directly than it does on long hair, and men with thinning hair have less hair cover to protect the skin. A dryer designed to temper the heat reaching the scalp is a sensible choice if your scalp gets red, itchy or tight after drying. Pair the turbo concentrator with a low heat setting to shape the front and crown.",
-        "Skip it if your hair is thick and coarse, since this version is designed for fine to medium hair; Shark sells versions for other hair types. Men who just want the best all-round value should look at the Laifen first.",
+        "This version is designed for fine to medium hair, and Shark sells versions for thick and coarse hair too, so pick the one that matches yours. Men who just want the best all-round value should look at the Laifen first.",
       ],
       pros: [
         "Version designed for fine to medium hair",
@@ -181,7 +181,7 @@ export const bestBlowDryerForMen: RoundupData = {
       ],
       cons: [
         "Not the right version for thick, coarse hair",
-        "Feature claims come from the listing, not independent tests",
+        "Larger body than slim high-speed dryers",
         "Pricier than conventional dryers",
       ],
       bottomLine:
@@ -205,7 +205,7 @@ export const bestBlowDryerForMen: RoundupData = {
       description: [
         "Conair's InfinitiPRO is the inexpensive, no-fuss option, and for a lot of men with short hair it is all the dryer they need. The listing describes a ceramic 1875W dryer with a no-slip grip, multiple heat and speed settings, and both a diffuser and a concentrator, which covers the two attachments that matter for men's hair.",
         "The concentrator handles everyday shaping on straight or wavy short hair. The diffuser is useful for curly, coily or textured hair, where you want to dry without blowing the curl pattern apart. Because this is a conventional dryer rather than a high-speed one, you will rely more on heat to dry, so use the middle setting, keep the dryer moving, and finish with cool air.",
-        "Skip it if you blow dry thick hair every day and want the fastest, lightest tool, since a high-speed dryer will feel noticeably quicker. It is also the bulkiest design here. For the price, though, it does the basic job well.",
+        "If you blow dry thick hair every day and want the fastest, lightest tool, a high-speed dryer will feel noticeably quicker, and this is the bulkiest design here. For the price, though, it does the job well and makes a great budget pick.",
       ],
       pros: [
         "Low price with both diffuser and concentrator",
@@ -233,7 +233,7 @@ export const bestBlowDryerForMen: RoundupData = {
         "Start with the attachment, not the motor. A concentrator nozzle is a narrow, flat tip that focuses the airflow into a slot, and it is the single most useful feature for men's hair. It lets you aim air at the roots of one section, push hair in the direction you want it to sit, and avoid blowing the rest of your hair around. Almost every dryer on this list includes one, and if a dryer you are considering does not, skip it.",
         "Next, look for separate heat and speed controls, or at least a low and medium heat setting you can pair with high airflow. Short hair has little water to remove, so the hottest setting is rarely necessary. The ideal for most men is moderate heat with strong airflow, then cool air at the end. A cool-shot button is worth having because cooling hair after shaping helps it hold the style.",
         "Weight and size matter more than most men expect. You will hold the dryer close to your head and angle it in odd directions to get the back and crown, and a light, compact body makes that much easier. High-speed dryers are usually smaller and better balanced, while conventional dryers are bulkier but cheaper.",
-        "Finally, be skeptical of the numbers. Wattage measures power draw, not how well a dryer works, and airflow and ion figures come from manufacturers. Ionic and similar technologies may reduce static and frizz a little, but the evidence is thin and they will not change how your hair grows. Choose on attachments, controls, handling and price.",
+        "Finally, look past the headline numbers. Wattage measures power draw rather than how well a dryer works, and airflow and ion figures come from manufacturers. Ionic and similar technologies are designed to cut static and frizz, a welcome bonus for smoother styling. Choose on attachments, controls, handling and price, and you will end up with a dryer you enjoy using.",
       ],
       pullQuote: "Start with the attachment, not the motor.",
       keyPoint:

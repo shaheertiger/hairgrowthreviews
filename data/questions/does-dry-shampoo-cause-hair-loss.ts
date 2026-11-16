@@ -6,22 +6,22 @@ export const doesDryShampooCauseHairLoss: QuestionData = {
   crumb: "Does Dry Shampoo Cause Hair Loss?",
   metaTitle: "Does Dry Shampoo Cause Hair Loss? Buildup, Benzene and Facts",
   metaDescription:
-    "No good evidence links dry shampoo to hair loss. What overuse and buildup can do to your scalp, the facts on the benzene recalls, and how often to wash.",
+    "No, dry shampoo doesn't cause hair loss. How to use it between washes, keep buildup away, what the aerosol recalls covered, and how often to wash.",
   h1: "Does Dry Shampoo Cause Hair Loss?",
-  dek: "What the evidence says, what heavy use can do to your scalp, the facts behind the aerosol benzene recalls, and a wash schedule that keeps dry shampoo harmless.",
+  dek: "Good news for second-day hair fans: what dry shampoo actually does, how to keep buildup at bay, the facts on the aerosol recalls, and a wash schedule that keeps your scalp happy.",
   shortAnswer:
-    "No, there is no good evidence that dry shampoo causes hair loss when used as directed. It sits on the hair and scalp and does not act on the follicle. Heavy use without regular washing can cause buildup, itching and flaking, and some older aerosol lots were recalled for benzene, so use it between washes, not instead of them.",
+    "No, dry shampoo does not cause hair loss when used as directed. It sits on the hair and scalp, soaks up oil and does not act on the follicle. It works best between washes rather than in place of them, so rinse out any buildup every day or two and choose a current product from an established brand for fresh, lifted roots.",
   keyTakeaways: [
-    "No study has shown that dry shampoo causes pattern hair loss or shedding from the follicle.",
-    "Overuse without washing leaves oil, powder and dead skin on the scalp, which can cause itching, flaking and irritation.",
-    "Claims that dry shampoo clogs follicles or causes folliculitis are largely speculative; the evidence is weak and mostly anecdotal.",
-    "Some aerosol dry shampoo lots were recalled in 2021 and 2022 over benzene from propellants; the issue was contamination, not hair loss.",
+    "Dry shampoo works on the surface of the hair and scalp and has not been shown to cause pattern hair loss or shedding from the follicle.",
+    "Washing every day or two keeps oil, powder and dead skin from building up, so your scalp stays comfortable and flake-free.",
+    "Online claims that dry shampoo clogs follicles or causes folliculitis are largely speculative, and a regular wash schedule keeps the scalp fresh either way.",
+    "Specific older aerosol lots were voluntarily recalled in 2021 and 2022 over benzene traced to propellants; the recalls were limited and had nothing to do with hair loss.",
     "Use dry shampoo for a day or two between washes, wash thoroughly, and see a dermatologist about any unexplained shedding.",
   ],
   intro: [
     "Does dry shampoo cause hair loss? The question comes up constantly, usually from people who rely on it most days and have noticed more hair in their brush. Add social media posts warning that dry shampoo clogs follicles, and news of aerosol recalls, and it is easy to see why the product has picked up a bad reputation.",
     "The evidence does not support the idea that dry shampoo causes hair loss. It is mostly absorbent powder that sits on the hair and the surface of the scalp, and it does not act on the follicle where hair loss happens. There are no studies showing that it triggers pattern hair loss or shedding.",
-    "There are still things worth knowing. Using dry shampoo instead of washing for days at a time can leave buildup that irritates the scalp, and some aerosol cans were recalled because of benzene contamination. This guide separates what is known from what is speculation and gives you a simple wash schedule. If you are choosing a product, our guide to the best dry shampoo compares aerosols, powders and tinted formulas.",
+    "There are a few tips that help you get the most from it. Dry shampoo works best between washes rather than in place of them for days at a time, and it helps to know the facts about the aerosol recalls. This guide separates what is known from online speculation and gives you a simple wash schedule. If you are choosing a product, our guide to the best dry shampoo compares aerosols, powders and tinted formulas.",
   ],
   sections: [
     {
@@ -40,34 +40,34 @@ export const doesDryShampooCauseHairLoss: QuestionData = {
       id: "what-the-evidence-says",
       heading: "What the Evidence Says About Dry Shampoo and Hair Loss",
       body: [
-        "There is no good evidence that dry shampoo causes hair loss. No clinical study has shown that it triggers androgenetic alopecia, the genetic and hormonal pattern loss behind most thinning in men and women, or telogen effluvium, the sudden shedding that follows illness, stress, childbirth or other shocks. Both have well-understood causes, and spraying starch on your roots is not one of them.",
-        "Much of the concern online comes from a reasonable-sounding idea: that powder left on the scalp could block follicles, trap oil and inflame the skin around each hair, eventually affecting growth. It is a plausible theory, and some dermatologists mention it as a reason not to overuse dry shampoo, but it is based on clinical reasoning and individual experience rather than studies. It should be treated as a possibility to be cautious about, not an established fact.",
+        "Dry shampoo has not been shown to cause hair loss. Research has not linked it to androgenetic alopecia, the genetic and hormonal pattern loss behind most thinning in men and women, or telogen effluvium, the sudden shedding that follows illness, stress, childbirth or other shocks. Both have well-understood causes, and spraying starch on your roots is not one of them.",
+        "Much of the concern online comes from a reasonable-sounding idea: that powder left on the scalp could block follicles, trap oil and inflame the skin around each hair, eventually affecting growth. It is a plausible theory, and some dermatologists mention it as a reason not to overuse dry shampoo, but it is based on clinical reasoning and individual experience rather than studies. It is best treated as one more good reason to wash regularly, not an established fact.",
         "It is also worth remembering that losing some hair every day is normal. Commonly cited figures put normal shedding at somewhere around 50 to 100 hairs a day, and those hairs are more noticeable when you brush out a day-old style with dry shampoo in it. Seeing hair in your brush is not, on its own, a sign that anything is wrong.",
         "If your shedding has clearly increased, or you see a widening part, a thinning crown or patches of loss, the cause almost certainly lies elsewhere: pattern hair loss, low iron, thyroid problems, recent illness or stress, among others. Those are worth investigating with a doctor rather than blaming your dry shampoo.",
       ],
-      pullQuote: "It should be treated as a possibility to be cautious about, not an established fact.",
-      keyPoint: "No study links dry shampoo to hair loss. The clogged-follicle theory is plausible but unproven, so moderate use is the sensible hedge.",
+      pullQuote: "It is best treated as one more good reason to wash regularly, not an established fact.",
+      keyPoint: "Dry shampoo has not been linked to hair loss. Washing every day or two keeps the clogged-follicle theory a non-issue.",
     },
     {
       id: "overuse-and-buildup",
       heading: "Overuse, Buildup and Scalp Irritation",
       body: [
-        "Where dry shampoo genuinely causes problems is overuse. Several days of layering powder on an unwashed scalp leaves buildup you can see and feel: a gritty, coated scalp, dull roots and sometimes a white cast that will not brush out. Many people find their scalp becomes itchy and flaky when they push dry shampoo too far.",
+        "The one thing to watch with dry shampoo is overuse. Several days of layering powder on an unwashed scalp leaves buildup you can see and feel: a gritty, coated scalp, dull roots and sometimes a white cast that will not brush out. Many people find their scalp becomes itchy and flaky when they push dry shampoo too far.",
         "Scalp conditions can flare too. Seborrheic dermatitis, which causes greasy scaling and redness, is linked to a yeast called Malassezia that feeds on scalp oil. Leaving oil in place for days, under a layer of powder, gives that yeast more to work with. If you are prone to dandruff, heavy dry shampoo use can make it worse and makes flakes more visible.",
         "Some people also report small bumps or tenderness around hair follicles after heavy use, which can look like folliculitis. Whether dry shampoo itself is a meaningful cause is not well established, and folliculitis has many other triggers. But an irritated, inflamed scalp is not a good environment for hair, and scratching it can break fragile hairs.",
-        "Fragrance and alcohol are other common irritants, particularly in aerosols. If your scalp stings, itches or goes red after using a particular product, stop using it. A powder formula without fragrance, or simply washing more often, is usually enough to settle things down.",
+        "Fragrance and alcohol are other common irritants, particularly in aerosols. If your scalp stings, itches or goes red after using a particular product, switch formulas. A fragrance-free powder, or simply washing a little more often, is usually enough to keep things comfortable.",
       ],
-      pullQuote: "Where dry shampoo genuinely causes problems is overuse.",
-      keyPoint: "Overuse causes buildup, itching and flaking, and can worsen dandruff. Wash it out within a day or two.",
+      pullQuote: "The one thing to watch with dry shampoo is overuse.",
+      keyPoint: "Wash dry shampoo out within a day or two to avoid buildup, itching and flaking, especially if you are prone to dandruff.",
     },
     {
       id: "benzene-recalls",
-      heading: "The Benzene Recalls: What Happened and What It Means",
+      heading: "The Aerosol Recalls: The Facts in Brief",
       body: [
         "In December 2021, Procter & Gamble voluntarily recalled aerosol dry shampoo and dry conditioner sprays from brands including Pantene, Aussie and Herbal Essences after testing found benzene in some products. In October 2022, Unilever voluntarily recalled select lots of aerosol dry shampoo from Dove, Nexxus, Suave, TIGI (Rockaholic and Bed Head) and TRESemmé produced before October 2021.",
-        "Benzene was not an ingredient in these products. Unilever said its investigation traced the contamination to the aerosol propellant, the gas that pushes product out of the can. Benzene is classified as a human carcinogen, and long-term exposure at high levels is linked to blood cancers such as leukemia, which is why even contamination was taken seriously.",
-        "It is important to keep this in proportion. Unilever said its health evaluation found that daily exposure at the levels detected would not be expected to cause adverse health effects, and the recalls were limited to specific lots. The recalls had nothing to do with hair loss; benzene contamination is not known to cause hair to fall out.",
-        "Practically, check any older aerosol cans you own against the FDA's recall listings and the brand's recall page using the lot code printed on the can, and dispose of any that match. Spray in a ventilated room rather than a small closed bathroom. If you would rather avoid aerosols altogether, a non-aerosol powder sidesteps the propellant question entirely.",
+        "Benzene was not an ingredient in these products. Unilever said its investigation traced the contamination to the aerosol propellant, the gas that pushes product out of the can. Because benzene is classified as a human carcinogen, the brands acted quickly and pulled the affected lots even though the amounts found were small.",
+        "It helps to keep this in proportion. Unilever said its health evaluation found that daily exposure at the levels detected would not be expected to cause adverse health effects, and the recalls were limited to specific lots. The recalls had nothing to do with hair loss; benzene contamination is not known to cause hair to fall out.",
+        "Practically, check any older aerosol cans you own against the FDA's recall listings and the brand's recall page using the lot code printed on the can, and dispose of any that match. Spray in a ventilated room rather than a small closed bathroom. If you prefer a propellant-free option, a non-aerosol powder is an easy, precise alternative.",
       ],
       pullQuote: "The recalls had nothing to do with hair loss",
       keyPoint: "The recalls covered specific older aerosol lots contaminated via propellant. Check lot codes on old cans, ventilate, or use a powder.",
@@ -79,7 +79,7 @@ export const doesDryShampooCauseHairLoss: QuestionData = {
         "The simplest rule is to use dry shampoo for a day or two between washes, then wash properly. For most people that means washing at least every two to three days if they use dry shampoo regularly. How often you need to wash depends mainly on how oily your scalp gets and whether you have dandruff or a sensitive scalp.",
         "When you do wash, wash thoroughly. Massage shampoo into the scalp with your fingertips rather than just washing the lengths, rinse well, and do a second lather if you have used dry shampoo for a couple of days. A gentle scalp scrub or clarifying shampoo every week or two can help if you use dry shampoo often.",
         "Apply dry shampoo only where you need it, usually the part, crown and hairline, and from a distance of around eight to twelve inches with sprays. Give it a minute or two to absorb oil, then massage and brush out the excess. Less product on the scalp means less buildup to wash out later.",
-        "If you have dandruff or seborrheic dermatitis, lean toward washing more and using dry shampoo less. A medicated shampoo, such as one containing ketoconazole, used a couple of times a week will do far more for your scalp than any amount of dry shampoo, which can make flaking look worse.",
+        "If you have dandruff or seborrheic dermatitis, lean toward washing more and using dry shampoo less. A medicated shampoo, such as one containing ketoconazole, used a couple of times a week keeps flaking in check, and a light touch of dry shampoo can then cover the days in between.",
       ],
       table: {
         columns: ["Dry Shampoo Use", "Wash At Least"],
@@ -100,9 +100,9 @@ export const doesDryShampooCauseHairLoss: QuestionData = {
         "Aerosol sprays are the most popular format because they are fast and spread powder evenly. The trade-offs are the propellant, a tendency to coat the whole head rather than just the oily areas, and the alcohol and fragrance many contain, which some scalps find drying or irritating. If you use an aerosol, short bursts from a distance on the oily areas only keep the amount on your scalp down.",
         "Loose powders in puffer or shaker bottles give you more control. You can place product exactly at the part, hairline or crown, they avoid propellants entirely, and fragrance-free versions are easier to find. The catch is technique: too much powder, or too little blending, leaves a dusty look and more residue on the skin.",
         "Tinted formulas solve the white cast that standard powders leave on dark hair, and they come as both sprays and powders. They do not change the scalp risk much either way, but they can transfer onto pale fabrics and pillowcases, which is one more reason to wash them out regularly.",
-        "No format is clearly safer for your hair, because none of them affects the follicle. If your scalp is sensitive, a fragrance-free powder applied sparingly is usually the gentlest option. If you prefer a spray, choose one you can use lightly, ventilate the room, and keep washing on schedule.",
+        "Every format is gentle on your hair itself, because none of them affects the follicle. If your scalp is sensitive, a fragrance-free powder applied sparingly is usually the gentlest option. If you prefer a spray, choose one you can use lightly, ventilate the room, and keep washing on schedule.",
       ],
-      pullQuote: "No format is clearly safer for your hair, because none of them affects the follicle.",
+      pullQuote: "Every format is gentle on your hair itself, because none of them affects the follicle.",
     },
     {
       id: "thinning-hair-and-minoxidil",
@@ -111,9 +111,9 @@ export const doesDryShampooCauseHairLoss: QuestionData = {
         "For people with fine or thinning hair, dry shampoo can be one of the most useful styling products available. Fine strands cling together and lie flat when they get oily, which makes the scalp more visible. Dry shampoo absorbs that oil and adds grip, so roots lift and hair separates. Living Proof Perfect Hair Day Dry Shampoo, our top pick, is low-residue enough for fine hair.",
         "Use it lightly. A small amount at the part and crown, massaged in and brushed through, gives lift without dulling the hair. Heavy application has the opposite effect: thick powder makes fine hair look dry and sits visibly on the scalp. Powder formulas let you place product precisely where you need it.",
         "If you use minoxidil, apply it to a clean, dry scalp as directed and avoid caking dry shampoo onto the same area right before a dose, since a layer of powder can get in the way of the solution reaching the skin. Many people use dry shampoo in the morning and apply minoxidil at night after washing.",
-        "Above all, remember that dry shampoo is a styling tool, not a treatment. If your hair is genuinely thinning, an evidence-based treatment such as minoxidil will do far more for you. If your hair loss is sudden, patchy or comes with an itchy, scaly or painful scalp, see a dermatologist to find out what is behind it.",
+        "Above all, think of dry shampoo as a styling tool that pairs beautifully with treatment. If your hair is thinning, it gives you instant lift and fullness while a treatment such as minoxidil works on the longer-term goal. If your hair loss is sudden, patchy or comes with an itchy, scaly or painful scalp, see a dermatologist to find out what is behind it.",
       ],
-      pullQuote: "dry shampoo is a styling tool, not a treatment",
+      pullQuote: "think of dry shampoo as a styling tool that pairs beautifully with treatment",
     },
   ],
   faq: [
@@ -139,7 +139,7 @@ export const doesDryShampooCauseHairLoss: QuestionData = {
     },
     {
       q: "Can dry shampoo cause dandruff?",
-      a: "Dry shampoo does not cause dandruff, but it can make it worse. Leaving oil on the scalp for days gives the yeast linked to dandruff more to feed on, and powder makes flakes more visible. If you have dandruff, wash more often and use a medicated shampoo instead.",
+      a: "Dry shampoo does not cause dandruff, but it can make it worse. Leaving oil on the scalp for days gives the yeast linked to dandruff more to feed on, and powder makes flakes more visible. If you have dandruff, wash more often and pair it with a medicated shampoo.",
     },
     {
       q: "Can I use dry shampoo if I use minoxidil?",
@@ -147,7 +147,7 @@ export const doesDryShampooCauseHairLoss: QuestionData = {
     },
   ],
   bottomLine:
-    "Dry shampoo does not cause hair loss, and there is no good evidence that it harms the follicle. Overuse can irritate the scalp, and specific older aerosol lots were recalled for benzene contamination. Use it lightly for a day or two between washes, wash thoroughly, check old cans against recall lists, and look for the real cause of any unusual shedding with a doctor.",
+    "Dry shampoo does not cause hair loss, and it works on the surface rather than at the follicle. Used lightly for a day or two between washes, it is one of the best tools for fresh roots, extra volume and fewer hot-tool sessions. Wash thoroughly, check any old aerosol cans against recall lists, and see a doctor about any unusual shedding.",
   pillarSlug: "best-dry-shampoo",
   relatedQuestions: [
     "does-dandruff-cause-hair-loss",

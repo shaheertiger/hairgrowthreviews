@@ -8,7 +8,7 @@ export const bestProductsForHairExtensions: RoundupData = {
   metaDescription:
     "The best products for hair extensions are gentle and kept off the bonds. Our care kit: a soft brush, sulfate-free shampoo, light oil, silk pillowcase and more.",
   h1: "The Best Products for Hair Extensions: A Care Kit That Protects the Bonds",
-  dek: "Extensions are an investment, and the wrong products can loosen tape, break down keratin bonds and leave the hair matted within weeks. Here is the short list of products that actually help, where each one goes, and the hair-loss warning signs nobody mentions at the salon.",
+  dek: "Extensions are an investment, and the wrong products can loosen tape, break down keratin bonds and leave the hair matted within weeks. Here is the short list of products that actually help, where each one goes, and how to keep your natural hair healthy underneath.",
   intro: [
     "The best products for hair extensions are a small, gentle kit: a soft, flexible detangling brush, a sulfate-free shampoo, a lightweight leave-in and oil used only on the mid-lengths and ends, a heat protectant for styling, and a silk pillowcase for sleep. Our top pick is the Wet Brush Original Detangler, because brushing is where most extension damage happens, and a soft-bristle brush used from the ends up is the single best habit for keeping both the extensions and your own hair intact.",
     "What you leave out matters as much as what you buy. Extension hair has no scalp feeding it natural oils, so it dries out faster than your own hair, but the attachment points, whether tape, keratin bonds, beads or a sewn-in weft, are vulnerable to the very products that keep the lengths soft. Oils, heavy conditioners and some alcohol-based products can weaken tape and keratin adhesives and cause slipping. A good routine moisturizes the hair while keeping the bonds clean and dry.",
@@ -40,7 +40,7 @@ export const bestProductsForHairExtensions: RoundupData = {
       description: [
         "The best brush for hair extensions is one that gives way before the hair does, and the Wet Brush Original is the most widely recommended inexpensive option for exactly that reason. Its thin, flexible bristles bend around knots instead of ripping through them, which means less tension transferred to the bonds and less stress on your natural hair at the attachment point. It is also cheap enough to keep one at home and one in a bag.",
         "Many extension installers recommend a dedicated loop brush, which has looped bristles designed to slide past bonds without snagging. A soft flexible-bristle brush like this one is a reasonable alternative for most people, as long as you use it carefully: hold the hair just below the bonds with one hand, brush the ends first, then gradually work upward. Never drag the bristles directly across tape tabs or keratin bonds.",
-        "Despite the name, be careful brushing extensions when they are soaking wet. Wet hair is heavier and stretches more, which adds tension at the roots. Detangle gently while damp, after excess water has been squeezed out. Skip this brush only if your installer specifically requires a loop brush for your method.",
+        "Despite the name, be careful brushing extensions when they are soaking wet. Wet hair is heavier and stretches more, which adds tension at the roots. Detangle gently while damp, after excess water has been squeezed out. The only exception is if your installer specifically requires a loop brush for your method.",
       ],
       pros: [
         "Flexible bristles reduce pulling at the bonds",
@@ -72,7 +72,7 @@ export const bestProductsForHairExtensions: RoundupData = {
       description: [
         "Kristin Ess is a celebrity-stylist brand with a reputation for well-priced, salon-style products, and The One is its signature sulfate-free shampoo. Sulfate-free shampoos use milder cleansers that strip less oil and moisture from the hair, which matters with extensions because the hair has no scalp oils to replenish it. Many extension companies and installers recommend sulfate-free formulas for that reason, and many also prefer them for colored extension hair.",
         "Is this the best shampoo for tape-in hair extensions? It is a strong choice for most people, with two caveats. The listing mentions avocado oil, so focus the lather on your scalp and between the rows rather than working it heavily into the tape tabs, and rinse thoroughly. Any shampoo residue left around tape bonds can attract oil and dirt. The listing also mentions clarifying, which is useful for removing styling buildup, though a gentle formula like this will not deep-clean like a dedicated clarifying shampoo.",
-        "Skip it if your installer has given you a specific shampoo for your extension method, or if you have an oily scalp that needs a stronger cleanse; in that case, ask your installer whether an occasional clarifying wash is safe for your bonds.",
+        "If your installer has given you a specific shampoo for your extension method, follow that; and if you have an oily scalp that needs a stronger cleanse, ask your installer whether an occasional clarifying wash is safe for your bonds.",
       ],
       pros: [
         "Sulfate-free cleansing suits extension hair",
@@ -104,7 +104,7 @@ export const bestProductsForHairExtensions: RoundupData = {
       description: [
         "It's a 10 Miracle Leave-In is one of the best-known leave-in sprays in the US, and a spray format is ideal for extensions because it lets you mist product exactly where you want it. Extension hair, especially if it has been processed and colored, tends to tangle and feel dry, and a leave-in on the lengths makes it much easier to brush without pulling.",
         "The key is placement. Spray it from about the ears or the middle of the hair down to the ends, holding the bottle away from the attachment points, and comb it through with a wide-tooth comb or soft brush. Keep it off tape tabs, keratin bonds and the base of a sewn-in weft. Conditioning ingredients left on adhesive can loosen it over time, which is why installers warn against conditioner near the bonds.",
-        "Skip it if your extension hair is very fine and gets limp easily, in which case use less, or if your installer has asked you to avoid leave-ins altogether. It is not needed on clip-ins between washes unless they feel dry.",
+        "If your extension hair is very fine and gets limp easily, just use less, and follow your installer's lead if they have asked you to avoid leave-ins altogether. It is not needed on clip-ins between washes unless they feel dry.",
       ],
       pros: [
         "Spray format makes it easy to keep off the bonds",
@@ -136,7 +136,7 @@ export const bestProductsForHairExtensions: RoundupData = {
       description: [
         "Night-time friction is one of the main causes of matting at the nape, where extensions rub against the pillow for hours. Slip is a well-established silk pillowcase brand, and this queen pillowcase is made from 22 momme mulberry silk, a heavier weight than many budget silk cases. Silk has a smoother surface than cotton, so hair slides rather than catches as you move in your sleep.",
         "A pillowcase will not prevent tangles on its own, so pair it with the right sleep routine: make sure extensions are completely dry, brush them out, then put them in a loose braid or low ponytail secured with a soft scrunchie. That combination keeps the lengths from twisting together and reduces the pulling that happens when hair catches under your shoulder.",
-        "Skip it if the price is a stretch. A satin pillowcase or a silk or satin bonnet gives a similar low-friction surface for less money, and a bonnet also keeps the braid contained. Our guide to the best silk pillowcase for hair compares cheaper options.",
+        "If the price is a stretch, a satin pillowcase or a silk or satin bonnet gives a similar low-friction surface for less money, and a bonnet also keeps the braid contained. Our guide to the best silk pillowcase for hair compares cheaper options.",
       ],
       pros: [
         "Smooth surface reduces friction and matting",
@@ -168,7 +168,7 @@ export const bestProductsForHairExtensions: RoundupData = {
       description: [
         "Moroccanoil Treatment is one of the most recognizable hair oils sold, and it is a common choice in extension aftercare because a small amount gives dry, processed ends shine and slip without much greasiness. Despite the name, it is not a pure oil; it is a styling treatment made with argan oil alongside silicones, which are what give it that smooth, glossy finish. Check the label for the full ingredient list.",
         "Silicone-based serums are actually a practical choice for extension ends. They coat the hair to reduce friction and tangling and are less heavy than many pure plant oils. The listing also says it helps protect against thermal damage, but we would still use a dedicated heat protectant before hot tools.",
-        "The rule with any oil, including this one, is to keep it far away from the bonds. Use one or two drops, warm them between your palms, and smooth them over the bottom few inches of hair. Oil migrating onto tape or keratin attachments is one of the most common reasons extensions slip. Skip it if your extension hair is very fine and limp, where even a drop may be too much.",
+        "The rule with any oil, including this one, is to keep it far away from the bonds. Use one or two drops, warm them between your palms, and smooth them over the bottom few inches of hair. Oil migrating onto tape or keratin attachments is one of the most common reasons extensions slip. On very fine, limp extension hair, start with the smallest possible drop.",
       ],
       pros: [
         "Small amount adds shine to dry ends",
@@ -200,7 +200,7 @@ export const bestProductsForHairExtensions: RoundupData = {
       description: [
         "Extension hair cannot repair itself, so every bit of heat damage is permanent until the hair is replaced. Bumble and bumble's Hairdresser's Invisible Oil Primer is a salon-brand leave-in spray that the brand describes as protecting against heat and UV, while also conditioning and fighting frizz. That combination makes it a good fit for human-hair extensions you plan to blow-dry, curl or straighten.",
         "Mist it over the lengths before blow-drying or using hot tools, again keeping it below the bonds, and comb it through. Keep heat away from the attachment points as well, since high heat can soften keratin bonds and tape adhesive. Use a moderate setting rather than the hottest your tool offers.",
-        "Skip heat entirely if your extensions are synthetic, unless the manufacturer says the fiber is heat-resistant; many synthetic fibers can melt. Skip this product if you rarely heat style, since a lighter leave-in will do the conditioning job for less money. Our guide to the best heat protectant spray covers more options.",
+        "Keep heat off synthetic extensions unless the manufacturer says the fiber is heat-resistant, since many synthetic fibers can melt. This spray earns its place for anyone who heat styles regularly; if you rarely use hot tools, a lighter leave-in covers the conditioning job. Our guide to the best heat protectant spray covers more options.",
       ],
       pros: [
         "Heat and UV protection in one leave-in",
