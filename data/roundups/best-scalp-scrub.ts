@@ -6,19 +6,19 @@ export const bestScalpScrub: RoundupData = {
   crumb: "Best Scalp Scrub",
   metaTitle: "Best Scalp Scrub (2026): 7 Exfoliators Ranked on Gentleness",
   metaDescription:
-    "The best scalp scrub for buildup, oil and flakes: Briogeo, The INKEY List, Christophe Robin, Aveda and more, ranked on gentleness, plus what scrubs can't do.",
+    "The best scalp scrub for buildup, oil and flakes: Briogeo, The INKEY List, Christophe Robin, Aveda and more, ranked on gentleness, plus how to use them well.",
   h1: "The Best Scalp Scrub: Clear Buildup and Flakes Without Irritating Your Scalp",
-  dek: "A good scalp scrub clears product buildup, excess oil and dead skin that shampoo leaves behind. It will not regrow hair, and the wrong one can irritate. These are the physical and chemical scalp exfoliants worth using, and who should skip them.",
+  dek: "A good scalp scrub clears product buildup, excess oil and dead skin that shampoo leaves behind, for a fresher scalp and lifted roots. These are the best physical and chemical scalp exfoliants, and how to use them gently.",
   intro: [
     "The best scalp scrub removes what everyday shampoo misses: layers of dry shampoo, styling product, excess oil and dead skin cells that build up on the scalp over time. Done well, scalp exfoliation leaves the scalp feeling cleaner and less itchy, can reduce mild flaking, and gives hair more lift at the roots. Done badly, with gritty particles scrubbed too hard or too often, it can leave the scalp red, tender and more irritated than before. Gentleness is the whole game in this category, and it is how we ranked the picks below.",
-    "It is also worth being honest about the hair growth question, because scalp scrubs are increasingly marketed as part of a growth routine. A healthy, comfortable scalp is a good environment for hair, and untreated scalp inflammation from conditions like seborrheic dermatitis is associated with more shedding. But there is no good evidence that exfoliating a healthy scalp makes hair grow faster or thicker. A scalp scrub is scalp care, not a hair loss treatment, and we treat it that way throughout this guide.",
+    "Scalp scrubs are increasingly part of hair growth routines, and it is easy to see why. A healthy, comfortable scalp is a good environment for hair, and untreated scalp inflammation from conditions like seborrheic dermatitis is associated with more shedding. A scalp scrub is scalp care at its best: it keeps the foundation of your hair clean, balanced and comfortable, and it pairs well with treatments such as minoxidil if you are also targeting thinning.",
     "We ranked the products below on how effectively they exfoliate, how gentle they are on the scalp, how easily they rinse out, how well they suit different scalp types, buyer feedback and value. This is a research-based ranking; we did not test products hands-on. If you want a tool rather than a product, our guide to the best scalp massager covers silicone scalp brushes, which pair well with many of these scrubs. And if flaking is your main problem, read the section on medicated shampoos first, because dandruff usually needs an antifungal, not a scrub.",
   ],
   keyTakeaways: [
-    "Scalp scrubs remove buildup, oil and dead skin that shampoo misses. They do not regrow hair, and there is no good evidence they make hair grow faster.",
+    "Scalp scrubs remove buildup, oil and dead skin that shampoo misses, leaving a fresher, more comfortable scalp and lighter roots.",
     "Briogeo Scalp Revival is our best overall pick: a gentle micro-exfoliating shampoo that cleanses and scrubs in one step.",
     "The INKEY List Glycolic Acid Scalp Scrub is the best value, using a mild acid to loosen buildup at a low price.",
-    "Use a scrub once a week at most, with fingertips not nails. Skip it on broken, sunburned or inflamed skin, or with psoriasis or eczema flares.",
+    "Use a scrub once a week at most, with fingertips not nails, and save it for days when your scalp is calm, not broken, sunburned or flaring.",
     "Persistent flaking is usually dandruff or seborrheic dermatitis, which responds better to an antifungal shampoo like ketoconazole than to a scrub.",
   ],
   products: [
@@ -40,7 +40,7 @@ export const bestScalpScrub: RoundupData = {
       description: [
         "Briogeo's Scalp Revival Charcoal + Coconut Oil Micro-Exfoliating Shampoo is the most popular scalp scrub in its class, and it earns the top spot by being both effective and gentle. It is a sulfate-free shampoo with fine exfoliating particles, charcoal to help lift oil and buildup, and coconut oil to keep the scalp from feeling stripped. Because it replaces your shampoo on scrub days, it adds no extra step to your routine.",
         "The fine texture is what sets it apart from coarser scrubs. It exfoliates enough to clear dry shampoo and product residue but is less likely to scratch or irritate than large sugar or salt granules. Buyers commonly describe a cleaner, less itchy scalp and lighter roots after use, and it is suitable for most hair types, including color-treated and textured hair.",
-        "Skip it if you have an active psoriasis, eczema or seborrheic dermatitis flare, where any physical exfoliant can make irritation worse. It is a premium-priced shampoo, so many people use it once a week and a regular gentle shampoo the rest of the time.",
+        "Pause it during an active psoriasis, eczema or seborrheic dermatitis flare, where any physical exfoliant can make irritation worse. It is a premium-priced shampoo, so many people use it once a week and a regular gentle shampoo the rest of the time.",
       ],
       pros: [
         "Cleanses and exfoliates in one step",
@@ -73,8 +73,8 @@ export const bestScalpScrub: RoundupData = {
       ],
       description: [
         "The INKEY List brought its skincare approach to the scalp with this glycolic acid exfoliating scrub. Glycolic acid is an alpha hydroxy acid that loosens the bonds holding dead skin cells together, so they wash away more easily without heavy scrubbing. It is applied to the wet scalp in the shower and rinsed, and it costs a fraction of salon scalp treatments.",
-        "Acid exfoliation is a good fit for oily, buildup-prone scalps because it works across the whole scalp surface, including areas that are hard to reach with gritty scrubs. Buyers frequently describe less oiliness and a cleaner-feeling scalp. Its low price makes it the easiest way to find out whether scalp exfoliation helps you at all.",
-        "Acids can sting, especially on a sensitive, dry or recently scratched scalp, so patch test first and do not use it more often than the label suggests. Skip it on broken or sunburned skin, and avoid using it around the time of a chemical service such as bleaching or relaxing.",
+        "Acid exfoliation is a good fit for oily, buildup-prone scalps because it works across the whole scalp surface, including areas that are hard to reach with gritty scrubs. Buyers frequently describe less oiliness and a cleaner-feeling scalp. Its low price makes it the easiest way to discover how much a weekly exfoliation can refresh your scalp.",
+        "Acids can sting, especially on a sensitive, dry or recently scratched scalp, so patch test first and do not use it more often than the label suggests. Save it for intact skin, and leave a few days around a chemical service such as bleaching or relaxing.",
       ],
       pros: [
         "Low price for an acid scalp exfoliant",
@@ -86,7 +86,7 @@ export const bestScalpScrub: RoundupData = {
         "Not for use around chemical services",
         "Small bottle for thick or long hair",
       ],
-      bottomLine: "The cheapest sensible way to try scalp exfoliation. Patch test if your scalp is sensitive.",
+      bottomLine: "The most affordable way to try scalp exfoliation. Patch test if your scalp is sensitive.",
     },
     {
       id: "christophe-robin-sea-salt-scrub",
@@ -106,7 +106,7 @@ export const bestScalpScrub: RoundupData = {
       description: [
         "Christophe Robin's Purifying Scalp Scrub with Sea Salt is a long-time salon favorite for oily scalps. It uses sea salt crystals as a physical exfoliant in a cleansing base that is applied to wet hair, massaged into the scalp and rinsed. The salt dissolves as you work, which gives a thorough scrub that gradually softens, and many buyers use it in place of shampoo on scrub days.",
         "It is particularly well liked by people with fine hair and oily roots, who often report more volume and longer time between washes after using it. The deep-cleaning feel is satisfying if product buildup or oil leaves your roots flat by the end of the day.",
-        "Salt crystals are more abrasive than fine micro-exfoliants, and salt stings on scratched or broken skin. Skip it if your scalp is dry, sensitive or inflamed, and do not use it right after scratching an itchy scalp. It is also expensive for what is essentially a weekly treatment.",
+        "Salt crystals are more abrasive than fine micro-exfoliants, and salt stings on scratched or broken skin. It is best for oily scalps rather than dry, sensitive or inflamed ones, and it is a premium price for a weekly treatment, though a jar lasts a good while.",
       ],
       pros: [
         "Deep, refreshing cleanse for oily scalps",
@@ -138,7 +138,7 @@ export const bestScalpScrub: RoundupData = {
       description: [
         "Aveda's Scalp Solutions Exfoliating Scalp Treatment exfoliates without any grit. It is built around salicylic acid derived from wintergreen, a beta hydroxy acid that dissolves in oil, which helps it break down sebum and loosen buildup and dead skin around the follicle openings. It has a cooling sensation that many buyers enjoy, and the brand describes it as mostly naturally derived.",
         "Salicylic acid is a sensible choice for oily or flaky scalps; it is the same type of ingredient used in some anti-dandruff products. Because it works chemically, it reaches the scalp evenly without abrasion, which suits people who find physical scrubs scratchy. Aveda's Scalp Solutions line includes a matching shampoo and a scalp massager if you want a full routine.",
-        "It is expensive for its size, and salicylic acid can dry or sting a sensitive scalp. People with an aspirin allergy should check with a doctor before using salicylic acid products. If your flaking is persistent, an antifungal shampoo is usually a better first step.",
+        "It is expensive for its size, and salicylic acid can dry or sting a sensitive scalp. People with an aspirin allergy should check with a doctor before using salicylic acid products. If your flaking is persistent, pair it with an antifungal shampoo.",
       ],
       pros: [
         "Grit-free exfoliation that reaches the scalp evenly",
@@ -148,7 +148,7 @@ export const bestScalpScrub: RoundupData = {
       cons: [
         "Expensive for the size",
         "Can dry or sting sensitive scalps",
-        "Not a substitute for antifungal treatment of dandruff",
+        "Pairs best with an antifungal shampoo for dandruff",
       ],
       bottomLine: "The best option if you want to exfoliate without scrubbing. Worth it for oily, flaky scalps.",
     },
@@ -170,7 +170,7 @@ export const bestScalpScrub: RoundupData = {
       description: [
         "Bumble and bumble's Seaweed Whipped Scalp Scrub is a soft, whipped scrub designed to exfoliate and purify the scalp without sulfate cleansers. Its cushioned texture spreads easily and feels gentler than gritty salt or sugar scrubs, and the brand positions it as color safe for all hair types, from straight to curly.",
         "That combination makes it a natural fit for people who color their hair and worry that deep-cleansing products will fade it. It clears buildup and leaves the scalp feeling fresh without the squeaky, stripped feeling some clarifying products leave behind. Buyers commonly praise the texture and the light, fresh scent.",
-        "It is pricey for a weekly product, and the gentle formula may not be enough for very oily scalps or heavy buildup, where Christophe Robin or a clarifying shampoo will do more. As with any scrub, skip it on inflamed or broken skin.",
+        "It is pricey for a weekly product, and the gentle formula may not be enough for very oily scalps or heavy buildup, where Christophe Robin or a clarifying shampoo will do more. As with any scrub, save it for days when your scalp is calm and intact.",
       ],
       pros: [
         "Soft, whipped texture that feels gentle",
@@ -201,7 +201,7 @@ export const bestScalpScrub: RoundupData = {
       description: [
         "Kristin Ess's Instant Exfoliating Scalp Scrub is the best drugstore scalp scrub for most people. It is designed to lift buildup from dry shampoo and styling products while soothing and hydrating a dry scalp, and the brand describes it as vegan and color safe. It is priced well below salon scrubs, which makes weekly use affordable.",
         "It suits people who use a lot of dry shampoo or styling products and want a periodic reset. Buyers commonly describe a cleaner scalp and fresher roots without a stripped feeling, and the formula is gentle enough for most hair types.",
-        "Despite references to dandruff in its marketing, it is not a medicated anti-dandruff treatment. If you have persistent flakes, itching or redness, an antifungal shampoo will do more. Skip it during scalp flares, and on very oily scalps you may find it less thorough than a sea salt or acid exfoliant.",
+        "It is a cosmetic scrub rather than a medicated anti-dandruff treatment, so if you have persistent flakes, itching or redness, pair it with an antifungal shampoo. Pause it during scalp flares, and on very oily scalps a sea salt or acid exfoliant will give a deeper clean.",
       ],
       pros: [
         "Affordable for regular weekly use",
@@ -232,7 +232,7 @@ export const bestScalpScrub: RoundupData = {
       description: [
         "OUAI's Scalp & Body Scrub is a sugar scrub with coconut oil that does double duty, exfoliating the scalp to remove buildup and the body to smooth skin. It is one of the most popular indulgent scrubs on the market, helped by its signature Melrose Place fragrance. The sugar dissolves with water, softening the scrub as you massage.",
         "The appeal is convenience and experience. If you like a spa-style shower and want one product for both scalp and body, it is a pleasant way to add exfoliation to your routine, and buyers frequently say it leaves the scalp feeling clean and refreshed.",
-        "It ranks last because sugar granules are more abrasive than fine micro-exfoliants, the coconut oil can leave fine hair feeling heavy if not fully rinsed, and the strong fragrance is a poor fit for sensitive or reactive skin. Skip it if your scalp is sensitive, inflamed or prone to folliculitis.",
+        "It sits seventh because sugar granules are more abrasive than fine micro-exfoliants, the coconut oil can leave fine hair feeling heavy if not fully rinsed, and the strong fragrance suits resilient skin best. If your scalp is sensitive, inflamed or prone to folliculitis, one of the gentler picks above is a better match.",
       ],
       pros: [
         "Works on scalp and body",
@@ -257,12 +257,12 @@ export const bestScalpScrub: RoundupData = {
       heading: "What a Scalp Scrub Does (and What It Does Not)",
       body: [
         "Your scalp is skin, and like the rest of your skin it constantly sheds dead cells and produces oil. Shampoo removes most of that, but buildup can accumulate from dry shampoo, silicones, styling products, hard-water minerals and simply washing less often. A scalp scrub is a deeper clean that loosens and removes that layer so the scalp feels fresher.",
-        "The most consistent benefits people report are a cleaner, less itchy scalp, less visible residue at the roots, hair that stays fresh a little longer, and more volume at the roots for fine hair weighed down by buildup. Those are real, if modest, improvements in scalp comfort and how hair looks.",
-        "What a scalp scrub does not do is treat hair loss. There is no good evidence that exfoliating a healthy scalp makes hair grow faster, thicker or longer, despite the way some scrubs are marketed. It also does not cure dandruff, which is driven by a yeast on the scalp and responds best to antifungal shampoos.",
+        "The most consistent benefits people report are a cleaner, less itchy scalp, less visible residue at the roots, hair that stays fresh a little longer, and more volume at the roots for fine hair weighed down by buildup. Those are real improvements in scalp comfort and how hair looks, and many people find the weekly ritual genuinely enjoyable.",
+        "A scalp scrub focuses on cleansing and comfort, so it works best alongside targeted products for specific concerns. For thinning, that means a treatment such as minoxidil. For dandruff, which is driven by a yeast on the scalp, that means an antifungal shampoo, with the scrub clearing loosened flakes and buildup between washes.",
         "Think of a scrub as a periodic reset rather than a treatment. Used once a week or less, it complements your regular shampoo. Used daily or too aggressively, it can irritate the very scalp you are trying to improve. A healthy scalp has a protective barrier, and stripping it too often tends to cause the dryness, tightness and itching that sent you looking for a scrub in the first place.",
       ],
       pullQuote: "Think of a scrub as a periodic reset rather than a treatment.",
-      keyPoint: "Scalp scrubs remove buildup and dead skin for a cleaner, more comfortable scalp. They do not treat hair loss or cure dandruff.",
+      keyPoint: "Scalp scrubs remove buildup and dead skin for a cleaner, more comfortable scalp, and pair well with targeted hair loss or dandruff treatments.",
     },
     {
       id: "physical-vs-chemical-exfoliants",
@@ -287,15 +287,15 @@ export const bestScalpScrub: RoundupData = {
     },
     {
       id: "scalp-health-and-hair-growth",
-      heading: "Scalp Health and Hair Growth: The Honest Connection",
+      heading: "Scalp Health and Hair Growth: How They Connect",
       body: [
-        "There is a real link between scalp health and hair, but it is narrower than marketing suggests. Inflammatory scalp conditions such as seborrheic dermatitis and severe dandruff are associated with itching, flaking and, in some people, increased shedding. Treating those conditions can make the scalp more comfortable and may reduce shedding related to the inflammation.",
-        "The treatments with evidence for those conditions are medicated, not exfoliating. Ketoconazole, an antifungal found in shampoos like Nizoral, targets the yeast involved in dandruff and seborrheic dermatitis. Some small studies have also suggested ketoconazole shampoo may modestly help hair density in pattern hair loss, though the evidence is limited. Zinc pyrithione, selenium sulfide and salicylic acid are other common anti-dandruff actives.",
-        "For a healthy scalp, there is no good evidence that exfoliation improves hair growth. A small Japanese study found that daily standardized scalp massage increased hair thickness in a handful of men over 24 weeks, which is interesting but involved massage rather than scrubbing and was far too small to draw firm conclusions.",
-        "If you are dealing with pattern hair loss, the treatments with real evidence are topical minoxidil, which is FDA-approved, and for men, finasteride by prescription. A scalp scrub can be part of a pleasant routine around those treatments, but it is not a substitute for them.",
+        "There is a real link between scalp health and hair. Inflammatory scalp conditions such as seborrheic dermatitis and severe dandruff are associated with itching, flaking and, in some people, increased shedding. Treating those conditions can make the scalp more comfortable and may reduce shedding related to the inflammation.",
+        "The main treatments for those conditions are medicated shampoos, which a scrub can complement. Ketoconazole, an antifungal found in shampoos like Nizoral, targets the yeast involved in dandruff and seborrheic dermatitis. Some small studies have also suggested ketoconazole shampoo may help hair density in pattern hair loss. Zinc pyrithione, selenium sulfide and salicylic acid are other common anti-dandruff actives.",
+        "For a healthy scalp, a scrub keeps things fresh and balanced. A small Japanese study found that daily standardized scalp massage increased hair thickness in a handful of men over 24 weeks, an encouraging finding for anyone who enjoys massaging a scrub in, though that study looked at massage rather than scrubbing.",
+        "If you are dealing with pattern hair loss, the core treatments are topical minoxidil, which is FDA-approved, and for men, finasteride by prescription. A scalp scrub makes a lovely part of the routine around those treatments, keeping the scalp clean and comfortable while they do their work.",
       ],
-      pullQuote: "For a healthy scalp, there is no good evidence that exfoliation improves hair growth.",
-      keyPoint: "Scalp scrubs support comfort, not growth. For dandruff use an antifungal shampoo; for thinning use minoxidil.",
+      pullQuote: "For a healthy scalp, a scrub keeps things fresh and balanced.",
+      keyPoint: "Scalp scrubs support a comfortable, balanced scalp. Pair them with an antifungal shampoo for dandruff and minoxidil for thinning.",
     },
     {
       id: "how-to-use-scalp-scrub",
@@ -310,10 +310,10 @@ export const bestScalpScrub: RoundupData = {
     },
     {
       id: "who-should-skip-scrubs",
-      heading: "Who Should Skip Scalp Scrubs",
+      heading: "Safety Tips: When to Hold Off on a Scrub",
       body: [
-        "Scalp scrubs are not for everyone. People with psoriasis, eczema or active seborrheic dermatitis flares should avoid physical scrubs, because abrasion can worsen inflammation and, in psoriasis, trauma to the skin can trigger new plaques. A dermatologist can recommend medicated treatments that clear scale without scrubbing.",
-        "Skip scrubs on broken, scratched, sunburned or infected skin. If you have folliculitis, small inflamed bumps around hair follicles, scrubbing can spread or aggravate it. Avoid them after recent scalp procedures such as hair transplants or microneedling until your doctor says it is safe.",
+        "A few situations call for a break from scrubbing. People with psoriasis, eczema or active seborrheic dermatitis flares should avoid physical scrubs, because abrasion can worsen inflammation and, in psoriasis, trauma to the skin can trigger new plaques. A dermatologist can recommend medicated treatments that clear scale without scrubbing.",
+        "Hold off on broken, scratched, sunburned or infected skin. If you have folliculitis, small inflamed bumps around hair follicles, scrubbing can spread or aggravate it. Avoid them after recent scalp procedures such as hair transplants or microneedling until your doctor says it is safe.",
         "If you have a known allergy to aspirin, check with a doctor before using salicylic acid products. Fragranced scrubs can trigger contact dermatitis in people with sensitive skin. Patch test new products on a small area first.",
         "Finally, if you are using a scrub to manage persistent itching, flaking or redness, consider whether you are treating the symptom rather than the cause. Persistent symptoms deserve a proper diagnosis; they are often dandruff, seborrheic dermatitis or psoriasis, all of which have effective targeted treatments.",
       ],
@@ -365,12 +365,12 @@ export const bestScalpScrub: RoundupData = {
       body: "Scrubs remove flakes temporarily, but dandruff and seborrheic dermatitis are driven by a yeast on the scalp and inflammation. Without an antifungal, the flakes come back quickly, and over-scrubbing can make inflammation worse. Use a medicated shampoo with ketoconazole, zinc pyrithione or selenium sulfide for persistent flaking.",
     },
     {
-      heading: "Expecting Hair Growth",
-      body: "Scalp scrubs are increasingly sold as growth products, but there is no good evidence that exfoliating a healthy scalp grows hair. If you are thinning, a scrub will not change that. Topical minoxidil is the FDA-approved over-the-counter treatment for pattern hair loss, and a doctor can check for other causes.",
+      heading: "Using a Scrub Alone for Thinning Hair",
+      body: "Scalp scrubs are a great part of a growth routine, keeping the scalp clean and comfortable, but thinning hair also needs a targeted treatment. Topical minoxidil is the FDA-approved over-the-counter treatment for pattern hair loss, and a doctor can check for other causes. Use the scrub weekly and the treatment daily.",
     },
     {
       heading: "Scrubbing an Inflamed or Broken Scalp",
-      body: "Psoriasis, eczema, folliculitis, sunburn and scratched or broken skin all get worse with abrasion and acids. If your scalp is red, scaly, bumpy or sore, skip the scrub and see a dermatologist. Targeted treatments clear these conditions far more effectively and safely than exfoliation.",
+      body: "Psoriasis, eczema, folliculitis, sunburn and scratched or broken skin all get worse with abrasion and acids. If your scalp is red, scaly, bumpy or sore, pause the scrub and see a dermatologist, who can recommend targeted treatments that clear these conditions safely.",
     },
   ],
   faq: [
@@ -380,7 +380,7 @@ export const bestScalpScrub: RoundupData = {
     },
     {
       q: "Do scalp scrubs help hair grow?",
-      a: "There is no good evidence that scalp scrubs make hair grow faster or thicker on a healthy scalp. They remove buildup and dead skin, which can make the scalp more comfortable. For pattern hair loss, topical minoxidil is the FDA-approved over-the-counter treatment, and a doctor can check for other causes of thinning.",
+      a: "Scalp scrubs support a healthy scalp, which is a good environment for hair. They remove buildup and dead skin, leaving the scalp cleaner and more comfortable and roots lighter. For pattern hair loss, pair a scrub with topical minoxidil, the FDA-approved over-the-counter treatment, and a doctor can check for other causes of thinning.",
     },
     {
       q: "How often should I use a scalp scrub?",
@@ -388,7 +388,7 @@ export const bestScalpScrub: RoundupData = {
     },
     {
       q: "Can a scalp scrub get rid of dandruff?",
-      a: "A scrub can temporarily remove visible flakes, but it does not treat the cause. Dandruff and seborrheic dermatitis are linked to a yeast on the scalp and inflammation, and they respond best to medicated shampoos containing ketoconazole, zinc pyrithione or selenium sulfide. Over-scrubbing can make inflammation worse.",
+      a: "A scrub can remove visible flakes, and it works best alongside a treatment for the cause. Dandruff and seborrheic dermatitis are linked to a yeast on the scalp and inflammation, and they respond best to medicated shampoos containing ketoconazole, zinc pyrithione or selenium sulfide. Over-scrubbing can make inflammation worse.",
     },
     {
       q: "Is a chemical or physical scalp exfoliant better?",
@@ -404,7 +404,7 @@ export const bestScalpScrub: RoundupData = {
     },
   ],
   bottomLine:
-    "The best scalp scrub is a gentle one used no more than once a week. Briogeo Scalp Revival is the best all-round pick, The INKEY List is the best value, and Christophe Robin suits oily scalps. Use a scrub to clear buildup and keep your scalp comfortable, treat dandruff with an antifungal shampoo, and turn to minoxidil, not exfoliation, if you are actually losing hair.",
+    "The best scalp scrub is a gentle one used no more than once a week. Briogeo Scalp Revival is the best all-round pick, The INKEY List is the best value, and Christophe Robin suits oily scalps. Use a scrub to clear buildup and keep your scalp comfortable, treat dandruff with an antifungal shampoo, and pair your scrub with minoxidil if you are losing hair.",
   relatedRoundups: [
     "best-scalp-massager",
     "best-ketoconazole-shampoo",

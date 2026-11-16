@@ -12,7 +12,7 @@ export const bestPomadeForThinHair: RoundupData = {
   intro: [
     "The best pomade for thin hair is a matte, light-to-medium hold product, usually a clay, fiber or light cream rather than a classic greasy pomade, used in a small amount on dry hair, and for most men Baxter of California Clay Pomade is the best place to start. The wrong product is one of the fastest ways to make thin hair look thinner: a heavy, shiny pomade weighs fine strands down, clumps them together and leaves gaps where the scalp shows through and reflects light.",
     "Matte products do the opposite. Clays and fibers grip each strand, add a little texture and grit, and keep hair separated and lifted, which makes it look denser. The finish matters as much as the hold, because shine draws the eye to the scalp, while a matte or low-shine finish blends hair and skin together. Technique matters too: a pea-sized amount, warmed in your palms and worked in from the back to the front on dry hair, will outperform a big scoop of any product.",
-    "We ranked the picks below on finish, how light they feel on fine hair, hold, ease of washing out, value and buyer feedback. Hold and finish descriptions come from the Amazon listings. This is research-based, not a hands-on test. We also cover the best clay for men's hair, when to use putty, the best men's haircuts for thinning hair, and where hair fibers and minoxidil come in. Styling products can make thin hair look fuller, but none of them treat hair loss.",
+    "We ranked the picks below on finish, how light they feel on fine hair, hold, ease of washing out, value and buyer feedback. Hold and finish descriptions come from the Amazon listings. This is research-based, not a hands-on test. We also cover the best clay for men's hair, when to use putty, the best men's haircuts for thinning hair, and where hair fibers and minoxidil come in. Styling products make thin hair look fuller every day, and they pair perfectly with a hair loss treatment if you want one.",
   ],
   keyTakeaways: [
     "Baxter of California Clay Pomade is our best overall pick: a matte clay with strong hold that a small amount stretches far on fine hair.",
@@ -40,7 +40,7 @@ export const bestPomadeForThinHair: RoundupData = {
       description: [
         "Baxter of California's Clay Pomade is a long-standing men's grooming staple, and its matte finish makes it our first choice for thin hair. The listing describes it as a strong-hold, matte clay pomade, which is the combination that suits fine hair best when used sparingly: enough grip to keep each strand lifted and separated, with no shine to reflect light off the scalp.",
         "The key with a strong clay on fine hair is the amount. Take a portion smaller than a pea, rub it between your palms until it softens and almost disappears, and work it through dry hair from the roots out, starting at the back of the crown and moving forward. Then shape with your fingers. Too much will make fine hair stiff and clumpy, which defeats the point. A 2 oz jar lasts a long time used this way.",
-        "Skip it if you want a sleek, polished, slicked-back look, which needs some shine, or if your hair is very short and only needs a light texture product. Clays can also take a thorough shampoo to remove, so wash well if you notice buildup.",
+        "For a sleek, polished, slicked-back look, which needs some shine, or for very short hair that only needs a light texture product, one of the picks below is a better match. Clays can also take a thorough shampoo to remove, so wash well if you notice buildup.",
       ],
       pros: [
         "Completely matte finish hides the scalp better than shiny products",
@@ -73,7 +73,7 @@ export const bestPomadeForThinHair: RoundupData = {
       description: [
         "American Crew Fiber is one of the most widely used barbershop styling products, and it is a natural fit for thin hair that looks best with a deliberately messy, textured finish. The listing describes it as high hold with low shine. It has a stringy, pliable texture that lets you pull hair into separated pieces, which creates the impression of more hair on top.",
         "Fiber products work well on fine hair because they stay pliable instead of setting hard, so you can reshape during the day. Use a small amount on dry hair, work it in from the roots, and twist or pinch the ends for definition. It is particularly good for short textured crops and messy quiffs, two of the most flattering cuts for thinning hair.",
-        "Skip it if you want a fully matte finish, since low shine is not the same as no shine, and the Baxter clay is flatter. It can also feel heavy on very fine hair if you use too much, and it may need a thorough shampoo to wash out.",
+        "If you want a fully matte finish, the Baxter clay is flatter, since low shine is not quite the same as no shine. It can also feel heavy on very fine hair if you use too much, and it may need a thorough shampoo to wash out.",
       ],
       pros: [
         "High hold with a pliable, restylable texture",
@@ -106,7 +106,7 @@ export const bestPomadeForThinHair: RoundupData = {
       description: [
         "Redken Brews is the men's line from the salon brand Redken, and its Cream Pomade is the softest product on our list. The listing describes medium hold with a natural, smooth finish and low shine. A cream spreads more easily than a clay or paste, which makes it the best choice for men whose hair is so fine that even a small amount of clay makes it stiff.",
         "Creams suit softer styles: a natural side part, a short crop pushed forward, or hair that you want to look neat but not styled. Because a cream is easy to spread, you are less likely to deposit a clump of product in one spot, which is a common problem with thicker pomades on thin hair. Use a small amount and focus it on the lengths and ends rather than packing it onto the scalp.",
-        "Skip it if you need lift that lasts all day or want a strong textured look; medium hold will relax on fine hair over the day. Pair it with a texture spray before drying if you want more volume.",
+        "For lift that lasts all day or a strong textured look, a clay or fiber is the better match, since medium hold relaxes on fine hair over the day. Pair it with a texture spray before drying if you want more volume.",
       ],
       pros: [
         "Easy to spread evenly through fine hair",
@@ -139,7 +139,7 @@ export const bestPomadeForThinHair: RoundupData = {
       description: [
         "Suavecito is the best-known water-based pomade, and if you want a traditional pomade rather than a clay, this is the type to choose for thin hair. The listing describes a 4 oz water-based pomade with medium shine that is flake free and easy to wash out. Water-based pomades rinse out with plain shampoo, unlike traditional oil- and wax-based greases, which build up on fine hair and make it look limp and greasy over time.",
         "This is our pick for men who want a classic combed look, such as a neat side part or a short pompadour, where some shine is part of the style. On thin hair, the trick is to use very little and to keep the shine moderate. Apply to dry or barely damp hair, comb it into place, and avoid slicking the hair flat against the scalp, which is where a shiny product shows the most skin.",
-        "Skip it if your scalp is clearly visible through your hair, especially at the crown. Medium shine will make that more noticeable; a matte clay or fiber is the better choice there.",
+        "If your scalp is clearly visible through your hair, especially at the crown, a matte clay or fiber is the better choice, since medium shine can make that more noticeable.",
       ],
       pros: [
         "Water-based and easy to wash out (per listing)",
@@ -172,7 +172,7 @@ export const bestPomadeForThinHair: RoundupData = {
       description: [
         "Bumble and bumble's Thickening Dryspun Texture Spray is not a pomade, but it belongs on any list of the best styling products for fine hair men. The listing describes a lightweight dry texture spray for volume that adds hold and is designed for fine to medium hair. Sprays like this coat each strand lightly and add grit, so hair looks thicker and sits up rather than lying flat.",
         "Use it two ways. On its own, spray it onto dry hair at the roots and tousle with your fingers for a light, messy texture with almost no weight. Or use it as a base: mist it in, rough-dry or blow dry the roots upward, then add a tiny amount of clay or fiber on top. That layering approach gives fine hair more volume than either product alone, and lets you use less of the heavier product.",
-        "Skip it if you want a polished look or a strong hold on its own; it is a texture product, not a firm styler. It is also a premium salon brand, so it costs more than drugstore sprays.",
+        "It is a texture product rather than a firm styler, so for a polished look or strong hold, layer a clay or fiber on top. It is also a premium salon brand, so it costs more than drugstore sprays.",
       ],
       pros: [
         "Designed for fine to medium hair",
@@ -205,7 +205,7 @@ export const bestPomadeForThinHair: RoundupData = {
       description: [
         "Toppik Hair Building Fibers are the best-known hair fiber concealer, and they solve a problem no pomade can: scalp showing through thin areas. The fibers are made from keratin and cling to existing hairs with static, making each strand look thicker and filling in the contrast between hair and scalp. The listing offers nine shades for men and women, and this one is Dark Brown in a 27.5 g bottle.",
         "Style your hair first, then shake the fibers over the thinning area, pat lightly, and set them with a light hairspray if you want them to stay put longer. Toppik sells a FiberHold Spray for this, but any light hairspray works. Fibers need some hair to cling to, so they work best on diffuse thinning at the crown, part or temples, not on fully bald skin. They wash out with shampoo.",
-        "Fibers are a cosmetic concealer, not a treatment, and they do nothing to slow or reverse hair loss. Match the shade carefully, use less than you think, and see our guide to the best hair fibers for thinning hair for more options. Pair them with minoxidil if you want to treat the thinning itself.",
+        "Fibers are a cosmetic concealer that works instantly, every day. Match the shade carefully, use less than you think, and see our guide to the best hair fibers for thinning hair for more options. Pair them with minoxidil if you want to treat the thinning itself.",
       ],
       pros: [
         "Hides a visible scalp in a way styling products cannot",
@@ -213,7 +213,7 @@ export const bestPomadeForThinHair: RoundupData = {
         "Washes out with shampoo",
       ],
       cons: [
-        "Cosmetic only; does not treat hair loss",
+        "Washes out each time you shampoo, so reapply daily",
         "Needs some existing hair to cling to",
         "Can look unnatural if overapplied or poorly matched",
       ],
@@ -303,7 +303,7 @@ export const bestPomadeForThinHair: RoundupData = {
       heading: "Best Styling Products for Fine Hair Men: Building a Simple Routine",
       body: [
         "Most men with fine or thinning hair get the best result from two products, not one. The first is a light base used on damp hair: a texture spray, volumizing spray or light thickening product. The second is a small amount of matte finishing product on dry hair. Together they give lift and grip without loading up the hair.",
-        "Shampoo and conditioner choices matter too. Heavy, rich conditioners and oils can flatten fine hair, so use a lightweight conditioner focused on the ends. A volumizing or thickening shampoo will not regrow hair, but some can leave fine strands feeling fuller and cleaner, which helps styling. Wash often enough to clear product buildup.",
+        "Shampoo and conditioner choices matter too. Heavy, rich conditioners and oils can flatten fine hair, so use a lightweight conditioner focused on the ends. A volumizing or thickening shampoo can leave fine strands feeling fuller and cleaner, which makes styling easier. Wash often enough to clear product buildup.",
         "Heat can help when used gently. Blow drying the roots upward on medium heat creates lift that air drying cannot match, and that volume lasts longer when set with cool air and a matte product. Keep the heat moderate, since repeated high heat can make fine hair brittle and break.",
         "Keep the routine short. Adding layers of product rarely helps thin hair; it usually ends up heavier and flatter by midday. If your hair looks greasy or flat by afternoon, use less product, not a different one.",
       ],
@@ -313,10 +313,10 @@ export const bestPomadeForThinHair: RoundupData = {
       id: "hide-vs-treat-thinning",
       heading: "Hiding Thinning vs. Treating It: Fibers, Minoxidil and When to See a Doctor",
       body: [
-        "Every product above is cosmetic. Clays, pomades, sprays and fibers can make thin hair look fuller for a day, and that is worth doing, but none of them change how your hair grows. Styling products do not cause pattern hair loss either, though very heavy products left on the scalp for days can contribute to buildup and irritation, so wash regularly.",
+        "Every product above is cosmetic. Clays, pomades, sprays and fibers make thin hair look fuller every day, which is a real confidence boost, and they work hand in hand with treatments that target how your hair grows. Styling products do not cause pattern hair loss either, though very heavy products left on the scalp for days can contribute to buildup and irritation, so wash regularly.",
         "Hair fibers are the step between styling and treatment. They cling to existing hairs to reduce the contrast with your scalp, which makes them useful for a thin crown or a widening part. They need some hair to cling to and wash out each time you shampoo.",
         "If your hair is genuinely thinning, especially in the typical male pattern of a receding hairline and thinning crown, treatment works best when started early. Topical minoxidil is the only over-the-counter drug approved to regrow hair, and finasteride is a prescription option that a doctor can discuss with you. Both take months to show results and need ongoing use to keep working.",
-        "See a dermatologist if your hair loss is sudden, patchy, painful, itchy or accompanied by redness and scaling, or if you are losing hair quickly. Those patterns can signal conditions such as alopecia areata or a scalp disorder that styling and minoxidil will not address.",
+        "See a dermatologist if your hair loss is sudden, patchy, painful, itchy or accompanied by redness and scaling, or if you are losing hair quickly. Those patterns can signal conditions such as alopecia areata or a scalp disorder that need a doctor's care.",
       ],
       pullQuote: "Every product above is cosmetic.",
       keyPoint:
@@ -352,8 +352,8 @@ export const bestPomadeForThinHair: RoundupData = {
       body: "A fine-toothed comb and a slicked-back or comb-over style line thin hair up in neat rows with scalp visible between them. Finger-styling with a matte product creates a textured, slightly messy finish that looks much fuller. A shorter, textured cut helps even more.",
     },
     {
-      heading: "Treating Styling as a Solution to Hair Loss",
-      body: "Styling products and fibers hide thinning for the day but do nothing to stop it. If your hairline is receding or your crown is thinning, minoxidil is the only over-the-counter treatment approved to regrow hair, and it works best when started early. See a dermatologist for sudden or patchy loss.",
+      heading: "Using Styling Alone When Hair Is Thinning",
+      body: "Styling products and fibers make thinning hair look great day to day, and they work even better alongside a treatment. If your hairline is receding or your crown is thinning, minoxidil is the only over-the-counter treatment approved to regrow hair, and it works best when started early. See a dermatologist for sudden or patchy loss.",
     },
   ],
   faq: [

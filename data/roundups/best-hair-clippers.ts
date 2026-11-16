@@ -40,7 +40,7 @@ export const bestHairClippers: RoundupData = {
       description: [
         "The Wahl Elite Pro is the clipper we would hand to someone who wants to stop paying for simple haircuts. It is a corded kit, which sounds old-fashioned but is a real advantage at home: the motor never fades halfway through a cut, it does not need charging before use, and it pushes through thick or dense hair more consistently than most budget cordless models. Buyer feedback consistently highlights its power and the quality of the guide combs, which clip on firmly rather than sliding off mid-pass.",
         "As a kit, it includes the guards and accessories most households need for buzz cuts, tapers and simple clipper cuts, so you are not buying extras later. Wahl's guard numbering is the industry standard, which makes it easy to tell a barber or a family member exactly what length you use.",
-        "Skip it if you hate cords or need to cut hair somewhere without an outlet nearby; the Wahl Color Pro Cordless below is the easier, lighter option. It is also more clipper than you need if you only ever do a quick all-over buzz once a month.",
+        "If you prefer to go cord-free or cut hair away from an outlet, the Wahl Color Pro Cordless below is the easier, lighter option. And if you only ever do a quick all-over buzz once a month, a simpler kit will cover you just as well.",
       ],
       pros: [
         "Corded motor delivers steady power without charging or fading",

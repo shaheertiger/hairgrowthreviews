@@ -40,7 +40,7 @@ export const bestHairProductsForMen: RoundupData = {
       description: [
         "American Crew Fiber is the barbershop staple for good reason. It combines high hold with a low-shine, matte finish, and its stretchy, fibrous texture lets you shape hair, push it around and reshape it during the day without it going crunchy. That combination covers the widest range of modern men's haircuts, from short textured crops and quiffs to messy medium-length styles.",
         "It works best on dry or barely damp hair. Scrape out a small amount, warm it between your palms until it softens, and work it from the back to the front before shaping the front with your fingertips. A fingertip-sized amount is enough for short hair, so a tin lasts a long time.",
-        "Skip it if you want a shiny, slick look, which needs a pomade like Suavecito, or if your hair is very fine, where it can weigh hair down. It is wax-based, so it takes a thorough shampoo to remove fully, and men who wash with water only will find it builds up.",
+        "For a shiny, slick look, reach for a pomade like Suavecito, and men with very fine hair should use a light touch, since too much can weigh hair down. It is wax-based, so a thorough shampoo removes it fully; men who wash with water only will find it builds up.",
       ],
       pros: [
         "High hold with a natural matte finish",
@@ -73,7 +73,7 @@ export const bestHairProductsForMen: RoundupData = {
       description: [
         "Baxter of California's Clay Pomade is a premium matte clay that gives thick hair strong, all-day hold with almost no shine. Clay adds grip and body, so it is especially good at taming dense, coarse or wavy hair into textured styles that still look natural, and it gives fine-to-medium hair a fuller, more separated look than a shiny product would.",
         "Because it is firm in the jar, it needs to be warmed properly between your palms before applying. Use it on dry hair, rake it through with your fingers, and finish by twisting small sections at the front for definition. It stays put through a full day without needing touch-ups, and a small amount goes further than the 2 oz jar suggests, because clay spreads thinly once it is properly warmed.",
-        "Skip it if you prefer shine or a sleek finish, and expect to pay more per ounce than mass-market clays. Like most clay products, it takes a thorough shampoo to remove, and very dry hair may feel a little stiff with heavy use. If you want a softer, more natural feel, Redken Brews Cream Pomade is the gentler choice.",
+        "It is made for a matte finish, so men who prefer shine should look at a pomade, and it costs a little more per ounce than mass-market clays. Like most clay products, it takes a thorough shampoo to remove, and very dry hair may feel a little stiff with heavy use. If you want a softer, more natural feel, Redken Brews Cream Pomade is the gentler choice.",
       ],
       pros: [
         "Strong hold that lasts all day",
@@ -105,7 +105,7 @@ export const bestHairProductsForMen: RoundupData = {
       description: [
         "Suavecito Original Hold is the most popular water-based pomade for classic styles, and it is also one of the best values among men's stylers. It gives medium hold with a medium shine, enough to keep a side part, slick back or pompadour in place through the day while still looking polished rather than wet. Because it is water-based, it rinses out with ordinary shampoo and does not leave the greasy residue of old-school oil pomades.",
         "Apply it to towel-dried or slightly damp hair for the smoothest result, comb it through, and shape with a fine-tooth comb. If it starts to set before you finish, a little water on your hands makes it workable again.",
-        "Skip it if you want a messy or matte look; shine is the point here. Men with very thick or coarse hair may want the stronger Firme version for more control. It can feel slightly tacky while drying, and it is not the right choice for fine hair you want to look fuller.",
+        "Shine is the point here, so for a messy or matte look, pick a clay instead. Men with very thick or coarse hair may want the stronger Firme version for more control. It can feel slightly tacky while drying, and for fine hair you want to look fuller, a matte clay or texture spray is the better match.",
       ],
       pros: [
         "Excellent value for a large 4 oz tin",
@@ -137,7 +137,7 @@ export const bestHairProductsForMen: RoundupData = {
       description: [
         "Redken Brews is the salon brand's men's line, and its Cream Pomade is the product for men who want their hair to look neat but not styled. It gives medium hold with a smooth, low-shine finish, so hair stays in place and looks controlled without stiffness or the obvious sheen of a pomade.",
         "Creams are the most forgiving stylers. They work on damp or dry hair, spread easily, and suit everything from short, tidy office cuts to longer, swept-back styles. They also add a little softness, which helps frizzy or coarse hair look smoother. Start with a pea-sized amount and add more only if needed. Because the hold is softer, you can also reapply a touch midday to tidy a style without it building into a stiff, heavy layer.",
-        "Skip it if you want strong, all-day hold for a sculpted style or lots of volume; a clay or fiber does that better. At a salon-brand price it costs more than mass-market creams, and men with very fine, oily hair may find any cream flattens their roots.",
+        "It is designed for soft, natural control, so for strong, all-day hold or lots of volume, a clay or fiber is the better match. At a salon-brand price it costs more than mass-market creams, and men with very fine, oily hair may find any cream flattens their roots.",
       ],
       pros: [
         "Natural, low-shine finish that does not look styled",
@@ -169,7 +169,7 @@ export const bestHairProductsForMen: RoundupData = {
       description: [
         "Surf Spray is the original salon sea salt spray, and it is the best product here for men whose hair falls flat. It adds grit, light volume and a matte, tousled texture without the weight of a paste or pomade, which makes fine or thinning hair look thicker. It is not marketed only to men, but it is a staple in many men's routines for exactly this reason.",
         "Spray it into damp hair, concentrating on the roots, then blow-dry while lifting with your fingers or let it air-dry for a looser look. For more control, follow with a very small amount of clay or fiber on dry hair.",
-        "Skip it if your hair is dry, curly or easily frizzed, because salt can dry hair out with daily use. It provides light hold on its own, so men with thick hair who want structure will need a stronger styler. Use a conditioner on the lengths if you use it every day, and keep the spray off the scalp if it ever feels tight or itchy. A 4.2 oz bottle lasts a while, because a few sprays at the roots are enough for short hair.",
+        "Men with dry, curly or easily frizzed hair should use it a few times a week rather than daily, because salt can dry hair out with daily use. It provides light hold on its own, so men with thick hair who want structure will need a stronger styler. Use a conditioner on the lengths if you use it every day, and keep the spray off the scalp if it ever feels tight or itchy. A 4.2 oz bottle lasts a while, because a few sprays at the roots are enough for short hair.",
       ],
       pros: [
         "Adds volume and texture without weight",
@@ -201,7 +201,7 @@ export const bestHairProductsForMen: RoundupData = {
       description: [
         "Every styler on this list leaves something behind, and Jack Black's Double-Header is the best single bottle for clearing it. It is a sulfate-free two-in-one that removes oil and product buildup while lightly conditioning, with coconut oil and kelp extract in the formula. It keeps short hair clean and soft without the tight, stripped feeling of harsher shampoos.",
         "A two-in-one makes sense for most men with short to medium hair: it simplifies the shower and is enough conditioning for hair that is cut every few weeks. Massage it into the scalp, leave it a moment, and rinse well. After heavy wax or clay days, a second lather helps.",
-        "Skip it if your hair is long, dry or curly and needs a separate, richer conditioner, or if you have dandruff, which needs a medicated shampoo. It is also pricier than drugstore two-in-ones. Our best shampoo for men guide covers alternatives, including dandruff and budget options.",
+        "Men with long, dry or curly hair will want to add a separate, richer conditioner, and anyone with dandruff should pair it with a medicated shampoo. It is a little pricier than drugstore two-in-ones. Our best shampoo for men guide covers alternatives, including dandruff and budget options.",
       ],
       pros: [
         "Sulfate-free and gentle on the scalp",

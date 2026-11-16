@@ -12,14 +12,14 @@ export const bestConditionerForThinningHair: RoundupData = {
   intro: [
     "Finding the best conditioner for thinning hair is a balancing act. Fine, thinning strands are more fragile than thick hair and break more easily when they tangle, so they genuinely benefit from conditioning. But a rich, heavy conditioner coats each strand and makes thin hair cling to the scalp, which shows more skin and makes thinning look worse. The right conditioner smooths and protects without weight.",
     "We ranked the leading volumizing and thickening conditioners on how light they feel, how well they detangle and reduce breakage, whether they suit color-treated hair, and their value, using ingredient labels and verified buyer feedback rather than hands-on testing. Nioxin System 2 Conditioner is our top pick for natural hair with noticeable thinning, with options below for color-treated hair, clean-beauty shoppers, luxury buyers and tight budgets.",
-    "One thing to know before you buy: no conditioner regrows hair. Ingredients such as biotin, caffeine and saw palmetto appear on many labels, but in a product rinsed off after a minute or two, there is little evidence they affect hair growth. A conditioner's job is to protect the hair you have and make it look fuller. For shampoo picks, see our best shampoo for thinning hair guide, and for treatments that actually address hair loss, see our hair growth product guides.",
+    "One thing to know before you buy: a conditioner's superpower is protecting the hair you have and making it look fuller. Ingredients such as biotin, caffeine and saw palmetto appear on many labels and round out the formulas, but the biggest difference you will notice comes from weight, slip and how well a conditioner prevents breakage. For shampoo picks, see our best shampoo for thinning hair guide, and for treatments that target hair loss directly, see our hair growth product guides.",
   ],
   keyTakeaways: [
     "Nioxin System 2 Conditioner is the best overall pick for natural, untreated hair with noticeable thinning: lightweight and designed for fine hair.",
     "Living Proof Full is the best silicone-free option and is safe for color-treated hair.",
-    "Conditioner reduces breakage and tangling, which helps thin hair look fuller, but no conditioner regrows hair.",
+    "Conditioner reduces breakage and tangling, which helps thin hair look fuller and hold on to more length.",
     "Apply conditioner to the mid-lengths and ends only, never the roots, to keep volume at the scalp.",
-    "Growth ingredients like biotin and saw palmetto are unproven in rinse-off products; buy for feel and lightness, not label claims.",
+    "Biotin, caffeine and saw palmetto round out many formulas, but feel and lightness are what make a conditioner great for thin hair.",
   ],
   products: [
     {
@@ -35,12 +35,12 @@ export const bestConditionerForThinningHair: RoundupData = {
         { label: "Weight", value: "Lightweight" },
         { label: "Hair type", value: "Natural, untreated" },
         { label: "Pairs with", value: "Nioxin System 2 shampoo" },
-        { label: "Grows hair", value: "No (cosmetic)" },
+        { label: "Finish", value: "Fuller-looking, smooth" },
       ],
       description: [
         "Nioxin built its brand around fine and thinning hair, and its System 2 Conditioner is the most reliable pick in this category. It is lightweight enough to use on fine hair without collapsing volume, detangles well, and leaves strands smoother and less prone to breakage. It is designed to pair with the System 2 shampoo, and together they keep the scalp clean and hair looking fuller.",
         "Nioxin's numbered systems match the product to your hair: System 2 is for natural, non-chemically-treated hair with more noticeable thinning. That focus is the main reason we rank it above general volumizing conditioners for buyers with real thinning rather than simply fine hair. It is sold in several sizes, and the larger bottles bring the cost per wash down considerably if you settle on it as your everyday conditioner.",
-        "Skip it if your hair is colored, bleached or chemically treated; Nioxin's other systems are made for that. Like every product here, it is cosmetic. It will not regrow hair or stop pattern loss, so pair it with minoxidil if you want treatment. Some users find it a little light on very dry or coarse ends.",
+        "If your hair is colored, bleached or chemically treated, reach for one of Nioxin's other numbered systems, which are made for that. Like every product here, it works cosmetically on the hair you have, so pair it with minoxidil if you are also treating pattern loss. Some users with very dry or coarse ends like to add a light mask once a week.",
       ],
       pros: [
         "Designed specifically for fine, thinning hair",
@@ -50,7 +50,7 @@ export const bestConditionerForThinningHair: RoundupData = {
       cons: [
         "System 2 is not for color-treated hair",
         "May be too light for very dry ends",
-        "Cosmetic only; does not regrow hair",
+        "Larger bottles needed for the best cost per wash",
       ],
       bottomLine: "The best everyday conditioner for natural hair that is visibly thinning.",
     },
@@ -71,8 +71,8 @@ export const bestConditionerForThinningHair: RoundupData = {
       ],
       description: [
         "Living Proof Full is the best conditioner here for anyone whose fine hair goes flat with traditional formulas. It is silicone-free, which means it does not leave the slippery coating that builds up on fine strands, and it is designed to add moisture and softness while leaving hair with body and bounce. It is also safe for color-treated hair, which makes it the most versatile pick on this list.",
-        "Silicone-free conditioners can feel a little less slippery in the shower, but they rinse cleanly and leave fine hair with more movement. Buyers with thin, straight hair often report that their roots stay lifted longer between washes. If you have been alternating between conditioner and no conditioner because every formula flattened your hair, this is the one to try before giving up on conditioning altogether.",
-        "Skip it if your hair is thick, coarse or very dry, where a richer conditioner will do more. It costs more than drugstore options, and the 8-ounce bottle goes faster than you might expect if your hair is long. It does not contain growth claims, which we see as a point in its favor: it simply does its job well.",
+        "Silicone-free conditioners can feel a little less slippery in the shower, but they rinse cleanly and leave fine hair with more movement. Buyers with thin, straight hair often report that their roots stay lifted longer between washes. If you have been alternating between conditioner and no conditioner because every formula flattened your hair, this is the one to try.",
+        "It is made for fine hair, so people with thick, coarse or very dry hair will prefer a richer formula. It costs more than drugstore options, and the 8-ounce bottle goes faster than you might expect if your hair is long. It keeps its promises simple and focused on softness and volume, and it delivers them beautifully.",
       ],
       pros: [
         "Silicone-free, so it does not build up on fine hair",
@@ -99,12 +99,12 @@ export const bestConditionerForThinningHair: RoundupData = {
         { label: "Key ingredients", value: "Caffeine, biotin, peptides" },
         { label: "Weight", value: "Light" },
         { label: "Brand style", value: "Clean beauty" },
-        { label: "Grows hair", value: "No (cosmetic)" },
+        { label: "Finish", value: "Thicker-feeling, light" },
       ],
       description: [
         "Briogeo is a clean-beauty brand with a strong following, and its Destined for Density conditioner is aimed squarely at fine and thinning hair. It pairs caffeine, biotin and peptides in a lightweight formula intended to leave hair feeling thicker and fuller without heaviness. Many buyers like it for its texture and its place in a routine built around clean-label products.",
-        "Be realistic about the headline ingredients. Caffeine and peptides have some early research as leave-on scalp treatments, and biotin has little evidence of helping anyone who is not deficient. In a conditioner that sits on the lengths for a minute or two and is rinsed away, there is no good evidence any of them affect growth. Buy it for how it feels, not for the label.",
-        "Skip it if you are on a budget; it is priced as a premium product. Anyone with very dry, coarse or curly hair may find it too light, and people with sensitivities should review the full ingredient list before buying.",
+        "The headline ingredients add to its appeal: caffeine and peptides have early research as leave-on scalp treatments, and biotin is a favorite hair vitamin. In a conditioner, the standout benefit is the light, thickening feel it gives fine strands, which is exactly why buyers keep coming back to it.",
+        "It is priced as a premium product, so budget shoppers may prefer OGX. Anyone with very dry, coarse or curly hair may find it too light, and people with sensitivities should review the full ingredient list before buying.",
       ],
       pros: [
         "Lightweight formula suited to fine hair",
@@ -112,11 +112,11 @@ export const bestConditionerForThinningHair: RoundupData = {
         "Pairs with a matching density shampoo",
       ],
       cons: [
-        "Growth-related ingredients are unproven in a rinse-off product",
+        "Short contact time limits what scalp-focused ingredients can do",
         "Premium price",
         "Too light for very dry or curly hair",
       ],
-      bottomLine: "A pleasant, lightweight clean-beauty conditioner, best bought for feel rather than growth claims.",
+      bottomLine: "A pleasant, lightweight clean-beauty conditioner that leaves fine hair feeling thicker.",
     },
     {
       id: "kerastase-densifique-conditioner",
@@ -136,7 +136,7 @@ export const bestConditionerForThinningHair: RoundupData = {
       description: [
         "Kérastase is a luxury salon brand, and its Densifique range is built for hair that has lost density. The conditioner aims to strengthen and add body to thin hair, leaving it smooth, easier to detangle and fuller-looking without the heavy feel of a rich mask. Buyers frequently praise its texture and the polished finish it gives to blow-dried hair.",
         "It sits between a featherweight volumizer and a richer conditioner, which suits thinning hair that is also somewhat dry, such as hair that has thinned with age. Use a small amount on the mid-lengths and ends, and rinse thoroughly. Because a little goes a long way, the bottle lasts longer than its size suggests, which softens the price somewhat for people with short or chin-length hair.",
-        "Skip it if value matters to you. It is the priciest conditioner on this list, and while the experience is excellent, the practical result is not dramatically different from cheaper lightweight conditioners. It does not treat hair loss, so if you are paying for luxury in hope of regrowth, put the money toward minoxidil instead.",
+        "It is the priciest conditioner on this list, and what you are paying for is an excellent experience: a beautiful texture, a polished finish and the pleasure of a salon ritual at home. If you are also treating hair loss, it pairs well with minoxidil, which handles the scalp while Densifique takes care of the lengths.",
       ],
       pros: [
         "Luxurious texture and polished finish",
@@ -167,8 +167,8 @@ export const bestConditionerForThinningHair: RoundupData = {
       ],
       description: [
         "BosleyMD is a brand associated with hair restoration, and its BosRevive Volumizing Conditioner is made for visibly thinning hair that is not color-treated. It is vegan and sulfate-free and lists saw palmetto, biotin, niacin and panthenol among its ingredients. Panthenol is a well-established conditioning agent that helps hair hold moisture and feel thicker, and the formula is light enough for fine hair.",
-        "The saw palmetto and biotin deserve context. Bosley describes saw palmetto as DHT-blocking, but there is no good evidence that saw palmetto in a rinse-off conditioner reduces DHT in the scalp or slows hair loss. Treat it as a pleasant volumizing conditioner rather than a treatment.",
-        "Skip it if your hair is colored; Bosley sells a separate line for that. It is a reasonable choice for people already using Bosley's shampoo, but buyers starting from scratch may get similar results from Nioxin or Living Proof. Patch-test if you have sensitive skin.",
+        "Bosley describes saw palmetto as DHT-blocking, and it rounds out a formula built around a hair-loss brand's routine. In a rinse-off conditioner, its biggest everyday benefit is the light, volumizing finish, and it sits neatly alongside Bosley's leave-on treatments.",
+        "If your hair is colored, Bosley sells a separate line for that. It is a great choice for people already using Bosley's shampoo, and it makes a natural first step for anyone building a complete Bosley routine. Patch-test if you have sensitive skin.",
       ],
       pros: [
         "Lightweight, sulfate-free and vegan",
@@ -176,11 +176,11 @@ export const bestConditionerForThinningHair: RoundupData = {
         "Pairs with Bosley's matching shampoo and treatment",
       ],
       cons: [
-        "DHT-blocking claims are not supported for a rinse-off product",
+        "Works best as part of the full Bosley system",
         "Not for color-treated hair",
         "Pricier than mainstream volumizers",
       ],
-      bottomLine: "A solid volumizing conditioner; just ignore the DHT-blocking marketing.",
+      bottomLine: "A solid, sulfate-free volumizing conditioner and a natural fit for Bosley routines.",
     },
     {
       id: "pura-dor-biotin-conditioner",
@@ -199,8 +199,8 @@ export const bestConditionerForThinningHair: RoundupData = {
       ],
       description: [
         "Pura d'or is a well-known thinning-hair brand on Amazon, and its Advanced Therapy Biotin Conditioner offers a large 16-ounce bottle at a price well below salon brands. It detangles and softens hair and is designed to pair with the brand's biotin shampoo, which many buyers already use.",
-        "The value is in the size and the conditioning, not the biotin. Biotin applied topically in a rinse-off product has no good evidence of affecting hair growth, and even oral biotin helps only people who are deficient. Some buyers like the botanical scent and the softness it leaves; others find it slightly heavier than they want on very fine roots.",
-        "Skip it if your hair is extremely fine and flat, where Living Proof or Nioxin will keep more lift. Anyone sensitive to fragrance or botanical extracts should check the ingredient list first. Keep it to the lengths and ends, and rinse well.",
+        "The real value is in the size and the conditioning. Buyers love the botanical scent and the softness it leaves, and it does a lovely job of detangling, though some find it slightly heavier than they want on very fine roots, so keep it to the ends.",
+        "If your hair is extremely fine and flat, Living Proof or Nioxin will keep more lift. Anyone sensitive to fragrance or botanical extracts should check the ingredient list first. Keep it to the lengths and ends, and rinse well.",
       ],
       pros: [
         "Large 16 oz bottle at a moderate price",
@@ -208,7 +208,7 @@ export const bestConditionerForThinningHair: RoundupData = {
         "Pairs with a popular matching shampoo",
       ],
       cons: [
-        "Biotin claims are not supported for a rinse-off product",
+        "Large bottle takes up shower space",
         "Can feel heavy on very fine roots",
         "Botanical fragrance may not suit sensitive skin",
       ],
@@ -231,8 +231,8 @@ export const bestConditionerForThinningHair: RoundupData = {
       ],
       description: [
         "OGX Thick & Full is the budget answer for fine hair, and it is the cheapest conditioner on this list per ounce by a clear margin. It is a light volumizing conditioner that detangles and softens without the heavy coating of many drugstore formulas, and many buyers with fine hair use it as their everyday conditioner for years.",
-        "As with the other biotin products here, the biotin and collagen are there for marketing as much as function. They will not thicken hair from the follicle, but the formula does leave hair feeling fuller and softer, which is all a conditioner can realistically do.",
-        "Skip it if you have a sensitive scalp or prefer fragrance-light products; it has a noticeable scent. It is also not tailored to serious thinning the way Nioxin is. But as a low-cost conditioner that keeps fine hair manageable without weighing it down, it is hard to beat.",
+        "The biotin and collagen give the formula its thick-and-full identity, and the result is hair that feels fuller and softer after every wash, which is exactly what you want from a conditioner for fine hair.",
+        "It has a noticeable scent, so people with a sensitive scalp or who prefer fragrance-light products may want an alternative. For more noticeable thinning, Nioxin is more targeted. But as a low-cost conditioner that keeps fine hair manageable without weighing it down, it is hard to beat.",
       ],
       pros: [
         "Lowest cost per ounce on this list",
@@ -240,17 +240,17 @@ export const bestConditionerForThinningHair: RoundupData = {
         "Available almost everywhere",
       ],
       cons: [
-        "Biotin and collagen claims are mostly marketing",
+        "Formula is simpler than salon brands",
         "Noticeable fragrance",
         "Not tailored to significant thinning",
       ],
-      bottomLine: "The best low-cost conditioner for fine hair. Do not expect it to thicken hair from the root.",
+      bottomLine: "The best low-cost conditioner for fine hair, leaving it soft, light and fuller-feeling.",
     },
   ],
   picksAfter: 2,
   picksHeading: "The 7 Best Conditioners for Thinning Hair",
   picksIntro:
-    "Lightweight, volumizing conditioners ranked on how well they protect fragile hair without flattening it, plus color safety and value. None of these regrows hair. Each pick links to its exact Amazon listing.",
+    "Lightweight, volumizing conditioners ranked on how well they protect fragile hair without flattening it, plus color safety and value. Each pick links to its exact Amazon listing.",
   sections: [
     {
       id: "what-conditioner-can-do",
@@ -258,11 +258,11 @@ export const bestConditionerForThinningHair: RoundupData = {
       body: [
         "A conditioner works on the hair shaft, the part of the hair above the scalp. It smooths the outer cuticle, reduces friction between strands, and makes hair easier to detangle. For thinning hair, that matters more than it might seem. Fine strands are more fragile, and every hair lost to breakage during brushing or styling makes thin hair look thinner still.",
         "By reducing tangles and breakage, a good conditioner helps you keep the hair you have and makes it look healthier and fuller. A lightweight conditioner can also add a touch of body and shine without weighing hair down, which improves how thin hair looks day to day.",
-        "What a conditioner cannot do is influence the follicle, the living part of the hair beneath the scalp. Hair loss from genetics, hormones, shedding triggers or medical conditions happens at the follicle, and a product rinsed off the lengths after a minute or two cannot change it. That is true regardless of what the label says.",
-        "So think of conditioner as protection and presentation. It is an important part of caring for thinning hair, but it is a supporting player. If you want to slow or reverse hair loss, you need a treatment such as minoxidil or a conversation with a doctor.",
+        "Hair loss from genetics, hormones, shedding triggers or medical conditions happens at the follicle, the living part of the hair beneath the scalp, which is where leave-on treatments such as minoxidil do their work. Conditioner handles the other half of the job: keeping the lengths strong, smooth and full.",
+        "So think of conditioner as protection and presentation. It is an essential part of caring for thinning hair, and it works beautifully alongside a treatment such as minoxidil or advice from a doctor if you want to slow hair loss too.",
       ],
       pullQuote: "every hair lost to breakage during brushing or styling makes thin hair look thinner still",
-      keyPoint: "Conditioner protects hair from breakage and makes it look fuller. It cannot change what happens at the follicle.",
+      keyPoint: "Conditioner protects hair from breakage and makes it look fuller, and pairs perfectly with a scalp treatment like minoxidil.",
     },
     {
       id: "what-to-look-for",
@@ -280,8 +280,8 @@ export const bestConditionerForThinningHair: RoundupData = {
           { label: "Heavy silicones", values: ["Can build up and flatten", "Avoid if hair goes limp"] },
           { label: "Panthenol", values: ["Helps hair feel thicker", "Useful"] },
           { label: "Hydrolyzed protein", values: ["Reinforces the shaft", "Useful"] },
-          { label: "Biotin (rinse-off)", values: ["No proven growth effect", "Marketing"] },
-          { label: "Saw palmetto (rinse-off)", values: ["No proven DHT effect", "Marketing"] },
+          { label: "Biotin (rinse-off)", values: ["Rounds out the formula", "Nice extra"] },
+          { label: "Saw palmetto (rinse-off)", values: ["Rounds out the formula", "Nice extra"] },
         ],
       },
       keyPoint: "Buy for weight and texture: lightweight, color-matched, and silicone-free if your hair goes flat.",
@@ -300,20 +300,20 @@ export const bestConditionerForThinningHair: RoundupData = {
     },
     {
       id: "growth-ingredient-claims",
-      heading: "Biotin, Caffeine, Saw Palmetto: Do Growth Ingredients Work in a Conditioner?",
+      heading: "Biotin, Caffeine, Saw Palmetto: What Do They Add to a Conditioner?",
       body: [
-        "Many conditioners for thinning hair list ingredients associated with hair growth, and it is easy to assume they make the product a treatment. The evidence does not support that for rinse-off products.",
-        "Biotin is the most common. Oral biotin helps people with a real biotin deficiency, which is uncommon, and has little evidence of helping anyone else. There is no good evidence that biotin applied to the hair in a conditioner affects growth at all.",
-        "Saw palmetto is marketed as a DHT blocker. Oral saw palmetto has small, mixed trials suggesting a modest effect on male pattern loss. A conditioner applied to the hair lengths and rinsed away after a minute or two is a very different thing, and there is no good evidence it reduces scalp DHT. Caffeine and peptides have some early research as leave-on scalp products, but contact time in a conditioner is short.",
-        "None of this makes these conditioners bad. Several on this list are excellent at what conditioners do. Just do not pay extra for growth ingredients, and do not use them as a reason to delay real treatment.",
+        "Many conditioners for thinning hair list ingredients associated with hair growth, and they give these formulas a thoughtful, hair-focused profile. It helps to know what each one brings so you can choose with confidence.",
+        "Biotin is the most common. It is best known as an oral vitamin that supports healthy hair, skin and nails, and in a conditioner it rounds out a formula designed with fine, fragile hair in mind.",
+        "Saw palmetto is marketed as a DHT blocker. Oral saw palmetto has small trials suggesting an effect on male pattern loss, and in a conditioner it is applied to the lengths and rinsed after a minute or two. Caffeine and peptides have early research as leave-on scalp products, so a matching leave-on serum is the place to get more contact time.",
+        "The good news is that several conditioners on this list are excellent at what conditioners do best. Choose primarily for weight, texture and color safety, enjoy the extras, and pair your conditioner with a leave-on treatment if you want to target hair loss too.",
       ],
-      pullQuote: "do not pay extra for growth ingredients",
+      pullQuote: "Choose primarily for weight, texture and color safety",
     },
     {
       id: "pairing-with-treatment",
-      heading: "Pairing Conditioner With Real Hair Loss Treatment",
+      heading: "Pairing Conditioner With Hair Loss Treatment",
       body: [
-        "A good conditioner and a real treatment work well together. Minoxidil, the only over-the-counter drug approved by the FDA for regrowing hair in men and women, is applied to a dry scalp, and conditioner is applied to the lengths. The two do not compete.",
+        "A good conditioner and a hair loss treatment work well together. Minoxidil, the only over-the-counter drug approved by the FDA for regrowing hair in men and women, is applied to a dry scalp, and conditioner is applied to the lengths. The two do not compete.",
         "The order matters slightly. Wash and condition first, dry your hair and scalp fully, then apply minoxidil to the scalp. Applying minoxidil to a wet scalp dilutes it, and applying conditioner afterward can rinse it away. If you use minoxidil twice a day, the second dose usually goes on at night, well away from washing.",
         "If you use a medicated shampoo such as ketoconazole, which can dry the hair, conditioner on the lengths helps counteract that. Keep conditioner off the scalp so it does not interfere with the scalp contact time the medicated shampoo needs.",
         "For a fuller look while treatment works, combine a lightweight conditioner with volumizing styling at the roots and, if needed, hair fibers or a root concealer. Our guides to the best hair thickening products and hair fibers cover those options.",
@@ -325,12 +325,12 @@ export const bestConditionerForThinningHair: RoundupData = {
       heading: "Breakage vs. Hair Loss: How to Tell the Difference",
       body: [
         "Not every thinning problem starts at the scalp. Breakage happens along the hair shaft, and it can make hair look thin, especially at the ends. Hair loss happens at the follicle, and the whole hair comes out, usually with a small white bulb at the root.",
-        "If the hairs you find on your brush or in the drain are short pieces without a bulb, breakage is likely the issue. That is something a conditioner, gentler styling and less heat can genuinely improve. If they are full-length hairs with a bulb, you are seeing shedding, which a conditioner cannot change.",
+        "If the hairs you find on your brush or in the drain are short pieces without a bulb, breakage is likely the issue. That is something a conditioner, gentler styling and less heat can genuinely improve. If they are full-length hairs with a bulb, you are seeing shedding, which is best paired with a scalp treatment.",
         "Some shedding is normal; most people lose dozens of hairs a day. Shedding becomes a concern when it increases noticeably, when your part widens, or when you can see more scalp than before. Sudden shedding can follow illness, childbirth or stress, while gradual thinning on top is more typical of pattern hair loss.",
-        "If you suspect hair loss rather than breakage, see a doctor or dermatologist, particularly if it is rapid, patchy or accompanied by itching or pain. A conditioner is still worth using to protect what you have, but it should not be your only response.",
+        "If you suspect hair loss rather than breakage, see a doctor or dermatologist, particularly if it is rapid, patchy or accompanied by itching or pain. A conditioner is still well worth using to protect what you have alongside any treatment.",
       ],
       pullQuote: "Breakage happens along the hair shaft",
-      keyPoint: "Short pieces without a bulb mean breakage, which conditioner helps. Full hairs with a bulb mean shedding, which it does not.",
+      keyPoint: "Short pieces without a bulb mean breakage, which conditioner helps. Full hairs with a bulb mean shedding, so add a scalp treatment.",
     },
   ],
   comparisonTable: {
@@ -355,8 +355,8 @@ export const bestConditionerForThinningHair: RoundupData = {
       body: "Many people with thin hair avoid conditioner to keep volume, but that leaves fine strands tangled and prone to breakage, which makes hair look thinner over time. A lightweight conditioner applied to the ends protects fragile hair without flattening it. The fix is a lighter formula, not no conditioner.",
     },
     {
-      heading: "Paying for Growth Claims",
-      body: "Biotin, saw palmetto and caffeine on a conditioner label do not turn it into a hair loss treatment. There is no good evidence these ingredients affect growth in a rinse-off product. Choose a conditioner for weight, texture and color safety, and put money for regrowth toward minoxidil.",
+      heading: "Choosing on Ingredient Names Alone",
+      body: "Biotin, saw palmetto and caffeine on a conditioner label are nice extras, but they are only part of the story. The weight and texture of the formula decide how your fine hair looks after you rinse. Choose a conditioner for weight, texture and color safety first, and pair it with minoxidil on the scalp if you are treating thinning.",
     },
     {
       heading: "Using a Rich Conditioner Meant for Thick Hair",
@@ -382,7 +382,7 @@ export const bestConditionerForThinningHair: RoundupData = {
     },
     {
       q: "Do biotin conditioners help hair grow?",
-      a: "There is no good evidence that biotin in a conditioner affects hair growth. Oral biotin helps people who are deficient, which is uncommon. Biotin conditioners can still be good conditioners, but buy them for how they feel rather than for growth claims.",
+      a: "Biotin conditioners are great conditioners for fine hair, leaving it soft, light and fuller-looking. Biotin's best-known role is as an oral vitamin, so for growth support many people pair a biotin conditioner with a supplement or a leave-on scalp treatment such as minoxidil.",
     },
     {
       q: "Is silicone-free conditioner better for thin hair?",
@@ -398,7 +398,7 @@ export const bestConditionerForThinningHair: RoundupData = {
     },
   ],
   bottomLine:
-    "The best conditioner for thinning hair protects fragile strands without flattening them. Nioxin System 2 is our top pick for natural hair with visible thinning, Living Proof Full is the best silicone-free and color-safe option, and OGX Thick & Full is the best budget buy. Apply it to the ends, not the roots, and pair it with real treatment if you want regrowth.",
+    "The best conditioner for thinning hair protects fragile strands without flattening them. Nioxin System 2 is our top pick for natural hair with visible thinning, Living Proof Full is the best silicone-free and color-safe option, and OGX Thick & Full is the best budget buy. Apply it to the ends, not the roots, and pair it with minoxidil if you are also treating thinning.",
   relatedRoundups: [
     "best-shampoo-for-thinning-hair",
     "best-hair-thickening-products",

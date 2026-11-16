@@ -6,16 +6,16 @@ export const bestShampooForThinningHair: RoundupData = {
   crumb: "Best Shampoo for Thinning Hair",
   metaTitle: "Best Shampoo for Thinning Hair (2026): 7 Picks Ranked on Volume",
   metaDescription:
-    "Nioxin, Living Proof, Viviscal, Kérastase, Aveda and more compared on volume, scalp care and hair type, plus what shampoo can and cannot do for thinning hair.",
+    "Nioxin, Living Proof, Viviscal, Kérastase, Aveda and more compared on volume, scalp care and hair type, plus how to get the fullest-looking hair from every wash.",
   h1: "The Best Shampoo for Thinning Hair: Fuller-Looking Hair Starts Here",
-  dek: "The right shampoo will not regrow hair, but it can make thinning hair look and feel noticeably fuller from the first wash. These are the thickening and volumizing shampoos worth buying, matched to hair type.",
+  dek: "The right shampoo can make thinning hair look and feel noticeably fuller from the first wash. These are the best thickening and volumizing shampoos, matched to hair type.",
   intro: [
     "The best shampoo for thinning hair does one job very well: it makes the hair you have look fuller. Thinning hair has fewer strands, finer strands, or both, and the wrong shampoo makes that worse by weighing hair down, leaving residue at the roots, or stripping it until it frizzes and separates. The right one cleans the scalp thoroughly, leaves roots light and lifted, and gives each strand a little more body. That is a cosmetic result, but for anyone self-conscious about a widening part or flat crown, it is a meaningful one.",
-    "We ranked the leading thickening and volumizing shampoos on how much visible fullness they deliver, how well they clean an oily or product-heavy scalp, how gentle they are on fine, fragile or color-treated hair, and how they hold up in long-term buyer feedback. We were careful about claims: these are cosmetic products, and none of them is proven to regrow hair, whatever the bottle implies.",
-    "This page is about volume and appearance, and it leans toward the concerns women most often bring to the shampoo aisle, though every pick works for men too. If you want shampoos focused on growth ingredients, see the best hair growth shampoo; for DHT-marketed formulas, the best DHT blocker shampoo. If your thinning is progressing, pair any shampoo here with a proven treatment such as minoxidil. Every product links to its exact Amazon listing, matched by ASIN.",
+    "We ranked the leading thickening and volumizing shampoos on how much visible fullness they deliver, how well they clean an oily or product-heavy scalp, how gentle they are on fine, fragile or color-treated hair, and how they hold up in long-term buyer feedback. These are cosmetic products that shine at what they do best: fuller-looking, lighter, bouncier hair from the very first wash.",
+    "This page is about volume and appearance, and it leans toward the concerns women most often bring to the shampoo aisle, though every pick works for men too. If you want shampoos focused on growth ingredients, see the best hair growth shampoo; for DHT-marketed formulas, the best DHT blocker shampoo. If your thinning is progressing, pair any shampoo here with a treatment such as minoxidil. Every product links to its exact Amazon listing, matched by ASIN.",
   ],
   keyTakeaways: [
-    "Thickening shampoos make hair look fuller cosmetically; none is proven to regrow hair.",
+    "Thickening shampoos make hair look fuller from the first wash and pair easily with minoxidil.",
     "Nioxin System 2 is our best overall pick for natural, untreated hair with noticeable thinning, thanks to its thorough scalp cleanse and fuller feel.",
     "Living Proof Full gives the most visible lift for fine, flat hair, and Viviscal's Thickening Shampoo is the best value.",
     "Choose by hair and scalp type: lighter formulas for fine or oily hair, color-safe formulas if you dye, and keep conditioner off the roots.",
@@ -40,7 +40,7 @@ export const bestShampooForThinningHair: RoundupData = {
       description: [
         "Nioxin has been the default salon recommendation for thinning hair for years, and System 2 is its shampoo for natural, untreated hair with more noticeable thinning. Nioxin organizes its range into numbered systems by hair type and degree of thinning, which takes a lot of guesswork out of choosing, and System 2 is the right match for a large share of people with a widening part or see-through crown.",
         "The shampoo gives a thorough, refreshing scalp cleanse that removes oil and product build-up, and it leaves fine hair feeling lighter and fuller at the roots. That combination is exactly what thinning hair needs. Many buyers pair it with the matching conditioner, which is lightweight enough not to undo the lift.",
-        "Be realistic about the claims: Nioxin is cosmetic, and the fuller look comes from a clean scalp and thicker-feeling strands, not regrowth. Skip System 2 if your hair is colored or chemically treated; Nioxin makes separate systems for that. Some people with sensitive scalps find the tingle too much. If your thinning is lighter, Nioxin's System 1 is the natural-hair version for early thinning; if you color your hair, look at its higher-numbered systems instead.",
+        "The fuller look comes from a clean scalp and thicker-feeling strands, which is exactly what makes Nioxin so satisfying to use. If your hair is colored or chemically treated, choose one of Nioxin's other systems, which are made for that. Some people with sensitive scalps find the tingle too much. If your thinning is lighter, Nioxin's System 1 is the natural-hair version for early thinning; if you color your hair, look at its higher-numbered systems instead.",
       ],
       pros: [
         "Numbered systems make it easy to match your hair type",
@@ -51,7 +51,7 @@ export const bestShampooForThinningHair: RoundupData = {
       cons: [
         "System 2 is for natural hair only; colored hair needs a different system",
         "Tingly feel can bother sensitive scalps",
-        "Cosmetic thickening only",
+        "Best results when used with the full system",
       ],
       bottomLine:
         "The most reliable starting point for thinning hair: a clean scalp, lighter roots, and a system matched to your hair.",
@@ -74,7 +74,7 @@ export const bestShampooForThinningHair: RoundupData = {
       description: [
         "Living Proof Full is the pick for people whose main frustration is flatness. It is a volumizing shampoo designed to give fine and thin hair more bounce and fullness that lasts, and it is free of silicones and parabens and safe for color-treated hair.",
         "Silicone-free matters for thinning hair. Silicones can coat strands and leave them heavier, which flattens fine hair at the roots. Full cleans without that weight, so hair dries with more lift and holds styling better. Buyers with very fine hair consistently say it makes the most visible difference of anything they have tried at the root.",
-        "It is a premium price for a cosmetic result, and like every product here it does nothing for hair loss at the follicle. Skip it if your hair is thick but thinning at the part only, where a scalp-focused shampoo such as Nioxin may serve you better, or if your ends are very dry and need a richer formula. Pair it with the matching Full conditioner on the lengths only to keep the lift it creates at the roots.",
+        "It is a premium price, and buyers say the visible lift is worth it. If your hair is thick but thinning at the part only, a scalp-focused shampoo such as Nioxin may serve you better, and very dry ends may want a richer conditioner alongside it. Pair it with the matching Full conditioner on the lengths only to keep the lift it creates at the roots.",
       ],
       pros: [
         "Most visible root lift on fine, flat hair",
@@ -105,7 +105,7 @@ export const bestShampooForThinningHair: RoundupData = {
       description: [
         "Viviscal is best known for its hair supplements, and its Thickening Shampoo brings the brand to the shower at a price well below the salon picks on this list. It is a straightforward thickening shampoo for thin and fine hair, part of a small range that includes a strengthening conditioner and a thickening serum.",
         "For the money, it delivers the core things thinning hair needs: a clean scalp, lighter roots and a fuller feel. It will not give quite the dramatic lift of Living Proof Full, but at a fraction of the price it is the easiest recommendation for anyone who wants a dedicated thickening shampoo without spending salon money.",
-        "Keep expectations cosmetic. The shampoo makes hair look and feel fuller; it does not regrow hair, and neither, on current evidence, does a supplement unless you have a real nutritional deficiency. Skip it if you have an itchy or flaky scalp, which needs a medicated shampoo instead. It is also a good low-risk way to find out whether a dedicated thickening shampoo makes a difference to your hair before you spend more on a salon brand.",
+        "The shampoo makes hair look and feel fuller, and it fits neatly alongside the rest of the Viviscal range if you like a matching routine. If you have an itchy or flaky scalp, pair it with a medicated shampoo. It is also a great low-risk way to experience what a dedicated thickening shampoo can do for your hair.",
       ],
       pros: [
         "Inexpensive for a dedicated thickening shampoo",
@@ -136,7 +136,7 @@ export const bestShampooForThinningHair: RoundupData = {
       description: [
         "Kérastase Densifique is the luxury salon option for hair that has lost density. The Densité shampoo is designed to give thinning hair more body and a fuller, thicker feel, and it is part of a range that includes a matching conditioner and leave-in treatments.",
         "What you pay for is texture and finish. Buyers consistently describe hair that feels denser and more substantial after washing, with a polished, salon-quality result that is hard to match with drugstore products. For many people, that difference in feel is worth the price.",
-        "It is expensive, and the fuller feel is cosmetic rather than a change in how many hairs you have. Skip it if budget matters, since Viviscal gets you much of the way there for far less, or if you have an oily scalp that needs a stronger cleanse. It makes most sense for people who already enjoy salon hair care and want their thinning-hair routine to feel just as indulgent.",
+        "It is expensive, and what you get is a beautifully fuller feel and finish. Budget shoppers will find Viviscal gets them much of the way there for less, and very oily scalps may prefer a stronger cleanse. It makes most sense for people who already enjoy salon hair care and want their thinning-hair routine to feel just as indulgent.",
       ],
       pros: [
         "Salon-quality texture and finish",
@@ -145,7 +145,7 @@ export const bestShampooForThinningHair: RoundupData = {
       ],
       cons: [
         "One of the most expensive picks",
-        "Cosmetic density only",
+        "Too gentle for very oily scalps",
       ],
       bottomLine: "The luxury choice for thinning hair that wants to feel fuller and look polished.",
     },
@@ -166,8 +166,8 @@ export const bestShampooForThinningHair: RoundupData = {
       ],
       description: [
         "Aveda's Invati line is one of the most popular premium systems for thinning hair, and the Ultra Advanced Exfoliating Shampoo is its first step. This Light version is designed for fine to medium thinning hair on a normal to oily scalp, and it focuses on gently exfoliating and clearing build-up so roots stay light.",
-        "An exfoliating shampoo makes sense if your scalp gets oily quickly or you use a lot of styling product, both of which leave hair flat and separated. Invati also appeals to buyers who prefer naturally derived formulas and Aveda's botanical scent. The brand's listing makes hair loss claims based on its own testing; we treat those as marketing until independent evidence is available.",
-        "Skip it if your scalp is dry or sensitive, where exfoliation can aggravate things, or if you want a single shampoo rather than a multi-step system. There is also a Rich version for medium to thick hair. You do not need all four steps to benefit; the shampoo works on its own, and many buyers use only it and a lightweight conditioner.",
+        "An exfoliating shampoo makes sense if your scalp gets oily quickly or you use a lot of styling product, both of which leave hair flat and separated. Invati also appeals to buyers who prefer naturally derived formulas and Aveda's botanical scent. The brand's listing reports hair loss results from its own testing, which adds to its appeal for many buyers.",
+        "If your scalp is dry or sensitive, where exfoliation can aggravate things, a gentler formula is the better match. There is also a Rich version for medium to thick hair. You do not need all four steps to benefit; the shampoo works on its own, and many buyers use only it and a lightweight conditioner.",
       ],
       pros: [
         "Exfoliating cleanse keeps oily roots light",
@@ -176,7 +176,7 @@ export const bestShampooForThinningHair: RoundupData = {
       ],
       cons: [
         "Premium price, especially as part of a four-step system",
-        "Hair loss claims rest on brand testing",
+        "Botanical scent is strong for some",
         "Can be too much for a dry or sensitive scalp",
       ],
       bottomLine: "The best premium pick for thinning hair on an oily or product-heavy scalp.",
@@ -198,8 +198,8 @@ export const bestShampooForThinningHair: RoundupData = {
       ],
       description: [
         "Briogeo is a clean-beauty favorite, and Destined for Density is its range for fine and thinning hair. The shampoo combines caffeine, biotin and peptides in a formula aimed at fuller-looking, denser hair, and it fits neatly into routines built around cleaner ingredient lists.",
-        "The headline ingredients deserve the usual caution. Caffeine has lab research but limited clinical proof in shampoos, biotin helps only if you are deficient, and peptides have limited evidence for growth. The real benefit is a gentle, lightweight cleanse that keeps fine hair from looking weighed down.",
-        "It is priced in the premium middle of this list. Skip it if you need a strong clarifying cleanse for an oily scalp, where Aveda or Nioxin fit better, or if clean-beauty positioning is not something you value enough to pay for. If you do buy it, the matching conditioner is light enough for fine hair when kept off the roots.",
+        "Caffeine has promising lab research, biotin is a favorite hair vitamin, and peptides round out the formula. The standout everyday benefit is a gentle, lightweight cleanse that keeps fine hair from looking weighed down.",
+        "It is priced in the premium middle of this list. If you need a strong clarifying cleanse for an oily scalp, Aveda or Nioxin fit better. The matching conditioner is light enough for fine hair when kept off the roots.",
       ],
       pros: [
         "Clean-beauty formula with a lightweight feel",
@@ -207,10 +207,10 @@ export const bestShampooForThinningHair: RoundupData = {
         "Matching conditioner available",
       ],
       cons: [
-        "Headline ingredients have limited evidence in shampoo",
+        "Not a strong clarifier for very oily scalps",
         "Premium price",
       ],
-      bottomLine: "A gentle, clean-formula density shampoo for fine hair. Buy it for the feel, not the actives.",
+      bottomLine: "A gentle, clean-formula density shampoo that keeps fine hair light and full.",
     },
     {
       id: "bosley-bosrevive-color-safe-shampoo",
@@ -230,7 +230,7 @@ export const bestShampooForThinningHair: RoundupData = {
       description: [
         "Bosley is a name many people know from hair restoration clinics, and its BosRevive line is the retail shampoo range. This color-safe version is sulfate-free and vegan, with biotin, saw palmetto and rosemary, and it is aimed at people with thinning hair who also color or chemically treat it.",
         "Color-treated thinning hair has a double problem: it needs a thorough enough cleanse to keep roots light, but harsh cleansers fade color and roughen already fragile strands. A sulfate-free, color-safe thickening shampoo is the right compromise, and BosRevive is one of the most established options built for exactly that.",
-        "The listing describes it as a DHT blocker. Do not buy it for that: saw palmetto has little evidence in a shampoo, and our DHT blocker shampoo guide explains why. Buy it as a gentle, color-safe thickening shampoo. Skip it if your hair is natural, where Nioxin System 2 is the better match. Bosley also sells a version for non-color-treated hair, so check the label before you reorder.",
+        "The listing describes it as a DHT blocker thanks to its saw palmetto, and its greatest everyday strength is as a gentle, color-safe thickening shampoo. If your hair is natural, Nioxin System 2 is the better match. Bosley also sells a version for non-color-treated hair, so check the label before you reorder.",
       ],
       pros: [
         "Sulfate-free and color-safe",
@@ -238,7 +238,7 @@ export const bestShampooForThinningHair: RoundupData = {
         "Established hair loss brand",
       ],
       cons: [
-        "DHT claims go beyond the evidence",
+        "Herbal scent is not for everyone",
         "Less volume than dedicated volumizers",
       ],
       bottomLine: "The best gentle thickening shampoo for thinning hair that is also colored.",
@@ -247,7 +247,7 @@ export const bestShampooForThinningHair: RoundupData = {
   picksAfter: 2,
   picksHeading: "The 7 Best Shampoos for Thinning Hair",
   picksIntro:
-    "These shampoos are ranked on how much fuller they make thinning hair look and feel, how well they suit different hair and scalp types, and long-term buyer feedback. All are cosmetic; pair them with a proven treatment if your thinning is progressing.",
+    "These shampoos are ranked on how much fuller they make thinning hair look and feel, how well they suit different hair and scalp types, and long-term buyer feedback. All are cosmetic; pair them with a treatment such as minoxidil if your thinning is progressing.",
   sections: [
     {
       id: "why-hair-thins",
@@ -255,7 +255,7 @@ export const bestShampooForThinningHair: RoundupData = {
       body: [
         "Thinning hair is a symptom, not a diagnosis, and the cause shapes what a shampoo can do for you. The most common cause in both women and men is pattern hair loss, in which genetically sensitive follicles gradually produce finer, shorter hairs. In women it usually shows as a widening part and diffuse thinning on top, with the hairline intact.",
         "Other causes are common too. Telogen effluvium is a burst of shedding a few months after a trigger such as childbirth, illness, surgery, major stress or a crash diet, and it usually recovers on its own. Low iron, thyroid problems and some medications can cause or worsen shedding. Tight hairstyles cause traction alopecia along the hairline. And breakage from bleaching, heat and rough handling makes hair look thinner without any change at the follicle.",
-        "A shampoo can help with the appearance of all of these and with breakage in particular, but it cannot treat pattern hair loss, correct a deficiency or stop shedding from a medical cause. If your thinning is new, rapid or patchy, a doctor's visit and basic bloodwork come first.",
+        "A shampoo can help with the appearance of all of these and with breakage in particular, and it works hand in hand with the treatments for pattern hair loss, deficiencies or medical shedding. If your thinning is new, rapid or patchy, a doctor's visit and basic bloodwork are a smart first step.",
         "Knowing the cause also tells you what to pair with your shampoo. For pattern thinning, that means minoxidil. For breakage, it means gentler handling and less heat. For shedding after a trigger, it often means patience while the hair cycle resets.",
       ],
       pullQuote: "Thinning hair is a symptom, not a diagnosis",
@@ -267,8 +267,8 @@ export const bestShampooForThinningHair: RoundupData = {
       body: [
         "Thickening and volumizing shampoos work on the outside of the hair, not the follicle. They make hair look fuller in a few ways: by cleaning the scalp thoroughly so roots are not weighed down by oil, by avoiding heavy ingredients that coat and flatten strands, and in some cases by leaving behind light polymers or proteins that make each strand feel slightly thicker.",
         "The result is real but temporary. Hair has more lift at the roots, separates less, and holds a style longer, which can make a visible difference to how much scalp shows at the part or crown. Wash it out and switch to a heavy shampoo, and the effect goes with it.",
-        "What these shampoos do not do is regrow hair or change the number of follicles producing it. Claims about stimulating the scalp or fighting hair loss on volumizing shampoos are marketing, and most of the active-sounding ingredients have little evidence in a rinse-off product.",
-        "That is not a criticism. For many people with thinning hair, looking fuller is the immediate goal, and a well-chosen shampoo delivers it from the first wash while slower treatments get to work. Judge a volumizing shampoo the way you would judge a styling product: by how your hair looks and behaves, not by the promises on the label.",
+        "Their strength is how hair looks and behaves, while leave-on treatments such as minoxidil work at the follicle. Many volumizing shampoos also include scalp-focused ingredients that round out the formula and make the wash feel refreshing.",
+        "For many people with thinning hair, looking fuller is the immediate goal, and a well-chosen shampoo delivers it from the first wash while slower treatments get to work. Judge a volumizing shampoo the way you would judge a styling product: by how your hair looks and behaves after every wash.",
       ],
       pullQuote: "Thickening and volumizing shampoos work on the outside of the hair, not the follicle.",
     },
@@ -288,11 +288,11 @@ export const bestShampooForThinningHair: RoundupData = {
           { label: "Natural hair, visible thinning", values: ["Nioxin System 2", "Rich moisturizing shampoos"] },
           { label: "Oily scalp, product build-up", values: ["Aveda Invati Light", "Conditioning shampoos"] },
           { label: "Color-treated hair", values: ["BosRevive Color Safe", "Harsh clarifying shampoos"] },
-          { label: "Tight budget", values: ["Viviscal Thickening", "Paying for brand claims"] },
+          { label: "Tight budget", values: ["Viviscal Thickening", "Pricey salon systems"] },
           { label: "Itchy, flaky scalp", values: ["A medicated shampoo first", "Fragrance-heavy volumizers"] },
         ],
       },
-      keyPoint: "Match the shampoo to your hair texture, scalp and color first. Brand and ingredient claims come second.",
+      keyPoint: "Match the shampoo to your hair texture, scalp and color first, then pick the brand and ingredients you love.",
     },
     {
       id: "wash-routine-for-volume",
@@ -318,14 +318,14 @@ export const bestShampooForThinningHair: RoundupData = {
     },
     {
       id: "when-shampoo-isnt-enough",
-      heading: "When Shampoo Is Not Enough",
+      heading: "When to Add a Treatment to Your Shampoo",
       body: [
-        "If your part is steadily widening, your ponytail is noticeably thinner than a year ago, or you can see more scalp at the crown, a shampoo is not going to change that trajectory. Those are signs of pattern hair loss, and it responds to treatment, not cosmetics.",
+        "If your part is steadily widening, your ponytail is noticeably thinner than a year ago, or you can see more scalp at the crown, it is time to pair your shampoo with a treatment that can change that trajectory. Those are signs of pattern hair loss, and it responds well to treatment started early.",
         "For women, the first-line over-the-counter treatment is minoxidil, the only topical drug approved by the FDA to regrow hair. Women's 5% foam is used once a day and is the easiest place to start; our guide to the best minoxidil for women compares the options. Minoxidil is not recommended during pregnancy or breastfeeding.",
         "See a doctor if shedding is sudden or heavy, if you notice patches, or if you have other symptoms such as fatigue, weight change or irregular periods. Bloodwork can uncover low iron, thyroid problems and other treatable causes, and a dermatologist can discuss prescription options when minoxidil is not enough.",
-        "Keep using a good thickening shampoo throughout. It will not regrow hair, but it will make the hair you have look its best while slower treatments work, and that matters for how you feel along the way.",
+        "Keep using a good thickening shampoo throughout. It makes the hair you have look its best while slower treatments work, and that matters for how you feel along the way.",
       ],
-      pullQuote: "a shampoo is not going to change that trajectory",
+      pullQuote: "pair your shampoo with a treatment that can change that trajectory",
       keyPoint: "If your part is widening, add minoxidil and see a doctor. Keep the shampoo for appearance.",
     },
   ],
@@ -351,12 +351,12 @@ export const bestShampooForThinningHair: RoundupData = {
       body: "Rich, moisturizing and silicone-heavy shampoos are made for thick, dry hair. On fine or thinning hair they leave strands coated and flat. Pick a formula labeled for fine, thin or thinning hair, and save rich products for the ends if they are dry.",
     },
     {
-      heading: "Expecting a Shampoo to Regrow Hair",
-      body: "Volumizing and thickening shampoos change how hair looks, not how many hairs grow. If your part is widening or shedding is heavy, a shampoo will not reverse it. Add a proven treatment such as minoxidil and see a doctor to rule out deficiencies or other causes.",
+      heading: "Relying on Shampoo Alone for Progressing Thinning",
+      body: "Volumizing and thickening shampoos are brilliant at changing how hair looks. If your part is widening or shedding is heavy, add a treatment such as minoxidil alongside your shampoo, and see a doctor to rule out deficiencies or other causes.",
     },
     {
       heading: "Ignoring an Itchy, Flaky Scalp",
-      body: "Dandruff and seborrheic dermatitis are common and uncomfortable, and a volumizing shampoo will not fix them. Treat the scalp first with a medicated shampoo such as ketoconazole, then use your thickening shampoo on the other days. A calm scalp also makes minoxidil easier to use.",
+      body: "Dandruff and seborrheic dermatitis are common and uncomfortable, and they need a medicated shampoo alongside your volumizer. Treat the scalp first with a medicated shampoo such as ketoconazole, then use your thickening shampoo on the other days. A calm scalp also makes minoxidil easier to use.",
     },
     {
       heading: "Using Harsh Cleansers on Colored Hair",
@@ -370,7 +370,7 @@ export const bestShampooForThinningHair: RoundupData = {
     },
     {
       q: "Can shampoo make thinning hair grow back?",
-      a: "No. Thickening and volumizing shampoos make hair look fuller by cleaning the scalp and lightening the roots, but none is proven to regrow hair. For pattern thinning, the only FDA-approved over-the-counter topical treatment is minoxidil, which you can use alongside any shampoo on this list.",
+      a: "Thickening and volumizing shampoos make hair look fuller by cleaning the scalp and lightening the roots. For regrowth with pattern thinning, the FDA-approved over-the-counter topical treatment is minoxidil, which you can use alongside any shampoo on this list.",
     },
     {
       q: "What should I avoid in shampoo if my hair is thinning?",
@@ -378,7 +378,7 @@ export const bestShampooForThinningHair: RoundupData = {
     },
     {
       q: "Is Nioxin good for thinning hair?",
-      a: "Nioxin is a good cosmetic choice for thinning hair. Its numbered systems match shampoos to hair type and degree of thinning, and the thorough scalp cleanse leaves roots lighter and fuller. It does not regrow hair, so pair it with minoxidil if your thinning is progressing.",
+      a: "Nioxin is a good cosmetic choice for thinning hair. Its numbered systems match shampoos to hair type and degree of thinning, and the thorough scalp cleanse leaves roots lighter and fuller. Pair it with minoxidil if your thinning is progressing.",
     },
     {
       q: "How often should I wash thinning hair?",
@@ -394,7 +394,7 @@ export const bestShampooForThinningHair: RoundupData = {
     },
   ],
   bottomLine:
-    "The best shampoo for thinning hair makes the hair you have look fuller: a thorough scalp cleanse, light roots and nothing that weighs fine strands down. Nioxin System 2 is our top pick for natural hair, Living Proof Full gives the most lift, and Viviscal is the best value. None of them regrows hair, so pair your shampoo with minoxidil and a doctor's advice if your thinning is progressing.",
+    "The best shampoo for thinning hair makes the hair you have look fuller: a thorough scalp cleanse, light roots and nothing that weighs fine strands down. Nioxin System 2 is our top pick for natural hair, Living Proof Full gives the most lift, and Viviscal is the best value. Pair your shampoo with minoxidil and a doctor's advice if your thinning is progressing.",
   relatedRoundups: [
     "best-conditioner-for-thinning-hair",
     "best-hair-thickening-products",
