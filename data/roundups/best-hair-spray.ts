@@ -40,7 +40,7 @@ export const bestHairSpray: RoundupData = {
       description: [
         "Elnett is one of the most famous hair sprays in the world, a fixture in salons and backstage kits for decades, and it is still the best all-round choice for most people. Its reputation rests on a very fine mist that settles evenly over the hair instead of landing in wet patches, and a hold that is strong but brushable. The listing describes extra strong hold with a soft, brushable finish and humidity-resistant frizz control.",
         "That brushability is what puts it at the top of a page about hair health. Strong hair sprays that set hard tend to snap strands when you brush them out. Elnett holds a style firmly but releases far more easily, which means less tugging and less breakage at the end of the day. It also suits color-treated hair, according to the listing, and it costs a fraction of salon brands.",
-        "Skip it if you want a completely fragrance-free product; the classic version has its well-known scent, and an unscented version is sold separately. Very fine hair may still prefer something lighter for everyday wear.",
+        "The classic version has its well-known scent, and an unscented version is sold separately if you prefer fragrance-free. Very fine hair can use a light mist held a little farther away for everyday wear.",
       ],
       pros: [
         "Very fine, even mist that avoids wet patches",
@@ -175,7 +175,7 @@ export const bestHairSpray: RoundupData = {
       description: [
         "Oribe Superfine is the luxury pick. As the name suggests, it delivers a very fine mist, and the listing describes a medium hold that smooths hair and adds a light shine. Its admirers point to how evenly it settles, how it controls flyaways without stiffness, and the brand's distinctive fragrance, which is a large part of the appeal for many buyers.",
         "Medium hold is a sweet spot for many people. It is enough to keep a blowout or soft waves in shape and tame flyaways through the day, but light enough to brush out without much resistance, which suits fine and color-treated hair better than a super-hold spray.",
-        "The price is the obvious drawback. Oribe costs several times as much per ounce as Elnett, which offers a similar fine mist and brushable finish. Choose Oribe for the experience and fragrance, not because it holds better. Skip it if scent is a problem for you.",
+        "It is a true luxury purchase, costing several times as much per ounce as Elnett, and fans say the gorgeous scent and silky finish make every spritz feel special. Oribe is the one to choose for a luxurious experience and its signature fragrance. If you are sensitive to scent, try a sample first.",
       ],
       pros: [
         "Very fine, even mist",

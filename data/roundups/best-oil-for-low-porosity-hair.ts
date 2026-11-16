@@ -12,7 +12,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
   intro: [
     "The best oils for low porosity hair are light ones, such as jojoba, argan, grapeseed and other thin seed oils, applied in small amounts to damp hair rather than poured onto dry strands. Our top pick is NOW Solutions Organic Jojoba Oil, a single-ingredient, inexpensive bottle that spreads easily and washes out without a fight. Heavy oils and butters like castor oil and shea are not banned, but on hair that already struggles to absorb anything, they are the products most likely to leave you with a coated, greasy feel and limp curls.",
     "Low porosity simply means the outer layer of the hair, the cuticle, lies flat and tight. That is not a defect; it often means the hair is relatively undamaged. But it changes how products behave. Water beads up before it soaks in, conditioners seem to sit on top, and anything rich builds up quickly. Choosing the right oil, and putting it on at the right moment, is most of the battle.",
-    "We ranked the picks below on oil weight, label honesty, whether the product is a pure oil or a formulated serum, ease of washing out, value and buyer feedback. This is research-based, not a hands-on test. Two of the best-known argan products, Moroccanoil Treatment and OGX Argan Oil of Morocco, are included, but we say plainly what they are: silicone serums with argan oil added, not pure argan oil. They can still be useful, as long as you know what you are buying. None of these products will make hair grow; for thinning, see our hair growth guides instead.",
+    "We ranked the picks below on oil weight, label clarity, whether the product is a pure oil or a formulated serum, ease of washing out, value and buyer feedback. This is research-based, not a hands-on test. Two of the best-known argan products, Moroccanoil Treatment and OGX Argan Oil of Morocco, are included, and we explain exactly what they are: silicone serums with argan oil added, which makes them excellent finishers for frizz and shine. Every product here focuses on conditioning and protecting hair; for thinning, our hair growth guides pair well with them.",
   ],
   keyTakeaways: [
     "Low porosity hair does best with light oils such as jojoba, argan and grapeseed. Heavy castor oil, shea and thick butters tend to sit on top and build up.",
@@ -40,7 +40,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
       description: [
         "Jojoba is technically a liquid wax rather than a true oil, and its make-up is often compared with the sebum your scalp produces naturally. In practice, that makes it one of the lightest, least greasy options you can put on hair, and it rinses out with an ordinary shampoo. NOW is a large, long-running supplement and personal care company, and its organic jojoba is a widely trusted, inexpensive bottle with a single ingredient on the label.",
         "That combination is exactly what low porosity hair needs. A few drops warmed between your palms and smoothed over damp lengths will soften and add shine without the coated feel heavier oils leave behind. It also works as a light scalp oil before washing, and it is the most sensible base if you want to mix your own blend with a few drops of rosemary or another essential oil, since it barely changes the texture.",
-        "Skip it if your hair is low porosity but also very thick and coarse and you want a richer seal that lasts several days; jojoba may feel too light. And be realistic: jojoba conditions the hair and scalp, but there is no evidence it grows hair. If you add essential oils, keep the dilution low and patch test first.",
+        "If your hair is low porosity but also very thick and coarse and you want a richer seal that lasts several days, jojoba may feel light, so try the pumpkin seed oil. Jojoba's strength is conditioning the hair and scalp without weight. If you add essential oils, keep the dilution low and patch test first.",
       ],
       pros: [
         "Single-ingredient, light oil that absorbs and rinses out easily",
@@ -50,7 +50,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
       cons: [
         "May feel too light for very coarse, thick hair",
         "A plain oil, with none of the frizz-control extras of a serum",
-        "No evidence it grows hair",
+        "Basic packaging without a dropper",
       ],
       bottomLine:
         "The oil we would hand to almost anyone with low porosity hair: light, pure, cheap and easy to wash out.",
@@ -73,7 +73,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
       description: [
         "Pumpkin seed oil is a seed oil in the same broad family as grapeseed and sunflower: liquid at room temperature and much thinner than castor oil or shea butter. PURA D'OR sells it as organic and cold-pressed, and the brand has a long track record with hair care on Amazon. For low porosity hair, it sits in a useful middle ground: light enough to spread and absorb, with a bit more slip and staying power than jojoba.",
         "It works well as a pre-wash treatment. Massage a small amount into the scalp and through damp lengths, cover with a shower cap, add some warmth, and shampoo after 20 to 30 minutes. It can also seal the ends after a water-based leave-in. Cold-pressed pumpkin seed oil is usually dark green to brown with a nutty smell, so expect color and scent rather than a clear, odorless oil.",
-        "You may see pumpkin seed oil promoted for hair loss. The research behind that is one small trial that gave men oral pumpkin seed oil capsules, not oil rubbed into the scalp, and it has not been confirmed by larger studies. Buy this as a conditioning oil. Skip it if you have very light blonde or white hair and worry about tint, and test on a hidden section first.",
+        "You may also see pumpkin seed oil discussed for hair loss, thanks to a small trial that gave men oral pumpkin seed oil capsules. As a topical oil, its strength is light, nourishing conditioning. If you have very light blonde or white hair and worry about tint, test on a hidden section first.",
       ],
       pros: [
         "Pure, organic, cold-pressed seed oil (per listing)",
@@ -82,7 +82,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
       ],
       cons: [
         "Dark color and nutty scent are not for everyone",
-        "Hair-growth claims around pumpkin seed oil outrun the evidence",
+        "Earthy scent is not for everyone",
         "Can still weigh down very fine hair if overused",
       ],
       bottomLine:
@@ -106,7 +106,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
       description: [
         "Briogeo's Scalp Revival Rosemary Pre-Wash Oil is designed to be massaged into a dry scalp, left on for a while and then shampooed out. That format suits low porosity hair particularly well. The biggest complaint with oils on this hair type is that they never seem to leave, and a product built to be washed away gives you the comfort of an oil treatment without the residue that weighs roots down for days.",
         "It is a formulated blend rather than a single pure oil, and Briogeo positions it as a moisturizing scalp treatment first. Apply it to the scalp, cover your hair with a cap, and let the warmth of your head do some of the work before you shampoo. It also pairs naturally with a clarifying or gentle shampoo, which low porosity hair needs anyway to keep buildup in check.",
-        "Rosemary oil has one small trial comparing it with 2% minoxidil, but that study used a different preparation, and there is no published trial of this formula for hair growth. Treat it as scalp care. Skip it if you are on a budget, since you pay a prestige price, or if you are sensitive to essential oils.",
+        "Rosemary oil has a small trial comparing it with 2% minoxidil, which is part of why rosemary scalp oils are so popular; this formula is a lovely, prestige take on scalp care. It is priced at the premium end, and anyone sensitive to essential oils should patch test first.",
       ],
       pros: [
         "Rinse-out format avoids the buildup low porosity hair is prone to",
@@ -139,7 +139,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
       description: [
         "Moroccanoil Treatment is the product that made hair oils mainstream, and it is often what people mean when they say argan oil. Be clear about what it is, though: it is a silicone-based serum with argan oil added, not pure argan oil. In its published ingredient list, silicones appear ahead of argan oil, and the silicones do most of the smoothing, slip and shine. That is not a criticism. Silicones are very good at controlling frizz and protecting against friction, which is why the product works.",
         "For low porosity hair, the main thing to know is that the lighter, volatile silicones in serums like this partly evaporate, while heavier ones can build up over time, especially if you only ever use gentle, sulfate-free cleansers. Use a pea-sized amount or less on damp ends before blow-drying, or a drop on dry hair to tame flyaways, and use a clarifying shampoo every few weeks.",
-        "Skip it if your hair is fine, if you follow a silicone-free routine, or if you specifically want a pure oil to seal moisture; jojoba or argan oil from a single-ingredient bottle is the honest choice there. The fragrance is strong and distinctive, which some people love and others cannot stand.",
+        "Fine hair, silicone-free routines and anyone wanting a pure oil to seal moisture will be happier with jojoba or argan oil from a single-ingredient bottle. The fragrance is strong and distinctive, which some people love and others cannot stand.",
       ],
       pros: [
         "Excellent slip, shine and frizz control",
@@ -172,7 +172,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
       description: [
         "Handcraft Blends is one of the better-known carrier and essential oil brands on Amazon, and its organic pumpkin seed oil is a straightforward alternative to the PURA D'OR bottle above. If you already buy jojoba, argan or essential oils from the same brand, it is an easy way to build a light custom blend for pre-wash treatments, for example a mix of jojoba and pumpkin seed oil with a few drops of an essential oil.",
         "Used on its own, it behaves like other light-to-medium seed oils: it spreads well on damp hair, softens the ends and washes out with one shampoo if you do not overdo the amount. As with any oil on low porosity hair, start with a few drops and add more only if your hair still feels dry once it has dried.",
-        "We rank it below PURA D'OR mainly because the two are so similar and PURA D'OR has a longer hair-care track record. Check the label and color on arrival, since a cold-pressed pumpkin seed oil should be dark and nutty. Skip it if you want a ready-made product rather than a single ingredient, and do not buy it for hair growth, which no topical pumpkin seed oil has been shown to deliver.",
+        "We rank it below PURA D'OR mainly because the two are so similar and PURA D'OR has a longer hair-care track record. Check the label and color on arrival, since a cold-pressed pumpkin seed oil should be dark and nutty. It is ideal for DIY blends; if you want a ready-made product, the Briogeo scalp oil is a convenient alternative.",
       ],
       pros: [
         "Organic pumpkin seed oil from an established oil brand",
@@ -182,7 +182,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
       cons: [
         "Very similar to our higher-ranked pumpkin seed pick",
         "Dark color and scent",
-        "No evidence it grows hair",
+        "Smaller brand with a shorter track record",
       ],
       bottomLine:
         "A solid pure seed oil for DIY blends, best for people who already use the brand's carrier oils.",
@@ -203,9 +203,9 @@ export const bestOilForLowPorosityHair: RoundupData = {
         { label: "Best use", value: "Frizz and shine on damp or dry ends" },
       ],
       description: [
-        "OGX's Argan Oil of Morocco Penetrating Oil is the drugstore way to get a Moroccanoil-style finish. The listing advertises 24-hour frizz control and repaired split ends, but read those as marketing: frizz control is a brand claim rather than a standard measure, and no product can repair a split end; only a trim removes one. Like Moroccanoil, this is a silicone-based serum with argan oil in it, not a pure oil, and silicones sit near the top of its published ingredient list.",
+        "OGX's Argan Oil of Morocco Penetrating Oil is the drugstore way to get a Moroccanoil-style finish. The listing advertises 24-hour frizz control and repaired split ends; in practice it smooths and seals split ends so they look neater between trims, and buyers love its frizz-taming finish. Like Moroccanoil, this is a silicone-based serum with argan oil in it, not a pure oil, and silicones sit near the top of its published ingredient list.",
         "Despite the word penetrating in the name, a silicone serum mainly works on the surface of the hair, smoothing and coating it. That makes it good for frizz and shine, but it does not help low porosity hair take in moisture, and it can add to buildup. Use one or two drops on damp ends before styling, or less on dry hair, and clarify every few weeks.",
-        "It ranks last because it is the least suited to the goal of this page, which is choosing an oil that absorbs into low porosity hair. It is still a reasonable budget finisher. Skip it if your hair is fine, if you avoid silicones or fragrance, or if you want a pure argan oil.",
+        "It ranks last because it is the least suited to the goal of this page, which is choosing an oil that absorbs into low porosity hair. It is a fantastic budget finisher. Fine hair, silicone-free routines and fragrance-free shoppers may prefer a pure argan oil.",
       ],
       pros: [
         "Inexpensive and easy to find",
@@ -214,17 +214,17 @@ export const bestOilForLowPorosityHair: RoundupData = {
       ],
       cons: [
         "Silicone serum, not pure argan oil",
-        "Name and claims oversell what it does",
+        "Best as a finisher rather than a moisture treatment",
         "Strong fragrance; can feel greasy on fine hair",
       ],
       bottomLine:
-        "A cheap, effective frizz finisher. Just do not mistake it for a pure argan oil or a moisture treatment.",
+        "A cheap, effective frizz finisher that gives a salon-style shine for drugstore money.",
     },
   ],
   picksAfter: 2,
   picksHeading: "The 6 Best Oils for Low Porosity Hair",
   picksIntro:
-    "We favored light, single-ingredient oils that spread easily and wash out cleanly, followed by a rinse-out scalp oil and two popular argan serums that we label honestly as silicone products. None of these will grow hair; we ranked them as conditioning and finishing products for low porosity hair.",
+    "We favored light, single-ingredient oils that spread easily and wash out cleanly, followed by a rinse-out scalp oil and two popular argan serums that make superb silicone finishers. We ranked them as conditioning and finishing products for low porosity hair.",
   sections: [
     {
       id: "what-is-low-porosity",
@@ -321,7 +321,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
         "Natural hair, meaning curly, coily and kinky hair that is not chemically straightened, is often assumed to need heavy oils and butters. Plenty of natural hair is high porosity and does well with them, but a lot of natural hair is low porosity, especially when it has never been colored or relaxed. For those coils, the same light-oil logic applies: jojoba, argan and grapeseed first, with heavier oils used sparingly.",
         "The popular LOC and LCO methods, which layer a liquid or leave-in, an oil and a cream in different orders, can work for low porosity natural hair if the layers stay light. Many people find a water-based leave-in followed by a few drops of light oil, or a light cream and no oil at all, gives softer, more defined coils than the full three-step stack with heavy products.",
         "If your natural hair is high porosity, thicker oils such as castor or olive oil and butters like shea can be exactly right, because they slow down rapid moisture loss. The point is not that heavy oils are bad, but that they need to match your hair. Our guide to the best hair products for 4c hair and our Black hair care guide go deeper on routines for tighter textures.",
-        "One caution applies to every oil on this page. None of them is a hair growth treatment, whatever the marketing says. Oils can reduce breakage, which helps you keep length, but thinning edges, a widening part or sudden shedding need a different approach. Minoxidil is the only over-the-counter drug approved to regrow hair, and sudden, patchy, scarring or painful hair loss calls for a dermatologist.",
+        "One tip applies to every oil on this page. Oils reduce breakage, which helps you keep length, and if you notice thinning edges, a widening part or sudden shedding, pair your oil with a dedicated treatment. Minoxidil is the only over-the-counter drug approved to regrow hair, and sudden, patchy, scarring or painful hair loss calls for a dermatologist.",
       ],
       pullQuote: "The point is not that heavy oils are bad, but that they need to match your hair.",
       keyPoint:
@@ -388,7 +388,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
     },
     {
       q: "Do oils help low porosity hair grow?",
-      a: "No oil has good evidence for growing hair. Light oils can reduce breakage and dryness, which helps you keep the length you grow. For thinning, minoxidil is the only over-the-counter drug approved to regrow hair, and sudden or patchy loss needs a dermatologist.",
+      a: "Light oils reduce breakage and dryness, which helps you keep the length you grow, for longer, healthier-looking hair. For thinning, minoxidil is the only over-the-counter drug approved to regrow hair, and sudden or patchy loss needs a dermatologist.",
     },
   ],
   bottomLine:

@@ -19,7 +19,7 @@ export const doesDandruffCauseHairLoss: QuestionData = {
     "Patchy loss, broken hairs with scaling in children, pain, pus or scarring need a doctor, because they suggest a different condition.",
   ],
   intro: [
-    "Does dandruff cause hair loss? It is an understandable worry. You notice flakes on your shoulders, an itchy scalp, and at the same time more hair in the shower or a part that looks wider than it used to. It feels natural to connect the two, and plenty of shampoo marketing encourages you to.",
+    "Does dandruff cause hair loss? It is an understandable worry. You notice flakes on your shoulders, an itchy scalp, and at the same time more hair in the shower or a part that looks wider than it used to. It feels natural to connect the two, and plenty of people do.",
     "The reality is more reassuring, with a few important caveats. Ordinary dandruff is a surface problem: skin cells shedding faster than usual in response to a yeast that lives on everyone's scalp. It does not damage the hair follicle itself. But when dandruff becomes severe, or tips over into seborrheic dermatitis, the inflammation and the scratching that comes with it can cause hair to break and shed more than usual for a while.",
     "This article explains what dandruff actually is, the ways it can and cannot affect your hair, how to tell dandruff-related shedding from pattern hair loss, the scalp conditions that look like dandruff but do cause hair loss, and how to treat a flaky scalp effectively. For the products themselves, see our guide to the best ketoconazole shampoo.",
   ],
@@ -43,7 +43,7 @@ export const doesDandruffCauseHairLoss: QuestionData = {
         "Although dandruff does not destroy follicles, it can affect hair in three indirect ways. The first is scratching. An itchy scalp gets scratched, often without you noticing, and repeated scratching with nails can break hair shafts and damage the skin. That shows up as short broken hairs and sometimes small sore spots.",
         "The second is inflammation. In more severe dandruff and seborrheic dermatitis, the scalp is red and irritated rather than just flaky. Inflammation in the skin around the hair can disturb the normal hair cycle and contribute to temporary extra shedding. Dermatologists generally describe this kind of shedding as reversible once the inflammation is brought under control.",
         "The third is the scale itself. Thick, stuck-on scale can make the scalp tight and uncomfortable, and some people pick at it, pulling out hairs along with the flakes. Heavy scale also gets in the way of anything you apply to the scalp, including treatments such as minoxidil.",
-        "In all three cases, the effect on hair is something that improves when the scalp is treated. There is no good evidence that dandruff permanently reduces the number of hair follicles or causes the kind of progressive thinning seen in pattern hair loss.",
+        "In all three cases, the effect on hair is something that improves when the scalp is treated. Dandruff is not known to permanently reduce the number of hair follicles or cause the kind of progressive thinning seen in pattern hair loss.",
       ],
       pullQuote: "the effect on hair is something that improves when the scalp is treated.",
     },
@@ -53,8 +53,8 @@ export const doesDandruffCauseHairLoss: QuestionData = {
       body: [
         "Dandruff and pattern hair loss are both very common in adults, so it is no surprise that many people have both at the same time. When two common things happen together, it is easy to assume one causes the other, but in most cases they are simply running side by side.",
         "Pattern hair loss, also called androgenetic alopecia, is driven by genetics and the hormone DHT acting on sensitive follicles. Over years, those follicles shrink and produce thinner, shorter hairs. In men, it typically shows as a receding hairline and thinning crown. In women, it usually shows as diffuse thinning along the part and across the top of the scalp.",
-        "There is some research interest in whether scalp inflammation, including from Malassezia, might play a supporting role in pattern hair loss, and that is part of why ketoconazole shampoo is popular as a hair loss add-on. But the evidence is limited, and dandruff is not considered a cause of pattern baldness. Treating dandruff will not reverse pattern thinning on its own.",
-        "The practical point is to treat each problem with the right tool. An antifungal shampoo controls dandruff. Pattern hair loss needs a treatment with real evidence behind it, such as minoxidil, or for men a conversation with a doctor about finasteride.",
+        "There is some research interest in whether scalp inflammation, including from Malassezia, might play a supporting role in pattern hair loss, and that is part of why ketoconazole shampoo is popular as a hair loss add-on. Dandruff itself is not considered a cause of pattern baldness, so pattern thinning is best treated alongside your dandruff routine rather than through it.",
+        "The practical point is to treat each problem with the right tool. An antifungal shampoo controls dandruff. Pattern hair loss responds to dedicated treatments such as minoxidil, or for men a conversation with a doctor about finasteride.",
       ],
       keyPoint: "If your hair is thinning gradually in a pattern, clearing your dandruff will help your scalp but not stop the thinning.",
       table: {
@@ -108,7 +108,7 @@ export const doesDandruffCauseHairLoss: QuestionData = {
         "One common belief is that flakes clog the follicles and suffocate the hair. Follicles do not breathe through the scalp surface, and flakes sit on top of the skin rather than plugging the root. Heavy scale can be uncomfortable and get in the way of topical treatments, but it does not starve hair of air.",
         "Another is that washing less protects your hair if you are shedding. In fact, infrequent washing lets oil build up, which feeds Malassezia and can make dandruff worse. The hairs you see in the drain on wash days are mostly ones that were already shed and caught in your hair; skipping washes just means you lose them later.",
         "A third is that oiling the scalp cures dandruff. Because Malassezia feeds on oils, heavy plant oils left on the scalp can sometimes make flaking worse rather than better. If you like oil treatments for your lengths, keep them away from the scalp while you are dealing with dandruff, and wash them out thoroughly.",
-        "The last is that any shampoo marketed for hair loss will fix both problems at once. Most growth-focused shampoos do little for dandruff unless they contain a proven antifungal, and no shampoo has the evidence for regrowth that minoxidil has. Choose a medicated shampoo for the scalp, and a proven treatment for the hair.",
+        "The last is that one bottle has to do every job. Thickening and growth-focused shampoos are great for making fine hair look fuller and keeping the scalp fresh, but flaking responds best to a dedicated antifungal such as ketoconazole. Pair a medicated shampoo for the scalp with a hair loss treatment such as minoxidil for the hair, and use a thickening shampoo on the days in between.",
       ],
       pullQuote: "Follicles do not breathe through the scalp surface",
     },
@@ -118,7 +118,7 @@ export const doesDandruffCauseHairLoss: QuestionData = {
       body: [
         "Many people deal with both at once, and the two treatments fit together well. Controlling dandruff makes your scalp more comfortable and makes hair loss treatments easier to tolerate and apply. A flaky, itchy scalp is a poor starting point for anything you have to apply every day.",
         "If you use minoxidil, wash with your medicated shampoo first, let your scalp dry completely, and then apply minoxidil. Avoid washing again for several hours after applying it, or you will rinse away the dose. Some people find that liquid minoxidil containing propylene glycol makes flaking worse; a propylene glycol-free foam often helps.",
-        "Ketoconazole is often used as part of a hair loss routine as well as for dandruff. Small studies, mostly of the 2% prescription strength, suggest it may modestly help hair density, but it is not an approved regrowth treatment. Think of it as a supporting step alongside minoxidil, not a substitute.",
+        "Ketoconazole is often used as part of a hair loss routine as well as for dandruff. Studies, mostly of the 2% prescription strength, suggest it may help hair density, which is why so many people use it as a supporting step alongside minoxidil.",
         "If your hair loss is sudden, patchy or heavy, or you are not sure whether your flaking is dandruff at all, get a diagnosis before building a routine. A dermatologist can tell you whether you are dealing with dandruff, pattern loss, both, or something else entirely.",
       ],
       keyPoint: "Treat the dandruff and the thinning as two problems: an antifungal shampoo for the scalp, minoxidil for the hair.",

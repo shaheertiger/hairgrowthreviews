@@ -40,7 +40,7 @@ export const bestCurlingIronForShortHair: RoundupData = {
       description: [
         "Hot Tools is a long-running professional styling brand, and its Pro Artist Black Gold Digital iron is our top pick because it gets the two things that matter most for short hair right: a 1-inch barrel and precise heat control. A 1-inch barrel is the most versatile size for short hair. It is narrow enough to make a full curl in a chin-length bob, and it can still produce looser, polished waves on hair that reaches the shoulders if you wrap fewer turns or use larger sections.",
         "The listing describes 26 heat levels reaching up to 455°F, with a digital display. That top temperature is far more than most short, fine or color-treated hair needs, and we would not use it on short hair. The value of so many settings is that you can choose a lower, specific temperature and get the same result every time, rather than guessing with a low-medium-high switch. Start low and only go up if curls drop within an hour.",
-        "The clamp makes this a good choice if you are new to curling. You can catch the ends of short hair under the clip and roll upward, which is easier than wrapping slippery short pieces around a clipless wand. Skip it if your hair is a very short pixie, where a 1-inch barrel will mostly create bends, or if you want soft, undone waves, which a wand or flat iron makes more naturally.",
+        "The clamp makes this a good choice if you are new to curling. You can catch the ends of short hair under the clip and roll upward, which is easier than wrapping slippery short pieces around a clipless wand. It shines from chin-length bobs to shoulder-length cuts; for a very short pixie or soft, undone waves, the tapered wand or slim flat iron below makes a great companion.",
       ],
       pros: [
         "1-inch barrel suits the widest range of short lengths",
@@ -73,7 +73,7 @@ export const bestCurlingIronForShortHair: RoundupData = {
       description: [
         "This is not a curling iron, and that is exactly why it is on the list. For very short hair, a slim flat iron is often the easiest curling tool you can own. You clamp a small section close to the root, twist the iron half a turn and glide down, which creates a bend or curl even in pieces too short to wrap around a barrel. BaBylissPRO's Ultra Thin model has 1-inch nano titanium plates and, as the name says, a thin body, which makes it easier to twist and maneuver near the scalp than a chunky straightener.",
         "The listing describes 50 heat settings, which gives you fine control. Titanium plates heat quickly and transfer heat efficiently, so this iron suits thick or coarse short hair well, and people with fine or damaged hair should keep it on a low setting. Because it straightens too, it is a strong pick if you alternate between sleek and textured looks or want to smooth a cowlick and then add movement.",
-        "Skip it if you want classic, uniform ringlet curls, which are easier with a curling iron, or if you have never used a flat iron to curl and do not want a learning curve. The twisting technique takes a few tries to master. See our section on how to curl short hair with a flat iron for step-by-step directions.",
+        "It is at its best for beachy bends and textured waves; for classic, uniform ringlets, a curling iron is the easier match. The twisting technique takes a few tries to master, and once you have it, it is fast. See our section on how to curl short hair with a flat iron for step-by-step directions.",
       ],
       pros: [
         "Curls hair too short for a barrel",
@@ -104,9 +104,9 @@ export const bestCurlingIronForShortHair: RoundupData = {
         { label: "Best length", value: "Short bob to shoulder length" },
       ],
       description: [
-        "CHI is a well-known salon brand built around ceramic heat styling, and this 1-inch tourmaline ceramic iron is a straightforward, mid-range choice for short hair. Ceramic barrels are generally favored for fine hair because they heat evenly, without the hot spots that can scorch one section while leaving another limp. Tourmaline coatings are marketed for reducing frizz; the evidence for that is mostly manufacturer-led, but a smooth coated barrel does help hair glide.",
+        "CHI is a well-known salon brand built around ceramic heat styling, and this 1-inch tourmaline ceramic iron is a straightforward, mid-range choice for short hair. Ceramic barrels are generally favored for fine hair because they heat evenly, without the hot spots that can scorch one section while leaving another limp. Its smooth tourmaline-coated barrel helps hair glide easily for a sleek, polished curl.",
         "The 1-inch barrel makes it a natural fit for bobs, short layered cuts and hair that sits at the jaw. Adjustable temperature means you can keep heat low, which matters more for short hair than many people realize. Short hair is often cut to show the ends, so heat damage and split ends are very visible, and damaged ends do not hold curl well anyway.",
-        "Choose this if your hair is fine, thin or colored and you want a reliable, simple clamp iron from a known brand. Skip it if your hair is thick and coarse and resists curling, where a titanium tool may be more efficient, or if you want a digital readout of the exact temperature.",
+        "Choose this if your hair is fine, thin or colored and you want a reliable, simple clamp iron from a known brand. Thick, coarse hair that resists curling may get there faster with a titanium tool, and if you love seeing the exact temperature, the digital Hot Tools pick is the one to choose.",
       ],
       pros: [
         "Ceramic barrel heats evenly for fine hair",
@@ -114,7 +114,7 @@ export const bestCurlingIronForShortHair: RoundupData = {
         "Established salon brand at a mid-range price",
       ],
       cons: [
-        "Frizz claims for tourmaline are mostly marketing",
+        "Analog controls rather than a digital display",
         "May be slow to curl very thick or coarse hair",
         "No exact temperature readout noted in the title",
       ],
@@ -137,8 +137,8 @@ export const bestCurlingIronForShortHair: RoundupData = {
       ],
       description: [
         "A tapered wand narrows from a wider base to a thin tip, and this Remington model runs from 1 inch down to 1/2 inch. That narrow end is what makes it useful for short hair. Wrap a short piece near the tip and you get a tight, defined curl; wrap a longer piece toward the base and you get a looser one. For pixie cuts, very short layers and the short pieces around the face, it is one of the few affordable tools with a barrel small enough to make a real curl.",
-        "The listing says the barrel is infused with argan oil and keratin. Treat that as a marketing feature of the coating rather than a hair treatment; a heated barrel does not deliver meaningful conditioning to your hair. What does matter is that the wand includes a heat glove, which you should wear. Clipless wands require you to hold the hair against the barrel with your fingers, and with short hair your fingers end up very close to the hot surface.",
-        "Skip it if you have never used a wand and find the hand-wrapping awkward, or if your hair reaches the shoulders and you want bigger curls. In that case, a 1.25-inch iron or wand is the better match.",
+        "The listing says the barrel is infused with argan oil and keratin, which gives the coating a smooth, glossy glide; pair it with a heat protectant for the best results. Just as useful, the wand includes a heat glove, which you should wear. Clipless wands require you to hold the hair against the barrel with your fingers, and with short hair your fingers end up very close to the hot surface.",
+        "If you are new to wands, give yourself a couple of practice sessions to master the hand-wrapping. For bigger curls on shoulder-length hair, a 1.25-inch iron or wand is the better match.",
       ],
       pros: [
         "Narrow 1/2-inch tip curls very short hair",
@@ -146,7 +146,7 @@ export const bestCurlingIronForShortHair: RoundupData = {
         "Heat glove included; budget price",
       ],
       cons: [
-        "Argan and keratin coating is marketing, not a treatment",
+        "Use a heat protectant alongside the coated barrel",
         "Clipless wrapping has a learning curve",
         "Too small for loose curls on shoulder-length hair",
       ],
@@ -170,7 +170,7 @@ export const bestCurlingIronForShortHair: RoundupData = {
       description: [
         "Once short hair reaches the chin or below, a 1.25-inch barrel starts to make sense, and Conair's InfinitiPRO is an inexpensive way to get one. The listing describes a tourmaline ceramic barrel with five heat settings up to 400°F and a digital display, and calls it lightweight. Five settings give you less fine control than the Hot Tools, but they are enough to stay in a moderate range for most hair.",
         "The larger barrel creates softer, rounder curls and loose bends rather than tight spirals, which is often the look people with a long bob or shoulder-length cut want. It is also a sensible size if you are growing out a shorter cut and want a tool that will still work as your hair gets longer.",
-        "Skip it if your hair is shorter than your chin. A 1.25-inch barrel needs roughly 4 inches of hair to wrap around it once, so on a short bob it will mostly flip the ends. In that case, choose a 1-inch iron or a flat iron instead.",
+        "It works best once hair reaches the chin. A 1.25-inch barrel needs roughly 4 inches of hair to wrap around it once, so for a short bob, a 1-inch iron or a flat iron is the better fit.",
       ],
       pros: [
         "Low price for a digital ceramic iron",
@@ -182,7 +182,7 @@ export const bestCurlingIronForShortHair: RoundupData = {
         "Only 5 settings, so less precise control",
         "Budget build compared with salon brands",
       ],
-      bottomLine: "A good-value 1.25-inch iron for hair at the chin or longer, not for truly short cuts.",
+      bottomLine: "A good-value 1.25-inch iron for soft, bouncy curls on hair at the chin or longer.",
     },
     {
       id: "ghd-curve-soft-curl-1-25",
@@ -202,7 +202,7 @@ export const bestCurlingIronForShortHair: RoundupData = {
       description: [
         "ghd is a premium British styling brand known for running its tools at a single, fixed styling temperature rather than offering a dial. The Curve Soft Curl Iron follows that approach: you switch it on and it heats to one set temperature that the brand considers right for most hair. For people who find heat settings confusing, or who tend to crank the dial to maximum, that simplicity is a real advantage.",
         "Its 1.25-inch barrel makes soft, loose curls, which is why we rank it for shoulder-length hair rather than short bobs. On hair at the collarbone or a little above, it produces the polished, bouncy finish ghd is known for. On shorter hair, the barrel is simply too large to make a complete curl.",
-        "The fixed temperature is also the main reason to skip it. If your hair is very fine, bleached or damaged, you cannot turn the heat down, and if your hair is very coarse, you cannot turn it up. It is also the most expensive tool in this roundup for a size that only suits the longer end of short hair.",
+        "The fixed temperature is something to factor in. Very fine, bleached or damaged hair may prefer a tool with a lower setting, and very coarse hair one with a higher setting. It is also the most premium tool in this roundup, best suited to the longer end of short hair.",
       ],
       pros: [
         "No settings to manage; consistent results",

@@ -20,7 +20,7 @@ export const canWomenUseMensMinoxidil: QuestionData = {
   ],
   intro: [
     "Can women use men's minoxidil? It is a fair question, because men's products are often easier to find, come in bigger packs, and sometimes cost less per bottle. The active ingredient is the same molecule in both, and minoxidil does not know whose scalp it is on. So why do the boxes say different things, and does it matter?",
-    "It matters more than the marketing suggests. The difference is not about gender in the abstract; it is about strength, how often you apply it, and how much of the drug ends up on your face. Women are more prone to one particular side effect of minoxidil, fine unwanted facial hair, and the approved women's products are designed to keep that risk down while still delivering a dose that works.",
+    "It matters more than you might expect. The difference is not about gender in the abstract; it is about strength, how often you apply it, and how much of the drug ends up on your face. Women are more prone to one particular side effect of minoxidil, fine unwanted facial hair, and the approved women's products are designed to keep that risk down while still delivering a dose that works.",
     "This article explains what is actually different between men's and women's minoxidil, when a dermatologist might suggest a men's product off-label, the safety issues that apply only to women, and how to get the most affordable version of the right product. For a ranked comparison of the women's foams and solutions themselves, see our guide to the best minoxidil for women.",
   ],
   sections: [

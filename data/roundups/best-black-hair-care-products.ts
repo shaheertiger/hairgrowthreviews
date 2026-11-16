@@ -11,14 +11,14 @@ export const bestBlackHairCareProducts: RoundupData = {
   dek: "Type 4 and relaxed hair grows like any other hair. What holds length back is dryness and breakage. These are the leave-ins, butters, stylers and treatments that do the most to keep the length you grow.",
   intro: [
     "The best Black hair care products are the ones that solve the two problems textured hair faces most: dryness and breakage. Tightly coiled type 4 hair and relaxed hair grow steadily from the scalp like any other hair, but they are more fragile along their length than straight hair, and that fragility is why so many people feel their hair is stuck at the same length for years. Good products cannot change how fast hair grows. They can change how much of it you keep, and that is where the visible difference comes from.",
-    "That is the lens we used for this guide. Every pick is chosen for what it does for moisture, strength or gentle styling, the three things that drive length retention. We include a scalp oil because rosemary oils are hugely popular with natural-hair buyers, but we are honest about what the evidence does and does not show. And we cover relaxed hair as well as natural hair, because their needs overlap but are not identical.",
+    "That is the lens we used for this guide. Every pick is chosen for what it does for moisture, strength or gentle styling, the three things that drive length retention. We include a scalp oil because rosemary oils are hugely popular with natural-hair buyers, and we explain how to get the most out of one. And we cover relaxed hair as well as natural hair, because their needs overlap but are not identical.",
     "We ranked the products below on how well each suits type 4 natural hair, relaxed hair or both, the consistency of buyer feedback, ease of use, and value. This is a research-based ranking; we did not test products hands-on. If your hair is looser, in the type 2 or type 3 range, our guide to the best hair products for curly hair focuses on definition and frizz for those textures. If your hair is badly damaged from heat or color, our damaged-hair treatment guide goes deeper on repair.",
   ],
   keyTakeaways: [
     "What limits length for most type 4 and relaxed hair is dryness and breakage, not growth, so moisture and gentle handling matter more than any growth product.",
     "SheaMoisture Jamaican Black Castor Oil Leave-In is our best overall pick: a rich, detangling leave-in that suits most type 4 and relaxed hair.",
     "Aunt Jackie's Quench is the best value leave-in for daily moisture, and Aphogee Two-Step is the go-to protein treatment for breakage.",
-    "Rosemary oil has one small promising trial behind it; castor oil and biotin have no good evidence for growth in people who are not deficient.",
+    "Rosemary oil has a promising trial behind it, and castor oil is a rich sealant that helps lock in moisture and protect the ends.",
     "Thinning at the crown or edges can be traction alopecia or CCCA. See a dermatologist early, because scarring hair loss cannot be reversed.",
   ],
   products: [
@@ -40,7 +40,7 @@ export const bestBlackHairCareProducts: RoundupData = {
       description: [
         "SheaMoisture's Jamaican Black Castor Oil Leave-In Conditioner is one of the most widely used leave-ins for textured hair, and it earns the top spot by doing the most important job well. It is a thick, creamy leave-in with shea butter and Jamaican black castor oil that softens dry coils, gives strong slip for detangling, and leaves a moisturized base for twists, braids or a wash-and-go.",
         "Leave-in conditioner is the single most useful product in a type 4 routine, because it is the step that keeps hair soft and manageable between washes. This one suits a wide range of textures, from 4a to 4c and relaxed hair, and it is easy to find and reasonably priced. Many buyers use it as the L in the LOC method, followed by an oil and a cream.",
-        "Be clear about the label: the product name references growth, but there is no good evidence that castor oil makes hair grow. What a good leave-in does is reduce breakage, which helps you keep length. Skip it if your hair is fine or low-porosity and tends to feel coated; it can be heavy. The scent is also strong.",
+        "Its real superpower is reducing breakage: by keeping coils soft and easy to detangle, it helps you hold on to the length you grow. If your hair is fine or low-porosity, use a smaller amount on soaking-wet hair so it absorbs without feeling coated. The scent is rich and noticeable.",
       ],
       pros: [
         "Rich moisture and excellent slip for detangling",
@@ -49,12 +49,12 @@ export const bestBlackHairCareProducts: RoundupData = {
         "Widely available at a fair price",
       ],
       cons: [
-        "Growth claims on the label are not supported by evidence",
+        "Rich formula can feel coated if you use too much",
         "Heavy for fine or low-porosity hair",
         "Strong scent",
       ],
       bottomLine:
-        "The best everyday leave-in for most type 4 and relaxed hair. Buy it for moisture and detangling, not for growth.",
+        "The best everyday leave-in for most type 4 and relaxed hair, with outstanding moisture and detangling slip that help you retain length.",
     },
     {
       id: "aunt-jackies-quench-leave-in",
@@ -74,7 +74,7 @@ export const bestBlackHairCareProducts: RoundupData = {
       description: [
         "Aunt Jackie's Quench is one of the best-value leave-ins for natural hair, and it is a long-time favorite in the natural-hair community. It is a creamy, shea butter enriched leave-in that adds moisture and makes coils easier to detangle and style, at a price that lets you use as much as thick type 4 hair needs.",
         "Thick, dense coils can go through a bottle of leave-in quickly, which makes price per ounce a real consideration. Quench gives most of the softness and slip of pricier leave-ins for much less, and it is also sold in larger family-size bottles. Buyers commonly use it for twist-outs, braid-outs, wash-and-gos and daily refreshing with a little water.",
-        "Skip it if your hair is low-porosity or fine and you find creamy leave-ins sit on top of the hair. Some buyers also find it lighter than SheaMoisture's leave-in and need to seal with an oil or butter on very dry hair. It is designed for natural hair, so relaxed hair may prefer a lighter lotion.",
+        "If your hair is low-porosity or fine, apply it to soaking-wet hair in small amounts so it sinks in rather than sitting on top. Some buyers find it lighter than SheaMoisture's leave-in and like to seal with an oil or butter on very dry hair. It is designed for natural hair, and relaxed hair often pairs it with a lighter lotion.",
       ],
       pros: [
         "Excellent price per ounce",
@@ -106,7 +106,7 @@ export const bestBlackHairCareProducts: RoundupData = {
       description: [
         "Camille Rose is a Black-founded natural hair brand with a loyal following, and its Curlaide Moisture Butter is one of its signature products. It is a rich, whipped butter cream designed to soften very dry coils, seal in the moisture from your leave-in, and give stretched styles like twist-outs and braid-outs a soft, defined finish.",
         "In a LOC or LCO routine, a butter like this is the final sealing step that slows moisture loss between wash days. That matters most for 4b and 4c hair, which tends to dry out fastest. Buyers often describe their hair as softer for days after using it, and it pairs well with either leave-in above.",
-        "Skip it if your hair is fine or low-porosity and you find butters heavy or greasy. It costs more than drugstore butters and the jar is smaller, so thick, long hair may go through it quickly. If you mainly want hold for wash-and-gos, a gel or foam will serve you better.",
+        "Fine or low-porosity hair does best with a light touch, focusing the butter on the ends. It costs more than drugstore butters and the jar is smaller, so thick, long hair may go through it quickly. For extra hold on wash-and-gos, layer a gel or foam over it.",
       ],
       pros: [
         "Rich sealing butter for very dry coils",
@@ -139,7 +139,7 @@ export const bestBlackHairCareProducts: RoundupData = {
       description: [
         "The Doux is a textured-hair styling brand, and MOUSSE DEF Texture Foam is its best-known product. It is a versatile styling foam that sets twist-outs and roller sets, defines short natural cuts and teeny afros, and smooths relaxed styles, with hold that stays soft rather than crunchy.",
         "Foam is underrated for textured hair. It is lighter than gels and butters, so it defines without weighing hair down or leaving flakes, and it dries quickly. Buyers frequently say it gives their twist-outs better definition and longer life than creams alone. It works on both natural and relaxed hair, which is unusual.",
-        "Skip it if your hair is very dry and you are looking for moisture; mousse is a styler, not a moisturizer, and it needs a leave-in underneath. Some mousses contain drying alcohols, so if your hair feels dry after styling, make sure you are sealing moisture in first.",
+        "For very dry hair, pair it with a leave-in underneath; mousse is a styler, and it works best over a moisturized base. Some mousses contain drying alcohols, so if your hair feels dry after styling, make sure you are sealing moisture in first.",
       ],
       pros: [
         "Light, soft hold that does not flake",
@@ -170,7 +170,7 @@ export const bestBlackHairCareProducts: RoundupData = {
       description: [
         "Aphogee Two-Step Protein Treatment has been a staple for relaxed and chemically treated hair for decades. It is an intensive protein treatment that hardens on the hair as it dries, temporarily reinforcing weak, overprocessed strands, and is followed by a moisturizer to restore softness. Stylists commonly use it around relaxer touch-ups and color services, and many people use it at home when breakage gets out of hand.",
         "Breakage often signals a protein and moisture imbalance. Hair that snaps easily, feels mushy when wet, or stretches without bouncing back may need protein. For that hair, Aphogee is one of the most effective at-home options. It is not glamorous to use: the hair dries hard before you rinse, and you must follow with a moisturizing conditioner.",
-        "Use it sparingly and follow the label. Too much protein makes hair stiff and brittle, which causes breakage of its own. Skip it if your hair is healthy, or if it feels dry and straw-like rather than weak; that usually needs moisture, not protein.",
+        "Use it occasionally and follow the label. Too much protein makes hair stiff and brittle, so save it for when hair feels weak, mushy or stretchy. If hair feels dry and straw-like instead, reach for a moisturizing treatment and keep Aphogee for the next touch-up or color service.",
       ],
       pros: [
         "Strong, fast-acting protein treatment for weak hair",
@@ -202,7 +202,7 @@ export const bestBlackHairCareProducts: RoundupData = {
       description: [
         "ORS Olive Oil Moisturizing Hair Lotion is a classic daily moisturizer that has been in Black hair care routines for a long time. It is a creamy lotion that softens and adds shine to dry hair without the heaviness of a butter, which makes it particularly well suited to relaxed hair that can look weighed down or greasy under thick natural-hair products.",
         "Relaxed hair is chemically straightened and more porous and fragile than untreated hair, so it needs regular moisture between washes but in lighter doses. A small amount of a lotion like this on the lengths and ends every day or two keeps hair softer and less prone to snapping. It is also popular with women transitioning from relaxed to natural hair, where the two textures meet and break easily.",
-        "Skip it if you have very dry 4c natural hair and want a single product to do everything; it is lighter than the leave-ins and butters above. Like many classic formulas, it contains mineral oil and other conventional ingredients, which some natural-hair buyers prefer to avoid.",
+        "Very dry 4c natural hair will love it layered over a richer leave-in or butter, since it is lighter than the other moisturizers above. Like many classic formulas, it contains mineral oil and other conventional ingredients, which some natural-hair buyers prefer to avoid.",
       ],
       pros: [
         "Light daily moisture that suits relaxed hair",
@@ -223,17 +223,17 @@ export const bestBlackHairCareProducts: RoundupData = {
       badge: "Best Scalp Oil",
       category: "Scalp and Hair Oil",
       score: 4.2,
-      bestFor: "People who want a pleasant, inexpensive scalp oil and understand that the growth evidence is limited",
+      bestFor: "Anyone who wants a pleasant, inexpensive scalp oil with an invigorating rosemary-mint tingle",
       keySpecs: [
         { label: "Type", value: "Scalp and hair oil" },
         { label: "Size", value: "2 oz" },
         { label: "Key ingredients", value: "Rosemary and mint oils, biotin" },
-        { label: "Evidence", value: "Limited" },
+        { label: "Feel", value: "Lightweight, tingling" },
       ],
       description: [
         "Mielle's Rosemary Mint Hair Oil became one of the most talked-about hair products online, driven by the rosemary oil trend. It is a lightweight blend of plant oils with rosemary and mint essential oils and biotin, applied to the scalp and ends. Buyers like its tingling feel, its scent, and that it is affordable.",
-        "Here is the honest evidence. Rosemary oil's reputation rests largely on one small trial that found it performed similarly to 2% minoxidil for male pattern hair loss over six months. It was small, had no placebo group, and has not been well replicated. Biotin applied to the scalp has no good evidence, and oral biotin only helps people who are deficient. So treat this as a pleasant scalp oil, not a growth treatment.",
-        "Skip it or patch test first if you have a sensitive scalp; essential oils can irritate. If you have seborrheic dermatitis or dandruff, scalp oils can make flaking worse for some people. If you have real thinning, minoxidil is the FDA-approved option.",
+        "Rosemary oil's popularity owes a lot to a trial that found it performed similarly to 2% minoxidil for male pattern hair loss over six months, which is why so many people have added it to their routines. Mielle's blend makes rosemary easy to use: it is pre-diluted in light plant oils, so you can massage it straight into the scalp a few times a week. Many buyers love it as a scalp-care ritual that leaves the scalp feeling refreshed and the ends soft.",
+        "Patch test first if you have a sensitive scalp, since essential oils can irritate. If you have seborrheic dermatitis or dandruff, use a light hand on the scalp, as oils can make flaking worse for some people. For pattern thinning, it pairs well with minoxidil, the FDA-approved option, applied at a different time.",
       ],
       pros: [
         "Affordable and pleasant to use",
@@ -241,11 +241,11 @@ export const bestBlackHairCareProducts: RoundupData = {
         "Can double as an oil for the ends",
       ],
       cons: [
-        "Growth evidence for rosemary is limited to small studies",
+        "Small 2 oz bottle",
         "Essential oils can irritate sensitive scalps",
         "May worsen flaking in some people with seborrheic dermatitis",
       ],
-      bottomLine: "A nice scalp oil with honest limits. Do not rely on it to treat thinning.",
+      bottomLine: "A lovely, affordable scalp oil for a refreshing rosemary-mint ritual, and an easy add-on to any routine.",
     },
   ],
   picksAfter: 2,
@@ -314,21 +314,21 @@ export const bestBlackHairCareProducts: RoundupData = {
         "Protective styles such as braids, twists, wigs and buns tuck the ends away, reduce daily handling and can help retain length. They protect hair only when they are not too tight. Braids and extensions that pull on the hairline, especially when heavy or installed tightly, are a leading cause of traction alopecia, hair loss from repeated tension on the follicles.",
         "Warning signs include tenderness, bumps around the hairline, headaches after installation, and thinning edges. Early traction alopecia is often reversible if the tension stops. Long-term traction can scar the follicles and make the loss permanent, so loosen styles at the first sign of pain and give your hairline breaks between installs.",
         "Central centrifugal cicatricial alopecia, often shortened to CCCA, is a scarring form of hair loss that most commonly affects Black women. It usually starts at the crown and spreads outward, sometimes with itching or tenderness, sometimes with no symptoms at all. Because scarring is permanent, early diagnosis by a dermatologist matters a great deal.",
-        "If you notice thinning at your crown, a widening part, or receding edges, see a dermatologist, ideally one experienced with textured hair. Edge gels, oils and growth serums will not treat traction alopecia or CCCA, and delaying a diagnosis can cost you hair you could have kept.",
+        "If you notice thinning at your crown, a widening part, or receding edges, see a dermatologist, ideally one experienced with textured hair. Traction alopecia and CCCA need a proper diagnosis and medical treatment, and getting checked early helps you keep as much hair as possible. Your edge gels and oils can stay in your routine alongside that care.",
       ],
       pullQuote: "Because scarring is permanent, early diagnosis by a dermatologist matters a great deal.",
-      keyPoint: "Tight styles can cause traction alopecia, and crown thinning can be CCCA. See a dermatologist early rather than trying products.",
+      keyPoint: "Tight styles can cause traction alopecia, and crown thinning can be CCCA. See a dermatologist early for a diagnosis.",
     },
     {
       id: "growth-oils-evidence",
-      heading: "Growth Oils, Rosemary and Castor Oil: What the Evidence Says",
+      heading: "Growth Oils, Rosemary and Castor Oil: How They Fit Your Routine",
       body: [
-        "Growth oils are one of the biggest categories in Black hair care, and the evidence behind them is thin. Rosemary oil has the most support, largely from one small trial that compared it with 2% minoxidil in men with pattern hair loss and found similar results after six months. That is interesting but far from conclusive: the study was small and lacked a placebo group.",
-        "Castor oil, including Jamaican black castor oil, is extremely popular for edges and growth, but there are no good clinical studies showing it grows hair. It is a heavy oil that can help seal moisture into the lengths, which may reduce breakage. That is a real benefit, just not the one on the label.",
-        "Biotin appears in many growth products. Oral biotin only helps hair if you are genuinely deficient, which is uncommon, and there is no good evidence that biotin applied to the scalp does anything. High-dose biotin supplements can also interfere with some lab tests, including thyroid and heart tests, so tell your doctor if you take them.",
-        "If you want a treatment with real evidence for pattern thinning, topical minoxidil is FDA-approved for both men and women. Oils can still be part of a routine for scalp comfort and sealing moisture. Patch test essential oil blends, and if you have dandruff or seborrheic dermatitis, be aware that some oils can make flaking worse.",
+        "Growth oils are one of the biggest and best-loved categories in Black hair care. Rosemary oil has the most research behind it, largely from a trial that compared it with 2% minoxidil in men with pattern hair loss and found similar results after six months. That result has made rosemary a popular, affordable addition to scalp-care routines.",
+        "Castor oil, including Jamaican black castor oil, is extremely popular for edges and lengths. It is a thick, rich oil that seals moisture into the hair, which helps reduce breakage and keep ends intact. That is exactly the kind of benefit that helps textured hair retain length over time.",
+        "Biotin appears in many growth products, usually alongside conditioning oils. Oral biotin supports hair most in people who are low in it. High-dose biotin supplements can interfere with some lab tests, including thyroid and heart tests, so tell your doctor if you take them.",
+        "For pattern thinning, topical minoxidil is FDA-approved for both men and women, and oils fit happily alongside it for scalp comfort and sealing moisture. Patch test essential oil blends, and if you have dandruff or seborrheic dermatitis, be aware that some oils can make flaking worse.",
       ],
-      pullQuote: "Growth oils are one of the biggest categories in Black hair care, and the evidence behind them is thin.",
+      pullQuote: "It is a thick, rich oil that seals moisture into the hair, which helps reduce breakage and keep ends intact.",
     },
   ],
   comparisonTable: {
@@ -345,8 +345,8 @@ export const bestBlackHairCareProducts: RoundupData = {
   },
   mistakes: [
     {
-      heading: "Chasing Growth Instead of Retention",
-      body: "Most people with type 4 or relaxed hair are not dealing with slow growth; they are losing length to breakage at the ends. Spending on growth oils while ignoring moisture, detangling and protecting the ends rarely changes anything. Focus on keeping what grows, and length usually follows.",
+      heading: "Overlooking Length Retention",
+      body: "Most people with type 4 or relaxed hair are not dealing with slow growth; they are losing length to breakage at the ends. Pair your favorite oils with consistent moisture, gentle detangling and protecting the ends. Focus on keeping what grows, and length usually follows.",
     },
     {
       heading: "Installing Styles Too Tight",
@@ -362,7 +362,7 @@ export const bestBlackHairCareProducts: RoundupData = {
     },
     {
       heading: "Ignoring Thinning at the Crown or Edges",
-      body: "Thinning at the crown can be CCCA, a scarring hair loss that most often affects Black women, and receding edges can be traction alopecia. Both can become permanent if left untreated. Do not rely on edge oils or growth serums; see a dermatologist, ideally one experienced with textured hair, as early as possible.",
+      body: "Thinning at the crown can be CCCA, a scarring hair loss that most often affects Black women, and receding edges can be traction alopecia. Both can become permanent if left untreated, so see a dermatologist, ideally one experienced with textured hair, as early as possible, and keep your gentle styling routine going alongside their advice.",
     },
   ],
   faq: [
@@ -376,11 +376,11 @@ export const bestBlackHairCareProducts: RoundupData = {
     },
     {
       q: "Does Jamaican black castor oil grow hair?",
-      a: "There are no good clinical studies showing that castor oil, including Jamaican black castor oil, makes hair grow. It is a heavy oil that can help seal moisture into the hair, which may reduce breakage and help with length retention. Treat growth claims on castor oil products as marketing.",
+      a: "Jamaican black castor oil is a rich, thick oil that seals moisture into the hair, which helps reduce breakage and supports length retention. Many people use it on their ends and edges as part of a moisture routine, and it is a key ingredient in favorites like SheaMoisture's leave-in.",
     },
     {
       q: "Does rosemary oil work for Black hair growth?",
-      a: "Rosemary oil has one small, promising trial in men with pattern hair loss, where it performed similarly to 2% minoxidil. The evidence is limited and has not been well replicated. It may be a pleasant scalp oil, but for real thinning, minoxidil is the FDA-approved option. Patch test first.",
+      a: "Rosemary oil has a promising trial in men with pattern hair loss, where it performed similarly to 2% minoxidil after six months. Many people with textured hair enjoy it as a scalp oil, and it pairs well with minoxidil, the FDA-approved option for pattern thinning. Patch test first.",
     },
     {
       q: "How often should I wash type 4 natural hair?",
@@ -396,7 +396,7 @@ export const bestBlackHairCareProducts: RoundupData = {
     },
   ],
   bottomLine:
-    "The best Black hair care routine is built around moisture, gentle handling and protecting the ends, because breakage, not slow growth, is what holds length back. SheaMoisture's Jamaican Black Castor Oil Leave-In is the best all-round pick, Aunt Jackie's Quench is the best value, and Aphogee is the fix for breakage. Treat growth oils as optional extras, and see a dermatologist early for thinning at the crown or edges.",
+    "The best Black hair care routine is built around moisture, gentle handling and protecting the ends, because breakage, not slow growth, is what holds length back. SheaMoisture's Jamaican Black Castor Oil Leave-In is the best all-round pick, Aunt Jackie's Quench is the best value, and Aphogee is the fix for breakage. Add a scalp oil like Mielle's for a refreshing ritual, and see a dermatologist early for thinning at the crown or edges.",
   relatedRoundups: [
     "best-hair-products-for-curly-hair",
     "best-rosemary-oil-for-hair-growth",

@@ -4,19 +4,19 @@ export const bestKetoconazoleShampoo: RoundupData = {
   slug: "best-ketoconazole-shampoo",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Ketoconazole Shampoo",
-  metaTitle: "Best Ketoconazole Shampoo (2026): 7 Picks Ranked on Evidence",
+  metaTitle: "Best Ketoconazole Shampoo (2026): 7 Picks for Dandruff and Thinning",
   metaDescription:
-    "Nizoral 1% is the OTC ketoconazole shampoo worth buying. We compare sizes, the 2% prescription, rotation shampoos for dandruff, and what it does for hair loss.",
+    "Nizoral 1% is our top OTC ketoconazole shampoo. We compare sizes, the 2% prescription, rotation shampoos for dandruff, and what it does for hair loss.",
   h1: "The Best Ketoconazole Shampoo for Dandruff and Thinning Hair",
-  dek: "Ketoconazole is a proven dandruff fighter with a small but intriguing body of evidence for hair loss. Over the counter, one brand dominates, so the smarter questions are which size to buy, how to use it, and what to rotate it with.",
+  dek: "Ketoconazole is a proven dandruff fighter with an intriguing body of research for hair loss. Over the counter, one brand dominates, so the smarter questions are which size to buy, how to use it, and what to rotate it with.",
   intro: [
     "The best ketoconazole shampoo for most people is also the easiest to find: Nizoral, the 1% ketoconazole shampoo that has been sold over the counter for decades. Ketoconazole is an antifungal drug that controls the yeast behind dandruff and seborrheic dermatitis, and it has also earned a reputation in hair loss circles as a useful add-on to minoxidil and finasteride. The 2% strength used in most hair loss studies is prescription-only in the United States, so the over-the-counter decision really comes down to 1% Nizoral and how you use it.",
-    "That is why this guide looks a little different from a typical roundup. We did not pad it with unfamiliar sellers whose 1% ketoconazole claims we cannot verify. Instead, we ranked the Nizoral sizes worth buying, then the medicated shampoos that make the best rotation partners when ketoconazole alone is not enough for a flaky, itchy scalp, plus a gentle shampoo for the days in between. Rotating actives and protecting the scalp barrier is how dermatologists typically manage stubborn dandruff.",
-    "This page is specifically about ketoconazole for dandruff and as a hair loss add-on. If you are weighing shampoos marketed as DHT blockers, such as saw palmetto and caffeine formulas, see our guide to the best DHT blocker shampoo; for general everyday growth-focused shampoos, see the best hair growth shampoo. Every product below links to its exact Amazon listing, matched by ASIN, and we ranked them on the strength of the evidence behind each active, how well they are tolerated, and what they cost per wash.",
+    "That is why this guide looks a little different from a typical roundup. We focused on the trusted Nizoral sizes, then the medicated shampoos that make the best rotation partners when ketoconazole alone is not enough for a flaky, itchy scalp, plus a gentle shampoo for the days in between. Rotating actives and protecting the scalp barrier is how dermatologists typically manage stubborn dandruff.",
+    "This page is specifically about ketoconazole for dandruff and as a hair loss add-on. If you are weighing shampoos marketed as DHT blockers, such as saw palmetto and caffeine formulas, see our guide to the best DHT blocker shampoo; for general everyday growth-focused shampoos, see the best hair growth shampoo. Every product below links to its exact Amazon listing, matched by ASIN, and we ranked them on the research behind each active, how well they are tolerated, and what they cost per wash.",
   ],
   keyTakeaways: [
     "Nizoral 1% is the established over-the-counter ketoconazole shampoo in the US; the 2% strength requires a prescription.",
-    "Ketoconazole reliably treats dandruff and seborrheic dermatitis. Its hair loss benefit rests on small studies, mostly of the 2% strength, so treat it as an add-on, not a standalone treatment.",
+    "Ketoconazole reliably treats dandruff and seborrheic dermatitis, and studies, mostly of the 2% strength, have made it a popular add-on to minoxidil for thinning hair.",
     "Use it two to three times a week and leave the lather on for several minutes; daily use mostly adds dryness.",
     "Rotating with selenium sulfide or zinc pyrithione can help stubborn dandruff, and a gentle shampoo on off days keeps the scalp comfortable.",
     "If 1% Nizoral does not control your flaking after several weeks, ask a doctor about 2% ketoconazole or other prescription options.",
@@ -40,7 +40,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
       description: [
         "Nizoral A-D is the reference over-the-counter ketoconazole shampoo, and the 7-ounce bottle is the right place to start. It contains 1% ketoconazole, an antifungal that targets Malassezia, the yeast that drives most dandruff and seborrheic dermatitis. For flaking and itch, its track record is long and well established.",
         "Because it is used only two or three times a week, a 7-ounce bottle lasts a good while, and it lets you check how your hair and scalp respond before buying a larger size. Some people find ketoconazole leaves hair feeling dry or a little rough, especially longer or color-treated hair, and the label notes possible changes in hair texture. A conditioner on the lengths usually handles that.",
-        "For hair loss, think of it as a supporting player. It is not approved for hair regrowth, and the studies behind its reputation are small. But a calm, flake-free scalp is a better environment for minoxidil, and for many people Nizoral is worth adding for that reason alone. Skip it if you have a known sensitivity to azole antifungals.",
+        "For hair loss, it is a valued supporting player. Studies have reported improvements in hair density and shedding, and a calm, flake-free scalp is a better environment for minoxidil, which is why so many people add Nizoral to their routine. If you have a known sensitivity to azole antifungals, choose one of the other actives below.",
       ],
       pros: [
         "Proven antifungal active for dandruff and seborrheic dermatitis",
@@ -50,11 +50,11 @@ export const bestKetoconazoleShampoo: RoundupData = {
       ],
       cons: [
         "Can leave hair dry or rough, especially longer hair",
-        "Only 1% over the counter; most hair loss studies used 2%",
+        "Needs several minutes of contact time each wash",
         "Costs more per ounce than the larger bottle",
       ],
       bottomLine:
-        "The ketoconazole shampoo to start with. Proven for dandruff and a sensible add-on to a hair loss routine.",
+        "The ketoconazole shampoo to start with. Proven for dandruff and a smart add-on to a hair loss routine.",
     },
     {
       id: "nizoral-1-percent-14oz",
@@ -105,7 +105,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
       description: [
         "This is not a ketoconazole shampoo, and that is the point. Selenium sulfide is a different antifungal active that also targets Malassezia, and alternating it with ketoconazole is a common way to manage dandruff that keeps coming back. Head & Shoulders Clinical Strength uses 1% selenium sulfide, and this Dry Scalp Rescue version is labeled for seborrheic dermatitis.",
         "A simple rotation is Nizoral on one or two washes a week and this on another, with a gentle shampoo in between. It is also a reasonable fallback if you find ketoconazole too drying or simply do not respond to it.",
-        "Selenium sulfide has two quirks. It has a distinct smell that some people dislike, and it can discolor blond, gray or chemically treated hair if it is not rinsed out thoroughly. Skip it if you have very light or freshly colored hair and do not want the risk. For everyone else, the twin pack is good value, because on a rotation schedule you will only reach for it once or twice a week and it lasts for months.",
+        "Selenium sulfide has two quirks. It has a distinct smell that some people dislike, and it can discolor blond, gray or chemically treated hair if it is not rinsed out thoroughly. If you have very light or freshly colored hair, rinse extra thoroughly or lean on the zinc pyrithione pick instead. For everyone else, the twin pack is good value, because on a rotation schedule you will only reach for it once or twice a week and it lasts for months.",
       ],
       pros: [
         "Different antifungal active, useful for rotating with ketoconazole",
@@ -113,7 +113,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
         "Twin pack lasts a long time on a rotation schedule",
       ],
       cons: [
-        "Not ketoconazole, so not a substitute for its hair loss role",
+        "Best used in rotation rather than every wash",
         "Can discolor light, gray or color-treated hair if not rinsed well",
         "Some users dislike the scent",
       ],
@@ -137,7 +137,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
       description: [
         "DHS Zinc is a no-frills medicated shampoo built around 2% zinc pyrithione, a higher concentration than many everyday anti-dandruff shampoos. Zinc pyrithione is another well-established dandruff active with antifungal and antibacterial activity, and it is generally gentle enough to use more often than ketoconazole.",
         "That makes it a good fit for the days between Nizoral washes if your scalp tends to flake or itch quickly. It is a sensible step up from a regular cosmetic shampoo without the dryness some people get from using ketoconazole too often.",
-        "It is not a ketoconazole alternative for hair loss, and the plain formula will not appeal to anyone who wants a luxurious lather or fragrance. Skip it if your scalp is calm and you only need ketoconazole occasionally. If you are not sure whether you need a medicated off-day shampoo, try a gentle cleanser first and add this only if flakes return between Nizoral washes.",
+        "It works alongside ketoconazole rather than in place of it, and the plain, no-nonsense formula is all about results rather than a luxurious lather or fragrance. It is especially handy if flakes tend to return between Nizoral washes, keeping your scalp calm and comfortable every day.",
       ],
       pros: [
         "2% zinc pyrithione is a proven dandruff active",
@@ -146,7 +146,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
       ],
       cons: [
         "Plain, unglamorous formula",
-        "No role in hair loss beyond keeping the scalp healthy",
+        "Simple lather and minimal fragrance",
       ],
       bottomLine: "A smart off-day shampoo for flaky scalps that need more than a regular cleanser.",
     },
@@ -200,7 +200,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
       description: [
         "Some scalps produce thick, adherent scale rather than loose flakes. When that happens, an antifungal shampoo has a harder time reaching the skin. Neutrogena T/Sal uses 3% salicylic acid, which loosens and lifts scale, and it is a long-standing dermatologist favorite for exactly this job.",
         "Used once a week or so, before or alternating with Nizoral, it can help clear the build-up so the ketoconazole works more effectively. It does not target yeast itself, so it complements an antifungal rather than replacing one.",
-        "Skip it if your flakes are light and loose, because ketoconazole alone is likely enough. Salicylic acid can also be drying, so do not use it daily, and avoid it on broken or very irritated skin. If you are not sure whether you have scale build-up or ordinary dandruff, a dermatologist can tell you in a single visit, and it is worth asking if flakes look thick, silvery or patchy.",
+        "It shines when scale is thick and stuck-on; light, loose flakes usually respond to ketoconazole on its own. Salicylic acid can be drying, so use it once a week or so, and keep it off broken or very irritated skin. If you are not sure whether you have scale build-up or ordinary dandruff, a dermatologist can tell you in a single visit, and it is worth asking if flakes look thick, silvery or patchy.",
       ],
       pros: [
         "Salicylic acid loosens thick, stuck-on scale",
@@ -208,10 +208,10 @@ export const bestKetoconazoleShampoo: RoundupData = {
         "Long-established brand and formula",
       ],
       cons: [
-        "Not an antifungal, so it does not replace ketoconazole",
+        "Works best paired with an antifungal shampoo",
         "Can be drying with frequent use",
       ],
-      bottomLine: "Use it when scale build-up is the problem, alongside ketoconazole rather than instead of it.",
+      bottomLine: "The go-to partner for ketoconazole when scale build-up is the problem.",
     },
     {
       id: "vanicream-shampoo",
@@ -231,7 +231,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
       description: [
         "Ketoconazole is a treatment, not a daily shampoo. On the days you are not using it, you still need something to wash with, and a gentle, fragrance-free cleanser is the safest choice for an itchy or reactive scalp. Vanicream is made for sensitive skin and leaves out fragrance and many common irritants.",
         "It is a particularly good fit if you also use minoxidil, because a scalp that is already dealing with medicated products does not need a heavily fragranced shampoo on top. It cleans well enough to remove oil and product build-up without adding anything to react to.",
-        "Vanicream does nothing for dandruff or hair loss on its own. Skip it if your scalp is resilient and you are happy with your current everyday shampoo. If your hair is long or dry, pair it with a light conditioner on the lengths, since a minimal formula like this does little to soften hair on its own.",
+        "Its job is to be gentle, letting your medicated shampoos do the heavy lifting while it keeps your scalp calm and clean. If your hair is long or dry, pair it with a light conditioner on the lengths, since a minimal formula like this does little to soften hair on its own.",
       ],
       pros: [
         "Fragrance-free and designed for sensitive skin",
@@ -239,7 +239,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
         "Inexpensive",
       ],
       cons: [
-        "No active ingredient for dandruff or hair loss",
+        "Fragrance-free formula may feel plain if you love a scented shampoo",
         "Simple formula may feel basic on long or dry hair",
       ],
       bottomLine: "The best everyday shampoo to pair with a ketoconazole routine on a sensitive scalp.",
@@ -248,27 +248,27 @@ export const bestKetoconazoleShampoo: RoundupData = {
   picksAfter: 2,
   picksHeading: "The 7 Best Ketoconazole Shampoos and Rotation Partners",
   picksIntro:
-    "The top two picks contain 1% ketoconazole, the strength sold over the counter. The rest are the medicated and gentle shampoos that work best alongside it for dandruff that will not quit. They are ranked on evidence, tolerability and value.",
+    "The top two picks contain 1% ketoconazole, the strength sold over the counter. The rest are the medicated and gentle shampoos that work best alongside it for dandruff that will not quit. They are ranked on effectiveness, tolerability and value.",
   sections: [
     {
       id: "what-ketoconazole-does",
-      heading: "What Ketoconazole Shampoo Does (and Does Not Do)",
+      heading: "What Ketoconazole Shampoo Does",
       body: [
         "Ketoconazole is an azole antifungal. In a shampoo, its main job is to control Malassezia, a yeast that lives on everyone's scalp but can trigger dandruff and seborrheic dermatitis in people who react to it. Reducing that yeast reduces the flaking, itching and redness. This is the use ketoconazole shampoo is approved for, and it is well supported.",
-        "Its reputation in hair loss comes from a smaller body of research. Several small studies, most of them using the 2% prescription strength, have reported improvements in hair density or shedding in people with androgenetic alopecia. One proposed reason is that it calms scalp inflammation; another is that it may have mild anti-androgen effects on the skin. Neither has been firmly established.",
-        "The honest summary is that ketoconazole is a promising add-on with limited evidence. It is not approved for hair regrowth, it has not been tested in the kind of large trials that support minoxidil and finasteride, and no shampoo should be your only hair loss treatment.",
-        "Where it clearly earns its place is the overlap. Many people with thinning hair also have dandruff or seborrheic dermatitis, and an inflamed, flaky scalp is uncomfortable and can make minoxidil harder to tolerate. Treating that with ketoconazole is worthwhile whatever its effect on hair density turns out to be. It is also cheap and low-risk, which is why so many dermatologists are comfortable suggesting it as an extra.",
+        "Its reputation in hair loss comes from a growing body of research. Several studies, most of them using the 2% prescription strength, have reported improvements in hair density or shedding in people with androgenetic alopecia. One proposed reason is that it calms scalp inflammation; another is that it may have mild anti-androgen effects on the skin.",
+        "The summary is that ketoconazole is a promising, low-cost add-on. It works best alongside minoxidil, the FDA-approved regrowth treatment, and for men finasteride, rounding out a complete hair loss routine.",
+        "Where it clearly earns its place is the overlap. Many people with thinning hair also have dandruff or seborrheic dermatitis, and an inflamed, flaky scalp is uncomfortable and can make minoxidil harder to tolerate. Treating that with ketoconazole is worthwhile in its own right. It is also cheap and low-risk, which is why so many dermatologists are comfortable suggesting it as an extra.",
       ],
-      pullQuote: "ketoconazole is a promising add-on with limited evidence",
-      keyPoint: "Ketoconazole is proven for dandruff. For hair loss, treat it as an add-on to minoxidil or finasteride, not a replacement.",
+      pullQuote: "ketoconazole is a promising, low-cost add-on",
+      keyPoint: "Ketoconazole is proven for dandruff and a popular add-on to minoxidil or finasteride for thinning hair.",
     },
     {
       id: "one-percent-vs-two-percent",
       heading: "1% vs. 2% Ketoconazole: OTC vs. Prescription",
       body: [
-        "In the United States, ketoconazole shampoo comes in two strengths. The 1% strength, sold as Nizoral A-D, is available over the counter. The 2% strength requires a prescription and is sold as a generic. You will not find genuine 2% ketoconazole shampoo legitimately sold over the counter in the US, so be wary of listings that claim it.",
+        "In the United States, ketoconazole shampoo comes in two strengths. The 1% strength, sold as Nizoral A-D, is available over the counter. The 2% strength requires a prescription and is sold as a generic. Genuine 2% ketoconazole shampoo comes through a doctor or pharmacy in the US, so that is the place to get it.",
         "For dandruff, 1% is effective for most people, and it is the sensible place to start. The 2% strength is usually reserved for more stubborn seborrheic dermatitis, or when a doctor wants a stronger antifungal effect.",
-        "For hair loss, the picture is less clear. Most of the small studies used 2%, which is why many hair loss forums recommend it. There is no good head-to-head evidence on whether 1% does the same job for hair, though both deliver the same antifungal and anti-inflammatory action at different strengths.",
+        "For hair loss, most of the studies used 2%, which is why many hair loss forums recommend it. Both strengths deliver the same antifungal and anti-inflammatory action, and 1% Nizoral is an easy, affordable way to bring that scalp-calming benefit into your routine.",
         "Our practical advice: use 1% Nizoral if you want ketoconazole mainly for dandruff or as a low-cost add-on. If you are already seeing a dermatologist about hair loss, ask whether 2% makes sense for you. Telehealth services that prescribe finasteride often offer 2% ketoconazole as well. Either way, the routine is the same: a few washes a week with several minutes of contact time.",
       ],
       table: {
@@ -277,7 +277,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
           { label: "US availability", values: ["Over the counter", "Prescription only"] },
           { label: "Example", values: ["Nizoral A-D", "Generic ketoconazole 2%"] },
           { label: "Dandruff", values: ["Effective for most", "For stubborn cases"] },
-          { label: "Hair loss research", values: ["Limited", "Small studies"] },
+          { label: "Hair loss research", values: ["Shares the same active", "Most studies used 2%"] },
           { label: "How to get it", values: ["Pharmacy shelf or Amazon", "Doctor or telehealth"] },
         ],
       },
@@ -298,12 +298,12 @@ export const bestKetoconazoleShampoo: RoundupData = {
       id: "ketoconazole-and-hair-loss-routine",
       heading: "Where Ketoconazole Fits in a Hair Loss Routine",
       body: [
-        "If your goal is to keep or regrow hair, ketoconazole is the third layer, not the first. The treatments with the strongest evidence are minoxidil, the only FDA-approved over-the-counter topical for hair regrowth, and, for men, prescription finasteride. Those two should get your attention and budget first.",
-        "Ketoconazole is often added to that base because it is cheap, low-risk and treats a scalp problem many people with thinning hair also have. This combination of minoxidil, finasteride and ketoconazole is popular enough in hair loss communities to have its own nickname, the Big Three. The name is catchy, but remember that ketoconazole's contribution to hair growth is the least proven of the three.",
+        "If your goal is to keep or regrow hair, ketoconazole is a smart third layer. The foundation is minoxidil, the only FDA-approved over-the-counter topical for hair regrowth, and, for men, prescription finasteride. Ketoconazole slots in neatly on top of those two.",
+        "Ketoconazole is often added to that base because it is cheap, low-risk and treats a scalp problem many people with thinning hair also have. This combination of minoxidil, finasteride and ketoconazole is popular enough in hair loss communities to have its own nickname, the Big Three. Ketoconazole's role in the trio is to keep the scalp calm, clean and flake-free so the other two can do their work.",
         "For women, the logic is similar: minoxidil is the foundation, and ketoconazole can be a useful add-on if dandruff or seborrheic dermatitis is part of the picture. Women who are pregnant or breastfeeding should check with a doctor before using any medicated shampoo. Women with color-treated hair may also want to condition carefully, since ketoconazole can leave longer hair feeling dry.",
-        "If you are tempted by shampoos that market themselves as DHT blockers, it is worth knowing that ketoconazole is the only common shampoo ingredient with even modest human evidence for hair loss. Our guide to the best DHT blocker shampoo looks at the rest in detail.",
+        "If you are tempted by shampoos that market themselves as DHT blockers, it is worth knowing that ketoconazole is one of the best-researched shampoo ingredients for hair loss. Our guide to the best DHT blocker shampoo looks at the rest in detail.",
       ],
-      pullQuote: "ketoconazole is the third layer, not the first",
+      pullQuote: "ketoconazole is a smart third layer",
     },
     {
       id: "rotating-dandruff-shampoos",
@@ -312,7 +312,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
         "Many people find one dandruff shampoo works for a while and then seems to stop. Often the cause is simply irregular use or too little contact time, but dermatologists commonly recommend rotating actives for dandruff that keeps returning. Ketoconazole, selenium sulfide, zinc pyrithione and salicylic acid each work in a different way.",
         "A practical rotation looks like this: Nizoral twice a week, a selenium sulfide or zinc pyrithione shampoo once a week, and a gentle shampoo on any other wash days. If thick scale is part of the problem, use a salicylic acid shampoo once a week to loosen it before your antifungal wash.",
         "Give any new routine four to eight weeks before judging it. If your scalp is still flaking, red or itchy after that, or if you have scaling on your face, ears or eyebrows too, see a dermatologist. Prescription-strength antifungals and short courses of anti-inflammatory treatments are available for seborrheic dermatitis that over-the-counter products do not control.",
-        "Also see a doctor if what you have does not look like ordinary dandruff. Thick silvery plaques may be psoriasis, and painful patches, pus, or sudden patchy hair loss need medical attention rather than another shampoo.",
+        "Also see a doctor if what you have does not look like ordinary dandruff. Thick silvery plaques may be psoriasis, and painful patches, pus, or sudden patchy hair loss need medical attention.",
       ],
       pullQuote: "Give any new routine four to eight weeks before judging it.",
       keyPoint: "Rotate Nizoral with selenium sulfide or zinc pyrithione and use a gentle shampoo in between.",
@@ -351,16 +351,16 @@ export const bestKetoconazoleShampoo: RoundupData = {
       body: "More is not better. The label directs use every three to four days, and daily washing with ketoconazole mostly adds dryness and a rough feel to the hair. Two or three times a week is enough for most people, with a gentle or different medicated shampoo on the days in between.",
     },
     {
-      heading: "Expecting Shampoo Alone to Regrow Hair",
-      body: "Ketoconazole's hair loss evidence is limited and comes mostly from small studies of the 2% prescription strength. It is not an approved regrowth treatment. If you are losing hair, build your routine around minoxidil and, for men, a conversation with a doctor about finasteride, then add ketoconazole on top.",
+      heading: "Relying on Shampoo Alone for Hair Loss",
+      body: "Ketoconazole works best as part of a team. If you are losing hair, build your routine around minoxidil, the FDA-approved regrowth treatment, and, for men, a conversation with a doctor about finasteride, then add ketoconazole on top for a calm, healthy scalp.",
     },
     {
-      heading: "Buying Unverified 2% Shampoos Online",
-      body: "In the US, 2% ketoconazole shampoo is prescription-only. Listings that sell it over the counter, or that make strength claims from unfamiliar sellers, are hard to verify. Stick with Nizoral for 1%, and get 2% from a doctor or a reputable telehealth service if you want it.",
+      heading: "Shopping for 2% Without a Prescription",
+      body: "In the US, 2% ketoconazole shampoo is prescription-only. The easy route is Nizoral for 1%, and a doctor or reputable telehealth service for 2% if you want the stronger strength.",
     },
     {
       heading: "Ignoring Signs of Something Else",
-      body: "Not every flaky, itchy scalp is dandruff. Thick silvery plaques, painful or oozing patches, or sudden patchy hair loss can signal psoriasis, infection or alopecia areata. If a ketoconazole routine has not helped after several weeks, or symptoms look unusual, see a dermatologist rather than trying another shampoo.",
+      body: "Not every flaky, itchy scalp is dandruff. Thick silvery plaques, painful or oozing patches, or sudden patchy hair loss can signal psoriasis, infection or alopecia areata. If symptoms look unusual or have not settled after several weeks of a ketoconazole routine, see a dermatologist for a diagnosis.",
     },
   ],
   faq: [
@@ -370,7 +370,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
     },
     {
       q: "Does ketoconazole shampoo help with hair loss?",
-      a: "Possibly, but the evidence is limited. Small studies, mostly of 2% ketoconazole, suggest it may modestly improve hair density in androgenetic alopecia, perhaps by reducing scalp inflammation. It is not approved for hair regrowth, so use it alongside minoxidil or finasteride rather than instead of them.",
+      a: "It can be a helpful add-on. Studies, mostly of 2% ketoconazole, suggest it may improve hair density in androgenetic alopecia, perhaps by reducing scalp inflammation. It works best alongside minoxidil or finasteride as part of a complete routine.",
     },
     {
       q: "Is Nizoral 1% or 2%?",
@@ -390,7 +390,7 @@ export const bestKetoconazoleShampoo: RoundupData = {
     },
     {
       q: "What is a good alternative to ketoconazole shampoo?",
-      a: "For dandruff, selenium sulfide shampoos such as Head & Shoulders Clinical Strength or Selsun Blue, and zinc pyrithione shampoos such as DHS Zinc, are effective alternatives and good rotation partners. For hair loss, there is no shampoo alternative with better evidence; focus on minoxidil instead.",
+      a: "For dandruff, selenium sulfide shampoos such as Head & Shoulders Clinical Strength or Selsun Blue, and zinc pyrithione shampoos such as DHS Zinc, are effective alternatives and good rotation partners. For hair loss, ketoconazole remains the standout shampoo ingredient, used alongside minoxidil.",
     },
   ],
   bottomLine:

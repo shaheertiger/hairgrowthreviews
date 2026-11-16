@@ -84,24 +84,24 @@ export const howLongDoesPostpartumHairLossLast: QuestionData = {
       id: "breastfeeding-safety",
       heading: "What Is Safe to Use While Breastfeeding",
       body: [
-        "The most important point is what to avoid. Minoxidil, the main over-the-counter hair regrowth treatment, is not recommended during pregnancy or breastfeeding, and you should not use it while nursing unless your doctor specifically approves it. It is also not needed for postpartum shedding, which resolves on its own.",
-        "Be careful with hair supplements too. Many branded hair formulas contain botanicals or high doses of vitamins that have not been studied in breastfeeding women. Check every supplement with your doctor, including those marketed for hair, skin and nails. A postnatal multivitamin recommended by your doctor is a more appropriate choice than a separate hair supplement.",
-        "Cosmetic products are generally a safer way to help. A volumizing shampoo such as Living Proof Full, our top postpartum pick, can make fine, flat hair look fuller between washes. Root touch-up powders can disguise thinning temples and a visible part. These do not change the shedding, but they can make it less obvious.",
+        "Start with a quick safety note. Minoxidil, the main over-the-counter hair regrowth treatment, is not recommended during pregnancy or breastfeeding, so save it for after nursing unless your doctor specifically approves it. Postpartum shedding resolves on its own, so there is plenty of time to add it later if you want to.",
+        "Run hair supplements past your doctor too. Many branded hair formulas contain botanicals or high doses of vitamins that have not been studied in breastfeeding women. Check every supplement with your doctor, including those marketed for hair, skin and nails. A postnatal multivitamin recommended by your doctor is a more appropriate choice than a separate hair supplement.",
+        "Cosmetic products are a wonderful way to help right now. A volumizing shampoo such as Living Proof Full, our top postpartum pick, can make fine, flat hair look fuller between washes. Root touch-up powders can disguise thinning temples and a visible part. They work instantly to make shedding less obvious and help you feel like yourself again.",
         "If you plan to color, bleach or chemically straighten your hair, it is reasonable to ask your doctor or pharmacist, and many women choose gentler options in the early months. Fragile, shedding hair is also more prone to damage, so going easy on strong chemical treatments is a good idea for your hair regardless.",
       ],
-      pullQuote: "Be careful with hair supplements too.",
-      keyPoint: "Skip minoxidil and hair supplements while breastfeeding unless your doctor approves them; cosmetic products are the safer way to help.",
+      pullQuote: "Run hair supplements past your doctor too.",
+      keyPoint: "Check minoxidil and hair supplements with your doctor while breastfeeding; volumizing shampoos and root powders are an easy, instant boost.",
     },
     {
       id: "gentle-care",
       heading: "How to Look After Your Hair While It Recovers",
       body: [
-        "Nothing you buy can stop the hairs that have already been released from falling. What you can do is protect the hair you have from unnecessary breakage, which makes thin hair look thinner still. Detangle with a wide-tooth comb or a soft detangling brush, starting at the ends, ideally with conditioner in.",
+        "The hairs that have already been released will fall on their own schedule, so the smartest move is to protect the hair you have from unnecessary breakage, which makes thin hair look thinner still. Detangle with a wide-tooth comb or a soft detangling brush, starting at the ends, ideally with conditioner in.",
         "Avoid tight ponytails, buns and braids, which pull on fragile hair and can add traction damage at the hairline. Claw clips and loose styles are kinder. Keep heat styling to a minimum and use a heat protectant when you do. Pat hair dry rather than rubbing it with a towel.",
         "Choose products that lift rather than weigh down. A lightweight, volumizing shampoo and a conditioner applied only to the lengths help fine hair look fuller. Dry shampoo is useful for low-sleep weeks when washing is not realistic, and it adds some texture at the roots.",
         "Many women find a new haircut helps. A shorter cut or long layers can make thinning less obvious and make it easier to style the short regrowth along the hairline when it appears. It also makes daily care quicker at a time when every minute counts.",
       ],
-      pullQuote: "Nothing you buy can stop the hairs that have already been released from falling.",
+      pullQuote: "the smartest move is to protect the hair you have",
     },
     {
       id: "regrowth-hairs",
@@ -145,7 +145,7 @@ export const howLongDoesPostpartumHairLossLast: QuestionData = {
     },
     {
       q: "Can I stop postpartum hair loss?",
-      a: "Not really. The hairs that shed were released months earlier by the hormonal change after birth, so no product can hold them in place. What helps is gentle care to reduce breakage, cosmetic products to make hair look fuller, and checking for low iron or thyroid issues that could prolong shedding.",
+      a: "The shedding itself runs its natural course, because the hairs were released months earlier by the hormonal change after birth. What helps most is gentle care to reduce breakage, cosmetic products to make hair look fuller, and checking for low iron or thyroid issues that could prolong shedding.",
     },
     {
       q: "Does postpartum hair loss happen with every pregnancy?",

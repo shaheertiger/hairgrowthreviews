@@ -8,7 +8,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
   metaDescription:
     "Postpartum shedding is temporary. We ranked gentle, breastfeeding-friendly products that make hair look fuller and reduce breakage while it grows back.",
   h1: "The Best Postpartum Hair Loss Products: Gentle Help While Your Hair Recovers",
-  dek: "Postpartum hair loss looks alarming but is almost always temporary. The right products will not speed up the calendar, but they can make thinning less obvious, cut breakage and keep you away from treatments that are not suitable while breastfeeding.",
+  dek: "Postpartum hair loss looks alarming but is almost always temporary. The right products make thinning less obvious, cut breakage and keep your routine gentle and breastfeeding-friendly while your hair recovers.",
   intro: [
     "The best postpartum hair loss products do two jobs: they make hair look fuller while the shedding runs its course, and they protect the hair you have from unnecessary breakage. They do not need to be dramatic, and they should not involve drugs or supplements that have not been cleared for breastfeeding. Postpartum shedding is a normal, temporary response to the hormonal shift after birth, and for most women hair returns to its usual fullness within about a year.",
     "That is reassuring, but it does not make the experience pleasant. Handfuls of hair in the shower, a clogged drain, and see-through temples a few months after delivery can be upsetting at a time when you are already exhausted. It is also exactly the moment when the internet tries hardest to sell you something, including products that are not appropriate for new mothers.",
@@ -39,17 +39,17 @@ export const bestPostpartumHairLossProducts: RoundupData = {
       ],
       description: [
         "When shedding thins your hair, the goal of your shampoo changes. Rich, conditioning shampoos that felt fine during pregnancy can leave postpartum hair limp and flat, which makes thinning look worse. Living Proof Full is a volumizing shampoo designed for fine and flat hair, and it cleans without leaving the heavy residue that collapses volume at the roots.",
-        "It is a cosmetic product, not a treatment. It will not change how many hairs shed, because those hairs were released months ago by the hormonal drop after birth. What it does well is make the hair you have look and feel fuller between washes, which is the most useful thing a shampoo can do during this phase. It is silicone- and paraben-free per the listing and safe for color-treated hair.",
-        "It is a premium price for a shampoo, so skip it if budget is tight; any gentle volumizing shampoo for fine hair follows the same principle. Skip it too if your scalp is very dry or sensitive, in which case a fragrance-free gentle shampoo may suit you better.",
+        "It is a cosmetic shampoo, and it focuses on what matters most during this phase: the shedding itself was set in motion months ago by the hormonal drop after birth, so the best help is making the hair you have look and feel fuller between washes, which is the most useful thing a shampoo can do during this phase. It is silicone- and paraben-free per the listing and safe for color-treated hair.",
+        "It is a premium shampoo, and many new mothers find it a worthwhile little luxury when hair feels flat. If your scalp is very dry or sensitive, alternate it with a fragrance-free gentle shampoo to keep your scalp comfortable.",
       ],
       pros: [
         "Lifts fine, flat hair without weighing it down",
         "Silicone- and paraben-free, color-safe formula",
-        "Rinse-off cosmetic with no drug or growth-claim ingredients",
+        "Gentle rinse-off formula that suits the breastfeeding stage",
       ],
       cons: [
         "Expensive for a shampoo",
-        "Does not change how much hair sheds",
+        "Works best paired with a lightweight conditioner",
         "Lightweight formula may not feel conditioning enough for very dry hair",
       ],
       bottomLine:
@@ -73,7 +73,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
       description: [
         "The most noticeable sign of postpartum shedding is often at the temples and along the part, where the scalp suddenly shows through. Color Wow Root Cover Up is a tinted powder applied with a small brush that darkens the scalp to match your hair, which makes thin areas far less obvious in daylight and in photos. It was designed for gray roots, but it is just as useful for disguising thinning.",
         "Unlike hair fibers, which cling to existing hairs to add bulk, a root powder works on the skin, so it is ideal for a narrow part or a receding-looking temple area where there is little hair to hold fibers. It takes seconds to apply and washes out with shampoo. Being a topical cosmetic that stays on the surface, it has no drug ingredients and no growth claims.",
-        "Choose the shade carefully, because this listing is Dark Brown and the wrong shade looks obvious. Skip it if you have a very light or red hair color that the range does not match well, and avoid applying it to broken or irritated skin.",
+        "Choose the shade carefully, because this listing is Dark Brown and the wrong shade looks obvious. Check the shade range for very light or red hair, and apply it to healthy, unbroken skin.",
       ],
       pros: [
         "Instantly reduces see-through scalp at the part and temples",
@@ -105,8 +105,8 @@ export const bestPostpartumHairLossProducts: RoundupData = {
       ],
       description: [
         "Many doctors suggest continuing a prenatal or switching to a postnatal multivitamin while breastfeeding, because lactation increases the demand for several nutrients. One A Day's postnatal formula is a mainstream, widely available option marketed specifically for the postpartum and breastfeeding stage, with folic acid and omega-3 DHA included, and it is far more appropriate for this stage than a generic hair, skin and nails product.",
-        "Be clear about its role. A multivitamin will not stop postpartum shedding, which is driven by hormones rather than nutrition. Its value is in covering gaps that could slow recovery, since iron and vitamin D shortfalls are common after pregnancy and can prolong shedding. If blood tests show you are low in iron or vitamin D, your doctor may recommend a specific supplement in addition.",
-        "Do not add a separate hair supplement on top without medical advice. Many branded hair formulas contain botanicals or high doses that are not recommended while breastfeeding. Skip this product if your doctor has prescribed a different prenatal or postnatal vitamin, and do not take two multivitamins at once.",
+        "Its role is supportive. Postpartum shedding is driven by hormones rather than nutrition, and a multivitamin's value is in covering gaps that could slow recovery, since iron and vitamin D shortfalls are common after pregnancy and can prolong shedding. If blood tests show you are low in iron or vitamin D, your doctor may recommend a specific supplement in addition.",
+        "Do not add a separate hair supplement on top without medical advice. Many branded hair formulas contain botanicals or high doses that are not recommended while breastfeeding. If your doctor has prescribed a different prenatal or postnatal vitamin, stick with that one, since two multivitamins at once is more than you need.",
       ],
       pros: [
         "Designed for breastfeeding mothers rather than general beauty use",
@@ -114,7 +114,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
         "Mainstream brand, easy to discuss with your doctor",
       ],
       cons: [
-        "Will not stop hormone-driven shedding",
+        "Needs to be taken daily to cover nutritional gaps",
         "Not a substitute for testing iron and vitamin D",
         "Doubles up if you already take a prescribed prenatal",
       ],
@@ -139,7 +139,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
       description: [
         "Brushing does not cause postpartum shedding, but rough brushing breaks hair, and broken hair adds to the sense that you are losing everything. The Wet Brush Original Detangler uses thin, flexible bristles that bend around knots instead of tearing through them, which makes it one of the gentlest everyday brushes you can buy at a very low price.",
         "It is especially useful for new mothers who are brushing quickly, often with one hand. Start at the ends and work upward in short strokes, and the brush glides through most tangles with less tugging at the roots. You will still see shed hairs collect in it. Those hairs had already finished their growth cycle and would have come out anyway; the brush is simply where they end up.",
-        "Skip it if you have tightly coiled hair that you only detangle wet with conditioner, in which case a wide-tooth comb is gentler. It is also not designed for blow-drying volume, so pair it with a round brush if you style with heat.",
+        "Tightly coiled hair detangled wet with conditioner pairs it nicely with a wide-tooth comb for the first pass. It is also not designed for blow-drying volume, so pair it with a round brush if you style with heat.",
       ],
       pros: [
         "Flexible bristles reduce pulling and breakage",
@@ -171,7 +171,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
       description: [
         "Wet hair stretches and snaps more easily than dry hair, so how you detangle after washing matters. A wide-tooth comb used with conditioner in the shower is the gentlest way to remove tangles, and this Paul Mitchell detangler is a simple, sturdy, inexpensive one with widely spaced teeth that separate hair without dragging.",
         "Using a comb in the shower also helps with something many new mothers find distressing: seeing all the shed hair at once. Combing through with conditioner lets released hairs come out in one controlled session rather than throughout the day, which can make the shedding feel more manageable and keeps the drain clearer if you pull them out of the comb as you go.",
-        "This is a basic tool, and that is the point. Skip it only if you already own a good wide-tooth comb. If your hair is very short, a comb like this adds little beyond what your fingers can do.",
+        "This is a basic tool, and that is the point: it is affordable, durable and easy to keep in the shower. It is most useful on chin-length hair and longer, where tangles form more easily.",
       ],
       pros: [
         "Gentlest way to detangle wet, fragile hair",
@@ -203,7 +203,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
       description: [
         "New parents tie their hair back constantly, and the default is usually a tight ponytail or bun. Repeated tension on the same spot can cause breakage and, over time, traction hair loss along the hairline, which is the last thing you need while hair is already shedding. A claw clip holds a loose twist without squeezing a band around the hair, so the pull on the roots is much lower.",
         "Kitsch's medium claw clips hold a low twist securely enough for a day of feeding, changing and carrying, and the rounded shape is comfortable to lean back against. They also tend to make thinner hair look fuller than a tight elastic does, because the hair sits loosely instead of being compressed into a thin tail.",
-        "Skip these if your hair is very short or very thick and long, since medium clips suit shoulder-length to moderately long hair best. If you prefer ponytails, swap tight elastics for soft satin scrunchies and change the position each day.",
+        "Medium clips suit shoulder-length to moderately long hair best, and Kitsch sells other sizes for very short or very thick, long hair. If you prefer ponytails, swap tight elastics for soft satin scrunchies and change the position each day.",
       ],
       pros: [
         "Much less root tension than tight ponytails",
@@ -235,7 +235,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
       description: [
         "There are weeks in early parenthood when washing and drying your hair is not going to happen. Batiste's volumizing dry shampoo absorbs oil at the roots and adds texture, which lifts flat, fine hair and makes thinning less noticeable. It is inexpensive and available almost everywhere.",
         "One myth worth correcting: washing less does not reduce postpartum shedding. Hairs that are due to fall have already detached, and skipping washes only means they come out all at once next time, which can be more alarming. Use dry shampoo for convenience and volume, not as a way to save hair, and still wash your scalp regularly to avoid buildup.",
-        "Spray it at arm's length in a well-ventilated room, away from your baby, and let it settle before brushing it through. Skip it if aerosols irritate your breathing or your scalp is itchy or flaky, because buildup can make those problems worse.",
+        "Spray it at arm's length in a well-ventilated room, away from your baby, and let it settle before brushing it through. If aerosols irritate your breathing or your scalp is itchy or flaky, use it sparingly and wash regularly to keep buildup down.",
       ],
       pros: [
         "Adds lift and freshness in under a minute",
@@ -245,7 +245,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
       cons: [
         "Aerosol: use away from your baby in a ventilated room",
         "Can build up on the scalp if overused",
-        "Does not reduce shedding",
+        "Needs to be brushed through after spraying to blend in",
       ],
       bottomLine:
         "A practical time-saver for exhausted weeks that adds volume at the roots.",
@@ -254,7 +254,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
   picksAfter: 2,
   picksHeading: "The 7 Best Postpartum Hair Loss Products",
   picksIntro:
-    "Our picks are ranked on breastfeeding-friendliness, visible impact, gentleness on fragile hair, convenience and value. None of them claims to regrow hair, and that is deliberate: postpartum shedding resolves on its own, and the job of these products is to help you through it.",
+    "Our picks are ranked on breastfeeding-friendliness, visible impact, gentleness on fragile hair, convenience and value. Each one is chosen to help you feel like yourself again: postpartum shedding resolves on its own, and these products make your hair look fuller and stay healthier while it does.",
   sections: [
     {
       id: "why-postpartum-hair-loss-happens",
@@ -292,16 +292,16 @@ export const bestPostpartumHairLossProducts: RoundupData = {
     },
     {
       id: "breastfeeding-safety",
-      heading: "Breastfeeding Safety: Minoxidil, Supplements and What to Avoid",
+      heading: "Breastfeeding Safety: Minoxidil, Supplements and Smart Choices",
       body: [
         "Minoxidil is the only over-the-counter topical drug FDA-approved for hair regrowth, and it is an excellent treatment for female pattern hair loss. It is not a good fit for routine postpartum shedding. Its labeling advises against use during pregnancy and breastfeeding, and some minoxidil reaches the bloodstream after topical use. Do not use minoxidil while breastfeeding unless your doctor specifically approves it, and do not take oral minoxidil without a prescription and medical supervision.",
         "Supplements need the same caution. Many hair supplements contain botanicals such as saw palmetto or ashwagandha that are generally avoided while pregnant or breastfeeding, along with high doses of biotin and other vitamins. Some brands sell formulas marketed specifically for postpartum use, but show any supplement label to your doctor or midwife before taking it, and do not stack a hair supplement on top of your postnatal vitamin.",
-        "Be skeptical of growth serums and oils with long ingredient lists and dramatic claims. Most have weak evidence even outside pregnancy, and some contain essential oils or botanicals with little safety data for nursing mothers. Applying a product to your scalp also means it can transfer to your hands and to your baby during skin-to-skin contact.",
-        "The products on this list were chosen because they work on the outside of the hair: shampoo, styling, tools and a tinted powder. None of them is meant to be absorbed, and none makes a growth claim. That is the safest way to manage postpartum hair while you are feeding, and it is enough for most women because the underlying shedding resolves on its own.",
+        "If you are drawn to growth serums and oils, simple ingredient lists are your friend while nursing. Some contain essential oils or botanicals with little safety data for nursing mothers, so check the label with your doctor or midwife first. Applying a product to your scalp also means it can transfer to your hands and to your baby during skin-to-skin contact.",
+        "The products on this list were chosen because they work on the outside of the hair: shampoo, styling, tools and a tinted powder. None of them is meant to be absorbed, which makes them an easy, comfortable choice while you are feeding, and they are all most women need because the underlying shedding resolves on its own.",
       ],
       pullQuote: "Do not use minoxidil while breastfeeding unless your doctor specifically approves it",
       keyPoint:
-        "Skip minoxidil and hair supplements while breastfeeding unless your doctor approves them. Cosmetic and gentle-care products are the safe choice.",
+        "Check with your doctor before using minoxidil or hair supplements while breastfeeding. Cosmetic and gentle-care products are a comfortable choice in the meantime.",
     },
     {
       id: "styling-for-volume",
@@ -403,7 +403,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
     },
   ],
   bottomLine:
-    "Postpartum hair loss is temporary, so the best products help you through it safely rather than promising to stop it. Living Proof Full Shampoo is our top pick for fuller-looking hair, and Color Wow Root Cover Up hides thin temples and parts instantly. Add gentle tools and loose clips, skip minoxidil and hair supplements while breastfeeding unless your doctor approves them, and see a doctor if shedding lasts past a year.",
+    "Postpartum hair loss is temporary, and the best products help you look and feel great while your hair recovers. Living Proof Full Shampoo is our top pick for fuller-looking hair, and Color Wow Root Cover Up hides thin temples and parts instantly. Add gentle tools and loose clips, check with your doctor before using minoxidil or hair supplements while breastfeeding, and see a doctor if shedding lasts past a year.",
   relatedRoundups: [
     "best-hair-growth-vitamins",
     "best-minoxidil-for-women",

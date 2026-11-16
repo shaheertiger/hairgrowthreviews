@@ -40,7 +40,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
       description: [
         "SheaMoisture's Coconut & Hibiscus Curl Enhancing Smoothie is one of the most widely used curl creams in the world, and for good reason. It is a rich, shea butter based cream that moisturizes dry curls, helps them clump into defined ringlets, and calms frizz, all from a single product applied to wet hair. For many curly-haired women it is the product that first made their curls look intentional rather than frizzy.",
         "It works best on medium to thick curls in the 3a to 3c range, where its richness is an asset. You can use it alone for soft, touchable definition, or layer a gel over it if you want curls that last through several days or a humid afternoon. It is sulfate-free and paraben-free, sold almost everywhere, and priced well below salon curl creams.",
-        "Skip it if your hair is fine or loosely wavy. On 2a and 2b waves it can weigh hair down and make it look greasy rather than defined. Some buyers also dislike the strong coconut scent, and a minority find shea butter formulas too heavy for low-porosity hair.",
+        "It is at its best on thicker curls; fine or loosely wavy 2a and 2b hair may find it heavy and prefer a lighter cream. Some buyers also dislike the strong coconut scent, and a minority find shea butter formulas too heavy for low-porosity hair.",
       ],
       pros: [
         "Moisturizes and defines in one step",
@@ -74,7 +74,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
       description: [
         "Cantu Coconut Curling Cream is the cheapest product on this list and one of the most popular curl creams sold, a combination that is hard to argue with. It is a thick, buttery cream built around shea butter and coconut oil that adds heavy moisture and defines thick, dry curls. Curly hair often needs a generous amount of product, and at this price you can use as much as your hair wants.",
         "It shines on thick, coarse or high-porosity curls, from tighter 3b ringlets through 4a coils, where its richness helps curls clump and stay soft. Many buyers use it for wash-and-gos, twist-outs and refreshing second-day curls with a little water. It pairs well with a gel for more hold.",
-        "Skip it if your curls are fine, loose or low-porosity. The heavy texture can leave fine hair limp, greasy or coated, and it can build up over several days without clarifying. If you have a sensitive scalp, keep the cream on the lengths rather than at the roots.",
+        "It is made for thick, thirsty curls; fine, loose or low-porosity curls may find the rich texture too heavy, and regular clarifying keeps buildup in check. If you have a sensitive scalp, keep the cream on the lengths rather than at the roots.",
       ],
       pros: [
         "Lowest price per ounce on this list",
@@ -86,7 +86,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
         "Can build up without regular clarifying",
         "Soft hold on its own",
       ],
-      bottomLine: "The best budget curl cream for thick, thirsty curls. Fine-haired curlies should look at Bounce Curl instead.",
+      bottomLine: "The best budget curl cream for thick, thirsty curls. Fine-haired curlies will love Bounce Curl.",
     },
     {
       id: "ouidad-climate-control-gel",
@@ -106,7 +106,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
       description: [
         "Ouidad is a curl-focused salon brand, and its Advanced Climate Control Heat & Humidity Gel is its answer to the most common curly-hair complaint: curls that look perfect at home and frizz out the moment you step into humid air. The gel forms a cast as it dries that holds each curl in place; once fully dry, you scrunch the cast out to leave soft, defined curls that last.",
         "It is a styling product, not a moisturizer, so it works best layered over a leave-in or curl cream. That combination of moisture underneath and hold on top is the approach most curly stylists recommend, and Ouidad's gel is one of the most reliable top layers for humid climates. It comes in a Long-Lasting Hold version and a Stronger Hold version for heavier or more frizz-prone curls.",
-        "Skip it if you want a single product that does everything, or if you dislike the process of letting a gel cast dry and scrunching it out. It costs more than drugstore gels, and on very fine waves even the lighter version can feel firm.",
+        "It suits anyone happy to let a gel cast dry and scrunch it out; if you want a single do-it-all product, pair it with a cream or choose a set. It costs more than drugstore gels, and on very fine waves even the lighter version can feel firm.",
       ],
       pros: [
         "Reliable hold against humidity and frizz",
@@ -139,7 +139,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
       description: [
         "Bounce Curl's Light Hold Creme Gel solves a problem that most curl creams create: fine, wavy hair that goes flat and greasy under rich products. It is a lightweight hybrid of a cream and a gel, giving a little moisture and a soft, flexible hold that encourages waves and loose curls to form without stiffness.",
         "It is especially popular with women who have only recently discovered their hair is wavy rather than straight, a common experience once people stop brushing dry hair and switch to curl-friendly routines. Applied to soaking-wet hair and scrunched in, it helps waves clump and lift at the root. It is vegan and gentle enough to use daily.",
-        "Skip it if your curls are thick, coarse or very dry; it will not give them enough moisture or hold on its own. It costs more per ounce than drugstore creams, and if you live somewhere very humid you may want a firmer gel on top.",
+        "It is designed for fine and loose curls; thick, coarse or very dry curls may want a richer cream underneath. It costs more per ounce than drugstore creams, and if you live somewhere very humid you may want a firmer gel on top.",
       ],
       pros: [
         "Light enough for fine curls and waves",
@@ -171,7 +171,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
       description: [
         "Not Your Mother's Curl Talk line is one of the best-selling drugstore curl ranges, and this listing pairs its two core stylers: a defining cream and a frizz-control sculpting gel. Together they recreate the layered cream-then-gel approach that curl stylists recommend, without having to match products from different brands.",
         "The cream adds light moisture and helps curls clump; the gel locks that definition in and controls frizz. Buyers consistently describe the combination as a strong value for wavy and curly hair, and the formulas are lighter than SheaMoisture or Cantu, which makes them a good middle ground for medium-density curls. There is also a fragrance-free version of the set for sensitive skin.",
-        "Skip it if your curls are very thick, coarse or dry, because the cream may not be moisturizing enough on its own. Some buyers with fine hair find the gel too firm. And if you only need one of the two products, buying the set means paying for one you may not use.",
+        "Very thick, coarse or dry curls may want a richer leave-in underneath the cream. Some buyers with fine hair find the gel too firm. And if you only need one of the two products, buying the set means paying for one you may not use.",
       ],
       pros: [
         "Matched cream and gel for a layered routine",
@@ -204,7 +204,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
       description: [
         "Mielle's Pomegranate & Honey Leave-In Conditioner is a creamy, detangling leave-in from one of the most popular textured-hair brands in drugstores. It is designed as the first layer after washing: it softens tight curls, makes detangling easier, and gives a moisturized base for a cream, gel or twisting butter on top.",
         "We include it because many curl routines skip the leave-in and then wonder why their curls feel dry by the afternoon. For tighter curls in the 3c range and beyond, a dedicated leave-in under your styler can make the difference between curls that stay soft and curls that frizz and tangle. Mielle's version has good slip and a pleasant scent, and it is priced like a drugstore product.",
-        "Skip it if your hair is wavy or loosely curly; it is designed for tighter textures and will likely be too heavy. If you have type 4 hair, see our Black hair care guide for a fuller routine built around coils.",
+        "It is designed for tighter textures, so wavy or loosely curly hair may find it heavy. If you have type 4 hair, see our Black hair care guide for a fuller routine built around coils.",
       ],
       pros: [
         "Rich, detangling leave-in for tight curls",
@@ -235,7 +235,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
       description: [
         "Co-washing means cleansing with a conditioner-based product instead of shampoo, and As I Am's Coconut CoWash is one of the best known. It cleans lightly without lather, removing some dirt and product while leaving moisture in, which is why many women with dry, thick or tightly curled hair prefer it to shampoo for most wash days. This set pairs it with the brand's leave-in conditioner.",
         "The benefit is softer, less stripped curls, especially for hair that tangles or feels like straw after shampooing. The trade-off is that co-washes do not clean as thoroughly as shampoo. Used exclusively, they can let oil, product and dead skin build up on the scalp, which can lead to itching, flaking or limp curls. Most curl stylists suggest using a co-wash between regular shampoos rather than replacing shampoo entirely.",
-        "Skip it if your scalp is oily, if you get dandruff, or if your hair is fine. Those situations need a real shampoo. It ranks last here because it suits a narrower group than the stylers above.",
+        "It works best alongside a regular shampoo if your scalp is oily, you get dandruff, or your hair is fine. It ranks last here because it suits a narrower group than the stylers above.",
       ],
       pros: [
         "Gentle, moisturizing cleanse for dry curls",
@@ -366,8 +366,8 @@ export const bestHairProductsForCurlyHair: RoundupData = {
       body: "Brushing dry curls breaks up the curl pattern into frizz, and touching curls while they dry does the same on a smaller scale. Detangle only when hair is wet and full of conditioner. Once your styling products are in, leave curls alone until they are completely dry, then scrunch out any gel cast.",
     },
     {
-      heading: "Expecting a Curl Product to Fix Thinning",
-      body: "Some curl products are marketed with growth or strengthening claims, but no curl cream or gel treats hair loss. Curly hair also sheds into the curl pattern, so wash days look dramatic. If you see real thinning, a widening part or patches, see a dermatologist rather than switching products.",
+      heading: "Mistaking Normal Shedding for Thinning",
+      body: "Curly hair sheds into the curl pattern, so wash days can look dramatic even when everything is normal. Curl products keep strands strong and defined, which helps curls hold their length. If you see real thinning, a widening part or patches, see a dermatologist, and keep your curl routine going alongside any treatment.",
     },
   ],
   faq: [
@@ -393,7 +393,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
     },
     {
       q: "Do curly hair products help hair grow?",
-      a: "No curl cream, gel or leave-in has evidence for making hair grow faster. What good products and habits do is reduce breakage, so curls keep more of their length. If you are experiencing real thinning, a widening part or bald patches, see a dermatologist, as products will not treat the cause.",
+      a: "Good curl products and habits reduce breakage, so curls keep more of the length they grow and look fuller and healthier. If you are experiencing real thinning, a widening part or bald patches, see a dermatologist to find the cause, and keep using your curl routine for healthy-looking strands.",
     },
     {
       q: "How do I know my curl type?",

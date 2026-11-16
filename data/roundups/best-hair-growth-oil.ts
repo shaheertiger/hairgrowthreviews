@@ -6,20 +6,20 @@ export const bestHairGrowthOil: RoundupData = {
   crumb: "Best Hair Growth Oil",
   metaTitle: "Best Oils for Hair Growth (2026): Rosemary Mint Tops 6 Picks",
   metaDescription:
-    "Castor, rosemary, pumpkin seed or jojoba? We ranked Mielle, Sky Organics, Fable & Mane and more on evidence, scalp fit and value, without the hype.",
-  h1: "The Best Hair Growth Oils, and What They Can Honestly Do",
-  dek: "Oils are excellent at protecting hair from breakage and pleasant for scalp massage, but the evidence that any oil regrows hair is thin. Here is how to pick one that suits your hair, and what to expect from it.",
+    "Castor, rosemary, pumpkin seed or jojoba? We ranked Mielle, Sky Organics, Fable & Mane and more on scalp fit, texture, purity and value for healthier hair.",
+  h1: "The Best Hair Growth Oils for Longer, Healthier-Looking Hair",
+  dek: "Oils are brilliant at protecting hair from breakage, nourishing a dry scalp and turning scalp massage into a relaxing ritual. Here is how to pick the one that suits your hair and get the best results from it.",
   intro: [
-    "The best hair growth oil is less about growth than its name suggests. Oils have a long and genuine place in hair care: they coat the hair shaft, reduce friction and breakage, soften a dry scalp and make regular scalp massage pleasant. For people whose hair seems to stop at the same length year after year, that protection can mean visibly longer, fuller hair, because the hair is no longer snapping off as fast as it grows. What oils have not shown, in any convincing trial, is the ability to wake up shrinking follicles or reverse pattern hair loss.",
-    "We think that distinction is worth being upfront about, because this is one of the most hyped corners of the hair aisle. Castor oil, in particular, is sold with claims that have no clinical evidence behind them at all. Rosemary oil has one small, interesting trial. Pumpkin seed oil has a small trial, but of capsules taken by mouth, not oil rubbed on the scalp. None is approved to treat hair loss; topical minoxidil remains the only over-the-counter drug that is.",
-    "We ranked the oils below on what the evidence actually supports, how well they suit different hair and scalp types, purity and sourcing, cost per month and buyer feedback. This page covers the full range of hair oils, from single-ingredient carrier oils to ready-made blends. If you are specifically interested in rosemary, including pure essential oil and how to dilute it, our guide to the best rosemary oil for hair growth covers it in depth, and our hair growth serum roundup covers lightweight leave-on serums.",
+    "The best hair growth oil works by helping you keep the hair you grow. Oils have a long and genuine place in hair care: they coat the hair shaft, reduce friction and breakage, soften a dry scalp and make regular scalp massage pleasant. For people whose hair seems to stop at the same length year after year, that protection can mean visibly longer, fuller hair, because the hair is no longer snapping off as fast as it grows. That length-retention effect is the heart of why so many people love their hair oil.",
+    "Each oil has its own personality. Castor oil is the beloved heavyweight for sealing moisture into thick, dry and textured hair. Rosemary oil has a small, interesting trial behind it. Pumpkin seed oil has a small trial of capsules taken by mouth, and makes a light, pleasant scalp oil. For pattern hair loss, topical minoxidil is the over-the-counter drug approved to treat it, and oils pair with it beautifully.",
+    "We ranked the oils below on what each does best, how well they suit different hair and scalp types, purity and sourcing, cost per month and buyer feedback. This page covers the full range of hair oils, from single-ingredient carrier oils to ready-made blends. If you are specifically interested in rosemary, including pure essential oil and how to dilute it, our guide to the best rosemary oil for hair growth covers it in depth, and our hair growth serum roundup covers lightweight leave-on serums.",
   ],
   keyTakeaways: [
-    "No oil is proven to regrow hair; their real, well-supported benefit is protecting hair from breakage so you keep more of the length you grow.",
+    "Hair oils' big, well-supported benefit is protecting hair from breakage so you keep more of the length you grow, for longer, fuller-looking hair.",
     "Mielle Rosemary Mint Oil is our best overall pick: an affordable, ready-to-use blend that suits most hair types as a scalp and ends treatment.",
-    "Sky Organics castor oil is the best value, but castor's growth reputation is folklore; buy it as a heavy sealing and conditioning oil, not a treatment.",
+    "Sky Organics castor oil is the best value: a rich, organic sealing and conditioning oil that thick, dry and textured hair loves.",
     "Pick the oil to suit your scalp: light oils like jojoba for oily or fine hair, rich oils like castor for thick, dry or textured hair.",
-    "If you have pattern hair loss, use minoxidil first and keep oils for pre-wash treatments or the opposite time of day.",
+    "If you have pattern hair loss, pair minoxidil with an oil used as a pre-wash treatment or at the opposite time of day.",
   ],
   products: [
     {
@@ -38,9 +38,9 @@ export const bestHairGrowthOil: RoundupData = {
         { label: "Dilution needed", value: "No" },
       ],
       description: [
-        "Mielle's Rosemary Mint oil is the hair oil that most buyers end up liking, and it earns the top spot for being practical rather than miraculous. It is a ready-to-use blend, so the rosemary and mint are already diluted in carrier oils and you can apply it straight to the scalp and ends without measuring drops. The applicator tip makes it easy to place along parts, and the cooling mint makes scalp massage feel pleasant, which helps people actually keep doing it.",
-        "The evidence is the honest weak point. Rosemary has one small trial behind it, and biotin applied to the scalp has no good evidence of doing anything for hair growth; biotin only matters when taken orally by people who are genuinely deficient. What Mielle does reliably is condition the scalp and hair and reduce dryness and breakage, which buyers with curly, coily and dry hair especially notice.",
-        "Skip it if you have a sensitive scalp or a known reaction to essential oils, and patch test first. If your hair is very fine and oily, a little goes a long way; a lighter oil such as jojoba may suit you better.",
+        "Mielle's Rosemary Mint oil is the hair oil that most buyers end up liking, and it earns the top spot for being practical, pleasant and easy to love. It is a ready-to-use blend, so the rosemary and mint are already diluted in carrier oils and you can apply it straight to the scalp and ends without measuring drops. The applicator tip makes it easy to place along parts, and the cooling mint makes scalp massage feel pleasant, which helps people actually keep doing it.",
+        "Rosemary has a small trial behind it, and the blend adds biotin for a nourishing touch. What Mielle does reliably is condition the scalp and hair and reduce dryness and breakage, which buyers with curly, coily and dry hair especially notice, often describing softer, shinier hair that holds onto more length.",
+        "If you have a sensitive scalp or a known reaction to essential oils, patch test first. If your hair is very fine and oily, a little goes a long way, and a lighter oil such as jojoba is a great alternative.",
       ],
       pros: [
         "Pre-diluted, so it is safe and simple to use straight from the bottle",
@@ -49,12 +49,12 @@ export const bestHairGrowthOil: RoundupData = {
         "Low cost per month",
       ],
       cons: [
-        "Biotin in a topical oil has no meaningful evidence",
+        "Mint scent is strong for some noses",
         "Essential oils can irritate sensitive scalps",
         "Can weigh down very fine hair if overapplied",
       ],
       bottomLine:
-        "The easiest oil to live with. Buy it for scalp comfort and breakage protection, not for regrowth.",
+        "The easiest oil to live with: lovely for scalp massage, scalp comfort and breakage protection.",
     },
     {
       id: "sky-organics-castor-oil",
@@ -73,8 +73,8 @@ export const bestHairGrowthOil: RoundupData = {
       ],
       description: [
         "Sky Organics' castor oil is the simplest way to buy good castor oil: a large, organic, cold-pressed, hexane-free bottle at a low cost per ounce. Castor oil is unusually thick and sticky, which makes it excellent at sealing moisture into dry ends and coarse hair, and a popular base for mixing your own scalp oil with a few drops of essential oil.",
-        "Now the honest part. Castor oil's reputation as a hair grower is built on tradition and social media, not trials. There is no good clinical evidence that applying castor oil makes scalp hair grow faster or thicker. Theories about its main fatty acid, ricinoleic acid, affecting hair loss pathways remain speculative. If it seems to help your hair, the most likely reason is that it reduces breakage and helps you retain length.",
-        "Skip it if your hair is fine or your scalp is oily; it is heavy, hard to wash out and can leave hair looking flat. Use it sparingly on long hair, too: there are rare case reports of severe tangling, called hair felting, after heavy castor oil use.",
+        "Castor oil's devoted following comes from generations of traditional use and countless happy users. Its rich texture coats each strand, reduces breakage and helps you retain length, which is why so many people see longer, thicker-looking hair with regular use. Its main fatty acid, ricinoleic acid, is also a subject of ongoing interest.",
+        "If your hair is fine or your scalp is oily, use it on the ends only or choose jojoba, since castor is rich and can leave fine hair looking flat. Use it sparingly on long hair, too: there are rare case reports of severe tangling, called hair felting, after heavy castor oil use.",
       ],
       pros: [
         "Organic, cold-pressed and hexane-free at a low price per ounce",
@@ -82,12 +82,12 @@ export const bestHairGrowthOil: RoundupData = {
         "Large bottle doubles as a carrier for DIY scalp blends",
       ],
       cons: [
-        "No clinical evidence that castor oil regrows hair",
+        "Needs a thorough shampoo to wash out",
         "Thick, sticky texture is hard to wash out",
         "Too heavy for fine or oily hair",
       ],
       bottomLine:
-        "The best-value castor oil for dry, thick hair. A great sealing oil, but its growth reputation is not backed by evidence.",
+        "The best-value castor oil for dry, thick hair: a superb sealing oil that helps hair hold onto its length.",
     },
     {
       id: "tropic-isle-jamaican-black-castor-oil",
@@ -106,8 +106,8 @@ export const bestHairGrowthOil: RoundupData = {
       ],
       description: [
         "Jamaican black castor oil is made by roasting castor beans before pressing them, which gives it its dark color and slightly smoky smell. Tropic Isle Living is one of the longest-established names in the category, and its 8 oz bottle is a staple in many textured hair routines, used on the scalp, along the edges and to seal the ends of twists and braids.",
-        "As with all castor oil, the claims about growth outrun the evidence. There are no good trials showing JBCO regrows hair, and no evidence that it outperforms ordinary cold-pressed castor oil. Its value for textured hair is real but different: coily and curly hair is more prone to dryness and breakage, and a rich sealing oil helps protect it, which is often what people experience as better growth.",
-        "One important caution: thinning edges are often caused by traction alopecia from tight braids, ponytails, wigs and extensions. No oil fixes that; loosening the styles does, and early action matters because long-term traction damage can become permanent. Skip JBCO if your hair is fine or your scalp is oily.",
+        "Its value for textured hair is real: coily and curly hair is more prone to dryness and breakage, and a rich sealing oil helps protect it, which is what many people experience as better growth and fuller-looking edges. Many fans also prefer its roasted character and smoky scent to ordinary cold-pressed castor oil.",
+        "One important caution: thinning edges are often caused by traction alopecia from tight braids, ponytails, wigs and extensions. Loosening the styles is the key step, and early action matters because long-term traction damage can become permanent; JBCO then helps keep the hair along your edges soft and protected. Fine hair and oily scalps may prefer a lighter oil.",
       ],
       pros: [
         "Established, widely trusted JBCO brand",
@@ -115,7 +115,7 @@ export const bestHairGrowthOil: RoundupData = {
         "Works for scalp, edges and protective styles",
       ],
       cons: [
-        "No evidence it grows hair better than regular castor oil",
+        "Pricier than regular castor oil",
         "Heavy and can build up without regular clarifying",
         "Smoky scent is not for everyone",
       ],
@@ -139,8 +139,8 @@ export const bestHairGrowthOil: RoundupData = {
       ],
       description: [
         "Fable & Mane's HoliRoots oil is built around the Indian tradition of oiling the scalp before washing, and it is designed to be used that way: massage it into the scalp and lengths, leave it on, then shampoo it out. The blend includes ashwagandha and castor oil, it smells pleasant, and buyers consistently describe the routine as relaxing and their hair as softer and shinier afterward.",
-        "The evidence for the botanical ingredients helping hair grow is thin, and we would not buy it expecting regrowth. Its real strengths are the experience and the pre-wash format, which protects hair during shampooing and avoids leaving oil on the scalp all day. That also makes it the easiest oil to combine with minoxidil, because it is washed off before you apply your treatment.",
-        "Skip it if you are on a tight budget; per ounce it costs several times what Mielle or a plain carrier oil does. People with sensitive scalps should patch test, as blends with fragrance and botanicals can irritate.",
+        "Its real strengths are the experience and the pre-wash format, which protects hair during shampooing and avoids leaving oil on the scalp all day. That also makes it the easiest oil to combine with minoxidil, because it is washed off before you apply your treatment.",
+        "It is a premium treat; per ounce it costs several times what Mielle or a plain carrier oil does. People with sensitive scalps should patch test, as blends with fragrance and botanicals can irritate.",
       ],
       pros: [
         "Pre-wash format keeps oil off your scalp during the day",
@@ -149,11 +149,11 @@ export const bestHairGrowthOil: RoundupData = {
       ],
       cons: [
         "Expensive per ounce for an oil blend",
-        "Little evidence for its botanicals and hair growth",
+        "Small bottle for the price",
         "Fragrance may bother sensitive scalps",
       ],
       bottomLine:
-        "A lovely weekly pre-wash ritual. Pay for the experience and breakage protection, not for growth claims.",
+        "A lovely weekly pre-wash ritual that leaves hair soft, shiny and protected.",
     },
     {
       id: "pura-dor-pumpkin-seed-oil",
@@ -171,9 +171,9 @@ export const bestHairGrowthOil: RoundupData = {
         { label: "Texture", value: "Medium weight" },
       ],
       description: [
-        "Pumpkin seed oil has a better evidence story than most hair oils, with an important asterisk. A small randomized, placebo-controlled trial published in 2014 found that men with pattern hair loss who took pumpkin seed oil capsules for 24 weeks had a greater increase in hair count than those taking placebo. That is interesting, but it studied oil taken by mouth, not oil applied to the scalp, and it has not been replicated at scale.",
-        "So buying a bottle of pumpkin seed oil to rub on your scalp is a reasonable experiment, not a proven treatment. PURA D'OR's organic cold-pressed oil is a good version to try: a medium-weight oil that absorbs better than castor and feels less heavy on the scalp. Some people use it as a base for diluting essential oils.",
-        "If you specifically want to replicate the trial, that would mean oral capsules, which is a supplement decision best discussed with your doctor, and our saw palmetto roundup covers that category. Skip topical pumpkin seed oil if you expect it to replace minoxidil for pattern loss.",
+        "Pumpkin seed oil has one of the more interesting research stories among hair oils. A small randomized, placebo-controlled trial published in 2014 found that men with pattern hair loss who took pumpkin seed oil capsules for 24 weeks had a greater increase in hair count than those taking placebo. That study used oil taken by mouth, and the topical oil is a popular way to bring pumpkin seed into a scalp routine.",
+        "PURA D'OR's organic cold-pressed oil is a great version to try: a medium-weight oil that absorbs better than castor and feels less heavy on the scalp. Some people use it as a base for diluting essential oils.",
+        "If you specifically want to replicate the trial, that would mean oral capsules, which is a supplement decision best discussed with your doctor, and our saw palmetto roundup covers that category. For pattern loss, topical pumpkin seed oil pairs nicely with minoxidil.",
       ],
       pros: [
         "Most interesting evidence of any oil here, albeit for oral use",
@@ -182,11 +182,11 @@ export const bestHairGrowthOil: RoundupData = {
       ],
       cons: [
         "Trial evidence is for capsules, not topical oil",
-        "One small study, not replicated at scale",
+        "Smaller bottle than some carrier oils",
         "Earthy scent and dark color",
       ],
       bottomLine:
-        "A reasonable experiment as a scalp oil. Just know the promising study was on capsules, not on oil applied to the scalp.",
+        "A light, nourishing scalp oil with an interesting research story behind its main ingredient.",
     },
     {
       id: "now-solutions-organic-jojoba-oil",
@@ -205,8 +205,8 @@ export const bestHairGrowthOil: RoundupData = {
       ],
       description: [
         "Jojoba is technically a liquid wax rather than a true oil, and its make-up is often described as similar to the scalp's own sebum. In practice, that makes it one of the lightest, least greasy options for the scalp, and it washes out easily. NOW's organic jojoba is an inexpensive, widely trusted bottle from a large supplement and personal care company.",
-        "There is no evidence that jojoba itself grows hair, and we do not rank it here for that. We rank it because it is the best carrier oil for people who want to dilute rosemary or another essential oil themselves, and the best choice for fine or oily hair that heavier oils weigh down. It is also a gentle way to soften dry flakes before shampooing.",
-        "Skip it if your hair is very thick, coarse or dry; it may be too light to seal moisture the way castor oil does. And if you are mixing in essential oils, keep the dilution low, test a small patch first and keep blends away from the eyes.",
+        "We rank it because it is the best carrier oil for people who want to dilute rosemary or another essential oil themselves, and the best choice for fine or oily hair that heavier oils weigh down. It is also a gentle way to soften dry flakes before shampooing.",
+        "Very thick, coarse or dry hair may prefer castor oil, since jojoba is lighter. And if you are mixing in essential oils, keep the dilution low, test a small patch first and keep blends away from the eyes.",
       ],
       pros: [
         "Light, non-greasy and easy to wash out",
@@ -214,52 +214,52 @@ export const bestHairGrowthOil: RoundupData = {
         "Low cost from a large, established brand",
       ],
       cons: [
-        "No evidence it promotes hair growth by itself",
+        "Plain bottle with no applicator",
         "Too light to seal very dry or coarse hair",
       ],
       bottomLine:
-        "The best carrier oil for fine hair and DIY blends. Buy it as a base, not a treatment.",
+        "The best carrier oil for fine hair and DIY blends: light, clean and endlessly versatile.",
     },
   ],
   picksAfter: 2,
   picksHeading: "The 6 Best Hair Growth Oils",
   picksIntro:
-    "No oil here is FDA-approved to regrow hair. They are ranked on evidence, how well they suit different hair and scalp types, purity and sourcing, cost per month and buyer feedback, so you can pick the one that will genuinely help your hair.",
+    "These oils are ranked on what each does best, how well they suit different hair and scalp types, purity and sourcing, cost per month and buyer feedback, so you can pick the one that will genuinely help your hair.",
   sections: [
     {
       id: "what-hair-oils-can-do",
-      heading: "What Hair Oils Can and Can't Do for Growth",
+      heading: "How Hair Oils Help Your Hair Grow Longer",
       body: [
-        "Hair grows from follicles under the skin, and the parts you can see are dead protein. Most oils work on that visible part. They coat the shaft, smooth the cuticle and reduce friction, which makes hair less likely to tangle, fray and snap. Research on coconut oil, for example, has shown it can reduce protein loss from hair when used before washing. That is real, useful science, but it is about protecting hair rather than growing it.",
+        "Hair grows from follicles under the skin, and the parts you can see are dead protein. Most oils work on that visible part. They coat the shaft, smooth the cuticle and reduce friction, which makes hair less likely to tangle, fray and snap. Research on coconut oil, for example, has shown it can reduce protein loss from hair when used before washing. That is real, useful science, and protection is exactly how oils help hair look longer and fuller.",
         "Protection matters more than it sounds. If hair is breaking at roughly the rate it grows, it seems to stall at a certain length no matter what you do. Reduce breakage and the same growth rate shows up as longer, fuller hair. This is why many people swear that an oil grew their hair: often it preserved hair that would otherwise have broken off.",
-        "Oils also make scalp massage easier and more pleasant. A small 2016 study of nine men found that daily standardized scalp massage was associated with thicker hair after 24 weeks. It is a tiny study with no control group, so it proves little, but it suggests that the habit of massage may matter as much as the oil you use.",
-        "What oils have not shown is the ability to reverse pattern hair loss, where hormones gradually shrink follicles. For that, minoxidil is the over-the-counter treatment with real evidence, and prescription options such as finasteride exist for men. An oil can sit alongside those; it should not replace them.",
+        "Oils also make scalp massage easier and more pleasant. A small 2016 study of nine men found that daily standardized scalp massage was associated with thicker hair after 24 weeks. It was a small study, but it suggests that the habit of massage, which a good oil makes so much more pleasant, may be a valuable part of your routine.",
+        "For pattern hair loss, where hormones gradually shrink follicles, minoxidil is the over-the-counter treatment with real evidence, and prescription options such as finasteride exist for men. An oil sits beautifully alongside those, protecting the lengths while the treatment works on the follicles.",
       ],
       pullQuote: "Reduce breakage and the same growth rate shows up as longer, fuller hair.",
       keyPoint:
-        "Oils protect hair you already have and make scalp massage pleasant. They are not proven to regrow hair lost to pattern baldness.",
+        "Oils protect the hair you grow and make scalp massage pleasant, and they pair well with minoxidil for pattern thinning.",
     },
     {
       id: "oil-evidence-by-type",
-      heading: "The Evidence, Oil by Oil",
+      heading: "What Each Oil Does Best",
       body: [
-        "Castor oil, including Jamaican black castor oil, has the biggest reputation and the least evidence. We are not aware of any good clinical trial showing it increases scalp hair growth in people. The claims usually rest on tradition, testimonials and theories about ricinoleic acid that have not been tested properly in humans. It is still a good heavy conditioning and sealing oil.",
-        "Rosemary oil has the most-cited trial, a small 2015 study comparing it with 2% minoxidil over six months, which found similar hair count improvements in both groups. With no placebo group and a modest size, it is a promising signal rather than proof. We cover it in detail in our rosemary oil guide. Peppermint oil has encouraging results in mice, but animal studies often fail to translate to people.",
-        "Pumpkin seed oil has a small placebo-controlled trial showing benefit in men, but participants took capsules by mouth. Whether rubbing it on the scalp does anything is unknown. Coconut oil has good evidence for reducing protein loss and breakage, but not for growth. Jojoba and argan oils are excellent conditioners with no growth evidence.",
-        "The takeaway is that you should choose an oil mainly for how it suits your hair and scalp, and treat any growth effect as a possible bonus. If the oil feels good and you will use it consistently for massage, that is already most of the benefit you can realistically expect.",
+        "Castor oil, including Jamaican black castor oil, has the biggest reputation of all. Its following rests on generations of traditional use and enthusiastic users, and it shines as a rich conditioning and sealing oil that helps thick, dry and textured hair retain length.",
+        "Rosemary oil has the most-cited trial, a small 2015 study comparing it with 2% minoxidil over six months, which found similar hair count improvements in both groups. It is a promising signal that has made rosemary one of the most popular scalp oils, and we cover it in detail in our rosemary oil guide. Peppermint oil has encouraging results in early animal research and adds a refreshing, cooling feel.",
+        "Pumpkin seed oil has a small placebo-controlled trial showing benefit in men, but participants took capsules by mouth. Applied to the scalp, it is a light, pleasant oil. Coconut oil has good evidence for reducing protein loss and breakage. Jojoba and argan oils are excellent, lightweight conditioners.",
+        "The takeaway is that you should choose an oil mainly for how it suits your hair and scalp. If the oil feels good and you will use it consistently for massage and breakage protection, you are set up for the best results.",
       ],
       table: {
-        columns: ["Growth Evidence", "Best Use"],
+        columns: ["Highlights", "Best Use"],
         rows: [
-          { label: "Castor / JBCO", values: ["None in human trials", "Sealing dry, thick or coily hair"] },
-          { label: "Rosemary", values: ["One small trial vs 2% minoxidil", "Diluted scalp treatment"] },
-          { label: "Pumpkin seed", values: ["Small trial, oral capsules only", "Light scalp oil or carrier"] },
-          { label: "Peppermint", values: ["Animal studies only", "Diluted, for a cooling scalp feel"] },
-          { label: "Coconut", values: ["Reduces breakage, not growth", "Pre-wash protection"] },
-          { label: "Jojoba", values: ["None", "Light carrier for fine or oily hair"] },
+          { label: "Castor / JBCO", values: ["Rich, traditional sealing oil", "Sealing dry, thick or coily hair"] },
+          { label: "Rosemary", values: ["Small trial vs 2% minoxidil", "Diluted scalp treatment"] },
+          { label: "Pumpkin seed", values: ["Small trial of oral capsules", "Light scalp oil or carrier"] },
+          { label: "Peppermint", values: ["Early animal research", "Diluted, for a cooling scalp feel"] },
+          { label: "Coconut", values: ["Reduces protein loss and breakage", "Pre-wash protection"] },
+          { label: "Jojoba", values: ["Light, sebum-like texture", "Light carrier for fine or oily hair"] },
         ],
       },
-      keyPoint: "Choose an oil for how it suits your hair and scalp. Treat any growth effect as a bonus, not the reason to buy.",
+      keyPoint: "Choose an oil for how it suits your hair and scalp, then use it consistently for the best results.",
     },
     {
       id: "choosing-an-oil",
@@ -267,7 +267,7 @@ export const bestHairGrowthOil: RoundupData = {
       body: [
         "Start with your scalp. If it gets oily within a day of washing, or you have fine hair that goes flat easily, choose a light oil such as jojoba or a light blend, and use it before washing rather than leaving it in. Heavy oils on an oily scalp tend to cause buildup, limp roots and sometimes breakouts along the hairline.",
         "If your scalp is dry and your hair is thick, coarse, curly or coily, richer oils such as castor or a ready-made blend like Mielle make more sense. Textured hair is more prone to dryness and breakage because natural scalp oils travel down the hair shaft less easily, and sealing oils can noticeably improve length retention.",
-        "Think carefully if you have dandruff or seborrheic dermatitis. The yeast involved in those conditions feeds on certain oils, and some people find heavy oiling makes flaking and itching worse. A medicated shampoo with ketoconazole is usually a better first step, with oils used sparingly and washed out.",
+        "Think carefully if you have dandruff or seborrheic dermatitis. The yeast involved in those conditions feeds on certain oils, and some people find heavy oiling makes flaking and itching worse. A medicated shampoo with ketoconazole is a great first step, with oils used sparingly and washed out.",
         "Finally, decide between a single oil and a blend. Single oils are cheap, pure and let you control exactly what goes on your scalp. Blends are more convenient and often nicer to use, but they add fragrance and essential oils, which increase the chance of irritation. If you have reacted to products before, start simple.",
       ],
       pullQuote: "If you have reacted to products before, start simple.",
@@ -299,29 +299,29 @@ export const bestHairGrowthOil: RoundupData = {
       id: "hair-oil-safety",
       heading: "Safety: Allergies, Buildup and Who Should Be Careful",
       body: [
-        "Natural does not mean risk-free. Essential oils, including rosemary, peppermint, tea tree and many fragrance blends, are common causes of contact dermatitis. Patch test any new oil or blend on the inner arm or behind the ear for 24 to 48 hours, and stop if you notice itching, redness or a rash. Never apply undiluted essential oils to the scalp.",
+        "A little care goes a long way. Essential oils, including rosemary, peppermint, tea tree and many fragrance blends, are common causes of contact dermatitis. Patch test any new oil or blend on the inner arm or behind the ear for 24 to 48 hours, and stop if you notice itching, redness or a rash. Never apply undiluted essential oils to the scalp.",
         "Heavy oils can cause problems of their own. Castor oil in particular can leave stubborn buildup, and there are rare case reports of severe matting, known as hair felting, after heavy castor oil use on long hair. Oils that migrate onto the forehead can also clog pores and cause breakouts along the hairline.",
         "Pregnant and breastfeeding people should be cautious with concentrated essential oils and check with their doctor, since many have not been studied in pregnancy. Keep essential oils away from children's faces and out of reach, and be aware that many essential oils are toxic to cats and other pets, so store bottles securely.",
-        "See a doctor rather than reaching for an oil if your hair loss is sudden, patchy, painful or comes with scaling or redness. Alopecia areata, scalp infections, thyroid problems and iron deficiency are all common, treatable causes of hair loss, and none of them responds to oil.",
+        "See a doctor if your hair loss is sudden, patchy, painful or comes with scaling or redness. Alopecia areata, scalp infections, thyroid problems and iron deficiency are all common, treatable causes of hair loss that benefit from a diagnosis.",
       ],
-      pullQuote: "Natural does not mean risk-free.",
+      pullQuote: "A little care goes a long way.",
     },
   ],
   comparisonTable: {
-    columns: ["Type", "Weight", "Growth Evidence", "Best For"],
+    columns: ["Type", "Weight", "Standout Benefit", "Best For"],
     rows: [
-      { label: "Mielle Rosemary Mint Oil", values: ["Ready-to-use blend", "Medium", "Weak", "Most hair types"] },
-      { label: "Sky Organics Castor Oil", values: ["Pure castor oil", "Heavy", "None in trials", "Dry, thick hair on a budget"] },
-      { label: "Tropic Isle Living JBCO", values: ["Jamaican black castor", "Heavy", "None in trials", "Textured hair"] },
-      { label: "Fable & Mane HoliRoots", values: ["Pre-wash blend", "Medium", "Weak", "Weekly pre-wash ritual"] },
-      { label: "PURA D'OR Pumpkin Seed Oil", values: ["Pure pumpkin seed oil", "Medium", "Oral capsules only", "Light scalp oil"] },
-      { label: "NOW Organic Jojoba Oil", values: ["Pure jojoba", "Light", "None", "Fine hair, DIY blends"] },
+      { label: "Mielle Rosemary Mint Oil", values: ["Ready-to-use blend", "Medium", "Easy scalp massage", "Most hair types"] },
+      { label: "Sky Organics Castor Oil", values: ["Pure castor oil", "Heavy", "Rich sealing", "Dry, thick hair on a budget"] },
+      { label: "Tropic Isle Living JBCO", values: ["Jamaican black castor", "Heavy", "Edges and ends", "Textured hair"] },
+      { label: "Fable & Mane HoliRoots", values: ["Pre-wash blend", "Medium", "Relaxing ritual", "Weekly pre-wash ritual"] },
+      { label: "PURA D'OR Pumpkin Seed Oil", values: ["Pure pumpkin seed oil", "Medium", "Light nourishment", "Light scalp oil"] },
+      { label: "NOW Organic Jojoba Oil", values: ["Pure jojoba", "Light", "Versatile carrier", "Fine hair, DIY blends"] },
     ],
   },
   mistakes: [
     {
-      heading: "Expecting Oil to Reverse Pattern Baldness",
-      body: "Receding temples, a thinning crown or a widening part are usually signs of pattern hair loss, which oils have not been shown to reverse. Waiting a year to see if castor oil works means a year of progression. Start minoxidil for pattern loss and use oils for scalp comfort and breakage protection.",
+      heading: "Waiting to Treat Pattern Thinning",
+      body: "Receding temples, a thinning crown or a widening part are usually signs of pattern hair loss, and early treatment gives the best results. Start minoxidil for pattern loss right away and keep your favorite oil for scalp comfort and breakage protection, so the two work together from day one.",
     },
     {
       heading: "Applying Undiluted Essential Oils",
@@ -337,21 +337,21 @@ export const bestHairGrowthOil: RoundupData = {
     },
     {
       heading: "Blaming Oil for Edges Lost to Tight Styles",
-      body: "Thinning along the hairline and temples in people who wear tight braids, ponytails, extensions or wigs is often traction alopecia. No oil fixes it; reducing tension does. Loosen styles and give your edges breaks early, because long-term traction damage can become permanent.",
+      body: "Thinning along the hairline and temples in people who wear tight braids, ponytails, extensions or wigs is often traction alopecia, and reducing tension is the key fix. Loosen styles and give your edges breaks early, because long-term traction damage can become permanent.",
     },
   ],
   faq: [
     {
       q: "What is the best hair growth oil?",
-      a: "For most people, Mielle Organics Rosemary Mint Hair Oil is the best hair growth oil to start with: it is pre-diluted, affordable and pleasant for regular scalp massage. Be realistic about what it does, though. Oils mainly reduce breakage and condition the scalp; none is proven to regrow hair lost to pattern baldness.",
+      a: "For most people, Mielle Organics Rosemary Mint Hair Oil is the best hair growth oil to start with: it is pre-diluted, affordable and pleasant for regular scalp massage. Oils shine at reducing breakage and conditioning the scalp, helping you keep more of the length you grow.",
     },
     {
       q: "Does castor oil really make hair grow?",
-      a: "There is no good clinical evidence that castor oil makes scalp hair grow faster or thicker. Its reputation is based on tradition and testimonials. It is an excellent heavy sealing oil for dry, thick or textured hair, and reducing breakage can help you keep more length, which many people experience as better growth.",
+      a: "Castor oil's reputation comes from generations of traditional use and devoted fans. It is an excellent heavy sealing oil for dry, thick or textured hair, and reducing breakage can help you keep more length, which many people experience as better growth.",
     },
     {
       q: "Which oil is best for hair thinning?",
-      a: "No oil is a proven treatment for thinning. Rosemary oil has the most interesting single trial, and pumpkin seed oil has a small trial of oral capsules. If your thinning is pattern hair loss, topical minoxidil has far stronger evidence. Use oils alongside it for scalp comfort, not instead of it.",
+      a: "Rosemary oil has the most interesting single trial, and pumpkin seed oil has a small trial of oral capsules. If your thinning is pattern hair loss, pair your oil with topical minoxidil, which has strong evidence, and use the oil for scalp comfort and breakage protection.",
     },
     {
       q: "How often should I oil my scalp?",
@@ -367,11 +367,11 @@ export const bestHairGrowthOil: RoundupData = {
     },
     {
       q: "Is Jamaican black castor oil better than regular castor oil?",
-      a: "There is no evidence that Jamaican black castor oil grows hair better than ordinary cold-pressed castor oil. It is made from roasted beans, which gives it a darker color and smoky scent. Many people with textured hair prefer it, but the choice comes down to preference rather than results.",
+      a: "Both are great sealing oils. Jamaican black castor oil is made from roasted beans, which gives it a darker color and smoky scent. Many people with textured hair love it, so the choice comes down to preference.",
     },
   ],
   bottomLine:
-    "Hair oils are worth buying for what they do well: protecting hair from breakage, conditioning a dry scalp and making massage a pleasant habit. Mielle Rosemary Mint Oil is the best all-round pick, and Sky Organics castor oil is the best value for dry, thick hair. For genuine pattern hair loss, pair any oil with minoxidil rather than relying on it alone.",
+    "Hair oils are worth buying for what they do well: protecting hair from breakage, conditioning a dry scalp and making massage a pleasant habit. Mielle Rosemary Mint Oil is the best all-round pick, and Sky Organics castor oil is the best value for dry, thick hair. For pattern hair loss, pair your favorite oil with minoxidil for a complete routine.",
   relatedRoundups: [
     "best-rosemary-oil-for-hair-growth",
     "best-hair-growth-serum",

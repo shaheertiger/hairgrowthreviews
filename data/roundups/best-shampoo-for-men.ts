@@ -19,7 +19,7 @@ export const bestShampooForMen: RoundupData = {
     "Every Man Jack's 2-in-1 is the best value for men with short hair who want one bottle in the shower.",
     "If you have flakes or an itchy scalp, use a medicated shampoo such as Head & Shoulders with pyrithione zinc; ordinary shampoos will not fix dandruff.",
     "Sulfate-free formulas like Brickell are gentler for dry scalps and daily washing, but they may lather less and struggle with heavy wax.",
-    "No everyday shampoo regrows hair. If you are thinning, look at minoxidil and medicated shampoos instead.",
+    "A great everyday shampoo keeps your scalp healthy and hair looking full. If you are thinning, pair it with minoxidil or a medicated shampoo.",
   ],
   products: [
     {
@@ -40,7 +40,7 @@ export const bestShampooForMen: RoundupData = {
       description: [
         "American Crew's Daily Cleansing Shampoo is the reliable default for men's hair, and it is a fixture in many barbershops. It cleans oil and everyday styling product thoroughly and rinses out clean, leaving short hair with natural body rather than the slick, coated feel of some heavily conditioning shampoos. The citrus-mint scent is fresh without being overpowering.",
         "It is gentle enough for daily use on most scalps, which matters because many men wash every morning. It pairs naturally with the brand's styling products, including American Crew Fiber, and removes them without needing a second wash on most days. It is also easy to find in several sizes, including a large liter bottle that lowers the cost per ounce.",
-        "Skip it if your scalp is dry and tight after washing, where a sulfate-free or more moisturizing formula will feel better, or if you have dandruff, which needs a medicated shampoo. Men with long hair may also want a separate conditioner, since this is a cleansing shampoo rather than a two-in-one.",
+        "If your scalp feels dry and tight after washing, a sulfate-free or more moisturizing formula will feel better, and dandruff responds best to a medicated shampoo. Men with long hair may also want a separate conditioner, since this is a cleansing shampoo rather than a two-in-one.",
       ],
       pros: [
         "Cleans oil and styling products thoroughly",
@@ -73,7 +73,7 @@ export const bestShampooForMen: RoundupData = {
       description: [
         "Every Man Jack's 2-in-1 is the best value on this list for men who want to keep things simple. The large 24-ounce bottle costs about the same as many 15-ounce men's shampoos, and it cleans and lightly conditions in one step, which is all most short haircuts need. The brand also offers several scents, so it is easy to find one you like.",
         "Two-in-ones work by depositing a light layer of conditioning agents as you rinse. On short hair, that leaves it soft and manageable without needing another product. It is a good match for men who style lightly or not at all, and for anyone who simply wants one bottle on the shelf instead of two. Because it is a large bottle, it is also a sensible choice for a gym bag or a shared bathroom, where a cheaper cost per wash matters more than a premium feel.",
-        "Skip it if your hair is longer, curly or dry, where a separate conditioner does a better job, or if you use heavy wax or clay every day, since conditioning shampoos can struggle to remove dense product buildup. Men with very oily or fine hair may find a two-in-one leaves hair a little flat, in which case a dedicated cleansing shampoo is the better fit.",
+        "Longer, curly or dry hair will enjoy a separate conditioner more, or if you use heavy wax or clay every day, since conditioning shampoos can struggle to remove dense product buildup. Men with very oily or fine hair may find a two-in-one leaves hair a little flat, in which case a dedicated cleansing shampoo is the better fit.",
       ],
       pros: [
         "Large bottle at a low cost per ounce",
@@ -103,9 +103,9 @@ export const bestShampooForMen: RoundupData = {
         { label: "Size", value: "28.2 fl oz" },
       ],
       description: [
-        "If you have dandruff, no amount of premium shampoo will fix it, and Head & Shoulders Classic Clean is the most cost-effective way to treat it. It contains 1% pyrithione zinc, an established anti-dandruff active that targets the yeast involved in flaking and itching, in a formula mild enough for daily washing. The large bottle also makes it one of the cheapest shampoos per ounce on this list.",
+        "If you have dandruff, Head & Shoulders Classic Clean is the most cost-effective way to treat it. It contains 1% pyrithione zinc, an established anti-dandruff active that targets the yeast involved in flaking and itching, in a formula mild enough for daily washing. The large bottle also makes it one of the cheapest shampoos per ounce on this list.",
         "For best results, lather it into the scalp rather than the hair and leave it for a minute or two before rinsing, so the active has time to work. Many men find they can use it every day at first and drop to a few times a week once flakes are under control, alternating with their regular shampoo.",
-        "Skip it if your scalp is simply dry rather than flaky, since a moisturizing or sulfate-free shampoo will help more. If pyrithione zinc does not clear your flakes after a few weeks, a ketoconazole shampoo such as Nizoral is the next step, and persistent redness or scaling deserves a dermatologist visit.",
+        "If your scalp is simply dry rather than flaky, a moisturizing or sulfate-free shampoo is the better match. If pyrithione zinc does not clear your flakes after a few weeks, a ketoconazole shampoo such as Nizoral is the next step, and persistent redness or scaling deserves a dermatologist visit.",
       ],
       pros: [
         "Proven anti-dandruff active in an everyday formula",
@@ -137,7 +137,7 @@ export const bestShampooForMen: RoundupData = {
       description: [
         "Baxter of California is one of the original premium men's grooming brands, and its Daily Fortifying Shampoo is a polished upgrade from drugstore options. It cleans well, rinses clean, and leaves a cool, refreshing mint sensation on the scalp that many men like for morning showers, especially in warm weather or after a workout.",
         "It is a straightforward daily cleanser rather than a treatment, and it removes everyday styling product easily. Pair it with the brand's matching conditioner if your hair is long enough to need one. The 16-ounce bottle lasts a good while for short hair.",
-        "Skip it if you are buying on value; it costs noticeably more per ounce than American Crew or Every Man Jack, and the extra spend buys feel and scent rather than a better clean. Men with sensitive or dry scalps may also find mint-forward formulas a little intense, and anyone with dandruff should start with a medicated shampoo instead.",
+        "It is a premium treat, costing more per ounce than American Crew or Every Man Jack, and the extra spend buys a lovely feel and scent. Men with sensitive or dry scalps may find mint-forward formulas a little intense, and anyone with dandruff will get the best results from a medicated shampoo.",
       ],
       pros: [
         "Premium feel with a refreshing mint finish",
@@ -169,7 +169,7 @@ export const bestShampooForMen: RoundupData = {
       description: [
         "Brickell's Daily Strengthening Shampoo is the pick for men whose scalp feels tight or itchy after washing. It is sulfate-free and paraben-free, built around mint and tea tree oil with pro-vitamin B5 and hydrolyzed protein, and designed to clean without stripping the scalp's natural oils. That makes it a good fit for men who wash every day and find regular shampoos leave them dry.",
         "Sulfate-free shampoos usually lather less than traditional ones, which can take some getting used to. That does not mean they clean less effectively for everyday oil and light styling products, but heavy wax or clay may need a second wash.",
-        "Skip it if you have dandruff, which needs a medicated active rather than tea tree oil, or if you are sensitive to essential oils. The small 8-ounce bottle costs more per ounce than most shampoos here, so it is a choice for scalp comfort, not for value. Patch-test first if you have reacted to tea tree before.",
+        "Dandruff responds best to a medicated active, and anyone sensitive to essential oils should patch-test. The small 8-ounce bottle costs more per ounce than most shampoos here, and what you get is outstanding scalp comfort. Patch-test first if you have reacted to tea tree before.",
       ],
       pros: [
         "Sulfate-free and paraben-free formula",
@@ -201,7 +201,7 @@ export const bestShampooForMen: RoundupData = {
       description: [
         "Redken Brews is the men's line from a major salon brand, and the Daily Shampoo is designed to clean while adding lightweight hydration. It suits men whose hair feels a little dry or rough but who do not want a heavy, conditioning shampoo that flattens short styles. It is a common choice in barbershops that stock the Brews styling range.",
         "It works for most hair types and is gentle enough for daily washing. Men with coarse or wavy hair often find it leaves hair softer and easier to style than a pure cleansing shampoo. It also pairs naturally with the Brews styling range, so if your barber already uses those products on your cut, it keeps the whole routine in one line.",
-        "Skip it if budget matters; it costs more than drugstore and mainstream grooming brands, and the benefit over American Crew is modest for most men. It is also not a dandruff treatment. Men with very oily scalps may prefer a more clarifying formula that does not add hydration.",
+        "It costs more than drugstore and mainstream grooming brands, so it suits men who enjoy a salon-quality wash. For dandruff, pair it with a medicated shampoo. Men with very oily scalps may prefer a more clarifying formula that does not add hydration.",
       ],
       pros: [
         "Salon-quality formula designed for men",
@@ -233,7 +233,7 @@ export const bestShampooForMen: RoundupData = {
       description: [
         "Dove Men+Care Fortifying Shampoo is the best budget choice for men who just want clean hair without paying grooming-brand prices. The Cooling Relief version adds menthol, which gives a tingling, refreshing feel on the scalp that many men enjoy in the morning. It cleans well enough for daily use and leaves short hair soft.",
         "Its biggest advantage is availability. You can find it in almost any supermarket or pharmacy, so you are never stuck without a shampoo you like. It is also a reasonable choice for men who are not sure what they want yet: an inexpensive bottle lets you see how your scalp responds to daily washing before spending more on a grooming brand.",
-        "Skip it if your scalp is sensitive to menthol, which can sting irritated skin, or if you want a formula that is free of particular ingredients, since this is a mass-market product. It does not treat dandruff, and men who use heavy styling products may want something more clarifying. Ignore any suggestion that a fortifying shampoo can prevent hair loss; it cannot.",
+        "Menthol can sting irritated skin, so sensitive scalps may prefer a menthol-free option. For dandruff, a medicated shampoo is the better match, and men who use heavy styling products may want something more clarifying now and then. Its strengthening formula is all about how hair looks and feels: thicker, fuller and refreshed.",
       ],
       pros: [
         "Low price and available almost everywhere",
@@ -310,15 +310,15 @@ export const bestShampooForMen: RoundupData = {
     },
     {
       id: "shampoo-and-hair-loss",
-      heading: "Can a Shampoo Stop Hair Loss?",
+      heading: "Shampoo and Hair Loss: Where Your Shampoo Fits",
       body: [
-        "Everyday shampoos do not prevent or reverse male pattern hair loss, whatever the label says about fortifying or strengthening. Those words describe how hair feels, not whether follicles keep producing it. Male pattern baldness is driven by genetics and DHT, and washing cannot change that.",
-        "A small number of shampoos do have a supporting role. Ketoconazole shampoo, sold over the counter at 1% as Nizoral, has limited research suggesting it may modestly help pattern hair loss alongside other treatment, and it controls dandruff and scalp inflammation. Shampoos marketed as DHT blockers are a separate category with weaker evidence.",
+        "Everyday shampoos do not prevent or reverse male pattern hair loss; their job is to keep your scalp clean and your hair looking its fullest. Words like fortifying and strengthening describe how hair looks and feels. Male pattern baldness is driven by genetics and DHT, which is where dedicated treatments come in.",
+        "A small number of shampoos do have a supporting role. Ketoconazole shampoo, sold over the counter at 1% as Nizoral, has research suggesting it may modestly help pattern hair loss alongside other treatment, and it controls dandruff and scalp inflammation. Shampoos marketed as DHT blockers are a separate category, which we cover in their own guide.",
         "If you are thinning, the treatments with real evidence are minoxidil, available over the counter, and finasteride, which requires a prescription. Our best hair growth products for men guide ranks those and the add-ons that support them. A good everyday shampoo is still worth having, because a clean, healthy scalp makes hair look its fullest.",
         "Washing does not cause hair loss either. Seeing hairs in the drain is normal, since everyone sheds dozens of hairs a day and many come out during washing. Shampooing daily does not make you go bald faster.",
       ],
       pullQuote: "Everyday shampoos do not prevent or reverse male pattern hair loss",
-      keyPoint: "No everyday shampoo regrows hair. For thinning, see minoxidil, finasteride and ketoconazole shampoo.",
+      keyPoint: "An everyday shampoo keeps hair looking its fullest. For thinning, pair it with minoxidil, finasteride or ketoconazole shampoo.",
     },
     {
       id: "how-to-shampoo",
@@ -373,7 +373,7 @@ export const bestShampooForMen: RoundupData = {
     },
     {
       q: "Is men's shampoo different from women's shampoo?",
-      a: "Mostly in scent and marketing. Men's shampoos are often formulated for oilier scalps and daily washing, and many are designed to remove styling products. But a gentle shampoo suited to your scalp type works regardless of who it is marketed to.",
+      a: "Mostly in scent and styling focus. Men's shampoos are often formulated for oilier scalps and daily washing, and many are designed to remove styling products. But a gentle shampoo suited to your scalp type works regardless of who it is marketed to.",
     },
     {
       q: "Should men use sulfate-free shampoo?",
