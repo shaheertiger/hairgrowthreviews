@@ -3,6 +3,7 @@ import { staticPages } from "@/lib/pages";
 import { markdownMeta } from "@/lib/md/meta";
 import Link from "next/link";
 import { reviews } from "@/data/reviews";
+import ProductThumb from "@/components/roundup/ProductThumb";
 import RatingBadge from "@/components/ui/RatingBadge";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import { reviewHref } from "@/lib/links";
@@ -91,9 +92,14 @@ export default function ReviewsIndexPage() {
             href={reviewHref(r.slug)}
             className="rounded-xl border border-border-subtle bg-surface p-5 transition-shadow hover:shadow-md"
           >
-            <p className="text-xs font-bold uppercase tracking-wide text-brand-600">{r.category}</p>
-            <p className="mt-1 text-lg font-bold text-stone-900">{r.productName}</p>
-            <p className="mt-1 text-sm text-stone-500">{r.verdictLabel}</p>
+            <div className="flex items-start gap-3">
+              <div className="min-w-0 flex-1">
+                <p className="text-xs font-bold uppercase tracking-wide text-brand-600">{r.category}</p>
+                <p className="mt-1 text-lg font-bold text-stone-900">{r.productName}</p>
+                <p className="mt-1 text-sm text-stone-500">{r.verdictLabel}</p>
+              </div>
+              <ProductThumb asin={r.asin} alt={r.productName} size={56} />
+            </div>
             <div className="mt-3">
               <RatingBadge rating={r.rating} reviewCount={r.reviewCount} size="sm" />
             </div>

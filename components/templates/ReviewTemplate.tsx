@@ -13,6 +13,7 @@ import FAQAccordion from "@/components/ui/FAQAccordion";
 import BottomLineBox from "@/components/ui/BottomLineBox";
 import QuickAnswer from "@/components/ui/QuickAnswer";
 import CTAButton from "@/components/ui/CTAButton";
+import ProductThumb from "@/components/roundup/ProductThumb";
 import { amazonProductLink, withAmazonTag } from "@/lib/affiliate";
 import CalloutBox from "@/components/ui/CalloutBox";
 import RelatedReviews from "@/components/RelatedReviews";
@@ -106,8 +107,11 @@ export default function ReviewTemplate({ data }: { data: ReviewData }) {
                   ))}
                 </div>
               )}
-              <div className="border-t border-border-subtle p-4">
-                <CTAButton href={buyLink(data)} label={`Check Price for ${data.productName} →`} />
+              <div className="flex items-center gap-4 border-t border-border-subtle p-4">
+                <ProductThumb asin={data.asin} alt={data.productName} size={80} />
+                <div className="min-w-0 flex-1">
+                  <CTAButton href={buyLink(data)} label={`Check Price for ${data.productName} →`} />
+                </div>
               </div>
             </div>
 

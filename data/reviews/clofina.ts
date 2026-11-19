@@ -46,7 +46,7 @@ export const clofina: ReviewData = {
     "Lightweight leave-on ampoule format that's easy to use daily without weighing hair down",
     "Plant-based (vegan) PDRN rather than salmon-derived, which suits people who avoid animal-derived ingredients",
     "Can sit alongside minoxidil in a routine as a scalp-comfort step, since it contains no drug actives",
-    "Sold on Amazon (ASIN B0FZTTJKQJ), so you can buy under Amazon's familiar return process instead of the brand's",
+    "Has been sold on Amazon, so when a listing is live you can buy under Amazon's familiar return process instead of the brand's",
   ],
   cons: [
     "No published clinical trial of any Clofina product; the regrowth timeline and \"root cause\" claims go well beyond the evidence",
@@ -185,7 +185,7 @@ export const clofina: ReviewData = {
       body: [
         "When you search for Clofina reviews, the first star ratings you'll likely see are the brand's own. Those figures don't line up with each other. The Cooling Hair Growth Accelerator is shown as 4.7 stars from 8,258 reviews on one page and 4.9 stars from \"10,000+ customers\" on another, and the Hair Revival Ampoule is also shown at 4.9 from \"10,000+.\" Because those numbers are brand-hosted and inconsistent, we don't use them, and we haven't put a review count on this page.",
         "The guarantee has the same problem. One page promises \"healthier, fuller-looking hair in 90 days — or your money back,\" another describes a 60-day guarantee, and a third says 30 days. Those are very different windows for a product that needs at least a few months to judge fairly. Before you buy direct, confirm which guarantee applies at checkout, screenshot it, and keep your order confirmation.",
-        "If you'd rather not deal with a brand's own refund process, buying through Amazon is the simplest option. The Amazon listing (ASIN B0FZTTJKQJ) puts your purchase under Amazon's return process, which many shoppers find more predictable than a direct-to-consumer brand's terms.",
+        "If you'd rather not deal with a brand's own refund process, buying through Amazon is the simplest option. Amazon listings come and go, so search for Clofina there first; buying through Amazon puts your purchase under Amazon's return process, which many shoppers find more predictable than a direct-to-consumer brand's terms.",
       ],
       pullQuote:
         "Before you buy direct, confirm which guarantee applies at checkout, screenshot it, and keep your order confirmation.",
@@ -303,8 +303,7 @@ export const clofina: ReviewData = {
     "Conflicting terms: 90 days on one brand page, 60 days on another and 30 days on a third. Confirm which applies at checkout, or buy via Amazon to use Amazon's return process.",
   safetyNote:
     "Patch-test on a small area of skin for 24–48 hours before applying Clofina across your scalp. Menthol or peppermint ingredients (as in the Cooling Hair Growth Accelerator) may sting sensitive scalps. Stop using it if you notice redness, burning, itching or a rash. If your hair loss is sudden, patchy or comes with scalp pain or scaling, see a doctor or dermatologist rather than relying on a cosmetic serum.",
-  affiliateUrl: "https://www.amazon.com/dp/B0FZTTJKQJ",
-  asin: "B0FZTTJKQJ",
+  affiliateUrl: "https://www.amazon.com/s?k=clofina+pdrn+hair+ampoule",
   relatedSlugs: [
     "biotopic-premium-hair-regrowth-serum",
     "murad-hair-growth-scalp-serum",
