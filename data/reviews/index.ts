@@ -21,6 +21,7 @@ import { clofina } from "./clofina";
 import { tangl } from "./tangl";
 import { vegamour } from "./vegamour";
 import { divi } from "./divi";
+import { nutrafol } from "./nutrafol";
 
 export const reviews = [
   biotopic,
@@ -46,4 +47,5 @@ export const reviews = [
   tangl,
   vegamour,
   divi,
+  nutrafol,
 ];
