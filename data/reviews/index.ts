@@ -20,6 +20,7 @@ import { basisHairRegrowthSystem } from "./basis-hair-regrowth-system";
 import { clofina } from "./clofina";
 import { tangl } from "./tangl";
 import { vegamour } from "./vegamour";
+import { divi } from "./divi";
 
 export const reviews = [
   biotopic,
@@ -44,4 +45,5 @@ export const reviews = [
   clofina,
   tangl,
   vegamour,
+  divi,
 ];
