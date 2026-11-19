@@ -40,6 +40,10 @@ import { batanaOilVsRosemaryOil } from "./batana-oil-vs-rosemary-oil";
 import { howToTellIfBatanaOilIsReal } from "./how-to-tell-if-batana-oil-is-real";
 import { howToUseBatanaOilForHairGrowth } from "./how-to-use-batana-oil-for-hair-growth";
 import { pumpkinSeedOilVsSawPalmetto } from "./pumpkin-seed-oil-vs-saw-palmetto";
+import { nizoralVsHeadAndShoulders } from "./nizoral-vs-head-and-shoulders";
+import { minoxidilFoamVsLiquid } from "./minoxidil-foam-vs-liquid";
+import { hairLossTreatmentsSafeWhileBreastfeeding } from "./hair-loss-treatments-safe-while-breastfeeding";
+import { canYouRegrowHairAfter60 } from "./can-you-regrow-hair-after-60";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -81,4 +85,8 @@ export const questions: QuestionData[] = [
   howToTellIfBatanaOilIsReal,
   howToUseBatanaOilForHairGrowth,
   pumpkinSeedOilVsSawPalmetto,
+  nizoralVsHeadAndShoulders,
+  minoxidilFoamVsLiquid,
+  hairLossTreatmentsSafeWhileBreastfeeding,
+  canYouRegrowHairAfter60,
 ];
