@@ -32,7 +32,7 @@ export function reviewDoc(data: ReviewData): MdDoc {
       `${esc(data.category)} · ${esc(data.verdictLabel)}`,
       esc(data.dek),
       !!data.quickAnswer && `**Quick answer:** ${esc(data.quickAnswer)}`,
-      `**Rating:** ${data.rating.toFixed(1)}/5 (${data.reviewCount.toLocaleString("en-US")} reviews)  \n${esc(data.ratingBasis)}`,
+      `**Rating:** ${data.rating.toFixed(1)}/5${data.reviewCount !== undefined ? ` (${data.reviewCount.toLocaleString("en-US")} reviews)` : ""}  \n${esc(data.ratingBasis)}`,
       a.byline(data.updatedDate),
       a.takeaways(data.keyTakeaways),
       `${h(2, "At a Glance")}\n\n${table(["Fact", "Detail"], facts)}\n\n${link(`Check Price for ${data.productName}`, buyLink(data))}`,

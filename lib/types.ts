@@ -51,7 +51,8 @@ export interface ReviewData {
    *  block AI Overviews and featured snippets lift). Must name the subject. */
   quickAnswer?: string;
   rating: number;
-  reviewCount: number;
+  /** Estimated third-party review volume; omit when no trustworthy count exists. */
+  reviewCount?: number;
   ratingBasis: string;
   price: string;
   priceNote?: string;
