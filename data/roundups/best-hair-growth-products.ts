@@ -4,7 +4,7 @@ export const bestHairGrowthProducts: RoundupData = {
   slug: "best-hair-growth-products",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Growth Products",
-  metaTitle: "Best Hair Growth Products (2026): 10 Picks Ranked on Evidence",
+  metaTitle: "Best Hair Growth Products (2026): 10 Reviewed & Ranked on Evidence",
   metaDescription:
     "The best hair growth products in every category, ranked on evidence: minoxidil, ketoconazole shampoo, laser caps, supplements, serums, oils, rollers and fibers.",
   h1: "The Best Hair Growth Products, One Top Pick per Category and Ranked by Evidence",

@@ -13,7 +13,8 @@ import { reviewHref } from "@/lib/links";
 const page = staticPages.home;
 
 export const metadata: Metadata = {
-  title: page.title,
+  // absolute: the title already names the site, so skip the layout's "| HairGrowthReviews" suffix.
+  title: { absolute: page.title },
   description: page.description,
   ...markdownMeta(page.path, page.aiSummary),
 };
