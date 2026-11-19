@@ -39,6 +39,7 @@ import { batanaOilVsCastorOil } from "./batana-oil-vs-castor-oil";
 import { batanaOilVsRosemaryOil } from "./batana-oil-vs-rosemary-oil";
 import { howToTellIfBatanaOilIsReal } from "./how-to-tell-if-batana-oil-is-real";
 import { howToUseBatanaOilForHairGrowth } from "./how-to-use-batana-oil-for-hair-growth";
+import { pumpkinSeedOilVsSawPalmetto } from "./pumpkin-seed-oil-vs-saw-palmetto";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -79,4 +80,5 @@ export const questions: QuestionData[] = [
   batanaOilVsRosemaryOil,
   howToTellIfBatanaOilIsReal,
   howToUseBatanaOilForHairGrowth,
+  pumpkinSeedOilVsSawPalmetto,
 ];
