@@ -171,6 +171,9 @@ export const doesBatanaOilGrowHair: QuestionData = {
     "Batana oil is a traditional conditioning oil that leaves hair softer, shinier and stronger. By reducing breakage it helps you keep more of the length you grow, which is why so many people see longer, fuller-looking hair. Buy a pure product from a trusted brand, patch test, and use it once or twice a week as a pre-wash treatment.",
   pillarSlug: "best-batana-oil",
   relatedQuestions: [
+    "how-to-tell-if-batana-oil-is-real",
+    "batana-oil-vs-castor-oil",
+    "batana-oil-vs-rosemary-oil",
     "does-rosemary-oil-really-grow-hair",
     "does-castor-oil-grow-hair",
     "does-biotin-really-help-hair-growth",

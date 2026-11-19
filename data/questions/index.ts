@@ -33,6 +33,11 @@ import { doEyelashGrowthSerumsWork } from "./do-eyelash-growth-serums-work";
 import { doesGlp1CauseHairLoss } from "./does-glp-1-cause-hair-loss";
 import { doesOralMinoxidilWork } from "./does-oral-minoxidil-work";
 import { howLongDoEyelashesTakeToGrowBack } from "./how-long-do-eyelashes-take-to-grow-back";
+import { isRogaineTheSameAsMinoxidil } from "./is-rogaine-the-same-as-minoxidil";
+import { howDoesMinoxidilWork } from "./how-does-minoxidil-work";
+import { batanaOilVsCastorOil } from "./batana-oil-vs-castor-oil";
+import { batanaOilVsRosemaryOil } from "./batana-oil-vs-rosemary-oil";
+import { howToTellIfBatanaOilIsReal } from "./how-to-tell-if-batana-oil-is-real";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -67,4 +72,9 @@ export const questions: QuestionData[] = [
   doesGlp1CauseHairLoss,
   doesOralMinoxidilWork,
   howLongDoEyelashesTakeToGrowBack,
+  isRogaineTheSameAsMinoxidil,
+  howDoesMinoxidilWork,
+  batanaOilVsCastorOil,
+  batanaOilVsRosemaryOil,
+  howToTellIfBatanaOilIsReal,
 ];
