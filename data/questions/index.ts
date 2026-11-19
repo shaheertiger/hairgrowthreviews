@@ -44,6 +44,7 @@ import { nizoralVsHeadAndShoulders } from "./nizoral-vs-head-and-shoulders";
 import { minoxidilFoamVsLiquid } from "./minoxidil-foam-vs-liquid";
 import { hairLossTreatmentsSafeWhileBreastfeeding } from "./hair-loss-treatments-safe-while-breastfeeding";
 import { canYouRegrowHairAfter60 } from "./can-you-regrow-hair-after-60";
+import { viviscalVsNutrafol } from "./viviscal-vs-nutrafol";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -89,4 +90,5 @@ export const questions: QuestionData[] = [
   minoxidilFoamVsLiquid,
   hairLossTreatmentsSafeWhileBreastfeeding,
   canYouRegrowHairAfter60,
+  viviscalVsNutrafol,
 ];
