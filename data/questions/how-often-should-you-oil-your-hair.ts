@@ -1,0 +1,231 @@
+import { QuestionData } from "@/lib/types";
+
+export const howOftenShouldYouOilYourHair: QuestionData = {
+  slug: "how-often-should-you-oil-your-hair",
+  hub: "Hair Growth & Hair Loss",
+  crumb: "How Often Should You Oil Your Hair?",
+  metaTitle: "How Often Should You Oil Your Hair? A Guide by Hair Type",
+  metaDescription:
+    "How often to oil your hair depends on your hair and scalp type. A simple guide to frequency, how much oil, how long to leave it on and how to wash it out.",
+  h1: "How Often Should You Oil Your Hair? A Guide by Hair Type",
+  dek: "Hair oiling is one of the most rewarding rituals in hair care, as long as the rhythm suits your hair. Here is how often to oil fine, curly, coily, oily and dry hair, which oils to reach for and how to tell when you have the balance right.",
+  shortAnswer:
+    "Most people get the best results from oiling their hair one to three times a week. Fine hair and oily scalps do well with one pre-wash treatment a week, while curly, coily and dry hair often enjoys two or three sessions plus a few drops on the ends between washes. Let your scalp and strands set the pace.",
+  keyTakeaways: [
+    "One to three oiling sessions a week suits most people. Daily scalp oiling is rarely needed and makes buildup more likely.",
+    "Fine hair and oily scalps do best with light oils, such as jojoba, used as a pre-wash treatment once a week.",
+    "Curly, coily and dry hair often loves two or three sessions a week with richer oils like castor, plus a little on the ends between washes.",
+    "A few drops to half a teaspoon is enough for the scalp. Essential oils such as rosemary and peppermint must always be diluted in a carrier oil.",
+    "Limp roots, itching and flakes mean you are oiling too often or too heavily. Dry, brittle ends that snap easily mean you could oil a little more.",
+  ],
+  intro: [
+    "How often should you oil your hair? It is a question with a different answer for almost everyone, which is why it causes so much confusion. Some people swear by oiling every night, others oil once a week before washing, and plenty of people with fine hair have tried oil once, found it left their roots flat and greasy, and given up.",
+    "The secret is matching the rhythm to your hair. Oils coat the hair shaft, reduce friction and breakage and soften a dry scalp, which helps hair keep more of the length it grows. How often you can enjoy those benefits depends on your hair texture, how oily your scalp is, how porous your strands are and which oil you choose. Get the match right and oiling becomes a relaxing ritual that leaves hair softer, shinier and stronger. Get it wrong and you end up with buildup.",
+    "This guide walks through how often to oil each hair and scalp type, how much to use, how long to leave it on, the signs you are oiling too much or too little, and sample weekly schedules you can copy. If you are choosing an oil, our guide to the best hair growth oil ranks Mielle, Sky Organics, Tropic Isle Living, Fable & Mane, PURA D'OR and NOW on scalp fit, texture, purity and value.",
+  ],
+  sections: [
+    {
+      id: "why-frequency-matters",
+      heading: "Why How Often You Oil Matters",
+      body: [
+        "Oil does its best work when it has time to soften and protect the hair, then gets washed away before it builds up. Your scalp makes its own oil, called sebum, every day. When you add more oil on top, it mixes with sebum, sweat, dead skin and styling products. Washed out regularly, that is fine. Left to pile up for days, it can weigh hair down, dull its shine and make the scalp itchy.",
+        "Your lengths have different needs from your scalp. Sebum travels down straight hair fairly easily, but it struggles to coat the bends of curly and coily hair, which is why textured hair tends to feel drier at the ends. Those ends can soak up more oil, more often, while the scalp underneath may need only a weekly treatment.",
+        "That is why the most useful way to think about oiling is in two parts. Scalp oiling is usually a pre-wash treatment, done once to three times a week depending on how oily your scalp gets. Ends oiling is a small amount of oil smoothed onto the lengths to seal in moisture and reduce breakage, and it can be done more often if your hair is dry.",
+        "Once you separate the two, finding your rhythm gets much easier. You can treat your scalp on wash days and look after your ends whenever they feel dry.",
+      ],
+      pullQuote: "Your lengths have different needs from your scalp.",
+      keyPoint: "Think of scalp oiling and ends oiling separately. The scalp needs less, more often washed out; dry ends can take more.",
+    },
+    {
+      id: "oiling-by-hair-type",
+      heading: "How Often to Oil by Hair and Scalp Type",
+      body: [
+        "Fine and straight hair gets weighed down easily, so it does best with a light oil such as jojoba or argan, used as a pre-wash treatment about once a week. Leave it on for 30 minutes to an hour, then shampoo it out. If your ends are dry, a single drop smoothed through the tips after styling is plenty.",
+        "Wavy hair sits in the middle. One or two pre-wash sessions a week with a light to medium oil works well for most people, with a drop or two on the ends between washes if they feel dry or frizzy. Curly hair usually enjoys two sessions a week, and a little oil on damp ends after washing helps seal in moisture and define curls.",
+        "Coily and 4C hair is the driest and most fragile of all, and it is the hair type that benefits most from regular oiling. Two or three scalp and lengths treatments a week, often left on for a few hours or overnight, plus a light seal on the ends after moisturizing, is a common rhythm. Richer oils such as castor, Jamaican black castor and batana shine here.",
+        "Scalp type matters as much as texture. An oily scalp does best with one light pre-wash session a week and oil kept mostly on the lengths. A dry scalp can enjoy two or three sessions. Color-treated hair loves oil on the lengths to soften and add shine, but give fresh color a few days to settle before a heavy treatment. Porosity is the final piece, and we cover it below.",
+      ],
+      table: {
+        columns: ["How Often", "Best Oils", "How Long to Leave On"],
+        rows: [
+          { label: "Fine or straight hair", values: ["Once a week, pre-wash", "Jojoba, argan, light blends", "30 to 60 minutes"] },
+          { label: "Wavy hair", values: ["Once or twice a week", "Jojoba, argan, rosemary blends", "1 to 2 hours"] },
+          { label: "Curly hair", values: ["Twice a week, plus ends", "Argan, castor blends, rosemary mint", "2 hours to overnight"] },
+          { label: "Coily or 4C hair", values: ["Two or three times a week", "Castor, Jamaican black castor, batana", "Several hours to overnight"] },
+          { label: "Oily scalp", values: ["Once a week, pre-wash", "Jojoba, pumpkin seed", "30 to 60 minutes"] },
+          { label: "Dry scalp", values: ["Two or three times a week", "Jojoba, castor blends, rosemary blends", "2 hours to overnight"] },
+          { label: "Color-treated hair", values: ["Once or twice a week, lengths", "Argan, jojoba", "1 to 2 hours"] },
+          { label: "Low porosity hair", values: ["Once a week, light and warm", "Jojoba, argan, grapeseed", "30 to 60 minutes with gentle heat"] },
+          { label: "High porosity hair", values: ["Two or three times a week", "Castor, batana, coconut", "Several hours to overnight"] },
+        ],
+      },
+      keyPoint: "Fine hair and oily scalps: once a week, light oil. Curly, coily and dry hair: two or three times a week with richer oils.",
+    },
+    {
+      id: "porosity",
+      heading: "Low vs. High Porosity: The Hidden Factor",
+      body: [
+        "Porosity describes how easily your hair absorbs and holds on to moisture, and it explains why the same oil can feel wonderful on one person and greasy on another. It depends on the cuticle, the overlapping outer layer of each strand.",
+        "Low porosity hair has a tightly closed cuticle. Water and oil have trouble getting in, so products tend to sit on top and feel heavy. If your hair takes a long time to get fully wet in the shower and takes ages to dry, it is probably low porosity. It does best with light oils, such as jojoba, argan or grapeseed, used sparingly about once a week. Warming the oil slightly, or covering your hair with a shower cap for a while, helps it absorb. Our guide to the best oil for low porosity hair covers the lightest options.",
+        "High porosity hair has a raised or damaged cuticle, often from bleaching, heat or genetics. It soaks up water and oil quickly but loses moisture just as fast, so it tends to feel dry and frizzy. It loves richer sealing oils, such as castor, batana and coconut, two or three times a week, and a little oil on the ends after moisturizing helps lock water in.",
+        "Most people sit somewhere in between, with medium porosity hair that handles most oils well. If you are not sure, start with a light oil once a week and adjust based on how your hair feels the next day.",
+      ],
+      pullQuote: "Low porosity hair has a tightly closed cuticle.",
+    },
+    {
+      id: "pre-wash-leave-in-overnight",
+      heading: "Pre-Wash, Leave-In or Overnight?",
+      body: [
+        "A pre-wash treatment is the easiest and most versatile way to oil your hair, and it suits almost everyone. Apply the oil to dry or slightly damp hair, massage it into your scalp, smooth the rest through your lengths, leave it on for 30 minutes to a couple of hours, then shampoo and condition as usual. You get the softening and protective benefits without leaving the scalp oily.",
+        "An overnight treatment gives the oil longer to soften the hair and is a favorite with curly, coily and very dry hair. Put your hair in a loose braid or bun, cover it with a satin bonnet or an old towel over your pillow, and wash it out in the morning. If you have an oily scalp, fine hair or dandruff, keep overnight oiling to the lengths, or skip it.",
+        "A leave-in approach means a few drops of oil applied after washing and not rinsed out. It works best on the ends, where it seals in moisture from your conditioner and reduces friction and breakage throughout the day. Keep leave-in oil off the scalp unless your scalp is very dry.",
+        "Many people combine methods. A weekly pre-wash treatment for the scalp, plus a drop or two of leave-in oil on the ends, covers both needs neatly.",
+      ],
+      pullQuote: "A pre-wash treatment is the easiest and most versatile way to oil your hair, and it suits almost everyone.",
+      keyPoint: "Pre-wash suits nearly everyone. Overnight suits dry and textured hair. Leave-in oil belongs mostly on the ends.",
+    },
+    {
+      id: "how-much-oil",
+      heading: "How Much Oil to Use and How to Apply It",
+      body: [
+        "Less is more. For the scalp, a few drops to half a teaspoon is usually enough. For the lengths, use a little more if your hair is long, thick or dry, and just a drop or two if it is fine. It is easy to add more next time, but hard to wash out too much.",
+        "Part your hair into sections and apply the oil along each part with your fingertips or a dropper or applicator bottle. Then massage gently in small circles for a few minutes, using the pads of your fingers rather than your nails. Many people find this the most enjoyable part of the routine, and regular scalp massage is a lovely habit in its own right. Our guide to whether scalp massage helps hair growth explains what the small studies show.",
+        "For the lengths, warm a few drops between your palms and smooth them down the hair from mid-length to ends, where hair is oldest and most prone to breakage. Rub any leftover oil into the ends rather than going back to the roots.",
+        "If you use minoxidil for thinning, keep the two separate. Apply oil as a pre-wash treatment, wash it out, dry your scalp, and then apply minoxidil as directed, or keep oil on the lengths only. Avoid mixing oil into your minoxidil, since it is formulated to absorb in a specific way.",
+      ],
+      pullQuote: "It is easy to add more next time, but hard to wash out too much.",
+      keyPoint: "A few drops to half a teaspoon for the scalp, a little more for long or dry lengths. Keep oil and minoxidil separate.",
+    },
+    {
+      id: "scalp-vs-ends-oils",
+      heading: "Which Oils for the Scalp and Which for the Ends",
+      body: [
+        "Some oils are better suited to the scalp, and others to the lengths. Light oils absorb easily and wash out cleanly, which makes them ideal for scalp treatments. Jojoba is the classic choice, because it closely resembles the skin's own sebum, and the NOW Organic Jojoba Oil in our hair growth oil roundup is a favorite for fine hair and oily scalps. Pumpkin seed oil, such as the PURA D'OR bottle we rank, is another light, pleasant scalp oil.",
+        "Rosemary is the most talked-about scalp oil. Pure rosemary essential oil must be diluted in a carrier, but ready-made blends such as Mielle Rosemary Mint Oil, our top pick, are already formulated for the scalp. Our guides to whether rosemary oil really grows hair and the best rosemary oil for hair growth cover it in depth, and we also have dedicated guides to the best pumpkin seed oil for hair loss and the best jojoba oil for hair.",
+        "Richer oils shine on the lengths and on dry, textured hair. Castor oil, including the Sky Organics and Tropic Isle Living Jamaican black castor oils in our roundup, is thick and sealing, so it is best on the ends, edges and coily hair, and it washes out more easily when mixed with a lighter oil. Batana oil is a rich, traditional favorite for dry and textured lengths. Argan oil adds shine and softness without much weight, and coconut oil is well loved for pre-wash treatments on medium to coarse hair.",
+        "For more detail on any of these, see our guides to the best castor oil for hair growth, the best batana oil, the best argan oil for hair and the best hair oil for curly hair.",
+      ],
+      table: {
+        columns: ["Best Used On", "Weight", "Good For"],
+        rows: [
+          { label: "Jojoba", values: ["Scalp and lengths", "Light", "Fine hair, oily scalp, diluting essential oils"] },
+          { label: "Rosemary blend", values: ["Scalp", "Light to medium", "Scalp massage routines"] },
+          { label: "Pumpkin seed", values: ["Scalp", "Light to medium", "A gentle scalp oil"] },
+          { label: "Argan", values: ["Lengths and ends", "Light to medium", "Shine and softness, color-treated hair"] },
+          { label: "Coconut", values: ["Lengths, pre-wash", "Medium", "Medium to coarse hair before shampoo"] },
+          { label: "Batana", values: ["Lengths and ends", "Rich", "Dry and textured hair, length retention"] },
+          { label: "Castor", values: ["Ends, edges, coily hair", "Heavy", "Sealing moisture into thick, dry hair"] },
+        ],
+      },
+      keyPoint: "Light oils like jojoba, pumpkin seed and rosemary blends suit the scalp. Rich oils like castor and batana suit the ends.",
+    },
+    {
+      id: "essential-oil-dilution",
+      heading: "Essential Oils: Always Dilute First",
+      body: [
+        "Essential oils, such as rosemary, peppermint, tea tree and lavender, are highly concentrated plant extracts. They are popular in scalp routines for their fresh, tingling feel, but they should never go onto the scalp undiluted. Applied neat, they can cause burning, redness and allergic reactions.",
+        "A common rule of thumb is a dilution of around 1 to 2 percent, roughly six to twelve drops of essential oil per ounce of carrier oil such as jojoba. Peppermint is especially strong, so stay at the low end of that range. Ready-made blends are already diluted, which is one reason they are so convenient.",
+        "Patch test any new oil or blend before your first full application. Dab a little on the inner arm or behind the ear and wait 24 to 48 hours. If you notice itching, redness or a rash, skip that oil. Keep essential oils away from your eyes, and if you are pregnant or breastfeeding, check with your doctor before using concentrated essential oils.",
+        "Because essential oils are potent, there is no need to use them more often than your regular oiling schedule. Once to three times a week, diluted and washed out, is plenty.",
+      ],
+      pullQuote: "Patch test any new oil or blend before your first full application.",
+      keyPoint: "Dilute essential oils to around 1 to 2 percent in a carrier oil, patch test first, and keep peppermint at the low end.",
+    },
+    {
+      id: "over-or-under-oiling",
+      heading: "Signs You Are Over-Oiling or Under-Oiling",
+      body: [
+        "Your hair will tell you when the balance is off. Over-oiling usually shows up as limp, flat roots, hair that looks greasy a day after washing, a waxy or coated feel, dullness and product buildup on the scalp. Some people notice itching, flakes or small bumps along the hairline or forehead where oil has migrated onto the skin.",
+        "Heavy oiling can also make dandruff worse. The yeast involved in dandruff and seborrheic dermatitis feeds on certain oils, so if your scalp starts flaking or itching more after you add oil, cut back, keep oil to the lengths and try a medicated anti-dandruff shampoo. A scalp coated in oil day after day can also clog the openings around the follicles, which leaves it feeling uncomfortable.",
+        "Under-oiling shows up at the other end of the hair. Dry, rough ends, split ends, frizz, tangles and lots of short broken pieces in your brush suggest your lengths would enjoy more protection. A tight, dry or flaky scalp with no greasiness can also mean your scalp would welcome an extra pre-wash session.",
+        "If you see signs of over-oiling, use less oil, oil less often, switch to a lighter oil or shorten how long you leave it on. If you see signs of under-oiling, add a drop or two to the ends after washing or an extra weekly treatment. Small adjustments usually fix it within a couple of weeks.",
+      ],
+      pullQuote: "Your hair will tell you when the balance is off.",
+      keyPoint: "Limp roots, buildup, itching and flakes mean oil less. Dry, brittle, snapping ends mean oil a little more.",
+    },
+    {
+      id: "washing-oil-out",
+      heading: "How to Wash Oil Out Properly",
+      body: [
+        "The trick to washing out oil is to apply shampoo before water. Massage a small amount of shampoo straight onto your oiled scalp and work it in, then add a splash of water and lather. Shampoo binds to oil more easily before water dilutes it. Rinse, then shampoo a second time if your hair still feels coated.",
+        "Focus the shampoo on your scalp and let the suds run through your lengths as you rinse. Follow with conditioner on the mid-lengths and ends. If you use a heavy oil like castor, mixing it with a lighter oil before applying makes it much easier to wash out.",
+        "If you oil more than once a week, a clarifying shampoo every week or two clears any residue that regular shampoo leaves behind. That keeps hair bouncy and your scalp comfortable.",
+        "On thinning hair, a little extra shedding in the shower after an oil treatment is normal. Massaging the scalp loosens hairs that were already in their resting phase and ready to fall out. It is not the oil causing hair loss.",
+      ],
+      pullQuote: "The trick to washing out oil is to apply shampoo before water.",
+    },
+    {
+      id: "sample-schedules",
+      heading: "Sample Weekly Oiling Schedules",
+      body: [
+        "Fine or straight hair, or an oily scalp: oil the scalp with jojoba or a light blend once a week, about an hour before your wash. Between washes, use a single drop on the ends only if they feel dry. Clarify every two weeks.",
+        "Wavy or curly hair: oil the scalp and lengths before washing twice a week, leaving it on for one to two hours, or overnight once a week if your hair is dry. After washing, smooth a drop or two of argan or a curl-friendly oil through damp ends to seal in moisture.",
+        "Coily or 4C hair: do a scalp and lengths treatment with castor, Jamaican black castor or batana two or three times a week, often overnight under a satin bonnet. On other days, follow your leave-in or water-based moisturizer with a little oil on the lengths to seal it in. Clarify every week or two.",
+        "If you are treating thinning with minoxidil, add your oil as a pre-wash treatment on wash days, then apply minoxidil to a dry scalp afterward. Oils help protect your lengths while minoxidil works at the root, and that combination suits most routines. If your hair loss is sudden, patchy or comes with scalp pain, redness or scaling, see a dermatologist, since those signs deserve a proper diagnosis.",
+      ],
+      pullQuote: "Oils help protect your lengths while minoxidil works at the root",
+      keyPoint: "Start with the schedule for your hair type, then adjust based on how your roots and ends feel after a couple of weeks.",
+    },
+  ],
+  faq: [
+    {
+      q: "Is it okay to oil your hair every day?",
+      a: "Daily scalp oiling is rarely needed and makes buildup, limp roots and itching more likely. A drop or two on dry ends every day is fine, especially for curly, coily or high porosity hair. For the scalp, one to three pre-wash treatments a week is plenty for most people.",
+    },
+    {
+      q: "How long should you leave oil in your hair?",
+      a: "For most people, 30 minutes to two hours before washing is enough to soften the hair. Dry, curly and coily hair can enjoy overnight treatments. Fine hair, oily scalps and low porosity hair usually do best with shorter sessions of 30 to 60 minutes.",
+    },
+    {
+      q: "Should you oil your hair before or after washing?",
+      a: "Both work, for different jobs. Oiling before washing, as a pre-wash treatment, softens the hair and nourishes the scalp without leaving it greasy. A few drops after washing, on the ends only, seals in moisture and reduces breakage. Many people do both.",
+    },
+    {
+      q: "Can oiling your hair cause hair loss?",
+      a: "Oiling does not cause hair loss. Some extra shedding in the shower after a scalp massage is normal, because massage loosens hairs that were already ready to fall out. Heavy oil left on an oily scalp can cause buildup and itching, so wash it out regularly and use lighter oils if needed.",
+    },
+    {
+      q: "How often should you use rosemary oil on your hair?",
+      a: "Two to three times a week is a common routine for a diluted rosemary oil or a ready-made rosemary blend, massaged into the scalp and left on for a few hours or overnight before washing. Pure rosemary essential oil must always be diluted in a carrier oil and patch tested first.",
+    },
+    {
+      q: "Is oiling good for fine or thin hair?",
+      a: "Yes, as long as you choose a light oil and keep it brief. A weekly pre-wash treatment with jojoba or a light blend, shampooed out, softens hair and protects it from breakage without weighing it down. Keep leave-in oil to a single drop on the ends.",
+    },
+    {
+      q: "How much oil should I put in my hair?",
+      a: "A few drops to half a teaspoon is enough for the scalp. Use a little more on the lengths if your hair is long, thick or dry, and just a drop or two if it is fine. Start small, because it is easier to add more than to wash out too much.",
+    },
+    {
+      q: "Can I oil my hair if I use minoxidil?",
+      a: "Yes. Use oil as a pre-wash treatment, wash it out and dry your scalp before applying minoxidil, or keep oil on your lengths only. Avoid mixing oil into minoxidil. The two pair well, with minoxidil working at the root and oil protecting the lengths.",
+    },
+  ],
+  bottomLine:
+    "Most people do best oiling their hair one to three times a week. Fine hair and oily scalps thrive on one light pre-wash treatment a week, while curly, coily, dry and high porosity hair enjoys two or three sessions with richer oils, plus a little on the ends between washes. Use a few drops to half a teaspoon, always dilute essential oils, wash oil out with shampoo applied before water, and adjust when your roots feel heavy or your ends feel dry. For genuine thinning, pair your oil routine with minoxidil, and see a dermatologist for sudden or patchy loss.",
+  pillarSlug: "best-hair-growth-oil",
+  relatedQuestions: [
+    "does-rosemary-oil-really-grow-hair",
+    "does-batana-oil-grow-hair",
+    "does-castor-oil-grow-hair",
+    "does-scalp-massage-help-hair-growth",
+    "does-pumpkin-seed-oil-help-hair-loss",
+  ],
+  relatedRoundups: [
+    "best-hair-growth-oil",
+    "best-rosemary-oil-for-hair-growth",
+    "best-batana-oil",
+    "best-pumpkin-seed-oil-for-hair-loss",
+    "best-castor-oil-for-hair-growth",
+    "best-jojoba-oil-for-hair",
+    "best-argan-oil-for-hair",
+    "best-oil-for-low-porosity-hair",
+    "best-hair-oil-for-curly-hair",
+  ],
+  relatedGuides: [
+    { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
+    { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle, explained" },
+  ],
+  publishedDate: "2026-11-20",
+  updatedDate: "2026-11-20",
+};
