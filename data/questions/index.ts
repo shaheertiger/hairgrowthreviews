@@ -33,6 +33,18 @@ import { doEyelashGrowthSerumsWork } from "./do-eyelash-growth-serums-work";
 import { doesGlp1CauseHairLoss } from "./does-glp-1-cause-hair-loss";
 import { doesOralMinoxidilWork } from "./does-oral-minoxidil-work";
 import { howLongDoEyelashesTakeToGrowBack } from "./how-long-do-eyelashes-take-to-grow-back";
+import { isRogaineTheSameAsMinoxidil } from "./is-rogaine-the-same-as-minoxidil";
+import { howDoesMinoxidilWork } from "./how-does-minoxidil-work";
+import { batanaOilVsCastorOil } from "./batana-oil-vs-castor-oil";
+import { batanaOilVsRosemaryOil } from "./batana-oil-vs-rosemary-oil";
+import { howToTellIfBatanaOilIsReal } from "./how-to-tell-if-batana-oil-is-real";
+import { howToUseBatanaOilForHairGrowth } from "./how-to-use-batana-oil-for-hair-growth";
+import { pumpkinSeedOilVsSawPalmetto } from "./pumpkin-seed-oil-vs-saw-palmetto";
+import { nizoralVsHeadAndShoulders } from "./nizoral-vs-head-and-shoulders";
+import { minoxidilFoamVsLiquid } from "./minoxidil-foam-vs-liquid";
+import { hairLossTreatmentsSafeWhileBreastfeeding } from "./hair-loss-treatments-safe-while-breastfeeding";
+import { canYouRegrowHairAfter60 } from "./can-you-regrow-hair-after-60";
+import { viviscalVsNutrafol } from "./viviscal-vs-nutrafol";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -67,4 +79,16 @@ export const questions: QuestionData[] = [
   doesGlp1CauseHairLoss,
   doesOralMinoxidilWork,
   howLongDoEyelashesTakeToGrowBack,
+  isRogaineTheSameAsMinoxidil,
+  howDoesMinoxidilWork,
+  batanaOilVsCastorOil,
+  batanaOilVsRosemaryOil,
+  howToTellIfBatanaOilIsReal,
+  howToUseBatanaOilForHairGrowth,
+  pumpkinSeedOilVsSawPalmetto,
+  nizoralVsHeadAndShoulders,
+  minoxidilFoamVsLiquid,
+  hairLossTreatmentsSafeWhileBreastfeeding,
+  canYouRegrowHairAfter60,
+  viviscalVsNutrafol,
 ];

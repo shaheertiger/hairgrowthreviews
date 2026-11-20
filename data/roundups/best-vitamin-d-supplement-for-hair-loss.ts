@@ -125,9 +125,9 @@ export const bestVitaminDSupplementForHairLoss: RoundupData = {
     },
     {
       id: "kirkland-extra-strength-d3",
-      name: "Kirkland Signature Extra Strength D3 50 mcg, 600 Softgels (2 Pack)",
+      name: "Kirkland Signature Extra Strength D3 50 mcg, 600 Softgels",
       brand: "Kirkland Signature",
-      asin: "B01NCRITAE",
+      asin: "B07N7CTW4Q",
       badge: "Best Bulk Buy",
       category: "Vitamin D3 Softgel",
       score: 4.5,
@@ -135,11 +135,11 @@ export const bestVitaminDSupplementForHairLoss: RoundupData = {
       keySpecs: [
         { label: "Form", value: "Vitamin D3" },
         { label: "Dose", value: "50 mcg (2,000 IU) per softgel" },
-        { label: "Pack", value: "2-pack bulk listing" },
+        { label: "Pack", value: "600-softgel bulk bottle" },
         { label: "Format", value: "Softgel" },
       ],
       description: [
-        "Kirkland Signature's Extra Strength D3 delivers 50 mcg per softgel, which is the same 2,000 IU as our top two picks, in a bulk two-pack listing. It suits households where two adults both take vitamin D on medical advice, or anyone who wants to restock once and not think about it again for a long time.",
+        "Kirkland Signature's Extra Strength D3 delivers 50 mcg per softgel, which is the same 2,000 IU as our top two picks, in a 600-softgel bulk bottle. It suits households where two adults both take vitamin D on medical advice, or anyone who wants to restock once and not think about it again for a long time.",
         "The vitamin itself is the same moderate dose of D3 that the rest of this list favors. Kirkland's supplements are made for Costco under its private label, and the brand has built a reputation for solid basics at low prices. Per softgel, it is broadly in line with Nature Made, so the reason to choose it is convenience and quantity, not a dramatic saving.",
         "Bulk buying works best with one simple habit. A huge supply lasts a long time, so pair it with a recheck once your level has normalized. Set a reminder to retest after a few months, and check the expiry date, since a very large pack may outlast it.",
       ],

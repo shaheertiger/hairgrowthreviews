@@ -16,6 +16,12 @@ import { nunutrients } from "./nunutrients";
 import { bloom } from "./bloom";
 import { puraDor } from "./pura-dor";
 import { viviscal } from "./viviscal";
+import { basisHairRegrowthSystem } from "./basis-hair-regrowth-system";
+import { clofina } from "./clofina";
+import { tangl } from "./tangl";
+import { vegamour } from "./vegamour";
+import { divi } from "./divi";
+import { nutrafol } from "./nutrafol";
 
 export const reviews = [
   biotopic,
@@ -36,4 +42,10 @@ export const reviews = [
   bloom,
   puraDor,
   viviscal,
+  basisHairRegrowthSystem,
+  clofina,
+  tangl,
+  vegamour,
+  divi,
+  nutrafol,
 ];

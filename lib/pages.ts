@@ -14,8 +14,8 @@ const hubsWithGuides = roundupHubs.filter((hub) => roundups.some((r) => r.hub ==
 export const staticPages = {
   home: {
     path: "/",
-    title: `${site.name} — Independent Hair Loss & Regrowth Product Reviews`,
-    description: site.description,
+    title: `Hair Growth Product Reviews & Ratings | ${site.name}`,
+    description: `Honest hair growth product reviews: serums, shampoos, supplements, oils, laser caps and minoxidil rated on ingredients and evidence, plus ${roundups.length} buyer's guides.`,
     aiSummary: `${site.name} is an independent, reader-supported publisher of ${reviews.length} hair growth product reviews, ${roundups.length} buyer's guides and ${questions.length} evidence-based answers on hair loss and hair care. Verdicts are based on ingredient research, published clinical evidence and verified customer feedback, and every article is reviewed by ${scientificReviewer.name}, ${scientificReviewer.title}.`,
   },
   best: {

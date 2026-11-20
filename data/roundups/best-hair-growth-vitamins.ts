@@ -35,12 +35,12 @@ export const bestHairGrowthVitamins: RoundupData = {
         { label: "Form", value: "Capsules (4 per day)" },
         { label: "Supply", value: "1 month" },
         { label: "Approach", value: "Botanicals, marine collagen, vitamins" },
-        { label: "Contains biotin", value: "Yes" },
+        { label: "Contains biotin", value: "No in the current formula (older bottles: yes)" },
       ],
       description: [
         "Nutrafol Women is the supplement most dermatologists will have heard of, and the reason is that the company has done more than most to study its own product. Its formula combines a botanical blend that includes ashwagandha, saw palmetto, curcumin and tocotrienols with marine collagen and a set of vitamins and minerals. The idea is to address several possible contributors to thinning at once, such as stress, inflammation and nutrition, rather than relying on one nutrient.",
         "Its research is a cut above the category average. Nutrafol has run placebo-controlled trials in which women taking the supplement saw more improvement in hair counts and appearance than those on placebo. Those trials were company-sponsored, and their encouraging results are a big reason Nutrafol has become such a trusted name, often used alongside minoxidil.",
-        "It is one of the pricier supplements on this list per month, and buyers feel the research-backed formula earns it. It is not intended for anyone who is pregnant, trying to conceive or breastfeeding, and its biotin content means you should tell your doctor before blood tests.",
+        "It is one of the pricier supplements on this list per month, and buyers feel the research-backed formula earns it. It is not intended for anyone who is pregnant, trying to conceive or breastfeeding, and Nutrafol now labels its improved Women formula biotin-free, so check whether your bottle lists biotin before blood tests.",
       ],
       pros: [
         "Placebo-controlled trials behind the specific formula, not just its ingredients",
@@ -300,7 +300,7 @@ export const bestHairGrowthVitamins: RoundupData = {
         "Biotin is the ingredient most associated with hair vitamins, and for good reason: it is an essential B-vitamin for keratin. True biotin deficiency causes hair loss, though it is uncommon in people eating a normal diet. Reviews of the research have found that the reports of biotin helping hair come mainly from people with a deficiency or a specific underlying condition, so the people who benefit most from biotin are those whose levels are low.",
         "There is also an important safety tip. Many laboratory tests use a biotin-based chemistry, and high blood levels of biotin from supplements can interfere with them. The FDA has warned that biotin can cause falsely low results on some troponin tests, which are used to diagnose heart attacks, and it can distort thyroid tests in ways that mimic disease. Hair, skin and nail products often contain biotin at many times the daily requirement.",
         "That does not mean biotin is dangerous to swallow. It simply means you should tell your doctor and the lab that you take it, especially before thyroid testing or if you ever arrive at an emergency department with chest pain. Many labs advise pausing biotin for several days before a blood draw, so ask yours what it recommends.",
-        "When you compare products, notice how many contain biotin even when it is not the headline ingredient. Nutrafol, Viviscal, OLLY and Nature's Bounty all include it. If you take two hair products, or a hair product plus a multivitamin, your total biotin intake can be very high without you realizing it.",
+        "When you compare products, notice how many contain biotin even when it is not the headline ingredient. Viviscal, OLLY and Nature's Bounty all include it, and older Nutrafol bottles did too. If you take two hair products, or a hair product plus a multivitamin, your total biotin intake can be very high without you realizing it.",
       ],
       pullQuote: "The people who benefit most from biotin are those whose levels are low.",
       keyPoint: "Biotin helps most when your levels are low, and it can distort heart and thyroid blood tests, so always mention it to your doctor.",
@@ -420,5 +420,5 @@ export const bestHairGrowthVitamins: RoundupData = {
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-19",
 };

@@ -17,8 +17,8 @@ import { bullets, esc, h, item, link, type MdDoc } from "../format";
 const bySlug = <T extends { slug: string }>(list: T[], slugs: string[]) =>
   slugs.map((s) => list.find((x) => x.slug === s)).filter((x): x is T => !!x);
 
-const ratingText = (r: { rating: number; reviewCount: number }) =>
-  `${r.rating.toFixed(1)}/5 (${r.reviewCount.toLocaleString("en-US")} reviews)`;
+const ratingText = (r: { rating: number; reviewCount?: number }) =>
+  `${r.rating.toFixed(1)}/5` + (r.reviewCount !== undefined ? ` (${r.reviewCount.toLocaleString("en-US")} reviews)` : "");
 
 export function homeDoc(): MdDoc {
   const page = staticPages.home;
