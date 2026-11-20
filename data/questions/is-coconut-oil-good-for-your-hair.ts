@@ -199,6 +199,8 @@ export const isCoconutOilGoodForYourHair: QuestionData = {
     "Coconut oil is good for most hair. Its lauric acid can penetrate the hair shaft, and research suggests a pre-wash coat helps reduce protein loss, so hair stays stronger, softer and less prone to breakage. That is how it helps you keep more of the length you grow. Use virgin coconut oil before washing once or twice a week, go lighter on fine or low porosity hair, keep it on the lengths if you have dandruff, and pair it with minoxidil for genuine thinning.",
   pillarSlug: "best-coconut-oil-for-hair",
   relatedQuestions: [
+    "is-olive-oil-good-for-your-hair",
+    "how-to-use-argan-oil-for-hair",
     "how-often-should-you-oil-your-hair",
     "does-castor-oil-grow-hair",
     "does-batana-oil-grow-hair",

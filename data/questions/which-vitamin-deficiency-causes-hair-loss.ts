@@ -193,6 +193,8 @@ export const whichVitaminDeficiencyCausesHairLoss: QuestionData = {
     "Low iron, vitamin D, zinc, vitamin B12, folate, biotin and protein can all cause shedding, and low iron is the most common, especially in women. Thyroid problems and too much vitamin A or selenium mimic them, so start with a simple blood panel rather than guessing. Correct what is low at a sensible dose, and give your hair three to six months to show the recovery.",
   pillarSlug: "best-hair-growth-vitamins",
   relatedQuestions: [
+    "how-much-biotin-should-i-take-for-hair-growth",
+    "do-prenatal-vitamins-help-hair-growth",
     "can-low-iron-cause-hair-loss",
     "can-vitamin-d-deficiency-cause-hair-loss",
     "how-much-vitamin-d-should-i-take-for-hair-loss",

@@ -201,6 +201,8 @@ export const howToUseArganOilForHair: QuestionData = {
     "Argan oil is a light, versatile Moroccan oil that softens hair, tames frizz, adds shine and helps reduce breakage. Use two or three drops on damp or dry ends every day if you like, a teaspoon or more as a weekly pre-wash treatment, and a light layer over your heat protectant before styling. Start small, patch test, and choose a cold-pressed bottle that lists only Argania spinosa kernel oil.",
   pillarSlug: "best-argan-oil-for-hair",
   relatedQuestions: [
+    "is-coconut-oil-good-for-your-hair",
+    "is-olive-oil-good-for-your-hair",
     "how-often-should-you-oil-your-hair",
     "does-heat-styling-cause-hair-loss",
     "does-rosemary-oil-really-grow-hair",

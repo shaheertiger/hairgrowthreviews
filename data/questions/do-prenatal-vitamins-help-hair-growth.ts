@@ -198,6 +198,8 @@ export const doPrenatalVitaminsHelpHairGrowth: QuestionData = {
     "Prenatal vitamins help hair growth when they fill a real gap, especially low iron, vitamin D or B12, and they are a wonderful choice when you are trying to conceive, pregnant or breastfeeding. Thick pregnancy hair comes mostly from hormones. If you are not pregnant, test ferritin, vitamin D, B12 and thyroid first, then choose a hair vitamin, general multivitamin or targeted supplement that matches your results.",
   pillarSlug: "best-prenatal-vitamins-for-hair-growth",
   relatedQuestions: [
+    "which-vitamin-deficiency-causes-hair-loss",
+    "how-much-biotin-should-i-take-for-hair-growth",
     "how-long-does-postpartum-hair-loss-last",
     "can-low-iron-cause-hair-loss",
     "can-vitamin-d-deficiency-cause-hair-loss",

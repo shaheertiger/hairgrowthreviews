@@ -53,6 +53,20 @@ import { doesBatanaOilDarkenHair } from "./does-batana-oil-darken-hair";
 import { howToUsePumpkinSeedOilForHair } from "./how-to-use-pumpkin-seed-oil-for-hair";
 import { pumpkinSeedOilVsRosemaryOil } from "./pumpkin-seed-oil-vs-rosemary-oil";
 import { howToMakeYourHairGrowFaster } from "./how-to-make-your-hair-grow-faster";
+import { whatIsBatanaOil } from "./what-is-batana-oil";
+import { howToUseRosemaryOilForHairGrowth } from "./how-to-use-rosemary-oil-for-hair-growth";
+import { howToUseCastorOilForHairGrowth } from "./how-to-use-castor-oil-for-hair-growth";
+import { isCoconutOilGoodForYourHair } from "./is-coconut-oil-good-for-your-hair";
+import { isOliveOilGoodForYourHair } from "./is-olive-oil-good-for-your-hair";
+import { howToUseArganOilForHair } from "./how-to-use-argan-oil-for-hair";
+import { doesTeaTreeOilHelpHairGrowth } from "./does-tea-tree-oil-help-hair-growth";
+import { doPrenatalVitaminsHelpHairGrowth } from "./do-prenatal-vitamins-help-hair-growth";
+import { howMuchBiotinShouldITakeForHairGrowth } from "./how-much-biotin-should-i-take-for-hair-growth";
+import { whichVitaminDeficiencyCausesHairLoss } from "./which-vitamin-deficiency-causes-hair-loss";
+import { doesCreatineCauseHairLoss } from "./does-creatine-cause-hair-loss";
+import { doesTestosteroneCauseHairLoss } from "./does-testosterone-cause-hair-loss";
+import { howToPreventHairLoss } from "./how-to-prevent-hair-loss";
+import { doesHeadAndShouldersCauseHairLoss } from "./does-head-and-shoulders-cause-hair-loss";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -107,4 +121,18 @@ export const questions: QuestionData[] = [
   howToUsePumpkinSeedOilForHair,
   pumpkinSeedOilVsRosemaryOil,
   howToMakeYourHairGrowFaster,
+  whatIsBatanaOil,
+  howToUseRosemaryOilForHairGrowth,
+  howToUseCastorOilForHairGrowth,
+  isCoconutOilGoodForYourHair,
+  isOliveOilGoodForYourHair,
+  howToUseArganOilForHair,
+  doesTeaTreeOilHelpHairGrowth,
+  doPrenatalVitaminsHelpHairGrowth,
+  howMuchBiotinShouldITakeForHairGrowth,
+  whichVitaminDeficiencyCausesHairLoss,
+  doesCreatineCauseHairLoss,
+  doesTestosteroneCauseHairLoss,
+  howToPreventHairLoss,
+  doesHeadAndShouldersCauseHairLoss,
 ];

@@ -188,6 +188,8 @@ export const doesCreatineCauseHairLoss: QuestionData = {
     "Creatine has not been shown to cause hair loss. The worry comes from one small 2009 study that found a DHT rise during loading but never measured hair, and a 2025 randomized trial of 5 g a day found no significant change in DHT, testosterone or hair. If baldness runs in your family, skip loading, take 3 to 5 g a day, track your hairline with photos, and talk to a doctor about minoxidil or finasteride if thinning appears.",
   pillarSlug: "best-dht-blocker",
   relatedQuestions: [
+    "does-testosterone-cause-hair-loss",
+    "how-to-prevent-hair-loss",
     "does-saw-palmetto-block-dht",
     "does-oral-minoxidil-work",
     "how-long-does-minoxidil-take-to-work",

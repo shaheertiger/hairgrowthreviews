@@ -205,6 +205,8 @@ export const howMuchBiotinShouldITakeForHairGrowth: QuestionData = {
     "Adults need only about 30 mcg of biotin a day, so a 1,000 to 2,500 mcg supplement is a generous, sensible insurance dose for hair. Higher 5,000 to 10,000 mcg strengths are safe for most healthy adults but add lab-test planning without extra benefit. Take biotin with food, count every product that contains it, pause it before blood tests, and give your hair three to six months.",
   pillarSlug: "best-biotin-for-hair-growth",
   relatedQuestions: [
+    "which-vitamin-deficiency-causes-hair-loss",
+    "do-prenatal-vitamins-help-hair-growth",
     "does-biotin-really-help-hair-growth",
     "how-much-vitamin-d-should-i-take-for-hair-loss",
     "can-low-iron-cause-hair-loss",
