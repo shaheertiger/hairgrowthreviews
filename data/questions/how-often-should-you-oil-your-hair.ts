@@ -205,6 +205,8 @@ export const howOftenShouldYouOilYourHair: QuestionData = {
     "Most people do best oiling their hair one to three times a week. Fine hair and oily scalps thrive on one light pre-wash treatment a week, while curly, coily, dry and high porosity hair enjoys two or three sessions with richer oils, plus a little on the ends between washes. Use a few drops to half a teaspoon, always dilute essential oils, wash oil out with shampoo applied before water, and adjust when your roots feel heavy or your ends feel dry. For genuine thinning, pair your oil routine with minoxidil, and see a dermatologist for sudden or patchy loss.",
   pillarSlug: "best-hair-growth-oil",
   relatedQuestions: [
+    "how-to-use-batana-oil-for-hair-growth",
+    "how-to-use-pumpkin-seed-oil-for-hair",
     "does-rosemary-oil-really-grow-hair",
     "does-batana-oil-grow-hair",
     "does-castor-oil-grow-hair",

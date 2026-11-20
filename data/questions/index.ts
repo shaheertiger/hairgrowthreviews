@@ -45,6 +45,14 @@ import { minoxidilFoamVsLiquid } from "./minoxidil-foam-vs-liquid";
 import { hairLossTreatmentsSafeWhileBreastfeeding } from "./hair-loss-treatments-safe-while-breastfeeding";
 import { canYouRegrowHairAfter60 } from "./can-you-regrow-hair-after-60";
 import { viviscalVsNutrafol } from "./viviscal-vs-nutrafol";
+import { doesBrushingYourHairCauseHairLoss } from "./does-brushing-your-hair-cause-hair-loss";
+import { howOftenShouldYouOilYourHair } from "./how-often-should-you-oil-your-hair";
+import { canAnItchyScalpCauseHairLoss } from "./can-an-itchy-scalp-cause-hair-loss";
+import { howMuchVitaminDShouldITakeForHairLoss } from "./how-much-vitamin-d-should-i-take-for-hair-loss";
+import { doesBatanaOilDarkenHair } from "./does-batana-oil-darken-hair";
+import { howToUsePumpkinSeedOilForHair } from "./how-to-use-pumpkin-seed-oil-for-hair";
+import { pumpkinSeedOilVsRosemaryOil } from "./pumpkin-seed-oil-vs-rosemary-oil";
+import { howToMakeYourHairGrowFaster } from "./how-to-make-your-hair-grow-faster";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -91,4 +99,12 @@ export const questions: QuestionData[] = [
   hairLossTreatmentsSafeWhileBreastfeeding,
   canYouRegrowHairAfter60,
   viviscalVsNutrafol,
+  doesBrushingYourHairCauseHairLoss,
+  howOftenShouldYouOilYourHair,
+  canAnItchyScalpCauseHairLoss,
+  howMuchVitaminDShouldITakeForHairLoss,
+  doesBatanaOilDarkenHair,
+  howToUsePumpkinSeedOilForHair,
+  pumpkinSeedOilVsRosemaryOil,
+  howToMakeYourHairGrowFaster,
 ];

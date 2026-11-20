@@ -201,6 +201,7 @@ export const doesBrushingYourHairCauseHairLoss: QuestionData = {
     "Brushing your hair does not cause true hair loss. Most of the hair in your brush is normal shedding, resting hairs that were ready to fall out, and 50 to 100 a day is normal. Rough brushing can snap strands, which makes fine or thinning hair look thinner, so choose a flexible detangling brush or wide-tooth comb, start at the ends, be extra gentle with wet hair and brush only as much as you need. For genuine thinning, minoxidil is a great complement, and sudden or patchy loss is worth a visit to a dermatologist.",
   pillarSlug: "best-hair-brush-for-thinning-hair",
   relatedQuestions: [
+    "how-to-make-your-hair-grow-faster",
     "how-much-hair-loss-is-normal-per-day",
     "does-heat-styling-cause-hair-loss",
     "does-scalp-massage-help-hair-growth",
