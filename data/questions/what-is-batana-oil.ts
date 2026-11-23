@@ -205,6 +205,7 @@ export const whatIsBatanaOil: QuestionData = {
   ],
   relatedRoundups: [
     "best-batana-oil",
+    "batana-oil-reviews",
     "best-oil-for-low-porosity-hair",
     "best-hair-growth-oil",
     "best-castor-oil-for-hair-growth",

@@ -12,7 +12,7 @@ export const bestPumpkinSeedOilForHairLoss: RoundupData = {
   intro: [
     "The best pumpkin seed oil for hair loss is a plain, cold-pressed softgel from an established supplement brand, taken at a dose close to what was actually studied, taken consistently. Pumpkin seed oil earned its place in hair loss conversations because of a single small Korean trial published in 2014, in which men with pattern hair loss who took pumpkin seed oil capsules for 24 weeks saw more improvement in hair count than men taking a placebo. That is genuinely exciting for a simple food oil, and it is the main reason pumpkin seed oil has become such a popular natural addition to hair routines.",
     "That gives pumpkin seed oil a special place among natural options. It has more human research behind it than castor, batana or most other hair oils, and it fits easily into a routine alongside the treatments dermatologists use. Minoxidil is the only over-the-counter drug FDA-approved for regrowing hair, and finasteride is a prescription drug for men; pumpkin seed oil is a gentle, food-based supplement that many people take alongside either one or on its own.",
-    "We ranked the products below on whether their form matches the research, dose per serving, label clarity, brand track record, value per month and buyer feedback. We include both softgels, which match the trial, and topical oils, which are lovely for scalp care. For the closely related herbal option, see our guide to the best saw palmetto for hair loss. This is research-based, not a hands-on test.",
+    "We ranked the products below on whether their form matches the research, dose per serving, label clarity, brand track record, value per month and buyer feedback. We include both softgels, which match the trial, and topical oils, which are lovely for scalp care. For the closely related herbal option, see our guide to the best saw palmetto for hair loss, and if you only want softgels, our guide to the best pumpkin seed oil capsules compares dose per softgel and cost per day. This is research-based, not a hands-on test.",
   ],
   keyTakeaways: [
     "A 2014 placebo-controlled trial in 76 Korean men found 400 mg a day of pumpkin seed oil capsules for 24 weeks improved hair count more than placebo.",
@@ -377,6 +377,7 @@ export const bestPumpkinSeedOilForHairLoss: RoundupData = {
   bottomLine:
     "Pumpkin seed oil is a gentle, low-risk supplement with an encouraging trial behind it, and one of the easiest natural additions to a hair routine. NOW Pumpkin Seed Oil 1000 mg softgels match the studied form at the best value. Use it on its own or alongside minoxidil, and judge results at six months.",
   relatedRoundups: [
+    "best-pumpkin-seed-oil-capsules-for-hair-loss",
     "best-saw-palmetto-for-hair-loss",
     "best-hair-growth-vitamins",
     "best-hair-growth-products-for-men",
@@ -390,5 +391,5 @@ export const bestPumpkinSeedOilForHairLoss: RoundupData = {
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },
   ],
   publishedDate: "2026-10-14",
-  updatedDate: "2026-10-14",
+  updatedDate: "2026-11-23",
 };

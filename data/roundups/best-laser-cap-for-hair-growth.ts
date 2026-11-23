@@ -409,6 +409,7 @@ export const bestLaserCapForHairGrowth: RoundupData = {
     "Laser caps are among the most credible hair loss devices, with real trial support and FDA clearance, and they make a great hands-free partner to minoxidil. The iRestore Professional is the best overall buy for most people, Capillus suits on-the-go use, and the HairMax LaserBand is best if short sessions will keep you consistent.",
   relatedRoundups: [
     "best-minoxidil-for-men",
+    "black-friday-hair-tool-deals",
     "best-minoxidil-for-women",
     "best-hair-growth-products-for-men",
     "best-hair-growth-products-for-women",

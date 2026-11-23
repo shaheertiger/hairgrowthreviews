@@ -67,6 +67,7 @@ import { doesCreatineCauseHairLoss } from "./does-creatine-cause-hair-loss";
 import { doesTestosteroneCauseHairLoss } from "./does-testosterone-cause-hair-loss";
 import { howToPreventHairLoss } from "./how-to-prevent-hair-loss";
 import { doesHeadAndShouldersCauseHairLoss } from "./does-head-and-shoulders-cause-hair-loss";
+import { howMuchDoesMinoxidilCost } from "./how-much-does-minoxidil-cost";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -135,4 +136,5 @@ export const questions: QuestionData[] = [
   doesTestosteroneCauseHairLoss,
   howToPreventHairLoss,
   doesHeadAndShouldersCauseHairLoss,
+  howMuchDoesMinoxidilCost,
 ];
