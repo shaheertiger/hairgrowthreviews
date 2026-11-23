@@ -423,6 +423,7 @@ export const bestDysonAirwrapAlternative: RoundupData = {
     "The best Dyson Airwrap alternative is the Shark FlexStyle: real air-wrapping curls, an excellent dryer mode and solid heat control for roughly a third of the price. The Dreame AirStyle Pro is the pick for attachment variety, and the Airwrap remains the benchmark if money is no object. Whatever you buy, use moderate heat and set every curl with cool air.",
   relatedRoundups: [
     "best-hair-dryer-brush",
+    "black-friday-hair-tool-deals",
     "best-dyson-supersonic-alternative",
     "best-hair-dryer",
     "best-heat-protectant-spray",

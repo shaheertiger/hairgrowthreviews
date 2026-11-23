@@ -414,6 +414,7 @@ export const bestDysonSupersonicAlternative: RoundupData = {
     "The best Dyson Supersonic alternative is the Shark HyperAIR, which matches most of the Supersonic's speed with excellent attachments for about half the price. The Laifen Swift is the value pick with the most Dyson-like feel. Whichever you choose, the hair-health benefit comes from drying fast on lower heat, so use it that way.",
   relatedRoundups: [
     "best-hair-dryer",
+    "black-friday-hair-tool-deals",
     "best-dyson-airwrap-alternative",
     "best-hair-dryer-brush",
     "best-heat-protectant-spray",

@@ -224,6 +224,7 @@ export const howToTellIfBatanaOilIsReal: QuestionData = {
   relatedQuestions: ["does-batana-oil-grow-hair", "batana-oil-vs-castor-oil", "batana-oil-vs-rosemary-oil", "does-castor-oil-grow-hair"],
   relatedRoundups: [
     "best-batana-oil",
+    "batana-oil-reviews",
     "best-hair-growth-oil",
     "best-castor-oil-for-hair-growth",
     "best-black-hair-care-products",

@@ -118,6 +118,9 @@ import { bestShampooForThickHair } from "./best-shampoo-for-thick-hair";
 import { bestHairGelForCurlyHair } from "./best-hair-gel-for-curly-hair";
 import { bestRoundBrushForFineHair } from "./best-round-brush-for-fine-hair";
 import { bestHairBonnetForSleeping } from "./best-hair-bonnet-for-sleeping";
+import { batanaOilReviews } from "./batana-oil-reviews";
+import { bestPumpkinSeedOilCapsulesForHairLoss } from "./best-pumpkin-seed-oil-capsules-for-hair-loss";
+import { blackFridayHairToolDeals } from "./black-friday-hair-tool-deals";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -185,8 +188,10 @@ export const roundups: RoundupData[] = [
   bestBeardGroomingKit,
   bestBiotinForHairGrowth,
   bestBatanaOil,
+  batanaOilReviews,
   bestCastorOilForHairGrowth,
   bestPumpkinSeedOilForHairLoss,
+  bestPumpkinSeedOilCapsulesForHairLoss,
   bestVitaminDSupplementForHairLoss,
   bestWigForWomenWithHairLoss,
   bestAntiFrizzSerum,
@@ -197,6 +202,7 @@ export const roundups: RoundupData[] = [
   bestShampooForColorTreatedHair,
   bestAtHomeHairColor,
   bestDysonAirwrapAlternative,
+  blackFridayHairToolDeals,
   bestDysonSupersonicAlternative,
   bestHeatedRollers,
   bestDandruffShampoo,

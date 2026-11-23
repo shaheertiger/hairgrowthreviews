@@ -188,6 +188,7 @@ export const doesPumpkinSeedOilHelpHairLoss: QuestionData = {
   ],
   relatedRoundups: [
     "best-pumpkin-seed-oil-for-hair-loss",
+    "best-pumpkin-seed-oil-capsules-for-hair-loss",
     "best-saw-palmetto-for-hair-loss",
     "best-dht-blocker",
     "best-hair-growth-oil",
