@@ -219,6 +219,7 @@ export const howToUsePumpkinSeedOilForHair: QuestionData = {
     "Using pumpkin seed oil for hair is simple. Take one 1,000 mg softgel a day with a meal, the form used in the encouraging 2014 trial, and enjoy the topical oil as a weekly pre-wash scalp massage, plain or with a few drops of rosemary. Keep the oil and minoxidil at separate times, refrigerate opened bottles, photograph your progress, and judge it at six months.",
   pillarSlug: "best-pumpkin-seed-oil-for-hair-loss",
   relatedQuestions: [
+    "how-much-pumpkin-seed-oil-should-i-take-for-hair-loss",
     "pumpkin-seed-oil-vs-rosemary-oil",
     "pumpkin-seed-oil-vs-saw-palmetto",
     "does-pumpkin-seed-oil-help-hair-loss",

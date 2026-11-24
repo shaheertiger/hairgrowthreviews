@@ -194,6 +194,8 @@ export const whatIsBatanaOil: QuestionData = {
     "Batana oil is a rich, traditional oil made from the nuts of the American oil palm by the Miskito people of Honduras. Raw batana is dark, roasted-smelling and thick, while refined batana is paler and milder. It is good for softening dry hair, reducing breakage and moisturizing skin, brows and beards. Choose pure batana from a trusted brand like Handcraft Blends, patch test, and use it once or twice a week.",
   pillarSlug: "best-batana-oil",
   relatedQuestions: [
+    "how-long-does-batana-oil-take-to-work",
+    "batana-oil-side-effects",
     "does-batana-oil-grow-hair",
     "how-to-use-batana-oil-for-hair-growth",
     "how-to-tell-if-batana-oil-is-real",

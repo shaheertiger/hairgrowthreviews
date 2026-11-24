@@ -301,6 +301,7 @@ export const bestScalpMassager: RoundupData = {
         "Four to five minutes is a sensible daily target, which is roughly what the standardized massage in the 2016 study used. In the shower, apply shampoo first, then use the brush to work it through to the skin before rinsing. On a dry scalp, the same circular motion works as a relaxing break. Consistency over months matters far more than intensity on any given day, so pick a moment you already have, such as every hair wash, and attach the habit to it.",
         "Be gentler if your hair is fragile, chemically processed, or prone to breakage. Rough brushing can snap weakened strands and tangle long hair. For textured or coily hair, many people prefer to massage with the brush on a pre-shampoo oil treatment or with conditioner in the hair, which reduces friction. If your scalp is irritated, broken or has open patches, stop until it heals.",
         "Finally, keep the massager clean. Rinse it thoroughly after each use, wash it with a little shampoo every week or two, and let it dry upright rather than sitting in a puddle on the shower floor. Silicone is easy to clean, but any tool that stays damp and coated in product can harbor residue and microbes, which is the opposite of what you want on a healthy scalp.",
+        "For a fuller walkthrough, including a set route around the scalp, wet versus dry use and how to time massage around minoxidil, see our step-by-step guide on how to use a scalp massager for hair growth.",
       ],
       pullQuote: "The goal is to move the skin of the scalp over the skull, not to scrub the surface of the hair.",
       keyPoint: "About four to five minutes a day of gentle, skin-moving circles, every day, beats occasional hard scrubbing.",
@@ -419,5 +420,5 @@ export const bestScalpMassager: RoundupData = {
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-24",
 };

@@ -262,6 +262,7 @@ export const pumpkinSeedOilVsSawPalmetto: QuestionData = {
     "Pumpkin seed oil and saw palmetto are two of the best-researched natural supplements for early pattern hair loss, and the choice between them is less important than taking one consistently. Choose pumpkin seed oil for a gentle, food-based softgel with a placebo-controlled trial, choose saw palmetto for the herbal option with the most studies, or take both in one combination softgel. Pair either with minoxidil, avoid both in pregnancy, and judge results with photos at six months.",
   pillarSlug: "best-pumpkin-seed-oil-for-hair-loss",
   relatedQuestions: [
+    "how-much-pumpkin-seed-oil-should-i-take-for-hair-loss",
     "does-pumpkin-seed-oil-help-hair-loss",
     "does-saw-palmetto-block-dht",
     "do-dht-blocker-shampoos-work",

@@ -181,6 +181,7 @@ export const doesPumpkinSeedOilHelpHairLoss: QuestionData = {
     "Pumpkin seed oil is a gentle, affordable, plant-based option for early pattern hair loss, with a placebo-controlled trial of a pumpkin seed oil capsule behind it. Take one plain softgel a day with food, give it six months, track progress with photos, and pair it with minoxidil, or discuss finasteride with a doctor, for a complete routine.",
   pillarSlug: "best-pumpkin-seed-oil-for-hair-loss",
   relatedQuestions: [
+    "how-much-pumpkin-seed-oil-should-i-take-for-hair-loss",
     "does-saw-palmetto-block-dht",
     "does-rosemary-oil-really-grow-hair",
     "do-dht-blocker-shampoos-work",

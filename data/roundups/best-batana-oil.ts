@@ -235,6 +235,7 @@ export const bestBatanaOil: RoundupData = {
         "It also transforms how hair feels. Batana's fatty acids coat and smooth the outer cuticle, which adds shine, cuts down on frizz and tangles, and makes detangling far easier. Many users with textured hair say batana gives them the softest, most manageable hair they have had.",
         "Batana's traditional use is part of its story. The Miskito communities of La Mosquitia have valued it for generations for keeping hair soft, strong and healthy-looking, and that long track record is one reason so many people are excited to try it.",
         "Batana fits easily alongside the rest of your routine. If you use minoxidil, a scalp serum or a hair growth supplement, batana works well as a weekly pre-wash treatment that keeps the lengths in great condition. Just apply minoxidil to a clean, dry scalp separately rather than mixing the two.",
+        "Results build on two timelines: softer, shinier hair after the first wash, and visibly better length retention over three to six months, because hair grows only about half an inch a month. Our guide on how long batana oil takes to work breaks that timeline down week by week.",
       ],
       pullQuote: "Batana's biggest benefit is length retention.",
       keyPoint:
@@ -303,6 +304,7 @@ export const bestBatanaOil: RoundupData = {
         "Rich oils can clog pores on acne-prone skin. If you break out easily on your forehead, temples or hairline, keep batana on the hair rather than the skin, and rinse your hairline after washing. If you have flaky, yeast-related dandruff, focus the oil on the lengths.",
         "If you notice scalp irritation, stop using it. Sudden or patchy hair loss, or loss with redness and scaling, is always worth a visit to a dermatologist.",
         "If you are pregnant or breastfeeding, a plain conditioning oil on the hair is a simple choice; for blends with essential oils, check with your doctor if unsure. Keep oils away from the eyes, and do not ingest products sold for cosmetic use.",
+        "If you want the full picture before you start, our guide to batana oil side effects covers irritation, allergy, hairline breakouts, tinting on light hair and the extra risks that come with adulterated jars.",
       ],
       pullQuote: "as with any plant oil, it is smart to patch test",
     },
@@ -394,5 +396,5 @@ export const bestBatanaOil: RoundupData = {
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
   ],
   publishedDate: "2026-10-14",
-  updatedDate: "2026-11-23",
+  updatedDate: "2026-11-24",
 };
