@@ -331,6 +331,7 @@ export const bestMinoxidilForMen: RoundupData = {
         "Differences between brands are real but cosmetic. Inactive ingredients vary slightly, which can affect how a product feels, how fast it dries, and occasionally whether it irritates. Foam nozzles and droppers differ in quality. Scent, packaging and pack size vary. None of those changes the pharmacology.",
         "Where brand loyalty does make sense is with foam. Rogaine's foam has a long track record and very consistent texture, and some men simply find it more pleasant. If the extra cost buys you consistency in using it, that can be a fair trade.",
         "For most men, a great approach is to choose a generic liquid if your scalp tolerates it and a generic or brand-name foam if it does not, and to consider adding finasteride with a doctor for the strongest combined routine.",
+        "If you are weighing a natural option instead, our comparison of rosemary oil vs. minoxidil explains why one small 2015 trial against 2% minoxidil is not enough to treat rosemary as a replacement for a 5% routine.",
       ],
       pullQuote: "Generic and brand-name minoxidil at the same strength deliver the same drug, so you can choose either with confidence.",
     },
@@ -415,5 +416,5 @@ export const bestMinoxidilForMen: RoundupData = {
     { href: "/about-hair-growth/stages-hair-loss", label: "Stages of hair loss: where are you?" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-24",
 };

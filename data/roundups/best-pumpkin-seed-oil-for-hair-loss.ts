@@ -273,6 +273,7 @@ export const bestPumpkinSeedOilForHairLoss: RoundupData = {
         "Timing within the day does not matter much, but taking an oil supplement with food can reduce the chance of an upset stomach or fishy-style burps, which some people get from oil softgels. Consistency matters more than timing.",
         "Give it at least six months. Hair grows in slow cycles, and the trial ran for 24 weeks before measuring results. Take clear photos of your hairline, crown and part in the same lighting before you start and every two months after. Without photos, slow changes are almost impossible to judge in the mirror.",
         "At around six months, compare your photos and decide how you want to continue, whether that is the softgel alone or alongside minoxidil. If your loss is progressing quickly, see a dermatologist sooner.",
+        "Our guide on how much pumpkin seed oil to take for hair loss goes further into the dose, including how to measure liquid oil instead of softgels and why larger servings have not been shown to work better.",
       ],
       pullQuote: "Give it at least six months.",
       keyPoint:
@@ -391,5 +392,5 @@ export const bestPumpkinSeedOilForHairLoss: RoundupData = {
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },
   ],
   publishedDate: "2026-10-14",
-  updatedDate: "2026-11-23",
+  updatedDate: "2026-11-24",
 };

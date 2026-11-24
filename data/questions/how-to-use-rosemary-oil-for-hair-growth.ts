@@ -214,6 +214,7 @@ export const howToUseRosemaryOilForHairGrowth: QuestionData = {
     "Using rosemary oil for hair growth is simple: dilute 6 to 12 drops per ounce of carrier oil, part your hair, massage a few drops into the scalp, leave it on for a few hours or overnight and shampoo it out, two to three times a week or more. Homemade infused oil and rosemary water are gentle extras. Patch test, keep minoxidil in its own step, and give it six months.",
   pillarSlug: "best-rosemary-oil-for-hair-growth",
   relatedQuestions: [
+    "rosemary-oil-vs-minoxidil",
     "does-tea-tree-oil-help-hair-growth",
     "how-to-use-castor-oil-for-hair-growth",
     "does-rosemary-oil-really-grow-hair",

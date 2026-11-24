@@ -221,7 +221,7 @@ export const howToTellIfBatanaOilIsReal: QuestionData = {
   bottomLine:
     "To tell if batana oil is real, check that the label lists Elaeis oleifera oil first or alone, know that raw batana is dark, smoky and thick while refined is paler and milder, and buy from an established brand with consistent, transparent listings. Blends are fine when they are clearly labeled. Patch test, store it somewhere cool and dark, and enjoy your oil.",
   pillarSlug: "best-batana-oil",
-  relatedQuestions: ["does-batana-oil-grow-hair", "batana-oil-vs-castor-oil", "batana-oil-vs-rosemary-oil", "does-castor-oil-grow-hair"],
+  relatedQuestions: ["batana-oil-side-effects", "does-batana-oil-grow-hair", "batana-oil-vs-castor-oil", "batana-oil-vs-rosemary-oil", "does-castor-oil-grow-hair"],
   relatedRoundups: [
     "best-batana-oil",
     "batana-oil-reviews",

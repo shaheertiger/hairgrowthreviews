@@ -271,6 +271,7 @@ export const bestPumpkinSeedOilCapsulesForHairLoss: RoundupData = {
         "For hair, one 1,000 mg softgel a day is enough. That is two and a half times the 400 mg used in the trial, and there is no evidence that more works better. Every single-ingredient softgel in this guide contains 1,000 mg, so the answer is the same for all of them: one a day, with a meal, at the same time each day.",
         "Where people go wrong is with serving sizes. A label that says 3,000 mg or 4,000 mg per serving almost always means two to four softgels, and following those directions gives you seven to ten times the studied dose and empties the bottle far faster. Read the Supplement Facts panel for the serving size, divide the milligrams by the number of softgels, and work out what one capsule contains.",
         "Combination products need one more step. If a product adds saw palmetto, biotin or other ingredients, work out the pumpkin seed oil per softgel separately. If the label does not tell you, assume you do not know your pumpkin seed oil dose. The table below shows how common labels translate into a per-softgel amount and the number of softgels needed to reach 400 mg.",
+        "For the full dosing picture, including the best way to take the capsules, how liquid oil compares and who should check with a doctor first, see our guide on how much pumpkin seed oil to take for hair loss.",
       ],
       pullQuote: "For hair, one 1,000 mg softgel a day is enough.",
       table: {
@@ -413,5 +414,5 @@ export const bestPumpkinSeedOilCapsulesForHairLoss: RoundupData = {
     { href: "/find-a-treatment/supplements", label: "Hair growth supplements: what the evidence shows" },
   ],
   publishedDate: "2026-11-23",
-  updatedDate: "2026-11-23",
+  updatedDate: "2026-11-24",
 };

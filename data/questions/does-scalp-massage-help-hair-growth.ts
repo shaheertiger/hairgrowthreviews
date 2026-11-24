@@ -164,6 +164,7 @@ export const doesScalpMassageHelpHairGrowth: QuestionData = {
     "Scalp massage may make existing hairs slightly thicker, with encouraging results from a small pilot study and a large self-reported survey. It is cheap, pleasant and low risk, so it is well worth making a daily habit for at least six months. Pair it with minoxidil or finasteride for pattern hair loss, and see a dermatologist for sudden or patchy loss.",
   pillarSlug: "best-scalp-massager",
   relatedQuestions: [
+    "how-to-use-a-scalp-massager-for-hair-growth",
     "does-rosemary-oil-really-grow-hair",
     "how-often-should-you-derma-roll-your-scalp",
     "how-long-does-minoxidil-take-to-work",

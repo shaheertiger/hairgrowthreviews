@@ -159,6 +159,7 @@ export const doesRosemaryOilReallyGrowHair: QuestionData = {
     "Rosemary oil is one of the most promising natural options for thinning hair, backed by a 2015 trial in which it kept pace with 2% minoxidil at six months. Dilute it properly, patch test, give it six months of consistent use, and enjoy it as a nourishing scalp-care ritual alongside any minoxidil routine you already have.",
   pillarSlug: "best-rosemary-oil-for-hair-growth",
   relatedQuestions: [
+    "rosemary-oil-vs-minoxidil",
     "how-long-does-minoxidil-take-to-work",
     "does-saw-palmetto-block-dht",
     "can-women-use-mens-minoxidil",

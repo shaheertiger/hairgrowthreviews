@@ -256,6 +256,8 @@ export const howToUseBatanaOilForHairGrowth: QuestionData = {
     "Using batana oil for hair growth is simple: choose a pure batana or a clearly labeled blend from a trusted brand, warm a small amount, apply it to dry hair with the focus on your lengths and ends, leave it on for 30 minutes to a few hours, and shampoo twice. Do it once or twice a week, keep minoxidil and rosemary in their own steps, and enjoy softer hair right away and better length retention over the months ahead.",
   pillarSlug: "best-batana-oil",
   relatedQuestions: [
+    "how-long-does-batana-oil-take-to-work",
+    "batana-oil-side-effects",
     "does-batana-oil-grow-hair",
     "how-to-tell-if-batana-oil-is-real",
     "batana-oil-vs-rosemary-oil",

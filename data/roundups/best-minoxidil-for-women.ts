@@ -262,6 +262,7 @@ export const bestMinoxidilForWomen: RoundupData = {
         "Many other causes of hair loss in women look different and need a different response. Sudden, heavy shedding all over the scalp a few months after childbirth, illness, surgery or a crash diet is usually telogen effluvium, which often settles on its own. Round, smooth bald patches suggest alopecia areata. Thinning along the hairline from tight hairstyles is traction alopecia. Low iron, thyroid problems and some medications can all cause or worsen shedding.",
         "That is why the minoxidil label tells you not to use it if your hair loss is sudden or patchy, or if you do not know the cause. If your pattern does not clearly match gradual thinning at the part and crown, a dermatologist visit and basic bloodwork, often including ferritin and thyroid tests, are worth more than any product on this page.",
         "If the pattern does fit, minoxidil is the most evidence-backed over-the-counter treatment available to you. It works best on hair that is thinning rather than gone, so starting earlier tends to give better results than waiting until the scalp is clearly visible.",
+        "Many women also ask about rosemary. Our comparison of rosemary oil vs. minoxidil explains that the trial behind rosemary's reputation included only men and compared it with 2% minoxidil, so it is best seen as an optional extra rather than a substitute.",
       ],
       pullQuote: "minoxidil is the most evidence-backed over-the-counter treatment available to you",
       keyPoint:
@@ -415,5 +416,5 @@ export const bestMinoxidilForWomen: RoundupData = {
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-24",
 };

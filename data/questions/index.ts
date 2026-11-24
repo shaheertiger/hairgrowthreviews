@@ -68,6 +68,11 @@ import { doesTestosteroneCauseHairLoss } from "./does-testosterone-cause-hair-lo
 import { howToPreventHairLoss } from "./how-to-prevent-hair-loss";
 import { doesHeadAndShouldersCauseHairLoss } from "./does-head-and-shoulders-cause-hair-loss";
 import { howMuchDoesMinoxidilCost } from "./how-much-does-minoxidil-cost";
+import { howLongDoesBatanaOilTakeToWork } from "./how-long-does-batana-oil-take-to-work";
+import { batanaOilSideEffects } from "./batana-oil-side-effects";
+import { howMuchPumpkinSeedOilShouldITakeForHairLoss } from "./how-much-pumpkin-seed-oil-should-i-take-for-hair-loss";
+import { rosemaryOilVsMinoxidil } from "./rosemary-oil-vs-minoxidil";
+import { howToUseAScalpMassagerForHairGrowth } from "./how-to-use-a-scalp-massager-for-hair-growth";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -137,4 +142,9 @@ export const questions: QuestionData[] = [
   howToPreventHairLoss,
   doesHeadAndShouldersCauseHairLoss,
   howMuchDoesMinoxidilCost,
+  howLongDoesBatanaOilTakeToWork,
+  batanaOilSideEffects,
+  howMuchPumpkinSeedOilShouldITakeForHairLoss,
+  rosemaryOilVsMinoxidil,
+  howToUseAScalpMassagerForHairGrowth,
 ];

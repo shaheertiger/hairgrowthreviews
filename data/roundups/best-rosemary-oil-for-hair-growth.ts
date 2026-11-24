@@ -291,6 +291,7 @@ export const bestRosemaryOilForHairGrowth: RoundupData = {
         "Rosemary shines in three situations. First, if minoxidil irritates your scalp even in a propylene glycol-free foam. Second, if you want a natural, drug-free option. Third, as an add-on to an existing routine for people who enjoy the ritual of scalp massage.",
         "If you combine them, keep them separate. Minoxidil works best on a clean, dry scalp, so either use rosemary oil as a pre-wash treatment and apply minoxidil after washing and drying, or apply rosemary at a different time of day once minoxidil has absorbed. Never mix rosemary or other essential oils into a minoxidil bottle.",
         "For women, the same logic applies. Women's 5% minoxidil foam is FDA-approved for female pattern hair loss, and rosemary makes a gentle companion to it. If you are pregnant, breastfeeding or planning a pregnancy, minoxidil is not recommended, and you should check any essential oil use with your doctor too.",
+        "Our full comparison of rosemary oil vs. minoxidil walks through what the 2015 trial did and did not show, including its lack of a placebo group and its use of the 2% strength rather than 5%.",
       ],
       pullQuote: "If minoxidil is working for you, keep it and add rosemary oil alongside.",
       keyPoint:
@@ -386,5 +387,5 @@ export const bestRosemaryOilForHairGrowth: RoundupData = {
     { href: "/about-hair-growth/hair-growth-encyclopedia", label: "The hair growth encyclopedia" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-24",
 };

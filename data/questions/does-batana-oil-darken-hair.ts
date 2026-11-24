@@ -205,6 +205,7 @@ export const doesBatanaOilDarkenHair: QuestionData = {
     "Batana oil makes hair look deeper, glossier and richer, and raw batana can leave a temporary warm tint on light, gray or bleached hair. It is a cosmetic boost, not a dye, so it will not change the color your hair grows in. Choose refined batana if your hair is light, strand test first, and pair it with dye or a purple shampoo if you want color too.",
   pillarSlug: "best-batana-oil",
   relatedQuestions: [
+    "batana-oil-side-effects",
     "how-to-use-batana-oil-for-hair-growth",
     "how-to-tell-if-batana-oil-is-real",
     "does-batana-oil-grow-hair",

@@ -409,6 +409,7 @@ export const batanaOilReviews: RoundupData = {
         "Even a perfectly authentic batana oil is a conditioning oil. It coats the hair, smooths the cuticle, reduces friction and helps dry, coarse or textured hair hold on to moisture. Over a few months, that means less breakage and better length retention, which many people experience as their hair finally growing. It also softens and adds shine, which is why the reviews for even modest products are often glowing.",
         "What batana has not been shown to do is regrow hair lost to pattern hair loss. There are no published clinical trials of batana for androgenetic alopecia. Listings that promise to activate follicles, fill bald spots or stop hair loss are going beyond any evidence, and a brand's willingness to make those claims is itself a small signal about how carefully it writes its label.",
         "If you are losing hair rather than breaking it, combine a good oil with a treatment that has evidence: minoxidil for most people, finasteride for men after a doctor's advice, and a dermatologist visit for sudden or patchy loss. Batana fits around those treatments well as a weekly pre-wash mask on the lengths, applied separately from minoxidil on a dry scalp.",
+        "Even a genuine jar needs time and a little care. Our guides on how long batana oil takes to work and on batana oil side effects explain what to expect week by week and how to patch test a new brand before using it all over.",
       ],
       pullQuote: "Even a perfectly authentic batana oil is a conditioning oil.",
       keyPoint:
@@ -502,5 +503,5 @@ export const batanaOilReviews: RoundupData = {
     { href: "/does-batana-oil-grow-hair", label: "Does batana oil grow hair?" },
   ],
   publishedDate: "2026-11-23",
-  updatedDate: "2026-11-23",
+  updatedDate: "2026-11-24",
 };

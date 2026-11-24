@@ -217,6 +217,7 @@ export const isRogaineTheSameAsMinoxidil: QuestionData = {
     "Rogaine is the same as minoxidil in the way that matters: it is a brand name for the drug, and FDA-approved generics like Kirkland must match it in active ingredient and strength and be made to the same quality standards. Choose a foam or liquid based on your scalp, buy products with a Drug Facts panel, and pick the brand or generic you will happily use every day. Switching to a generic of the same strength will not reset your progress.",
   pillarSlug: "best-minoxidil-for-men",
   relatedQuestions: [
+    "rosemary-oil-vs-minoxidil",
     "how-does-minoxidil-work",
     "how-long-does-minoxidil-take-to-work",
     "can-women-use-mens-minoxidil",
