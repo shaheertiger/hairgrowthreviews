@@ -73,6 +73,7 @@ import { batanaOilSideEffects } from "./batana-oil-side-effects";
 import { howMuchPumpkinSeedOilShouldITakeForHairLoss } from "./how-much-pumpkin-seed-oil-should-i-take-for-hair-loss";
 import { rosemaryOilVsMinoxidil } from "./rosemary-oil-vs-minoxidil";
 import { howToUseAScalpMassagerForHairGrowth } from "./how-to-use-a-scalp-massager-for-hair-growth";
+import { howToDetangleHairWithOil } from "./how-to-detangle-hair-with-oil";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -147,4 +148,5 @@ export const questions: QuestionData[] = [
   howMuchPumpkinSeedOilShouldITakeForHairLoss,
   rosemaryOilVsMinoxidil,
   howToUseAScalpMassagerForHairGrowth,
+  howToDetangleHairWithOil,
 ];

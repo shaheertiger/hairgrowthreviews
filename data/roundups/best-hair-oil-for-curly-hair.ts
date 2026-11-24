@@ -13,6 +13,7 @@ export const bestHairOilForCurlyHair: RoundupData = {
     "The best hair oil for curly hair is one that matches your curl pattern and porosity, and for most people that means a lightweight, fast-absorbing curl oil like Ouidad Moisture Lock Mongongo Hair Oil, our top pick. Curls are naturally drier than straight hair because the scalp's own oil has a harder time traveling down a spiral, so the ends of curly hair are often thirsty, frizzy and prone to tangles. A good oil seals in the water and leave-in conditioner you apply on wash day, so your curls stay soft, defined and glossy for longer.",
     "Oil works best as the final, sealing layer of a curly routine rather than the main source of moisture. Water hydrates, a leave-in conditioner or curl cream holds that hydration in the hair, and a thin layer of oil slows how fast it escapes. That is the idea behind the popular LOC and LCO methods, which we walk through step by step below, along with how to choose a light or heavy oil for your curl type, when to oil the scalp versus the lengths, and how to use oil as a pre-poo treatment before shampooing.",
     "We ranked the picks below on how well each oil suits curly and coily hair, texture and weight, ingredient transparency, brand reputation, value and buyer feedback. This is research-based, not a hands-on test. For a full curly routine, see our guide to the best hair products for curly hair; for pure single oils, see our argan oil and jojoba oil guides.",
+    "If frizz is your biggest curl complaint, our guide to the best hair oil for frizzy hair compares smoothing and humidity-blocking oils for every texture. For a weekly deep treatment, a warm hot oil treatment before wash day softens curls and makes detangling far easier.",
   ],
   keyTakeaways: [
     "Oil seals moisture into curls; it works best layered over water and a leave-in or curl cream, not on dry hair alone.",
@@ -385,8 +386,11 @@ export const bestHairOilForCurlyHair: RoundupData = {
     "best-argan-oil-for-hair",
     "best-hair-growth-oil",
     "best-anti-frizz-serum",
+    "best-hair-oil-for-frizzy-hair",
+    "best-hair-oil-for-dry-hair",
+    "best-hot-oil-treatment-for-hair",
   ],
   relatedGuides: [{ href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" }],
   publishedDate: "2026-11-16",
-  updatedDate: "2026-11-16",
+  updatedDate: "2026-11-24",
 };

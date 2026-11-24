@@ -13,6 +13,7 @@ export const bestHairGrowthOil: RoundupData = {
     "The best hair growth oil works by helping you keep the hair you grow. Oils have a long and genuine place in hair care: they coat the hair shaft, reduce friction and breakage, soften a dry scalp and make regular scalp massage pleasant. For people whose hair seems to stop at the same length year after year, that protection can mean visibly longer, fuller hair, because the hair is no longer snapping off as fast as it grows. That length-retention effect is the heart of why so many people love their hair oil.",
     "Each oil has its own personality. Castor oil is the beloved heavyweight for sealing moisture into thick, dry and textured hair. Rosemary oil has a small, interesting trial behind it. Pumpkin seed oil has a small trial of capsules taken by mouth, and makes a light, pleasant scalp oil. For pattern hair loss, topical minoxidil is the over-the-counter drug approved to treat it, and oils pair with it beautifully.",
     "We ranked the oils below on what each does best, how well they suit different hair and scalp types, purity and sourcing, cost per month and buyer feedback. This page covers the full range of hair oils, from single-ingredient carrier oils to ready-made blends. If you are specifically interested in rosemary, including pure essential oil and how to dilute it, our guide to the best rosemary oil for hair growth covers it in depth, and our hair growth serum roundup covers lightweight leave-on serums.",
+    "Many of the oils below also work well warmed as a hot oil treatment before washing, which is one of the easiest ways to fit an oil into a weekly routine. If your hair is fine and most oils leave it flat, our guide to the best hair oil for fine hair covers weightless styling oils for the lengths to pair with a scalp oil.",
   ],
   keyTakeaways: [
     "Hair oils' big, well-supported benefit is protecting hair from breakage so you keep more of the length you grow, for longer, fuller-looking hair.",
@@ -384,6 +385,9 @@ export const bestHairGrowthOil: RoundupData = {
     "best-castor-oil-for-hair-growth",
     "best-batana-oil",
     "best-pumpkin-seed-oil-for-hair-loss",
+    "best-hot-oil-treatment-for-hair",
+    "best-hair-oil-for-fine-hair",
+    "best-hair-oil-for-dry-hair",
   ],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

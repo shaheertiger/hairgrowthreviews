@@ -126,6 +126,10 @@ import { bestHairGrowthOilForMen } from "./best-hair-growth-oil-for-men";
 import { bestHairOilForThinningHair } from "./best-hair-oil-for-thinning-hair";
 import { bestMinoxidilFoam } from "./best-minoxidil-foam";
 import { bestSawPalmettoShampoo } from "./best-saw-palmetto-shampoo";
+import { bestHairOilForDryHair } from "./best-hair-oil-for-dry-hair";
+import { bestHairOilForFrizzyHair } from "./best-hair-oil-for-frizzy-hair";
+import { bestHotOilTreatmentForHair } from "./best-hot-oil-treatment-for-hair";
+import { bestHairOilForFineHair } from "./best-hair-oil-for-fine-hair";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -259,6 +263,10 @@ export const roundups: RoundupData[] = [
   bestHairCuttingShears,
   bestEdgeControlFor4cHair,
   bestHairOilForCurlyHair,
+  bestHairOilForDryHair,
+  bestHairOilForFrizzyHair,
+  bestHairOilForFineHair,
+  bestHotOilTreatmentForHair,
   bestShampooForThickHair,
   bestHairGelForCurlyHair,
   bestRoundBrushForFineHair,

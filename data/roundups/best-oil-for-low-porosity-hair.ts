@@ -13,6 +13,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
     "The best oils for low porosity hair are light ones, such as jojoba, argan, grapeseed and other thin seed oils, applied in small amounts to damp hair rather than poured onto dry strands. Our top pick is NOW Solutions Organic Jojoba Oil, a single-ingredient, inexpensive bottle that spreads easily and washes out without a fight. Heavy oils and butters like castor oil and shea are not banned, but on hair that already struggles to absorb anything, they are the products most likely to leave you with a coated, greasy feel and limp curls.",
     "Low porosity simply means the outer layer of the hair, the cuticle, lies flat and tight. That is not a defect; it often means the hair is relatively undamaged. But it changes how products behave. Water beads up before it soaks in, conditioners seem to sit on top, and anything rich builds up quickly. Choosing the right oil, and putting it on at the right moment, is most of the battle.",
     "We ranked the picks below on oil weight, label clarity, whether the product is a pure oil or a formulated serum, ease of washing out, value and buyer feedback. This is research-based, not a hands-on test. Two of the best-known argan products, Moroccanoil Treatment and OGX Argan Oil of Morocco, are included, and we explain exactly what they are: silicone serums with argan oil added, which makes them excellent finishers for frizz and shine. Every product here focuses on conditioning and protecting hair; for thinning, our hair growth guides pair well with them.",
+    "Gentle warmth helps low porosity hair take in oil, which is why a short hot oil treatment under a cap is popular with low porosity routines; our guide to the best hot oil treatment for hair covers how to do one safely. If your low porosity hair is also fine, our guide to the best hair oil for fine hair covers the lightest styling oils.",
   ],
   keyTakeaways: [
     "Low porosity hair does best with light oils such as jojoba, argan and grapeseed. Heavy castor oil, shea and thick butters tend to sit on top and build up.",
@@ -400,8 +401,11 @@ export const bestOilForLowPorosityHair: RoundupData = {
     "best-hair-products-for-4c-hair",
     "best-black-hair-care-products",
     "best-leave-in-conditioner",
+    "best-hot-oil-treatment-for-hair",
+    "best-hair-oil-for-fine-hair",
+    "best-hair-oil-for-dry-hair",
   ],
   relatedGuides: [{ href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" }],
   publishedDate: "2026-11-08",
-  updatedDate: "2026-11-08",
+  updatedDate: "2026-11-24",
 };

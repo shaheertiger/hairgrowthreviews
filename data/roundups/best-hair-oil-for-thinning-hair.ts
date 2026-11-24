@@ -394,6 +394,7 @@ export const bestHairOilForThinningHair: RoundupData = {
     "best-shampoo-for-thinning-hair",
     "best-batana-oil-shampoo-and-conditioner",
     "best-minoxidil-foam",
+    "best-hair-oil-for-fine-hair",
   ],
   relatedReviewSlugs: ["aveda-invati-scalp-revitalizer"],
   relatedGuides: [

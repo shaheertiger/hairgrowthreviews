@@ -22,6 +22,7 @@ export const howToUseArganOilForHair: QuestionData = {
     "How to use argan oil for hair is one of the most practical questions in hair care, because the answer changes how much you love it. Use two drops on damp ends and argan gives you soft, glossy, frizz-free hair in seconds. Pour on a tablespoon before a meeting and even this famously light oil will leave fine hair flat. The right method and the right amount make all the difference.",
     "The good news is that argan is one of the easiest oils to get right. It is lighter than coconut or castor oil, it sinks in quickly, and it suits almost every hair type in the right dose. It works as a finishing oil, a pre-wash treatment, an overnight mask, a scalp massage oil and a booster for your conditioner, so one bottle can cover a lot of your routine.",
     "Below, we explain what argan oil is, what it does for hair, how it differs from argan shampoos and serums, six ways to use it, how much to use by hair length, how often, and how to adjust for fine, thick, curly and color-treated hair. If you are choosing a bottle, our guide to the best argan oil for hair ranks pure oils from Cliganic, Handcraft Blends, PURA D'OR and Josie Maran alongside the Moroccanoil and OGX serums.",
+    "Argan is a smart choice for frizz and for fine hair alike. Our guides to the best hair oil for frizzy hair and the best hair oil for fine hair compare pure argan with the formulated oils built on it.",
   ],
   sections: [
     {
@@ -209,6 +210,7 @@ export const howToUseArganOilForHair: QuestionData = {
     "how-to-use-batana-oil-for-hair-growth",
     "does-castor-oil-grow-hair",
     "how-to-make-your-hair-grow-faster",
+    "how-to-detangle-hair-with-oil",
   ],
   relatedRoundups: [
     "best-argan-oil-for-hair",
@@ -217,11 +219,13 @@ export const howToUseArganOilForHair: QuestionData = {
     "best-hair-treatment-for-damaged-hair",
     "best-jojoba-oil-for-hair",
     "best-hair-oil-for-curly-hair",
+    "best-hair-oil-for-frizzy-hair",
+    "best-hair-oil-for-fine-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle, explained" },
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
   ],
   publishedDate: "2026-11-20",
-  updatedDate: "2026-11-20",
+  updatedDate: "2026-11-24",
 };

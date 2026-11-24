@@ -22,6 +22,7 @@ export const howOftenShouldYouOilYourHair: QuestionData = {
     "How often should you oil your hair? It is a question with a different answer for almost everyone, which is why it causes so much confusion. Some people swear by oiling every night, others oil once a week before washing, and plenty of people with fine hair have tried oil once, found it left their roots flat and greasy, and given up.",
     "The secret is matching the rhythm to your hair. Oils coat the hair shaft, reduce friction and breakage and soften a dry scalp, which helps hair keep more of the length it grows. How often you can enjoy those benefits depends on your hair texture, how oily your scalp is, how porous your strands are and which oil you choose. Get the match right and oiling becomes a relaxing ritual that leaves hair softer, shinier and stronger. Get it wrong and you end up with buildup.",
     "This guide walks through how often to oil each hair and scalp type, how much to use, how long to leave it on, the signs you are oiling too much or too little, and sample weekly schedules you can copy. If you are choosing an oil, our guide to the best hair growth oil ranks Mielle, Sky Organics, Tropic Isle Living, Fable & Mane, PURA D'OR and NOW on scalp fit, texture, purity and value.",
+    "How often you oil also depends on what the oil is for. A few drops of a finishing oil for dry hair can go on daily, while a hot oil treatment or a pre-wash detangling session is usually a once-a-week job.",
   ],
   sections: [
     {
@@ -214,6 +215,7 @@ export const howOftenShouldYouOilYourHair: QuestionData = {
     "does-castor-oil-grow-hair",
     "does-scalp-massage-help-hair-growth",
     "does-pumpkin-seed-oil-help-hair-loss",
+    "how-to-detangle-hair-with-oil",
   ],
   relatedRoundups: [
     "best-hair-oil-for-thinning-hair",
@@ -226,6 +228,9 @@ export const howOftenShouldYouOilYourHair: QuestionData = {
     "best-argan-oil-for-hair",
     "best-oil-for-low-porosity-hair",
     "best-hair-oil-for-curly-hair",
+    "best-hair-oil-for-dry-hair",
+    "best-hot-oil-treatment-for-hair",
+    "best-hair-oil-for-fine-hair",
   ],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
