@@ -403,6 +403,7 @@ export const bestMinoxidilForMen: RoundupData = {
   bottomLine:
     "Every product on this list contains the same FDA-approved 5% minoxidil, so the best choice is the one you will use twice a day for years. Men's Rogaine Foam is the easiest and least irritating to live with. If your scalp handles liquid, Kirkland Signature 5% Solution delivers the same drug for a fraction of the cost.",
   relatedRoundups: [
+    "best-minoxidil-foam",
     "best-minoxidil-for-women",
     "best-dht-blocker-shampoo",
     "best-hair-growth-products-for-men",

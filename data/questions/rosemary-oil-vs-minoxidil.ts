@@ -172,6 +172,8 @@ export const rosemaryOilVsMinoxidil: QuestionData = {
     "minoxidil-foam-vs-liquid",
   ],
   relatedRoundups: [
+    "best-hair-growth-oil-for-men",
+    "best-minoxidil-foam",
     "best-rosemary-oil-for-hair-growth",
     "best-minoxidil-for-men",
     "best-minoxidil-for-women",

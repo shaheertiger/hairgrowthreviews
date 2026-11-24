@@ -364,6 +364,7 @@ export const bestDhtBlockerShampoo: RoundupData = {
   bottomLine:
     "The best DHT blocker shampoo for most people is a ketoconazole shampoo like Nizoral, used two or three times a week. Caffeine shampoos such as Alpecin C1 make great daily companions, and botanical blends like Pura d'Or are a treat for natural hair-care fans. Pair your favorite with minoxidil and, if you choose, a doctor-guided plan that includes finasteride for a complete routine.",
   relatedRoundups: [
+    "best-saw-palmetto-shampoo",
     "best-ketoconazole-shampoo",
     "best-saw-palmetto-for-hair-loss",
     "best-hair-growth-shampoo",
@@ -378,5 +379,5 @@ export const bestDhtBlockerShampoo: RoundupData = {
     { href: "/about-hair-growth/stages-hair-loss", label: "Stages of hair loss: where are you?" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-24",
 };

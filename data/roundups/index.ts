@@ -121,6 +121,11 @@ import { bestHairBonnetForSleeping } from "./best-hair-bonnet-for-sleeping";
 import { batanaOilReviews } from "./batana-oil-reviews";
 import { bestPumpkinSeedOilCapsulesForHairLoss } from "./best-pumpkin-seed-oil-capsules-for-hair-loss";
 import { blackFridayHairToolDeals } from "./black-friday-hair-tool-deals";
+import { bestBatanaOilShampooAndConditioner } from "./best-batana-oil-shampoo-and-conditioner";
+import { bestHairGrowthOilForMen } from "./best-hair-growth-oil-for-men";
+import { bestHairOilForThinningHair } from "./best-hair-oil-for-thinning-hair";
+import { bestMinoxidilFoam } from "./best-minoxidil-foam";
+import { bestSawPalmettoShampoo } from "./best-saw-palmetto-shampoo";
 
 export const roundupHubs: RoundupData["hub"][] = [
   "Hair Growth & Hair Loss",
@@ -133,6 +138,7 @@ export const roundupHubs: RoundupData["hub"][] = [
 export const roundups: RoundupData[] = [
   bestHairGrowthProducts,
   bestMinoxidilForMen,
+  bestMinoxidilFoam,
   bestBeardGrowthOil,
   bestEyelashGrowthSerum,
   bestEyebrowGrowthSerum,
@@ -144,11 +150,14 @@ export const roundups: RoundupData[] = [
   bestConditionerForThinningHair,
   bestHairGrowthVitamins,
   bestSawPalmettoForHairLoss,
+  bestSawPalmettoShampoo,
   bestPostpartumHairLossProducts,
   bestHairFibersForThinningHair,
   bestHairThickeningProducts,
   bestHairGrowthSerum,
   bestHairGrowthOil,
+  bestHairGrowthOilForMen,
+  bestHairOilForThinningHair,
   bestRosemaryOilForHairGrowth,
   bestLaserCapForHairGrowth,
   bestDermaRollerForHairGrowth,
@@ -189,6 +198,7 @@ export const roundups: RoundupData[] = [
   bestBiotinForHairGrowth,
   bestBatanaOil,
   batanaOilReviews,
+  bestBatanaOilShampooAndConditioner,
   bestCastorOilForHairGrowth,
   bestPumpkinSeedOilForHairLoss,
   bestPumpkinSeedOilCapsulesForHairLoss,

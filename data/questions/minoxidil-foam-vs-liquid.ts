@@ -246,6 +246,7 @@ export const minoxidilFoamVsLiquid: QuestionData = {
     "minoxidil-shedding-how-long-does-it-last",
   ],
   relatedRoundups: [
+    "best-minoxidil-foam",
     "best-minoxidil-for-men",
     "best-minoxidil-for-women",
     "best-hair-growth-products",
@@ -257,5 +258,5 @@ export const minoxidilFoamVsLiquid: QuestionData = {
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle, explained" },
   ],
   publishedDate: "2026-11-19",
-  updatedDate: "2026-11-19",
+  updatedDate: "2026-11-24",
 };

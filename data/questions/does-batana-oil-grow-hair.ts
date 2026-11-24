@@ -183,6 +183,7 @@ export const doesBatanaOilGrowHair: QuestionData = {
     "how-long-does-minoxidil-take-to-work",
   ],
   relatedRoundups: [
+    "best-batana-oil-shampoo-and-conditioner",
     "best-batana-oil",
     "best-castor-oil-for-hair-growth",
     "best-hair-growth-oil",
@@ -193,5 +194,5 @@ export const doesBatanaOilGrowHair: QuestionData = {
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle, explained" },
   ],
   publishedDate: "2026-10-24",
-  updatedDate: "2026-11-16",
+  updatedDate: "2026-11-24",
 };

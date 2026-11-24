@@ -403,6 +403,7 @@ export const bestMinoxidilForWomen: RoundupData = {
   bottomLine:
     "Every product here contains the same FDA-approved drug, so the best minoxidil for women is the one you will use consistently for years. Women's Rogaine 5% Foam is the easiest to live with thanks to once-daily dosing and a propylene glycol-free formula. Once you know foam suits you, Kirkland's women's foam delivers the same drug for less. Avoid minoxidil during pregnancy and breastfeeding.",
   relatedRoundups: [
+    "best-minoxidil-foam",
     "best-minoxidil-for-men",
     "best-hair-growth-products-for-women",
     "best-shampoo-for-thinning-hair",

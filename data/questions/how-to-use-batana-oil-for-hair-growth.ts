@@ -265,6 +265,7 @@ export const howToUseBatanaOilForHairGrowth: QuestionData = {
     "does-scalp-massage-help-hair-growth",
   ],
   relatedRoundups: [
+    "best-batana-oil-shampoo-and-conditioner",
     "best-batana-oil",
     "best-hair-growth-oil",
     "best-rosemary-oil-for-hair-growth",
@@ -276,5 +277,5 @@ export const howToUseBatanaOilForHairGrowth: QuestionData = {
     { href: "/the-hgr-regimen", label: "The HGR regimen" },
   ],
   publishedDate: "2026-11-19",
-  updatedDate: "2026-11-19",
+  updatedDate: "2026-11-24",
 };

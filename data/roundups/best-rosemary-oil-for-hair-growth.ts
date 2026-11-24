@@ -375,6 +375,8 @@ export const bestRosemaryOilForHairGrowth: RoundupData = {
   bottomLine:
     "Rosemary oil is a promising, low-cost, drug-free scalp ritual with an encouraging trial behind it, and it pairs beautifully with minoxidil. Plant Therapy's pure oil is the best pick if you will dilute it yourself, and Kitsch's blend is the easiest ready-to-use option. Dilute properly, patch test, and give it at least six months.",
   relatedRoundups: [
+    "best-hair-growth-oil-for-men",
+    "best-hair-oil-for-thinning-hair",
     "best-hair-growth-oil",
     "best-hair-growth-serum",
     "best-minoxidil-for-men",

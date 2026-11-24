@@ -180,6 +180,7 @@ export const doDhtBlockerShampoosWork: QuestionData = {
     "does-pumpkin-seed-oil-help-hair-loss",
   ],
   relatedRoundups: [
+    "best-saw-palmetto-shampoo",
     "best-dht-blocker-shampoo",
     "best-ketoconazole-shampoo",
     "best-dht-blocker",
@@ -190,5 +191,5 @@ export const doDhtBlockerShampoosWork: QuestionData = {
     { href: "/about-hair-growth/stages-hair-loss", label: "The stages of hair loss" },
   ],
   publishedDate: "2026-10-24",
-  updatedDate: "2026-10-24",
+  updatedDate: "2026-11-24",
 };

@@ -166,6 +166,7 @@ export const doesRosemaryOilReallyGrowHair: QuestionData = {
     "does-biotin-really-help-hair-growth",
   ],
   relatedRoundups: [
+    "best-hair-growth-oil-for-men",
     "best-rosemary-oil-for-hair-growth",
     "best-hair-growth-oil",
     "best-minoxidil-for-men",
@@ -176,5 +177,5 @@ export const doesRosemaryOilReallyGrowHair: QuestionData = {
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle, explained" },
   ],
   publishedDate: "2026-10-14",
-  updatedDate: "2026-10-14",
+  updatedDate: "2026-11-24",
 };

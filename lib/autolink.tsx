@@ -24,6 +24,8 @@ const A = "['’]"; // straight or curly apostrophe
 
 const rules: Rule[] = [
   // Treatments & ingredients
+  { pattern: "minoxidil foam (?:vs\\.?|versus) (?:liquid|solution)|foam (?:vs\\.?|versus) liquid", targets: ["/minoxidil-foam-vs-liquid"] },
+  { pattern: "(?:5% )?minoxidil foams?|rogaine foams?", targets: ["/best-minoxidil-foam", "/minoxidil-foam-vs-liquid"] },
   { pattern: "minoxidil shedding|dread shed", targets: ["/minoxidil-shedding-how-long-does-it-last"] },
   { pattern: "minoxidil for women|women" + A + "s minoxidil", targets: ["/best-minoxidil-for-women", "/can-women-use-mens-minoxidil"] },
   { pattern: "men" + A + "s minoxidil|minoxidil for men", targets: ["/best-minoxidil-for-men", "/can-women-use-mens-minoxidil"] },
@@ -37,6 +39,7 @@ const rules: Rule[] = [
   { pattern: "dht blockers?", targets: ["/best-dht-blocker", "/does-saw-palmetto-block-dht"] },
   { pattern: "nizoral(?: a-d)?", targets: [reviewHref("nizoral-d-anti-dandruff-shampoo"), "/best-ketoconazole-shampoo"] },
   { pattern: "ketoconazole(?: shampoos?)?", targets: ["/best-ketoconazole-shampoo", "/can-you-use-minoxidil-and-ketoconazole-together"] },
+  { pattern: "saw palmetto (?:shampoos?|sprays?)", targets: ["/best-saw-palmetto-shampoo"] },
   { pattern: "saw palmetto", targets: ["/best-saw-palmetto-for-hair-loss", "/does-saw-palmetto-block-dht"] },
   { pattern: "how much biotin", targets: ["/how-much-biotin-should-i-take-for-hair-growth"] },
   { pattern: "biotin", targets: ["/best-biotin-for-hair-growth", "/does-biotin-really-help-hair-growth", "/how-much-biotin-should-i-take-for-hair-growth"] },
@@ -48,6 +51,7 @@ const rules: Rule[] = [
   { pattern: "pumpkin seed oil", targets: ["/best-pumpkin-seed-oil-for-hair-loss", "/how-to-use-pumpkin-seed-oil-for-hair", "/how-much-pumpkin-seed-oil-should-i-take-for-hair-loss"] },
   { pattern: "how to use castor oil", targets: ["/how-to-use-castor-oil-for-hair-growth"] },
   { pattern: "castor oil", targets: ["/best-castor-oil-for-hair-growth", "/does-castor-oil-grow-hair", "/how-to-use-castor-oil-for-hair-growth"] },
+  { pattern: "batana (?:oil )?(?:shampoos?|conditioners?)|batana hair products", targets: ["/best-batana-oil-shampoo-and-conditioner"] },
   { pattern: "batana oil reviews|batana (?:oil )?brands", targets: ["/batana-oil-reviews", "/how-to-tell-if-batana-oil-is-real"] },
   { pattern: "how long (?:does )?batana oil (?:takes?|to work)|batana oil timeline", targets: ["/how-long-does-batana-oil-take-to-work"] },
   { pattern: "batana oil side effects|side effects of batana oil", targets: ["/batana-oil-side-effects"] },
@@ -118,6 +122,8 @@ const rules: Rule[] = [
   { pattern: "keratin[- ]treated hair|keratin (?:treatments?|blowouts?)", targets: ["/best-shampoo-for-keratin-treated-hair"] },
   { pattern: "hair growth serums?", targets: ["/best-hair-growth-serum"] },
   { pattern: "hair growth shampoos?", targets: ["/best-hair-growth-shampoo"] },
+  { pattern: "hair (?:growth )?oils? for men|men" + A + "s hair (?:growth )?oils?", targets: ["/best-hair-growth-oil-for-men"] },
+  { pattern: "(?:hair |scalp )?oils? for thinning hair", targets: ["/best-hair-oil-for-thinning-hair"] },
   { pattern: "hair growth oils?", targets: ["/best-hair-growth-oil"] },
   { pattern: "shampoos? for thinning hair", targets: ["/best-shampoo-for-thinning-hair"] },
   { pattern: "conditioners? for thinning hair", targets: ["/best-conditioner-for-thinning-hair"] },

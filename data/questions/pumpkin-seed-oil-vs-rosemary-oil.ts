@@ -239,6 +239,7 @@ export const pumpkinSeedOilVsRosemaryOil: QuestionData = {
     "does-saw-palmetto-block-dht",
   ],
   relatedRoundups: [
+    "best-hair-growth-oil-for-men",
     "best-pumpkin-seed-oil-for-hair-loss",
     "best-rosemary-oil-for-hair-growth",
     "best-hair-growth-oil",
@@ -249,5 +250,5 @@ export const pumpkinSeedOilVsRosemaryOil: QuestionData = {
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },
   ],
   publishedDate: "2026-11-20",
-  updatedDate: "2026-11-20",
+  updatedDate: "2026-11-24",
 };

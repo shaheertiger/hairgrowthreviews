@@ -406,6 +406,8 @@ export const bestHairGrowthProductsForMen: RoundupData = {
   bottomLine:
     "The best hair growth products for men start with minoxidil: Men's Rogaine 5% Foam for comfort, or Kirkland's 5% solution for value. Pair it with a doctor's advice on finasteride, then add ketoconazole shampoo, microneedling or a laser cap if you want more. Use saw palmetto and hair fibers as optional support, and judge everything over months, not weeks.",
   relatedRoundups: [
+    "best-hair-growth-oil-for-men",
+    "best-minoxidil-foam",
     "best-minoxidil-for-men",
     "best-ketoconazole-shampoo",
     "best-laser-cap-for-hair-growth",
@@ -421,5 +423,5 @@ export const bestHairGrowthProductsForMen: RoundupData = {
     { href: "/find-a-treatment/supplements", label: "Hair growth supplements: what the evidence shows" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-24",
 };

@@ -12,7 +12,7 @@ export const bestBatanaOil: RoundupData = {
   intro: [
     "The best batana oil is a pure, rich product from a trusted brand, used as a deep conditioning treatment for dry, brittle or textured hair. Batana oil comes from the nut of the American oil palm, and it has been used for generations by the Miskito people of Honduras's Mosquitia coast to care for their hair and skin. Social media turned it into a sensation, with thousands of people sharing how much softer, shinier and longer-looking their hair became after making it part of their routine.",
     "Like the best plant oils, batana coats the hair shaft, smooths the cuticle, reduces friction and helps dry, coarse or textured hair hold on to moisture. The result is hair that feels softer, breaks less and keeps more of its length over time, which is exactly why so many people with curly, coily and natural hair swear by it. It works beautifully alongside the rest of your routine, from your favorite leave-in conditioner to a scalp serum or minoxidil if you use one.",
-    "Because batana became so popular so quickly, there are a lot of bottles to choose from. We ranked the picks below on the reputation of the brand, label transparency, whether the product is pure batana or a clearly labeled blend, value and buyer feedback. This is research-based, not a hands-on test. For a wider look at hair oils, see our guide to the best hair growth oil; for castor oil specifically, see our castor oil guide. If you already have a brand in mind, such as KONEO, OLCG, FVNA or DCXC, our brand-by-brand batana oil reviews check each listing for signs of real 100% batana.",
+    "Because batana became so popular so quickly, there are a lot of bottles to choose from. We ranked the picks below on the reputation of the brand, label transparency, whether the product is pure batana or a clearly labeled blend, value and buyer feedback. This is research-based, not a hands-on test. For a wider look at hair oils, see our guide to the best hair growth oil; for castor oil specifically, see our castor oil guide. If you already have a brand in mind, such as KONEO, OLCG, FVNA or DCXC, our brand-by-brand batana oil reviews check each listing for signs of real 100% batana. And if you want batana in your wash-day routine too, our guide to the best batana oil shampoo and conditioner ranks Cantu, Sunny Isle, Gypsophila, ELEGO and more.",
   ],
   keyTakeaways: [
     "Batana oil is a rich, traditional conditioning oil that softens dry hair, reduces breakage and helps you retain length.",
@@ -383,6 +383,7 @@ export const bestBatanaOil: RoundupData = {
   bottomLine:
     "Batana oil is a traditional, genuinely lovely conditioning oil that leaves dry and textured hair softer, shinier and stronger, so you keep more of the length you grow. Buy pure batana from a trusted brand like Handcraft Blends, or try Majestic Pure if price matters most. Use it before washing once or twice a week and enjoy the results.",
   relatedRoundups: [
+    "best-batana-oil-shampoo-and-conditioner",
     "batana-oil-reviews",
     "best-hair-growth-oil",
     "best-castor-oil-for-hair-growth",
