@@ -13,6 +13,7 @@ export const bestCoconutOilForHair: RoundupData = {
     "The best coconut oil for hair is a pure, unrefined, cold-pressed virgin coconut oil, and our top pick is Viva Naturals Organic Coconut Oil, a USDA Organic extra virgin oil that makes a wonderful pre-wash treatment at a very low price. Coconut oil has been used on hair for generations across South Asia, the Pacific and the Caribbean, and it remains a favorite because it does so many things well: it softens dry hair, adds shine, tames frizz and makes hair easier to detangle.",
     "It also has something many hair oils do not: real laboratory research behind its reputation. Coconut oil is rich in lauric acid, a small fatty acid with a straight shape and an affinity for hair protein, and studies suggest it can penetrate the hair shaft rather than simply coating it. Research comparing hair oils found that coconut oil applied before washing helped reduce the protein hair loses during washing and combing, which is why a pre-wash coconut oil treatment is such a popular way to keep hair strong, smooth and less prone to breakage.",
     "We ranked the picks below on purity, processing (virgin, refined or fractionated), organic certification, value, brand reputation and buyer feedback, and we included lighter fractionated oils and ready-made coconut treatments for people who want something easier to use. This is research-based, not a hands-on test. For a wider look at hair oils, see our guide to the best hair growth oil; for richer traditional oils, see our batana oil guide.",
+    "Coconut oil is also the classic base for a homemade hot oil treatment, and one of the best oils to detangle hair with before wash day, because it adds slip to dry hair and protects it during washing.",
   ],
   keyTakeaways: [
     "Coconut oil softens, smooths and adds shine, and research suggests it helps reduce protein loss when used before washing.",
@@ -386,11 +387,13 @@ export const bestCoconutOilForHair: RoundupData = {
     "best-hair-treatment-for-damaged-hair",
     "best-leave-in-conditioner",
     "best-castor-oil-for-hair-growth",
+    "best-hot-oil-treatment-for-hair",
+    "best-hair-oil-for-dry-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
   ],
   publishedDate: "2026-11-16",
-  updatedDate: "2026-11-16",
+  updatedDate: "2026-11-24",
 };

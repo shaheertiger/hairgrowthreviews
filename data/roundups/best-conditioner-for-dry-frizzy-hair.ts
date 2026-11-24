@@ -396,8 +396,10 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
     "best-hair-products-for-curly-hair",
     "best-sulfate-free-shampoo",
     "best-oil-for-low-porosity-hair",
+    "best-hair-oil-for-dry-hair",
+    "best-hair-oil-for-frizzy-hair",
   ],
   relatedGuides: [{ href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" }],
   publishedDate: "2026-11-08",
-  updatedDate: "2026-11-08",
+  updatedDate: "2026-11-24",
 };

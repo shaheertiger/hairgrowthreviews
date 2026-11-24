@@ -22,6 +22,7 @@ export const isCoconutOilGoodForYourHair: QuestionData = {
     "Is coconut oil good for your hair? For most people, the answer is a happy yes. Coconut oil has been used on hair for generations across South Asia, the Pacific and the Caribbean, and it has kept its place in modern routines for a simple reason: it works. It softens dry hair, adds shine, tames frizz and makes detangling noticeably easier.",
     "What makes coconut oil special is that it has real laboratory research behind its reputation. Most oils sit on the surface of the hair, but coconut oil's main fatty acid is small and straight enough to travel into the strand. Studies suggest that a coat of coconut oil before washing helps hair hold on to its protein, which is what gives each strand its strength.",
     "Below, we explain what coconut oil does for your hair, what the research found, how it helps with hair growth and length, who it suits best, which type to buy, and exactly how to use it, from a simple pre-wash mask to an overnight treatment and a light finishing touch. If you are ready to buy a jar, our guide to the best coconut oil for hair ranks the top options, led by Viva Naturals Organic Coconut Oil.",
+    "Coconut oil is also a favorite for detangling hair with oil before wash day, including matted hair, and it is the classic base for a homemade hot oil treatment.",
   ],
   sections: [
     {
@@ -208,6 +209,7 @@ export const isCoconutOilGoodForYourHair: QuestionData = {
     "does-dandruff-cause-hair-loss",
     "can-an-itchy-scalp-cause-hair-loss",
     "how-long-does-minoxidil-take-to-work",
+    "how-to-detangle-hair-with-oil",
   ],
   relatedRoundups: [
     "best-coconut-oil-for-hair",
@@ -216,11 +218,13 @@ export const isCoconutOilGoodForYourHair: QuestionData = {
     "best-hair-oil-for-curly-hair",
     "best-argan-oil-for-hair",
     "best-jojoba-oil-for-hair",
+    "best-hot-oil-treatment-for-hair",
+    "best-hair-oil-for-dry-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle, explained" },
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
   ],
   publishedDate: "2026-11-20",
-  updatedDate: "2026-11-20",
+  updatedDate: "2026-11-24",
 };

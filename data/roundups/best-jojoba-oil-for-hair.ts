@@ -13,6 +13,7 @@ export const bestJojobaOilForHair: RoundupData = {
     "The best jojoba oil for hair is a pure, cold-pressed, organic jojoba from an established brand, and our top pick is NOW Solutions Organic Jojoba Oil. Jojoba is pressed from the seeds of a hardy desert shrub, and it is unusual among hair oils: it is technically a liquid wax rather than a true oil, and its structure is remarkably similar to sebum, the natural oil your scalp produces. That is why it feels so light, absorbs so easily and suits fine hair and the scalp better than most heavier oils.",
     "If thick oils like castor, coconut or batana leave your hair flat and greasy, jojoba is the one to try. A few drops smooth frizz, add soft shine and protect the ends from breakage, and it makes a lovely, comfortable scalp massage oil that rinses out easily. It is also the go-to carrier for diluting essential oils such as rosemary, so it slots into almost any routine, from a simple pre-wash treatment to a nightly scalp massage.",
     "Pure jojoba is widely available, so the main things that separate one bottle from another are purity, organic certification, processing, size and price. We ranked the picks below on those factors plus brand reputation and buyer feedback. This is research-based, not a hands-on test. For a broader look at hair oils, see our guide to the best hair growth oil, and if your hair resists absorbing products, our guide to the best oil for low porosity hair explains why light oils like jojoba work so well.",
+    "Because it is so light, jojoba is one of the few pure oils that suits fine hair; our guide to the best hair oil for fine hair compares it with weightless styling oils. It is also a good, light base for a hot oil treatment on low porosity hair.",
   ],
   keyTakeaways: [
     "Jojoba is a lightweight liquid wax that closely resembles your scalp's natural sebum, so it conditions without heaviness.",
@@ -379,11 +380,13 @@ export const bestJojobaOilForHair: RoundupData = {
     "best-castor-oil-for-hair-growth",
     "best-batana-oil",
     "best-scalp-massager",
+    "best-hair-oil-for-fine-hair",
+    "best-hot-oil-treatment-for-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
   ],
   publishedDate: "2026-11-16",
-  updatedDate: "2026-11-16",
+  updatedDate: "2026-11-24",
 };

@@ -23,6 +23,7 @@ export const howToUseBatanaOilForHairGrowth: QuestionData = {
     "Batana oil for hair has become one of the most searched hair care topics of the past couple of years, and for good reason. This thick, traditional oil from the American oil palm leaves hair noticeably softer and shinier, and by protecting strands from breakage it helps you hold on to more of the length you grow. The question most people have after buying a jar is simple: how do I actually use it?",
     "The good news is that a batana hair oil routine takes only a few minutes of hands-on time. The details matter, though. How much you use, where you put it, how long you leave it on and how you wash it out make the difference between hair that feels silky and hair that feels greasy. Your hair type matters too, since fine waves and 4c coils want very different amounts.",
     "Below is a complete, step-by-step guide to using batana oil for hair growth, including how to choose the right type of bottle, how much and how often to use it, overnight treatments, warming a solid jar, washing it out, and pairing it with rosemary oil or minoxidil. If you still want to know whether batana is worth trying in the first place, our article on whether batana oil grows hair covers that in depth, and our guide to the best batana oil ranks the bottles we recommend.",
+    "Because it melts with gentle warmth, batana fits naturally into a hot oil treatment, and a well-oiled pre-wash session is also the easiest time to detangle hair with oil before you shampoo.",
   ],
   sections: [
     {
@@ -263,6 +264,7 @@ export const howToUseBatanaOilForHairGrowth: QuestionData = {
     "batana-oil-vs-rosemary-oil",
     "batana-oil-vs-castor-oil",
     "does-scalp-massage-help-hair-growth",
+    "how-to-detangle-hair-with-oil",
   ],
   relatedRoundups: [
     "best-batana-oil-shampoo-and-conditioner",
@@ -270,6 +272,7 @@ export const howToUseBatanaOilForHairGrowth: QuestionData = {
     "best-hair-growth-oil",
     "best-rosemary-oil-for-hair-growth",
     "best-hair-products-for-4c-hair",
+    "best-hot-oil-treatment-for-hair",
   ],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

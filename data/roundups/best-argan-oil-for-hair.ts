@@ -13,6 +13,7 @@ export const bestArganOilForHair: RoundupData = {
     "The best argan oil for hair is a 100% pure, cold-pressed argan oil from a trusted brand, and our top pick is Cliganic Organic Argan Oil: USDA-certified organic, single-ingredient, and light enough to use on everything from the scalp to dry ends. Argan oil comes from the kernels of the argan tree, which grows in southwestern Morocco, and it has become one of the most loved hair oils in the world because it softens, smooths and adds shine without the heavy feel of thicker oils.",
     "There are two kinds of argan product for hair, and both are wonderful. Pure argan oil is a single-ingredient plant oil you can use as a pre-wash treatment, a scalp massage oil, a carrier for essential oils or a few drops on damp ends. Argan hair oils like Moroccanoil Treatment and OGX Argan Oil of Morocco are formulated serums that combine argan with silky, fast-absorbing ingredients for instant frizz control and gloss. Many people keep one of each.",
     "We ranked the picks below on purity and labeling, brand reputation, texture, value and buyer feedback, and we included both styles so you can choose the one that fits your routine. This is research-based, not a hands-on test. If you are looking for an oil for scalp care, see our guide to the best essential oils for hair growth, which uses argan as one of its favorite carrier oils.",
+    "Argan is also the base of many of the best oils for specific hair concerns. If dryness is your main problem, see our guide to the best hair oil for dry hair; if it is frizz, our guide to the best hair oil for frizzy hair compares smoothing and humidity-blocking oils alongside pure argan.",
   ],
   keyTakeaways: [
     "Argan oil is a light, nourishing Moroccan oil that softens hair, tames frizz, adds shine and helps reduce breakage.",
@@ -382,11 +383,14 @@ export const bestArganOilForHair: RoundupData = {
     "best-oil-for-low-porosity-hair",
     "best-essential-oils-for-hair-growth",
     "best-castor-oil-for-hair-growth",
+    "best-hair-oil-for-dry-hair",
+    "best-hair-oil-for-frizzy-hair",
+    "best-hair-oil-for-fine-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },
   ],
   publishedDate: "2026-11-16",
-  updatedDate: "2026-11-16",
+  updatedDate: "2026-11-24",
 };

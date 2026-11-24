@@ -13,6 +13,7 @@ export const bestHairDetangler: RoundupData = {
     "The best hair detangler is a conditioning spray or leave-in with plenty of slip, used on damp hair in sections with a gentle tool, working from the ends up. Our best overall pick is It's a 10 Haircare Miracle Leave-In, a spray that suits most hair types, while Kinky-Curly Knot Today is the best detangler for 4C, kinky and natural hair, where a creamier leave-in is needed.",
     "Detangling is where a lot of hair is lost for no good reason. When a comb or brush meets a knot, the hair either slides apart or snaps, and dry, coiled or damaged hair snaps more easily. A detangler makes strands slippery and smooths the outer layer so they pull apart with less force. A good brush or wide-tooth comb then does the rest without ripping through tangles. Product and tool work together; neither does the job well alone.",
     "We ranked five detangling products and two tools on slip, suitability for different textures, gentleness for kids and sensitive scalps, value, availability and buyer feedback. This is research-based, not a hands-on test. Detanglers reduce breakage, which helps you keep more of the length you grow; if shedding ever seems heavy or patchy, a dermatologist can help. For 4C routines beyond detangling, see our guide to the best hair products for 4C hair, and for brushes, see our guide to the best brush for curly hair.",
+    "Oil is the other classic detangling aid. Coating badly knotted or matted hair with a slippery oil before washing gives it slip without water, so knots loosen and can be teased apart gently; our guide on how to detangle hair with oil walks through the method step by step. For hair that tangles because it is dry, a weekly hot oil treatment keeps it softer between wash days.",
   ],
   keyTakeaways: [
     "It's a 10 Haircare Miracle Leave-In is our best overall hair detangler: a spray with good slip for most hair types.",
@@ -422,8 +423,14 @@ export const bestHairDetangler: RoundupData = {
     "best-black-hair-care-products",
     "best-hair-products-for-curly-hair",
     "best-hair-brush-for-thinning-hair",
+    "best-hair-oil-for-dry-hair",
+    "best-hot-oil-treatment-for-hair",
+    "best-coconut-oil-for-hair",
   ],
-  relatedGuides: [{ href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" }],
+  relatedGuides: [
+    { href: "/how-to-detangle-hair-with-oil", label: "How to detangle hair with oil" },
+    { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },
+  ],
   publishedDate: "2026-11-08",
-  updatedDate: "2026-11-08",
+  updatedDate: "2026-11-24",
 };

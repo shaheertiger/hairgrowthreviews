@@ -22,6 +22,7 @@ export const isOliveOilGoodForYourHair: QuestionData = {
     "Is olive oil good for your hair? It is one of the oldest beauty secrets in the world, and the answer is a warm yes for most people. Around the Mediterranean, olive oil has been smoothed through hair for thousands of years, and it is still a favorite today because it is affordable, gentle and probably already sitting in your kitchen.",
     "Olive oil is a rich, conditioning oil. It coats the hair shaft, softens rough strands, adds a healthy gloss and helps hair hold on to moisture. Those are exactly the qualities that dry, coarse, curly and damaged hair crave, and they are why a simple olive oil treatment can leave hair feeling transformed after a single wash.",
     "Below, we cover what is in olive oil, what it does for your hair, which hair types love it most, extra virgin versus regular, a step-by-step pre-wash routine, three easy DIY masks, scalp tips, and how olive oil compares with the other popular hair oils. If you want a ready-made oil chosen for your hair type, our guide to the best hair growth oil ranks the top picks, from Mielle Rosemary Mint Oil to NOW Solutions Organic Jojoba Oil.",
+    "Olive oil is also one of the most popular oils to detangle hair with, because it gives knotted, dry hair plenty of slip before washing; our guide on how to detangle hair with oil covers the method. Warmed gently, it makes a simple hot oil treatment too.",
   ],
   sections: [
     {
@@ -213,6 +214,7 @@ export const isOliveOilGoodForYourHair: QuestionData = {
     "batana-oil-vs-castor-oil",
     "does-dandruff-cause-hair-loss",
     "how-long-does-minoxidil-take-to-work",
+    "how-to-detangle-hair-with-oil",
   ],
   relatedRoundups: [
     "best-hair-growth-oil",
@@ -222,11 +224,13 @@ export const isOliveOilGoodForYourHair: QuestionData = {
     "best-castor-oil-for-hair-growth",
     "best-batana-oil",
     "best-hair-oil-for-curly-hair",
+    "best-hot-oil-treatment-for-hair",
+    "best-hair-detangler",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle, explained" },
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
   ],
   publishedDate: "2026-11-20",
-  updatedDate: "2026-11-20",
+  updatedDate: "2026-11-24",
 };

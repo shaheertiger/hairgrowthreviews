@@ -13,6 +13,7 @@ export const bestAntiFrizzSerum: RoundupData = {
     "The best anti-frizz serum is the one that coats each strand with a light, water-resistant film without leaving your hair flat or greasy. That balance is the whole challenge of this category. Every serum, oil and spray here works in broadly the same way, by smoothing the hair's outer layer and slowing the exchange of moisture with the air. The differences are in how heavy the film is, how long it lasts, whether it needs heat to activate, and how it suits fine, thick, curly or color-treated hair.",
     "Frizz is more than a cosmetic annoyance. Rough, raised cuticles snag on each other and on brushes, and hair that tangles easily breaks easily. For anyone with fine or thinning hair, losing strands to breakage makes the ponytail thinner still. A serum will not grow hair, and none of the products here claim to, but smoother hair that slides past itself is easier to detangle with less force, which helps you keep the length you have.",
     "We ranked the picks below on humidity resistance, weight on fine hair, versatility, ease of use and value, using brand information, listing details and patterns in verified buyer feedback. This is a research-based ranking, not a hands-on test. This page focuses on finishing serums and anti-frizz treatments; if you need a spray mainly to shield hair from hot tools, see our guide to heat protectant sprays, and for daily detangling and moisture, see our guide to leave-in conditioners.",
+    "If you would rather use a plant oil than a silicone serum, our guide to the best hair oil for frizzy hair covers oils that soften and condition as well as smoothing, and explains when an oil or a serum is the better choice. Many people with frizzy hair keep one of each.",
   ],
   keyTakeaways: [
     "John Frieda Frizz Ease Extra Strength Serum is our best overall pick: an inexpensive, proven silicone serum that smooths and seals in a drop or two.",
@@ -424,7 +425,9 @@ export const bestAntiFrizzSerum: RoundupData = {
     "best-hair-products-for-curly-hair",
     "best-clarifying-shampoo",
     "best-silk-pillowcase-for-hair",
+    "best-hair-oil-for-frizzy-hair",
+    "best-hair-oil-for-dry-hair",
   ],
   publishedDate: "2026-10-14",
-  updatedDate: "2026-10-14",
+  updatedDate: "2026-11-24",
 };
