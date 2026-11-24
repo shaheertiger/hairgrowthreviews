@@ -490,6 +490,7 @@ export const batanaOilReviews: RoundupData = {
   bottomLine:
     "The real deal in batana oil is easy to describe: Elaeis oleifera oil and nothing else, dark and smoky, thick when cool, sold by the brand itself. Natural Riches, YBW, BatanaCo, FVNA's pure unrefined oil and Lebanta came closest on their listings. KONEO, OLCG and DCXC need an ingredient check, ELEGO is a conditioner, and Kuri Nuka depends on the seller. If you have no brand in mind, start with our best batana oil picks.",
   relatedRoundups: [
+    "best-batana-oil-shampoo-and-conditioner",
     "best-batana-oil",
     "best-hair-growth-oil",
     "best-castor-oil-for-hair-growth",

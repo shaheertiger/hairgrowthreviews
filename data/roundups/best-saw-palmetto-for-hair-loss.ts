@@ -372,6 +372,7 @@ export const bestSawPalmettoForHairLoss: RoundupData = {
   bottomLine:
     "Saw palmetto is the best-evidenced herbal option for male pattern hair loss and a great natural alternative for men who prefer to avoid finasteride. Buy an extract at about 320 mg a day: NOW Saw Palmetto Extract 320 mg with Pumpkin Seed Oil is the best overall buy, and NOW's 160 mg extract is the cheapest per month. Pair it with minoxidil and give it six months.",
   relatedRoundups: [
+    "best-saw-palmetto-shampoo",
     "best-dht-blocker-shampoo",
     "best-hair-growth-vitamins",
     "best-minoxidil-for-men",
@@ -385,5 +386,5 @@ export const bestSawPalmettoForHairLoss: RoundupData = {
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-24",
 };

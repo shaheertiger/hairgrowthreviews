@@ -216,6 +216,7 @@ export const howOftenShouldYouOilYourHair: QuestionData = {
     "does-pumpkin-seed-oil-help-hair-loss",
   ],
   relatedRoundups: [
+    "best-hair-oil-for-thinning-hair",
     "best-hair-growth-oil",
     "best-rosemary-oil-for-hair-growth",
     "best-batana-oil",
@@ -231,5 +232,5 @@ export const howOftenShouldYouOilYourHair: QuestionData = {
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle, explained" },
   ],
   publishedDate: "2026-11-20",
-  updatedDate: "2026-11-20",
+  updatedDate: "2026-11-24",
 };

@@ -396,6 +396,7 @@ export const bestShampooForThinningHair: RoundupData = {
   bottomLine:
     "The best shampoo for thinning hair makes the hair you have look fuller: a thorough scalp cleanse, light roots and nothing that weighs fine strands down. Nioxin System 2 is our top pick for natural hair, Living Proof Full gives the most lift, and Viviscal is the best value. Pair your shampoo with minoxidil and a doctor's advice if your thinning is progressing.",
   relatedRoundups: [
+    "best-hair-oil-for-thinning-hair",
     "best-conditioner-for-thinning-hair",
     "best-hair-thickening-products",
     "best-hair-growth-shampoo",
@@ -409,5 +410,5 @@ export const bestShampooForThinningHair: RoundupData = {
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-24",
 };

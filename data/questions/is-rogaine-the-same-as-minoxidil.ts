@@ -226,6 +226,7 @@ export const isRogaineTheSameAsMinoxidil: QuestionData = {
     "does-oral-minoxidil-work",
   ],
   relatedRoundups: [
+    "best-minoxidil-foam",
     "best-minoxidil-for-men",
     "best-minoxidil-for-women",
     "best-hair-growth-products",
@@ -233,5 +234,5 @@ export const isRogaineTheSameAsMinoxidil: QuestionData = {
   ],
   relatedGuides: [{ href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" }],
   publishedDate: "2026-11-19",
-  updatedDate: "2026-11-19",
+  updatedDate: "2026-11-24",
 };

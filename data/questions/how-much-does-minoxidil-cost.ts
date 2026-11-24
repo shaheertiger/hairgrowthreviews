@@ -191,6 +191,7 @@ export const howMuchDoesMinoxidilCost: QuestionData = {
     "can-women-use-mens-minoxidil",
   ],
   relatedRoundups: [
+    "best-minoxidil-foam",
     "best-minoxidil-for-men",
     "best-minoxidil-for-women",
     "best-hair-growth-products-for-men",
@@ -201,5 +202,5 @@ export const howMuchDoesMinoxidilCost: QuestionData = {
     { href: "/the-hgr-regimen", label: "The HGR Regimen" },
   ],
   publishedDate: "2026-11-23",
-  updatedDate: "2026-11-23",
+  updatedDate: "2026-11-24",
 };

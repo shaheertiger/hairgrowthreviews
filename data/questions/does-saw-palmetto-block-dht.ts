@@ -158,6 +158,7 @@ export const doesSawPalmettoBlockDht: QuestionData = {
     "minoxidil-shedding-how-long-does-it-last",
   ],
   relatedRoundups: [
+    "best-saw-palmetto-shampoo",
     "best-saw-palmetto-for-hair-loss",
     "best-dht-blocker-shampoo",
     "best-minoxidil-for-men",
@@ -168,5 +169,5 @@ export const doesSawPalmettoBlockDht: QuestionData = {
     { href: "/about-hair-growth/stages-hair-loss", label: "The stages of hair loss" },
   ],
   publishedDate: "2026-10-14",
-  updatedDate: "2026-10-14",
+  updatedDate: "2026-11-24",
 };

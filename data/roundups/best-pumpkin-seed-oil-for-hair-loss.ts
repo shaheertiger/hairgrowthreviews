@@ -378,6 +378,7 @@ export const bestPumpkinSeedOilForHairLoss: RoundupData = {
   bottomLine:
     "Pumpkin seed oil is a gentle, low-risk supplement with an encouraging trial behind it, and one of the easiest natural additions to a hair routine. NOW Pumpkin Seed Oil 1000 mg softgels match the studied form at the best value. Use it on its own or alongside minoxidil, and judge results at six months.",
   relatedRoundups: [
+    "best-hair-growth-oil-for-men",
     "best-pumpkin-seed-oil-capsules-for-hair-loss",
     "best-saw-palmetto-for-hair-loss",
     "best-hair-growth-vitamins",

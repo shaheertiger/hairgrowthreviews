@@ -206,6 +206,7 @@ export const whatIsBatanaOil: QuestionData = {
     "does-castor-oil-grow-hair",
   ],
   relatedRoundups: [
+    "best-batana-oil-shampoo-and-conditioner",
     "best-batana-oil",
     "batana-oil-reviews",
     "best-oil-for-low-porosity-hair",
@@ -219,5 +220,5 @@ export const whatIsBatanaOil: QuestionData = {
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
   ],
   publishedDate: "2026-11-20",
-  updatedDate: "2026-11-20",
+  updatedDate: "2026-11-24",
 };

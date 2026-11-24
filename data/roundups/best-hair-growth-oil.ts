@@ -373,6 +373,8 @@ export const bestHairGrowthOil: RoundupData = {
   bottomLine:
     "Hair oils are worth buying for what they do well: protecting hair from breakage, conditioning a dry scalp and making massage a pleasant habit. Mielle Rosemary Mint Oil is the best all-round pick, and Sky Organics castor oil is the best value for dry, thick hair. For pattern hair loss, pair your favorite oil with minoxidil for a complete routine.",
   relatedRoundups: [
+    "best-hair-growth-oil-for-men",
+    "best-hair-oil-for-thinning-hair",
     "best-rosemary-oil-for-hair-growth",
     "best-hair-growth-serum",
     "best-scalp-massager",
@@ -389,5 +391,5 @@ export const bestHairGrowthOil: RoundupData = {
     { href: "/about-hair-growth/hair-loss-cycle", label: "How the hair growth cycle works" },
   ],
   publishedDate: "2026-10-09",
-  updatedDate: "2026-10-09",
+  updatedDate: "2026-11-24",
 };
