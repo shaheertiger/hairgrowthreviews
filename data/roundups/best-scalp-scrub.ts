@@ -412,7 +412,7 @@ export const bestScalpScrub: RoundupData = {
     "best-rosemary-oil-for-hair-growth",
     "best-hair-care-products-for-women",
   ],
-  relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo"],
+  relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo", "murad-hair-growth-scalp-serum"],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },

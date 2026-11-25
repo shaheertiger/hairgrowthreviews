@@ -10,7 +10,7 @@ export const bestMinoxidilForMen: RoundupData = {
   h1: "The Best Minoxidil for Men: 7 Foams and Liquids That Deliver",
   dek: "Every product here contains 5% minoxidil, the only topical hair regrowth drug the FDA has approved for men. What separates them is the vehicle, how gentle they are on your scalp, and the value per month.",
   intro: [
-    "Minoxidil is the one topical hair loss treatment that has cleared the FDA's bar for regrowing hair in men, and at the 5% strength it is sold over the counter by a dozen brands at prices that differ by a factor of four. That spread is the whole story of this category. The active ingredient is identical across every product on this list — the same molecule, the same concentration, the same dosing — so the decision is really about three things: whether a foam or a liquid suits your scalp, whether you can tolerate propylene glycol, and how much you are willing to pay every month for a treatment that only works as long as you keep using it.",
+    "The best minoxidil for men is 5% minoxidil in a form you will actually apply twice a day: Men's Rogaine 5% Foam is our top pick for comfort, and Kirkland's 5% liquid delivers the same drug for a fraction of the price. Minoxidil is the one topical hair loss treatment that has cleared the FDA's bar for regrowing hair in men, and at the 5% strength it is sold over the counter by a dozen brands at prices that differ by a factor of four. That spread is the whole story of this category. The active ingredient is identical across every product on this list — the same molecule, the same concentration, the same dosing — so the decision is really about three things: whether a foam or a liquid suits your scalp, whether you can tolerate propylene glycol, and how much you are willing to pay every month for a treatment that only works as long as you keep using it.",
     "That last point matters more than most buyers realize. Minoxidil does not cure male pattern hair loss; it holds it back and, in a good share of men, regrows some of what was lost. Stop applying it and the hair it was supporting typically sheds over the following months. So the cheapest product you will reliably use twice a day is, in practice, the best one. Whether that is a brand-name foam you love using or a value-priced generic liquid, the winner is the one that fits your routine for years.",
     "We ranked the products below on the factors that actually differ between them: the vehicle (foam versus solution), the inactive ingredients that drive scalp irritation, the cost per month at the standard dose, how the applicator handles in real use, and the consistency of the product in verified buyer feedback. Every pick links to its exact Amazon listing, matched by ASIN, so you land on the right product and not a lookalike.",
   ],
@@ -411,6 +411,7 @@ export const bestMinoxidilForMen: RoundupData = {
     "best-ketoconazole-shampoo",
     "best-laser-cap-for-hair-growth",
   ],
+  relatedReviewSlugs: ["hydrobrush", "tangl-hair-loss-treatment"],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },

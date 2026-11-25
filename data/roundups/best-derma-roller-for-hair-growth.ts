@@ -381,6 +381,7 @@ export const bestDermaRollerForHairGrowth: RoundupData = {
     "best-beard-growth-oil",
     "best-hair-growth-products-for-men",
   ],
+  relatedReviewSlugs: ["basis-hair-regrowth-system"],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },

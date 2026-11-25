@@ -389,6 +389,7 @@ export const bestHairGrowthOil: RoundupData = {
     "best-hair-oil-for-fine-hair",
     "best-hair-oil-for-dry-hair",
   ],
+  relatedReviewSlugs: ["just-natural-hair-growth-treatment"],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
     { href: "/find-a-treatment/supplements", label: "Hair growth supplements: what the evidence shows" },

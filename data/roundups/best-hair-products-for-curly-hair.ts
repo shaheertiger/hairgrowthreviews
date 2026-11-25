@@ -408,6 +408,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
     "best-hair-treatment-for-damaged-hair",
     "best-scalp-scrub",
     "best-hair-growth-oil",
+    "best-shampoo-for-curly-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },

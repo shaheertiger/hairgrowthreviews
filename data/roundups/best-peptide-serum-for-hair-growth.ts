@@ -394,6 +394,7 @@ export const bestPeptideSerumForHairGrowth: RoundupData = {
     "best-shampoo-for-thinning-hair",
     "best-derma-roller-for-hair-growth",
   ],
+  relatedReviewSlugs: ["clofina-hair-revival-ampoule", "burst-by-nourish-beaute", "murad-hair-growth-scalp-serum", "vegamour-gro-hair-serum"],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },

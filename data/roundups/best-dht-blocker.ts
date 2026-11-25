@@ -10,7 +10,7 @@ export const bestDhtBlocker: RoundupData = {
   h1: "The Best DHT Blocker You Can Buy Over the Counter, by Type",
   dek: "Over the counter, you can choose a pill, a shampoo, a seed oil or a multi-ingredient formula, each with its own strengths. Here is the best of each, how they compare with prescription finasteride, and how to combine them into a strong routine.",
   intro: [
-    "If you are searching for the best DHT blocker, you probably already know the basics. Dihydrotestosterone (DHT), a hormone made from testosterone, gradually shrinks genetically sensitive hair follicles. That process drives male pattern baldness and plays a part in female pattern hair loss too. Slow DHT's effect on the scalp and you slow the hair loss, which is why so many supplements, shampoos and serums now put 'DHT blocker' on the label.",
+    "The best over-the-counter DHT blocker is a standardized saw palmetto softgel such as NOW Saw Palmetto Extract 320 mg, paired with a ketoconazole shampoo; prescription finasteride remains far stronger than any OTC option. If you are searching for the best DHT blocker, you probably already know the basics. Dihydrotestosterone (DHT), a hormone made from testosterone, gradually shrinks genetically sensitive hair follicles. That process drives male pattern baldness and plays a part in female pattern hair loss too. Slow DHT's effect on the scalp and you slow the hair loss, which is why so many supplements, shampoos and serums now put 'DHT blocker' on the label.",
     "Before the picks, some useful context. The DHT blockers with large-scale evidence for hair loss are prescription drugs: finasteride, which is FDA-approved for male pattern hair loss, and dutasteride, which is used off-label for hair in the US. Over the counter, saw palmetto leads the way with a handful of real human studies. Ketoconazole shampoo has a scalp-level mechanism and hair-density data. Pumpkin seed oil has a placebo-controlled trial of its own. Botanical shampoos round out the field as pleasant, scalp-friendly daily washes.",
     "This guide is the umbrella view across every over-the-counter approach, so instead of ranking ten saw palmetto bottles or ten shampoos, we picked the single best product of each type and explain how the types compare. If you have already decided on one approach, our dedicated guides go deeper: the best saw palmetto for hair loss compares extracts by dose, the best DHT blocker shampoo covers the shampoo aisle in full, and the best pumpkin seed oil for hair loss compares softgels and topical oils.",
     "We scored each product on the evidence for its actives at the doses it contains, how closely its form matches the research, label transparency, safety, and cost per month. This is a research-based ranking, not a hands-on test, and every product links to its exact Amazon listing, matched by ASIN. The sections after the picks cover how the approaches compare head to head, how to combine them without doubling up, and the drug interactions and medical-test considerations that come with oral DHT blockers.",
@@ -439,11 +439,7 @@ export const bestDhtBlocker: RoundupData = {
     "best-pumpkin-seed-oil-for-hair-loss",
     "best-minoxidil-for-men",
   ],
-  relatedReviewSlugs: [
-    "nizoral-d-anti-dandruff-shampoo",
-    "ultrax-labs-hair-surge-caffeine-hair-loss-hair-growth-stimulating-shampoo",
-    "pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo",
-  ],
+  relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo", "ultrax-labs-hair-surge-caffeine-hair-loss-hair-growth-stimulating-shampoo", "pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo", "crinagen", "nunutrients-advanced-hair-regrowth-treatment", "tangl-hair-loss-treatment", "spark-new"],
   relatedGuides: [
     { href: "/find-a-treatment/supplements", label: "Hair growth supplements: what the evidence shows" },
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

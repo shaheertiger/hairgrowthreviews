@@ -404,6 +404,7 @@ export const bestOilForLowPorosityHair: RoundupData = {
     "best-hot-oil-treatment-for-hair",
     "best-hair-oil-for-fine-hair",
     "best-hair-oil-for-dry-hair",
+    "best-shampoo-for-low-porosity-hair",
   ],
   relatedGuides: [{ href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" }],
   publishedDate: "2026-11-08",

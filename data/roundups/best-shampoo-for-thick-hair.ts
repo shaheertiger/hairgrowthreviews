@@ -369,6 +369,7 @@ export const bestShampooForThickHair: RoundupData = {
     "best-anti-frizz-serum",
     "best-leave-in-conditioner",
   ],
+  relatedReviewSlugs: ["mane-n-tail-shampoo"],
   relatedGuides: [{ href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" }],
   publishedDate: "2026-11-16",
   updatedDate: "2026-11-16",

@@ -47,3 +47,22 @@ the build never needs the API or the secret. Re-run it after adding products.
 npm run verify:content                                   # all reviews, guides and roundups
 npx tsx scripts/check-roundup.ts data/roundups/<file>.ts # one roundup before registering it
 ```
+
+## Article pattern (from what earns clicks)
+
+Search Console (Nov 2026) shows the pages that earn clicks, `/best-batana-oil`,
+`/best-pumpkin-seed-oil-for-hair-loss` and the Aveda Invati review, share one
+shape. New articles should follow it; `verify:content` enforces the first two rules.
+
+1. **Answer-first intro.** A "best X" roundup opens with a one-sentence
+   definition: "The best pumpkin seed oil for hair loss is a plain, cold-pressed
+   softgel…".
+2. **Linkable from other articles' text.** Every roundup, review and question needs a
+   phrase rule in `lib/autolink.tsx`, so other articles link to it in their text,
+   not only in the card grids. The top pages get 15+ such links each.
+3. **A cluster around it.** List the page's siblings in `relatedRoundups`, its
+   reviewed products in `relatedReviewSlugs`, and give it supporting question
+   posts (`pillarSlug`). The roundup template turns these into a routing paragraph
+   at the end of the overview (`components/roundup/ClusterRouting.tsx`).
+
+`npm run build && npm run audit:links` reports pages that are still weakly linked.

@@ -408,6 +408,7 @@ export const bestHairGrowthProductsForWomen: RoundupData = {
     "best-rosemary-oil-for-hair-growth",
     "best-postpartum-hair-loss-products",
   ],
+  relatedReviewSlugs: ["nutrafol", "viviscal-extra-strength-hair-nutrient-tablets", "aveda-invati-scalp-revitalizer", "vegamour-gro-hair-serum"],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
     { href: "/find-a-treatment/supplements", label: "Hair growth supplements: what the evidence shows" },

@@ -10,7 +10,7 @@ export const bestHairGrowthProductsForMen: RoundupData = {
   h1: "The Best Hair Growth Products for Men, Ranked by How Much the Evidence Supports Them",
   dek: "Male pattern hair loss has two cornerstone treatments and a range of helpful add-ons that round out a routine. We picked the best product in each category and ranked them in the order that builds the strongest routine.",
   intro: [
-    "Shopping for the best hair growth products for men is confusing because the shelf mixes products that are fundamentally different. A can of minoxidil foam is an FDA-approved drug. A laser cap is an FDA-cleared medical device. A ketoconazole shampoo is an anti-dandruff treatment with a supporting role. Saw palmetto is a natural supplement with supporting trials, and hair fibers are instant cosmetics. Knowing what each one does best is the most useful thing a buyer can know, because it tells you how they fit together.",
+    "The best hair growth products for men start with 5% minoxidil, such as Men's Rogaine Foam or Kirkland's liquid, backed by a ketoconazole shampoo like Nizoral and, if you want more, a laser device or derma roller. Shopping for the best hair growth products for men is confusing because the shelf mixes products that are fundamentally different. A can of minoxidil foam is an FDA-approved drug. A laser cap is an FDA-cleared medical device. A ketoconazole shampoo is an anti-dandruff treatment with a supporting role. Saw palmetto is a natural supplement with supporting trials, and hair fibers are instant cosmetics. Knowing what each one does best is the most useful thing a buyer can know, because it tells you how they fit together.",
     "So instead of ranking seven minoxidils or seven shampoos, this page picks the single best product in each category that matters for male pattern hair loss and ranks the categories by strength of evidence. Minoxidil sits at the top because it is the only topical drug the FDA has approved for regrowing hair in men. Everything below it is either an add-on that builds on minoxidil, or a way to make hair look fuller instantly while treatment works. Each pick links to a dedicated buyer's guide for that category if you want to compare alternatives.",
     "One important omission: finasteride, the prescription tablet that lowers DHT, is the most effective single treatment for most men and is discussed below, but it is not sold over the counter, so it is not on the list. If you are building a serious plan, the strongest approach is finasteride from a doctor plus minoxidil, with the other products here as optional support. We ranked on evidence, safety, ease of daily use, and long-term cost, using published research and verified buyer feedback rather than hands-on testing.",
   ],
@@ -415,7 +415,7 @@ export const bestHairGrowthProductsForMen: RoundupData = {
     "best-saw-palmetto-for-hair-loss",
     "best-hair-fibers-for-thinning-hair",
   ],
-  relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo"],
+  relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo", "tangl-hair-loss-treatment", "nutrafol"],
   relatedGuides: [
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

@@ -8,6 +8,8 @@
  *    5+ products with well-formed ASINs, and related links that resolve.
  * 4. Every internal link the data declares (related reviews, guides, guide
  *    hrefs, in-text link targets) points at a page that exists.
+ * 5. Every roundup, review and question is the target of an in-text link rule.
+ * 6. Every "best" roundup opens with a one-sentence definition ("The best X is …").
  *
  * Run with: npx tsx scripts/verify-content.ts
  */
@@ -186,6 +188,20 @@ for (const g of guides) {
 for (const r of roundups) for (const g of r.relatedGuides ?? []) checkHref(`roundup:${r.slug}`, g.href);
 for (const q of questions) for (const g of q.relatedGuides ?? []) checkHref(`question:${q.slug}`, g.href);
 for (const t of autolinkTargets) checkHref("autolink rule", t);
+
+// 5. Every article can earn in-text links. Pages that earn clicks (best-batana-oil,
+//    best-pumpkin-seed-oil-for-hair-loss) are linked from 15+ other articles' prose;
+//    a page no autolink rule targets can only ever get card links.
+const linkable = new Set(autolinkTargets);
+for (const r of roundups) if (!linkable.has(roundupHref(r.slug))) fail(`NO IN-TEXT LINK RULE roundup:${r.slug} (add a phrase in lib/autolink.tsx)`);
+for (const r of reviews) if (!linkable.has(reviewHref(r.slug))) fail(`NO IN-TEXT LINK RULE review:${r.slug} (add a phrase in lib/autolink.tsx)`);
+for (const q of questions) if (!linkable.has(questionHref(q.slug))) fail(`NO IN-TEXT LINK RULE question:${q.slug} (add a phrase in lib/autolink.tsx)`);
+// 6. "Best X" roundups open answer-first with a one-sentence definition of the
+//    best pick ("The best pumpkin seed oil for hair loss is a plain, cold-pressed
+//    softgel…"), the snippet-style opener every click-earning roundup uses.
+for (const r of roundups)
+  if (r.slug.startsWith("best-") && !/^The best /.test(r.intro[0]))
+    fail(`NOT ANSWER-FIRST roundup:${r.slug}: intro should open "The best … is …"`);
 
 console.log(
   `Checked ${quotesChecked} pull quotes and ${tablesChecked} tables across ` +

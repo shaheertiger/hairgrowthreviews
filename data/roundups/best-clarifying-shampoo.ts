@@ -407,6 +407,8 @@ export const bestClarifyingShampoo: RoundupData = {
     "best-purple-shampoo",
     "best-ketoconazole-shampoo",
     "best-leave-in-conditioner",
+    "best-shampoo-for-low-porosity-hair",
+    "best-shampoo-for-keratin-treated-hair",
   ],
   relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo"],
   relatedGuides: [{ href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" }],

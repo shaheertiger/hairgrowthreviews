@@ -391,6 +391,7 @@ export const bestProductsForHairExtensions: RoundupData = {
     "best-hair-detangler",
     "best-heat-protectant-spray",
     "best-hair-topper-for-thinning-hair",
+    "best-halo-hair-extensions",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },

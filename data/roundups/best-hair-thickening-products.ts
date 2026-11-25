@@ -409,6 +409,7 @@ export const bestHairThickeningProducts: RoundupData = {
     "best-hair-products-for-men",
     "best-minoxidil-for-women",
   ],
+  relatedReviewSlugs: ["ultrax-labs-hair-lush", "aveda-invati-scalp-revitalizer"],
   relatedGuides: [
     { href: "/about-hair-growth/stages-hair-loss", label: "Stages of hair loss: where are you?" },
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

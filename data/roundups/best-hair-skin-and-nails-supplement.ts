@@ -384,6 +384,7 @@ export const bestHairSkinAndNailsSupplement: RoundupData = {
     "best-iron-supplement-for-hair-loss",
     "best-postpartum-hair-loss-products",
   ],
+  relatedReviewSlugs: ["viviscal-extra-strength-hair-nutrient-tablets", "nutrafol", "bloom"],
   relatedGuides: [
     { href: "/find-a-treatment/supplements", label: "Hair loss supplements: what helps" },
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },

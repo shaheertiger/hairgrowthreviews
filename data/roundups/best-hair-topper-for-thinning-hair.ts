@@ -430,6 +430,7 @@ export const bestHairTopperForThinningHair: RoundupData = {
     "best-hair-thickening-products",
     "best-postpartum-hair-loss-products",
     "best-hair-brush-for-thinning-hair",
+    "best-halo-hair-extensions",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/stages-hair-loss", label: "Stages of hair loss: where are you?" },

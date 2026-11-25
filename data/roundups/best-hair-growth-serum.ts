@@ -417,11 +417,7 @@ export const bestHairGrowthSerum: RoundupData = {
     "best-derma-roller-for-hair-growth",
     "best-hair-growth-products-for-women",
   ],
-  relatedReviewSlugs: [
-    "biotopic-premium-hair-regrowth-serum",
-    "amplixin-intensive-hair-growth-serum",
-    "revivogen-scalp-therapy-formula",
-  ],
+  relatedReviewSlugs: ["biotopic-premium-hair-regrowth-serum", "amplixin-intensive-hair-growth-serum", "revivogen-scalp-therapy-formula", "vegamour-gro-hair-serum", "divi-scalp-serum", "burst-by-nourish-beaute", "spark-new", "aveda-invati-scalp-revitalizer"],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },

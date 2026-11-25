@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { RoundupData } from "@/lib/types";
 import { amazonImage, amazonProductLink } from "@/lib/affiliate";
-import { questionsForRoundup, relatedGuidesForRoundup, relatedRoundupsFor, reviewsForRoundup, roundupHref } from "@/lib/links";
+import { clusterRoutingFor, questionsForRoundup, relatedGuidesForRoundup, relatedRoundupsFor, reviewsForRoundup, roundupHref } from "@/lib/links";
 import { createLinker } from "@/lib/autolink";
 import { GuideLinks, QuestionList, RoundupCards } from "@/components/RelatedLinks";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
@@ -21,6 +21,7 @@ import MistakesList from "@/components/roundup/MistakesList";
 import TopPickBox from "@/components/roundup/TopPickBox";
 import StickyBuyBar from "@/components/roundup/StickyBuyBar";
 import ProductThumb from "@/components/roundup/ProductThumb";
+import ClusterRouting from "@/components/roundup/ClusterRouting";
 
 function monthYear(iso: string) {
   return new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", { month: "long", year: "numeric", timeZone: "UTC" });
@@ -106,6 +107,7 @@ export default function RoundupTemplate({ data }: { data: RoundupData }) {
                   {linkify(p)}
                 </p>
               ))}
+              <ClusterRouting routing={clusterRoutingFor(data)} />
             </section>
 
             <div className="mt-10 space-y-10">

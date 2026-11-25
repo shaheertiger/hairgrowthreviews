@@ -194,3 +194,41 @@ export function questionsForRoundup(r: RoundupData, max = 6): QuestionData[] {
 export function relatedRoundupsForQuestion(q: QuestionData): RoundupData[] {
   return bySlug(roundups, q.relatedRoundups.filter((s) => s !== q.pillarSlug));
 }
+
+/* ---------- cluster routing ---------- */
+
+const explicitInbound = new Map<string, number>();
+for (const r of roundups) for (const s of r.relatedRoundups) explicitInbound.set(s, (explicitInbound.get(s) ?? 0) + 1);
+
+export interface ClusterRouting {
+  roundups: RoundupData[];
+  questions: QuestionData[];
+  reviews: ReviewData[];
+}
+
+/**
+ * The in-prose "routing" links a roundup's overview ends with. The pages that
+ * earn the most clicks (best batana oil, best pumpkin seed oil) point readers
+ * at their cluster (sibling guides, supporting questions, in-depth reviews)
+ * in the intro itself; this gives every roundup the same paragraph. Sibling
+ * guides and reviews are picked least-linked first, so links flow to the
+ * pages that need them most.
+ */
+export function clusterRoutingFor(r: RoundupData): ClusterRouting {
+  const siblings = relatedRoundupsFor(r)
+    .map((x, i) => ({ x, i, n: explicitInbound.get(x.slug) ?? 0 }))
+    .sort((a, b) => a.n - b.n || a.i - b.i)
+    .slice(0, 3)
+    .sort((a, b) => a.i - b.i)
+    .map((s) => s.x);
+  return {
+    roundups: siblings,
+    questions: questionsForRoundup(r).slice(0, 3),
+    reviews: bySlug(reviews, r.relatedReviewSlugs ?? [])
+      .map((x, i) => ({ x, i, n: roundups.filter((o) => o.relatedReviewSlugs?.includes(x.slug)).length }))
+      .sort((a, b) => a.n - b.n || a.i - b.i)
+      .slice(0, 3)
+      .sort((a, b) => a.i - b.i)
+      .map((v) => v.x),
+  };
+}

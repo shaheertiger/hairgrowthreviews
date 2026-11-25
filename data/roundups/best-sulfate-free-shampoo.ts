@@ -434,6 +434,8 @@ export const bestSulfateFreeShampoo: RoundupData = {
     "best-clarifying-shampoo",
     "best-hair-treatment-for-damaged-hair",
     "best-leave-in-conditioner",
+    "best-shampoo-for-keratin-treated-hair",
+    "best-shampoo-for-low-porosity-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/stages-hair-loss", label: "Stages of hair loss: where are you?" },

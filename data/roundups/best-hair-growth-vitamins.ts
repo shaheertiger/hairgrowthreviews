@@ -414,6 +414,7 @@ export const bestHairGrowthVitamins: RoundupData = {
     "best-minoxidil-for-women",
     "best-hair-growth-serum",
   ],
+  relatedReviewSlugs: ["nutrafol", "viviscal-extra-strength-hair-nutrient-tablets", "bloom"],
   relatedGuides: [
     { href: "/find-a-treatment/supplements", label: "Hair growth supplements: what the evidence shows" },
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },
