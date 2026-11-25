@@ -74,6 +74,26 @@ import { howMuchPumpkinSeedOilShouldITakeForHairLoss } from "./how-much-pumpkin-
 import { rosemaryOilVsMinoxidil } from "./rosemary-oil-vs-minoxidil";
 import { howToUseAScalpMassagerForHairGrowth } from "./how-to-use-a-scalp-massager-for-hair-growth";
 import { howToDetangleHairWithOil } from "./how-to-detangle-hair-with-oil";
+import { howToPreventHairBreakage } from "./how-to-prevent-hair-breakage";
+import { doesZepboundCauseHairLoss } from "./does-zepbound-cause-hair-loss";
+import { whatIsLowPorosityHair } from "./what-is-low-porosity-hair";
+import { whatIsHighPorosityHair } from "./what-is-high-porosity-hair";
+import { howDoHairGraftsWork } from "./how-do-hair-grafts-work";
+import { howMuchDoesAHairTransplantCost } from "./how-much-does-a-hair-transplant-cost";
+import { isAHairTransplantPermanent } from "./is-a-hair-transplant-permanent";
+import { howToMakeHairThicker } from "./how-to-make-hair-thicker";
+import { howOftenShouldYouWashYourHair } from "./how-often-should-you-wash-your-hair";
+import { isItBadToSleepWithWetHair } from "./is-it-bad-to-sleep-with-wet-hair";
+import { howLongDoesItTakeForHairToGrowBack } from "./how-long-does-it-take-for-hair-to-grow-back";
+import { whyIsMyHairSoOily } from "./why-is-my-hair-so-oily";
+import { whyIsMyHairSoFrizzy } from "./why-is-my-hair-so-frizzy";
+import { howToGrowCurlyHair } from "./how-to-grow-curly-hair";
+import { whatHairTypeDoIHave } from "./what-hair-type-do-i-have";
+import { canMasturbationCauseHairLoss } from "./can-masturbation-cause-hair-loss";
+import { doesShavingMakeHairGrowBackThicker } from "./does-shaving-make-hair-grow-back-thicker";
+import { isGrapeseedOilGoodForHair } from "./is-grapeseed-oil-good-for-hair";
+import { isBlackSeedOilGoodForHair } from "./is-black-seed-oil-good-for-hair";
+import { howToUseAmlaOilForHair } from "./how-to-use-amla-oil-for-hair";
 export const questions: QuestionData[] = [
   howLongDoesMinoxidilTakeToWork,
   howOftenShouldYouDermaRollYourScalp,
@@ -149,4 +169,24 @@ export const questions: QuestionData[] = [
   rosemaryOilVsMinoxidil,
   howToUseAScalpMassagerForHairGrowth,
   howToDetangleHairWithOil,
+  howToPreventHairBreakage,
+  doesZepboundCauseHairLoss,
+  whatIsLowPorosityHair,
+  whatIsHighPorosityHair,
+  howDoHairGraftsWork,
+  howMuchDoesAHairTransplantCost,
+  isAHairTransplantPermanent,
+  howToMakeHairThicker,
+  howOftenShouldYouWashYourHair,
+  isItBadToSleepWithWetHair,
+  howLongDoesItTakeForHairToGrowBack,
+  whyIsMyHairSoOily,
+  whyIsMyHairSoFrizzy,
+  howToGrowCurlyHair,
+  whatHairTypeDoIHave,
+  canMasturbationCauseHairLoss,
+  doesShavingMakeHairGrowBackThicker,
+  isGrapeseedOilGoodForHair,
+  isBlackSeedOilGoodForHair,
+  howToUseAmlaOilForHair,
 ];
