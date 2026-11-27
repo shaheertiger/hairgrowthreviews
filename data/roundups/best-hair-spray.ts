@@ -4,9 +4,9 @@ export const bestHairSpray: RoundupData = {
   slug: "best-hair-spray",
   hub: "Hair Care",
   crumb: "Best Hair Spray",
-  metaTitle: "Best Hair Spray (2026): 7 Brands Reviewed",
+  metaTitle: "Best Hair Spray (2026): 7 Healthy-Hair Sprays Reviewed",
   metaDescription:
-    "We ranked hair sprays from L'Oréal Elnett, Kenra, Living Proof, Oribe, TRESemmé and more on hold, brushability, weight on fine hair and aerosol vs. pump.",
+    "Hair spray reviews: the best hair sprays that hold without damaging hair, from L'Oréal Elnett, Kenra, Living Proof, Oribe and TRESemmé, ranked on hold.",
   h1: "The Best Hair Spray: Real Hold Without Stiff, Brittle Hair",
   dek: "A good hair spray holds your style all day and brushes out without a fight. The right one depends on how much hold you need, how fine your hair is, and whether you prefer an aerosol or a pump.",
   intro: [

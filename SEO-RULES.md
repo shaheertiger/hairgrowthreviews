@@ -7,16 +7,21 @@ machine-checked parts live in `lib/seo-rules.ts` and are enforced by
 
 ## 1. What is working (the winners)
 
-Recorded from Bing and Vercel, Nov 2026 (`lib/seo-rules.ts` → `WINNERS`):
+Bing Webmaster, 90 days to 2026-11-27 (`data/bing/2026-11-27.json`, `lib/seo-rules.ts` → `WINNERS`):
+166 clicks and 5,177 impressions in total. Clicks by cluster: batana 62 (from 2 pages), brand reviews 28 (6 pages),
+pumpkin seed oil 27 (1 page), supplements 9, minoxidil 6, hair care 5 (11 pages), styling & tools 4 (8 pages),
+rosemary 0. Bing has shown only 63 of the 271 sitemap pages.
 
 | Page | What it does right |
 |---|---|
-| `/best-batana-oil` | Single-ingredient oil topic with weak competition. Title = query + year + count + **"Reviewed"** ("Best Batana Oil for Hair Growth (2026): 6 Brands Reviewed"). Description opens with the query ("Batana oil reviews: …") and names brands. A full cluster: brand-check page (`/batana-oil-reviews`), shampoo spin-off, and question posts for every follow-up (what is it, how to use, how long, side effects, real vs fake, darkens hair?, vs castor, vs rosemary). 15+ in-text links from other articles. |
-| `/best-pumpkin-seed-oil-for-hair-loss` | Same shape: one oil, one real trial, capsules spin-off, dosage / how-to / vs posts. |
-| `/best-hair-growth-products` | Review-intent title ("10 Reviewed & Ranked"), one pick per category, linked from everywhere. |
-| `/reviews/aveda-invati-scalp-revitalizer` | Branded "<product> review" query with demand and weak competition, answered with a rating, price and quick answer. |
+| `/best-batana-oil` (60 clicks, pos 5.4) | Single-ingredient oil topic with weak competition. Title = query + year + count + **"Reviewed"** ("Best Batana Oil for Hair Growth (2026): 6 Brands Reviewed"). Description opens with the query ("Batana oil reviews: …") and names brands. A full cluster: brand-check page (`/batana-oil-reviews`), shampoo spin-off, and question posts for every follow-up (what is it, how to use, how long, side effects, real vs fake, darkens hair?, vs castor, vs rosemary). 15+ in-text links from other articles. |
+| `/best-pumpkin-seed-oil-for-hair-loss` (27 clicks, CTR 5.6%) | Same shape: one oil, one real trial, capsules spin-off, dosage / how-to / vs posts. |
+| `/best-hair-growth-products` (13 clicks) | Review-intent title ("10 Reviewed & Ranked"), one pick per category, linked from everywhere. |
+| `/reviews/aveda-invati-scalp-revitalizer` (27 clicks, CTR 6.6%) | Branded "<product> review" query with demand and weak competition, answered with a rating, price and quick answer. |
+| `/reviews/viviscal-extra-strength-hair-nutrient-tablets` (6 clicks, pos 4.1) | Same brand-review pattern. |
+| `/find-a-treatment/minoxidil-rogaine` (5 clicks) | Answers "Rogaine vs minoxidil" and cost in the title itself. |
 
-The pattern behind all four, now applied sitewide:
+The pattern behind them, now applied sitewide:
 
 1. **Niche topics with weak competition**: single ingredients (batana, pumpkin seed, rosemary, castor) and named-brand reviews. Not head terms.
 2. **Review-intent title**: `Best X (YEAR): N <Brands|Picks|noun> Reviewed`, ≤ 65 characters, keyword first.
@@ -29,7 +34,8 @@ The pattern behind all four, now applied sitewide:
 
 | Problem we had | Rule |
 |---|---|
-| ~60 generic hair-care and styling-tool guides (dryers, flat irons, clippers, shavers, hair spray, purple shampoo, dye, curl products) earn no clicks: off-topic for a hair growth site, and big publishers own those results. | **No new pages outside hair growth / hair loss / growth oils / scalp care / brand reviews**, unless `npm run bing` shows the site already gets impressions for that topic. Improve the existing ones; don't add more. |
+| ~60 generic hair-care and styling-tool guides (dryers, flat irons, clippers, shavers, hair spray, purple shampoo, dye, curl products) earn almost nothing: on Bing, styling & tools made 4 clicks from 8 visible pages and hair care 5 from 11, against batana's 62 from 2. Most of them Bing never shows at all. | **No new pages outside hair growth / hair loss / growth oils / scalp care / brand reviews**, unless `npm run bing` shows the site already gets impressions for that topic. Improve the existing ones; don't add more. |
+| 209 of 271 pages had never appeared on Bing (Nov 2026). | Submit every new or changed page with `npm run indexnow` after deploy (all 209 were submitted 2026-11-27). Don't add pages to a cluster whose existing pages are still invisible; link them from a winner first. |
 | Head terms (best minoxidil for men, best hair growth shampoo, best serum) have strong pages and no clicks. | **Target long-tail and branded queries**: Semrush KD under 30, or a "<brand> review(s)" query. Don't write another head-term roundup. |
 | Titles ended in filler ("Ranked on Comfort & Value") and had no review modifier; 3 of 131 roundups said "review". | Titles follow the winning pattern (enforced). |
 | Descriptions listed categories instead of brands. | Descriptions name 2+ ranked brands (enforced). |
@@ -68,4 +74,5 @@ Cluster pieces still missing (check `data/` first; someone may have shipped one)
 
 ## 5. Log
 
+- 2026-11-27 (later): First real Bing pull (`apikey` is set; new sessions see it). Confirmed the 4 winners and added Viviscal and the minoxidil guide. All 209 invisible pages sent to IndexNow. Retitled near misses to their top Bing queries: scalp scrub ("for dandruff & itching"), minoxidil for women ("women's hair growth"), Dyson Airwrap alternative ("hair stylers"); rewrote descriptions for rosemary oil, silk pillowcase, sulfate-free shampoo. Low-CTR fixes: scalp massager ("for hair growth"), hair growth oil, hair spray, does batana oil grow hair ("hair growth reviews"), Nizoral A-D. Re-check these pages on Bing around 2026-12-11.
 - 2026-11-27: Rules created. No Bing API key in the environment yet, so this pass used the winners recorded from Bing and Vercel in Nov 2026. Applied to non-winners: 126 roundup titles moved to the "N … Reviewed" pattern; 17 roundup descriptions rewritten to name brands; 4 over-long review titles shortened; quick answers added to the Mane 'n Tail review and 3 guides; winners moved to the top of the nav and home page; 4 cluster posts added (rosemary oil timeline and side effects, pumpkin seed oil timeline and side effects). Re-check these pages in Bing after 2-4 weeks: keep the change where clicks or CTR rose, revert where they fell.

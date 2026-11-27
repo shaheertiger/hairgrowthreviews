@@ -213,6 +213,7 @@ const titleOf = new Map<string, string>([
   ...roundups.map((r) => [roundupHref(r.slug), r.metaTitle] as [string, string]),
   ...reviews.map((r) => [reviewHref(r.slug), r.metaTitle] as [string, string]),
   ...questions.map((q) => [questionHref(q.slug), q.metaTitle] as [string, string]),
+  ...guides.map((g) => [guideHref(g), g.metaTitle] as [string, string]),
 ]);
 for (const [path, w] of Object.entries(WINNERS)) {
   if (!titleOf.has(path)) fail(`WINNER MISSING ${path} (SEO-RULES.md: never delete or move a winner)`);

@@ -6,7 +6,7 @@ export const bestSulfateFreeShampoo: RoundupData = {
   crumb: "Best Sulfate-Free Shampoo",
   metaTitle: "Best Sulfate-Free Shampoo (2026): 7 Brands Reviewed",
   metaDescription:
-    "We ranked sulfate-free shampoos from Kristin Ess, Pureology, OGX, Olaplex, SheaMoisture and Briogeo on gentleness, cleansing power and hair type fit.",
+    "Sulfate-free shampoo reviews: gentle daily cleansing and hydrating picks from Kristin Ess, Pureology, OGX, Olaplex, SheaMoisture and Briogeo, by hair type.",
   h1: "The Best Sulfate-Free Shampoo: Gentler Cleansing for Dry, Curly and Treated Hair",
   dek: "Sulfates are not toxic and they do not cause hair loss, but they are strong cleansers that can leave dry, curly, bleached or sensitive hair rougher than it needs to be. These are the gentler everyday shampoos we love, and who will notice the biggest difference.",
   intro: [

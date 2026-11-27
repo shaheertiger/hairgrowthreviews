@@ -4,9 +4,9 @@ export const bestScalpMassager: RoundupData = {
   slug: "best-scalp-massager",
   hub: "Hair Care",
   crumb: "Best Scalp Massager",
-  metaTitle: "Best Scalp Massager (2026): 7 Brands Reviewed",
+  metaTitle: "Best Scalp Massager for Hair Growth (2026): 7 Brands Reviewed",
   metaDescription:
-    "Silicone shampoo brushes vs electric scalp massagers: we ranked HEETA, Kitsch, Tangle Teezer, Briogeo and more on comfort, design, ease of use and value.",
+    "Scalp massager reviews: the best scalp massagers for hair growth and shampooing, from HEETA, Kitsch and Tangle Teezer brushes to electric picks, ranked.",
   h1: "The Best Scalp Massager: Affordable Tools for a Cleaner, Happier Scalp",
   dek: "A good scalp massager costs less than a coffee, feels wonderful and helps you clean your scalp properly. Here are the brushes and devices we love, from simple silicone scrubbers to hands-free electric models.",
   intro: [

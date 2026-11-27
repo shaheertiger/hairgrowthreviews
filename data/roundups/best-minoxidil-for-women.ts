@@ -4,9 +4,9 @@ export const bestMinoxidilForWomen: RoundupData = {
   slug: "best-minoxidil-for-women",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Minoxidil for Women",
-  metaTitle: "Best Minoxidil for Women (2026): 7 Picks Reviewed",
+  metaTitle: "Best Minoxidil for Women's Hair Growth (2026): 7 Reviewed",
   metaDescription:
-    "Women's Rogaine 5% foam, Kirkland, hers and 2% solutions compared on dosing, irritation, facial hair risk and cost per month. Plus pregnancy and safety notes.",
+    "Best minoxidil for women's hair growth: Women's Rogaine 5% foam, Kirkland, hers and 2% drops compared on dosing, irritation, facial hair risk and cost.",
   h1: "The Best Minoxidil for Women: Once-Daily Foam Beats the Old Liquid for Most",
   dek: "Minoxidil is the only topical drug the FDA has approved to regrow hair in women. It comes in two women's forms, a 2% solution used twice a day and a 5% foam used once, and the choice between them matters more than the brand on the box.",
   intro: [

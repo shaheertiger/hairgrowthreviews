@@ -6,7 +6,7 @@ export const bestHairGrowthOil: RoundupData = {
   crumb: "Best Hair Growth Oil",
   metaTitle: "Best Oils for Hair Growth (2026): 6 Brands Reviewed",
   metaDescription:
-    "Castor, rosemary, pumpkin seed or jojoba? We ranked Mielle, Sky Organics, Fable & Mane and more on scalp fit, texture, purity and value for healthier hair.",
+    "Hair growth oil reviews: rosemary, castor, pumpkin seed, batana or jojoba? We ranked Mielle, Sky Organics, Fable & Mane and more on scalp fit, purity and value.",
   h1: "The Best Hair Growth Oils for Longer, Healthier-Looking Hair",
   dek: "Oils are brilliant at protecting hair from breakage, nourishing a dry scalp and turning scalp massage into a relaxing ritual. Here is how to pick the one that suits your hair and get the best results from it.",
   intro: [

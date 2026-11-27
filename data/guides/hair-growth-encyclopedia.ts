@@ -3,7 +3,7 @@ import { GuideData } from "@/lib/types";
 export const hairGrowthEncyclopedia: GuideData = {
   slug: "hair-growth-encyclopedia",
   section: "about-hair-growth",
-  metaTitle: "Hair Growth Encyclopedia: DHT, Reversibility & Treatment Timelines",
+  metaTitle: "Hair Growth Encyclopedia: DHT, Reversibility & Timelines",
   metaDescription:
     "Everything you need to know about hair loss in one place — DHT's role, whether hair loss is reversible, realistic treatment timelines, and safety notes.",
   h1: "The Hair Growth Encyclopedia",
