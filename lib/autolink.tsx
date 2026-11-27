@@ -243,6 +243,7 @@ const rules: Rule[] = [
   { pattern: "(?:eye)?brow (?:growth )?serums?", targets: ["/best-eyebrow-growth-serum"] },
 
   // Products we've reviewed
+  { pattern: "viviscal alternatives?|alternatives? to viviscal", targets: ["/best-viviscal-alternative"] },
   { pattern: "viviscal (?:vs\\.?|versus|or) nutrafol|nutrafol (?:vs\\.?|versus|or) viviscal", targets: ["/viviscal-vs-nutrafol"] },
   { pattern: "viviscal", targets: [reviewHref("viviscal-extra-strength-hair-nutrient-tablets"), "/viviscal-vs-nutrafol"] },
   { pattern: "nutrafol", targets: [reviewHref("nutrafol"), "/viviscal-vs-nutrafol"] },
@@ -261,6 +262,7 @@ const rules: Rule[] = [
   { pattern: "crinagen", targets: [reviewHref("crinagen")] },
   { pattern: "nunutrients", targets: [reviewHref("nunutrients-advanced-hair-regrowth-treatment")] },
   { pattern: "pura d" + A + "or", targets: [reviewHref("pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo")] },
+  { pattern: "(?:aveda )?invati alternatives?|alternatives? to (?:aveda )?invati", targets: ["/best-aveda-invati-alternative"] },
   { pattern: "aveda invati|invati", targets: [reviewHref("aveda-invati-scalp-revitalizer")] },
   { pattern: "mane " + A + "?n" + A + "? tail", targets: [reviewHref("mane-n-tail-shampoo")] },
   { pattern: "(?:ultrax(?: labs)? )?hair surge", targets: [reviewHref("ultrax-labs-hair-surge-caffeine-hair-loss-hair-growth-stimulating-shampoo")] },

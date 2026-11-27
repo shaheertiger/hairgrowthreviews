@@ -304,6 +304,7 @@ export const bestHairGrowthSerum: RoundupData = {
         "Shedding, called telogen effluvium, looks different. It is a sudden increase in full-length hairs falling out, usually two to three months after a trigger such as illness, surgery, childbirth, crash dieting, a stressful period or low iron. It typically settles on its own once the trigger is gone. A gentle serum can be part of a supportive routine, but finding and fixing the cause matters far more, which often starts with a blood test.",
         "Breakage is the third common pattern. Hair snaps along the shaft because of heat, bleaching, tight styles or rough handling, and you find short pieces rather than whole hairs with a root bulb. Here a strengthening product like Kérastase Genesis, gentler styling and a good conditioner are exactly what your hair needs.",
         "Patchy hair loss, smooth round bald spots, scaling, redness, pain or scarring are different again and need a doctor. Conditions such as alopecia areata, scalp infections and scarring alopecias are treatable with medical care, and early diagnosis makes a real difference.",
+        "If you were looking at Aveda Invati and want something similar for less, our guide to the best Aveda Invati alternatives compares cheaper scalp serums with Invati as the benchmark."
       ],
       keyPoint:
         "Pattern loss calls for minoxidil, shedding calls for finding the trigger, and breakage calls for strengthening. Patchy or painful loss calls for a doctor.",

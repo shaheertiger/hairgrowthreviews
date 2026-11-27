@@ -115,6 +115,7 @@ export const viviscal: ReviewData = {
       body: [
         "Viviscal works through daily ingestion rather than direct scalp application, a different route from minoxidil (applied topically, absorbed locally at the follicle) or finasteride (an oral drug with a specific, well-mapped hormonal mechanism that directly reduces DHT production). Rather than targeting a single pathway, a nutrient-and-marine-complex tablet supports your general nutritional status from the inside out, which is what makes it so easy to add to a routine.",
         "That makes the categories complementary rather than competing. Minoxidil and finasteride are drugs with large bodies of independent regrowth research behind them, while Viviscal is a hair-health supplement backed by the company's own six-month study. They do different jobs, so you don't have to choose: an oral supplement can sit comfortably alongside a topical or prescription routine.",
+        "If the shark and oyster ingredients rule Viviscal out for you, or the monthly cost does, our guide to the best Viviscal alternatives ranks shellfish-free and lower-cost hair supplements on Amazon, with Viviscal as the benchmark.",
       ],
       table: {
         columns: [
