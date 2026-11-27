@@ -4,9 +4,9 @@ export const bestScalpScrub: RoundupData = {
   slug: "best-scalp-scrub",
   hub: "Hair Care",
   crumb: "Best Scalp Scrub",
-  metaTitle: "Best Scalp Scrub (2026): 7 Exfoliators Reviewed",
+  metaTitle: "Best Scalp Scrub for Dandruff & Itching (2026): 7 Reviewed",
   metaDescription:
-    "The best scalp scrub for buildup, oil and flakes: Briogeo, The INKEY List, Christophe Robin, Aveda and more, ranked on gentleness, plus how to use them well.",
+    "Scalp scrub reviews: the best scalp scrubs for dandruff, itching and buildup. Briogeo, The INKEY List, Christophe Robin, Aveda and more, ranked on gentleness.",
   h1: "The Best Scalp Scrub: Clear Buildup and Flakes Without Irritating Your Scalp",
   dek: "A good scalp scrub clears product buildup, excess oil and dead skin that shampoo leaves behind, for a fresher scalp and lifted roots. These are the best physical and chemical scalp exfoliants, and how to use them gently.",
   intro: [

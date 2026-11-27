@@ -3,7 +3,7 @@ import { GuideData } from "@/lib/types";
 export const scalpReduction: GuideData = {
   slug: "scalp-reduction",
   section: "find-a-treatment",
-  metaTitle: "What Is Scalp Reduction? Why Surgeons Replaced It With FUE and FUT",
+  metaTitle: "What Is Scalp Reduction? Why Surgeons Switched to FUE and FUT",
   metaDescription:
     "Scalp reduction surgery removes bald scalp and stretches hair-bearing skin over the gap. Popular in the 1970s-80s, it's obsolete now; FUE and FUT replaced it.",
   h1: "Scalp Reduction Surgery: History, Risks & Current Relevance",

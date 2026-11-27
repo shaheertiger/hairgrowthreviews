@@ -4,9 +4,9 @@ export const doesBatanaOilGrowHair: QuestionData = {
   slug: "does-batana-oil-grow-hair",
   hub: "Hair Growth & Hair Loss",
   crumb: "Does Batana Oil Really Grow Hair?",
-  metaTitle: "Does Batana Oil Really Grow Hair? Benefits & How to Use It",
+  metaTitle: "Does Batana Oil Grow Hair? Hair Growth Reviews vs the Evidence",
   metaDescription:
-    "Batana oil nourishes hair, reduces breakage and helps you keep more of the length you grow. Here is what it is, why it went viral and how to use it.",
+    "Batana oil hair growth reviews vs the evidence: what batana oil really does for growth, softness and breakage, how long it takes and how to use it.",
   h1: "Does Batana Oil Really Grow Hair?",
   dek: "Batana oil went from a little-known Honduran tradition to a viral hair care favorite almost overnight. Here is what the oil is, what it does for your hair, and how to get the best results from it.",
   shortAnswer:
