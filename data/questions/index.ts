@@ -70,6 +70,10 @@ import { doesHeadAndShouldersCauseHairLoss } from "./does-head-and-shoulders-cau
 import { howMuchDoesMinoxidilCost } from "./how-much-does-minoxidil-cost";
 import { howLongDoesBatanaOilTakeToWork } from "./how-long-does-batana-oil-take-to-work";
 import { batanaOilSideEffects } from "./batana-oil-side-effects";
+import { howLongDoesRosemaryOilTakeToWork } from "./how-long-does-rosemary-oil-take-to-work";
+import { rosemaryOilSideEffects } from "./rosemary-oil-side-effects";
+import { howLongDoesPumpkinSeedOilTakeToWork } from "./how-long-does-pumpkin-seed-oil-take-to-work";
+import { pumpkinSeedOilSideEffects } from "./pumpkin-seed-oil-side-effects";
 import { howMuchPumpkinSeedOilShouldITakeForHairLoss } from "./how-much-pumpkin-seed-oil-should-i-take-for-hair-loss";
 import { rosemaryOilVsMinoxidil } from "./rosemary-oil-vs-minoxidil";
 import { howToUseAScalpMassagerForHairGrowth } from "./how-to-use-a-scalp-massager-for-hair-growth";
@@ -165,6 +169,10 @@ export const questions: QuestionData[] = [
   howMuchDoesMinoxidilCost,
   howLongDoesBatanaOilTakeToWork,
   batanaOilSideEffects,
+  howLongDoesRosemaryOilTakeToWork,
+  rosemaryOilSideEffects,
+  howLongDoesPumpkinSeedOilTakeToWork,
+  pumpkinSeedOilSideEffects,
   howMuchPumpkinSeedOilShouldITakeForHairLoss,
   rosemaryOilVsMinoxidil,
   howToUseAScalpMassagerForHairGrowth,

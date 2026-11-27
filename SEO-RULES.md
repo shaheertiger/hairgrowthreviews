@@ -42,7 +42,7 @@ The pattern behind all four, now applied sitewide:
 ## 3. Daily run procedure
 
 1. `git checkout main && git pull origin main && npm ci`.
-2. **Read the data**: `npm run bing` (writes `data/bing/<date>.json`). If it exits with "BING_WEBMASTER_API_KEY is not set", say so in the report and work from `WINNERS`, the newest `data/bing/` snapshot and the queue below.
+2. **Read the data**: `npm run bing` (writes `data/bing/<date>.json`). The key is read from `apikey` or `BING_WEBMASTER_API_KEY`. If it exits with "No Bing API key", say so in the report and work from `WINNERS`, the newest `data/bing/` snapshot and the queue below.
 3. **Update the winners**: a page with clicks in 2+ weekly buckets joins `WINNERS` (freeze its current title); a winner with 0 Bing clicks for 4+ weeks leaves. Log it below.
 4. **Fix pages that aren't getting clicks** (up to 5 a day, never a winner):
    - *Near misses* (Bing position ≤ 20, impressions, 0 clicks): rewrite the title and description around the page's top Bing query, and make sure the first sentence answers it.

@@ -9,7 +9,8 @@
  *   npm run bing -- --json       # machine-readable report on stdout
  *   npm run bing -- --page /best-batana-oil   # the queries one page ranks for
  *
- * Needs BING_WEBMASTER_API_KEY (Bing Webmaster Tools → Settings → API access).
+ * Needs the Bing Webmaster API key (Bing Webmaster Tools → Settings → API access) in
+ * BING_WEBMASTER_API_KEY or `apikey` (either name works).
  * The key goes in the URL as `apikey=`, so it has to be an environment
  * variable; a header-injected network secret does not work for this API.
  * Snapshots are written to data/bing/<date>.json so runs can compare trends.
@@ -18,7 +19,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import sitemap from "@/app/sitemap";
 import { site } from "@/lib/site";
 
-const KEY = process.env.BING_WEBMASTER_API_KEY ?? process.env.BING_API_KEY;
+const KEY = process.env.BING_WEBMASTER_API_KEY ?? process.env.BING_API_KEY ?? process.env.apikey ?? process.env.APIKEY;
 const API = "https://ssl.bing.com/webmaster/api.svc/json";
 const SITE_URLS = [`${site.url}/`, site.url, site.url.replace("://www.", "://") + "/"];
 
@@ -117,9 +118,9 @@ const clusterOf = (s: string) => CLUSTERS.find(([, re]) => re.test(s.toLowerCase
 async function main() {
   if (!KEY) {
     console.error(
-      "BING_WEBMASTER_API_KEY is not set.\n" +
+      "No Bing API key: neither BING_WEBMASTER_API_KEY nor apikey is set.\n" +
         "Get a key in Bing Webmaster Tools (Settings → API access → API key) and add it as an\n" +
-        "environment variable named BING_WEBMASTER_API_KEY in the cloud environment's settings,\n" +
+        "environment variable named apikey (or BING_WEBMASTER_API_KEY) in the cloud environment's settings,\n" +
         "then start a new session. Until then, follow SEO-RULES.md using the recorded winners.",
     );
     process.exit(2);
