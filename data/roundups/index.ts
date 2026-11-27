@@ -68,6 +68,8 @@ import { bestShampooForColorTreatedHair } from "./best-shampoo-for-color-treated
 import { bestAtHomeHairColor } from "./best-at-home-hair-color";
 import { bestDysonAirwrapAlternative } from "./best-dyson-airwrap-alternative";
 import { bestDysonSupersonicAlternative } from "./best-dyson-supersonic-alternative";
+import { bestAvedaInvatiAlternative } from "./best-aveda-invati-alternative";
+import { bestViviscalAlternative } from "./best-viviscal-alternative";
 import { bestHeatedRollers } from "./best-heated-rollers";
 import { bestHairGrowthProducts } from "./best-hair-growth-products";
 import { bestDandruffShampoo } from "./best-dandruff-shampoo";
@@ -271,4 +273,6 @@ export const roundups: RoundupData[] = [
   bestHairGelForCurlyHair,
   bestRoundBrushForFineHair,
   bestHairBonnetForSleeping,
+  bestAvedaInvatiAlternative,
+  bestViviscalAlternative,
 ];
