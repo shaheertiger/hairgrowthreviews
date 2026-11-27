@@ -4,9 +4,9 @@ export const bestHairGrowthOilForMen: RoundupData = {
   slug: "best-hair-growth-oil-for-men",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Growth Oil for Men",
-  metaTitle: "Best Hair Growth Oil for Men (2026): 7 Evidence-Checked Picks",
+  metaTitle: "Best Hair Growth Oil for Men (2026): 7 Picks Reviewed",
   metaDescription:
-    "The best hair growth oils for men, ranked on the evidence behind each oil: rosemary, pumpkin seed, peppermint and castor blends, with how to use them with minoxidil.",
+    "Hair growth oils for men reviewed: Botanic Hearth, Handcraft Blends, Leven Rose, Mielle and more, ranked on the evidence for rosemary, pumpkin seed and castor oil.",
   h1: "The Best Hair Growth Oil for Men",
   dek: "Most hair growth oils sold to men have no studies behind them. A few have a small trial or two. Here is which oils have evidence, the bottles worth buying, and where an oil fits next to minoxidil and finasteride.",
   intro: [

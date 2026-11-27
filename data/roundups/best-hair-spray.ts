@@ -4,7 +4,7 @@ export const bestHairSpray: RoundupData = {
   slug: "best-hair-spray",
   hub: "Hair Care",
   crumb: "Best Hair Spray",
-  metaTitle: "Best Hair Spray (2026): 7 Picks Ranked on Hold and Hair Health",
+  metaTitle: "Best Hair Spray (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked hair sprays from L'Oréal Elnett, Kenra, Living Proof, Oribe, TRESemmé and more on hold, brushability, weight on fine hair and aerosol vs. pump.",
   h1: "The Best Hair Spray: Real Hold Without Stiff, Brittle Hair",

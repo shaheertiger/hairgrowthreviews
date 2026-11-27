@@ -4,7 +4,7 @@ export const bestShowerFilterForHair: RoundupData = {
   slug: "best-shower-filter-for-hair",
   hub: "Hair Care",
   crumb: "Best Shower Filter for Hair",
-  metaTitle: "Best Shower Filter for Hair (2026): 7 Picks for Softer-Feeling Hair",
+  metaTitle: "Best Shower Filter for Hair (2026): 7 Picks Reviewed",
   metaDescription:
     "Shower filters cut drying chlorine for softer-feeling hair. We ranked Aquasana, AquaBliss, Culligan, Jolie, Canopy and T3 on what they remove, fit and cost.",
   h1: "The Best Shower Filters for Hair: Softer, Smoother Hair From Your Shower",

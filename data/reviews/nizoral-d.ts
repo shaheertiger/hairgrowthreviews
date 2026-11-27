@@ -5,7 +5,7 @@ export const nizoralD: ReviewData = {
   productName: "Nizoral A-D Anti-Dandruff Shampoo",
   brand: "Nizoral",
   category: "Medicated Shampoo",
-  metaTitle: "Nizoral Review: 1% Ketoconazole Shampoo for Hair Loss, Rated 4.3/5",
+  metaTitle: "Nizoral Review: Ketoconazole Shampoo for Hair Loss, Rated 4.3/5",
   metaDescription:
     "Does Nizoral work for hair loss? Rated 4.3/5. Its active, ketoconazole, raised hair density ~18% in 6 months in a 1998 trial. $15–$30; use it 1–2x a week.",
   h1: "Nizoral A-D Anti-Dandruff Shampoo Review",

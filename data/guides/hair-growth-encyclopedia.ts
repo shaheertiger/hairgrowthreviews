@@ -8,6 +8,8 @@ export const hairGrowthEncyclopedia: GuideData = {
     "Everything you need to know about hair loss in one place — DHT's role, whether hair loss is reversible, realistic treatment timelines, and safety notes.",
   h1: "The Hair Growth Encyclopedia",
   dek: "A plain-language reference covering DHT, reversibility, realistic timelines, and how to safely combine hair loss treatments.",
+  quickAnswer:
+    "Pattern hair loss is driven by DHT slowly shrinking genetically sensitive follicles. It can usually be slowed and partly reversed while follicles are still alive, and treatments such as minoxidil need 3-6 months of daily use before results show, with fuller results at 9-12 months.",
   intro: [
     "This is your reference page for the core facts behind almost every product review and guide on this site — what actually drives pattern hair loss, whether it can be reversed, and how long treatments realistically take.",
     "Pattern hair loss (androgenetic alopecia) is the most common form of hair loss in both men and women, and it's also one of the most misunderstood — partly because there are so many products and opinions to sort through, and partly because the underlying biology (a slow-motion hormonal process playing out over years) doesn't lend itself to quick before-and-after claims. Understanding the mechanism first makes every downstream decision — which treatment to start, how long to wait before judging it, and what a realistic outcome even looks like — much easier to reason about.",

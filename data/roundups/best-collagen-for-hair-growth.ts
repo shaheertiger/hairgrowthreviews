@@ -4,7 +4,7 @@ export const bestCollagenForHairGrowth: RoundupData = {
   slug: "best-collagen-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Collagen for Hair Growth",
-  metaTitle: "Best Collagen for Hair Growth (2026): 6 Picks Ranked on Value",
+  metaTitle: "Best Collagen for Hair Growth (2026): 6 Picks Reviewed",
   metaDescription:
     "The best collagen for hair: we ranked Vital Proteins, Orgain, Sports Research, Ancient Nutrition and NeoCell on source, quality, mixability and cost per serving.",
   h1: "The Best Collagen for Hair Growth, and How to Get the Most From It",

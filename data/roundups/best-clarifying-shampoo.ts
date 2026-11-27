@@ -4,7 +4,7 @@ export const bestClarifyingShampoo: RoundupData = {
   slug: "best-clarifying-shampoo",
   hub: "Hair Care",
   crumb: "Best Clarifying Shampoo",
-  metaTitle: "Best Clarifying Shampoo (2026): 7 Picks Ranked on Buildup Removal",
+  metaTitle: "Best Clarifying Shampoo (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked clarifying shampoos from Kristin Ess, Paul Mitchell, OUAI, Malibu C, Redken and more on product, oil, hard water and chlorine buildup removal.",
   h1: "The Best Clarifying Shampoo for Buildup, Hard Water and Chlorine",

@@ -4,7 +4,7 @@ export const bestEdgeControlFor4cHair: RoundupData = {
   slug: "best-edge-control-for-4c-hair",
   hub: "Hair Care",
   crumb: "Best Edge Control for 4C Hair",
-  metaTitle: "Best Edge Control for 4C Hair (2026): 6 Strong-Hold Picks",
+  metaTitle: "Best Edge Control for 4C Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best edge control for 4C hair holds all day with less flaking. We ranked Style Factor, Eco Style, Creme of Nature, Murray's and more, plus hairline tips.",
   h1: "The Best Edge Control for 4C Hair: Strong Hold, Sleek Edges, Happy Hairline",

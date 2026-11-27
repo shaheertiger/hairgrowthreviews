@@ -4,7 +4,7 @@ export const bestMinoxidilForWomen: RoundupData = {
   slug: "best-minoxidil-for-women",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Minoxidil for Women",
-  metaTitle: "Best Minoxidil for Women (2026): 7 Picks Ranked on Value",
+  metaTitle: "Best Minoxidil for Women (2026): 7 Picks Reviewed",
   metaDescription:
     "Women's Rogaine 5% foam, Kirkland, hers and 2% solutions compared on dosing, irritation, facial hair risk and cost per month. Plus pregnancy and safety notes.",
   h1: "The Best Minoxidil for Women: Once-Daily Foam Beats the Old Liquid for Most",

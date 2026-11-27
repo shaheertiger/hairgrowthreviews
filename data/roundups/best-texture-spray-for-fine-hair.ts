@@ -4,7 +4,7 @@ export const bestTextureSprayForFineHair: RoundupData = {
   slug: "best-texture-spray-for-fine-hair",
   hub: "Hair Care",
   crumb: "Best Texture Spray for Fine Hair",
-  metaTitle: "Best Texture Spray for Fine Hair (2026): 6 Volume-Boosting Picks",
+  metaTitle: "Best Texture Spray for Fine Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best texture spray for fine hair adds grip, body and lift without weight. We ranked Oribe, Kristin Ess, Living Proof, amika and more for flat, fine hair.",
   h1: "The Best Texture Spray for Fine Hair: Weightless Volume, Grip and Lift",

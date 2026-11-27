@@ -4,7 +4,7 @@ export const bestHairBrushForThinningHair: RoundupData = {
   slug: "best-hair-brush-for-thinning-hair",
   hub: "Hair Tools",
   crumb: "Best Hair Brush for Thinning Hair",
-  metaTitle: "Best Hair Brush for Thinning Hair (2026): 7 Picks Ranked",
+  metaTitle: "Best Hair Brush for Thinning Hair (2026): 7 Picks Reviewed",
   metaDescription:
     "The best hair brush for thinning hair cuts breakage, not regrowth. We ranked Tangle Teezer, Wet Brush, Kent, Bass, Aveda and Mason Pearson by gentleness.",
   h1: "The Best Hair Brush for Thinning Hair: Gentler Brushing, Less Breakage",

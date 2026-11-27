@@ -4,7 +4,7 @@ export const bestHairCuttingShears: RoundupData = {
   slug: "best-hair-cutting-shears",
   hub: "Hair Tools",
   crumb: "Best Hair Cutting Shears",
-  metaTitle: "Best Hair Cutting Shears (2026): 6 Pro and At-Home Picks",
+  metaTitle: "Best Hair Cutting Shears (2026): 6 Picks Reviewed",
   metaDescription:
     "The best hair cutting shears for clean, precise cuts at home or in the salon. We ranked Jaguar, Washi, ULG, Equinox and more, plus a thinning shear.",
   h1: "The Best Hair Cutting Shears for Clean, Precise Cuts",

@@ -4,7 +4,7 @@ export const bestHairDyeToCoverGray: RoundupData = {
   slug: "best-hair-dye-to-cover-gray",
   hub: "Hair Care",
   crumb: "Best Hair Dye to Cover Gray",
-  metaTitle: "Best Hair Dye to Cover Gray (2026): 7 Picks Ranked on Coverage",
+  metaTitle: "Best Hair Dye to Cover Gray (2026): 7 Picks Reviewed",
   metaDescription:
     "The best hair dye to cover gray is a permanent creme in a natural shade. We ranked L'Oreal, Clairol, Madison Reed, Garnier and root touch-ups on coverage.",
   h1: "The Best Hair Dye to Cover Gray: Full Coverage, Softer Blending and Root Fixes",

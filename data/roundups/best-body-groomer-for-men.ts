@@ -4,7 +4,7 @@ export const bestBodyGroomerForMen: RoundupData = {
   slug: "best-body-groomer-for-men",
   hub: "Men's Grooming",
   crumb: "Best Body Groomer for Men",
-  metaTitle: "Best Body Groomer for Men (2026): 6 Picks Ranked on Skin Safety",
+  metaTitle: "Best Body Groomer for Men (2026): 6 Brands Reviewed",
   metaDescription:
     "The best body groomer for men, from Philips Norelco and MANSCAPED to Braun, Meridian, Panasonic and Wahl, ranked on skin-safe guards, comfort and water use.",
   h1: "The Best Body Groomer for Men: Trim Chest, Underarms and Groin Without Nicks",

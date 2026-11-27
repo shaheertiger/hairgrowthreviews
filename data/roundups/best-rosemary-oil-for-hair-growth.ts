@@ -4,7 +4,7 @@ export const bestRosemaryOilForHairGrowth: RoundupData = {
   slug: "best-rosemary-oil-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Rosemary Oil for Hair Growth",
-  metaTitle: "Best Rosemary Oil for Hair Growth (2026): 6 Picks Ranked",
+  metaTitle: "Best Rosemary Oil for Hair Growth (2026): 6 Brands Reviewed",
   metaDescription:
     "Pure rosemary essential oil or a ready-made blend? We ranked Plant Therapy, NOW, Kitsch, Briogeo and more, and explain the study and safe dilution.",
   h1: "The Best Rosemary Oil for Hair Growth, and How to Use It",

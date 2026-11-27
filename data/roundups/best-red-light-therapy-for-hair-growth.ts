@@ -4,7 +4,7 @@ export const bestRedLightTherapyForHairGrowth: RoundupData = {
   slug: "best-red-light-therapy-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Red Light Therapy for Hair Growth",
-  metaTitle: "Best Red Light Therapy for Hair Growth (2026): 6 Top Devices",
+  metaTitle: "Best Red Light Therapy for Hair Growth (2026): 6 Reviewed",
   metaDescription:
     "The best red light therapy for hair growth, from LED caps to laser helmets and combs. We compare iRestore, REVIAN, Capillus and HairMax by format and budget.",
   h1: "The Best Red Light Therapy Devices for Hair Growth, From LED Caps to Laser Helmets",

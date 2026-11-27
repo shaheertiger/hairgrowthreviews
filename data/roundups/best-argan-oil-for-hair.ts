@@ -4,7 +4,7 @@ export const bestArganOilForHair: RoundupData = {
   slug: "best-argan-oil-for-hair",
   hub: "Hair Care",
   crumb: "Best Argan Oil for Hair",
-  metaTitle: "Best Argan Oil for Hair (2026): 6 Picks for Soft, Shiny Hair",
+  metaTitle: "Best Argan Oil for Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best argan oil for hair, from pure cold-pressed bottles to salon serums. We ranked Cliganic, Moroccanoil, PURA D'OR, OGX and more for shine and softness.",
   h1: "The Best Argan Oil for Soft, Shiny, Frizz-Free Hair",

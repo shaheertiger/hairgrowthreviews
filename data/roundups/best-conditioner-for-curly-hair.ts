@@ -4,7 +4,7 @@ export const bestConditionerForCurlyHair: RoundupData = {
   slug: "best-conditioner-for-curly-hair",
   hub: "Hair Care",
   crumb: "Best Conditioner for Curly Hair",
-  metaTitle: "Best Conditioner for Curly Hair (2026): 6 Picks With Real Slip",
+  metaTitle: "Best Conditioner for Curly Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best conditioner for curly hair adds slip, moisture and softness. We ranked Mielle, Aussie, Briogeo, Pattern and Camille Rose for curl types 2A to 4C.",
   h1: "The Best Conditioner for Curly Hair: Slip, Softness and Easy Detangling",

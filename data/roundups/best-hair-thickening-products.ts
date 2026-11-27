@@ -4,7 +4,7 @@ export const bestHairThickeningProducts: RoundupData = {
   slug: "best-hair-thickening-products",
   hub: "Hair Care",
   crumb: "Best Hair Thickening Products",
-  metaTitle: "Best Hair Thickening Products (2026): 7 Stylers Ranked on Volume",
+  metaTitle: "Best Hair Thickening Products (2026): 7 Stylers Reviewed",
   metaDescription:
     "Thickening mousses, creams and root lifters make fine hair look fuller. We ranked Bumble and bumble, Living Proof, Color Wow and more on lift and feel.",
   h1: "The Best Hair Thickening Products: Stylers That Make Fine Hair Look Fuller",

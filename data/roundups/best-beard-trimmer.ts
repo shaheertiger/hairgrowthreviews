@@ -4,7 +4,7 @@ export const bestBeardTrimmer: RoundupData = {
   slug: "best-beard-trimmer",
   hub: "Men's Grooming",
   crumb: "Best Beard Trimmer",
-  metaTitle: "Best Beard Trimmer (2026): 7 Picks Ranked on Length Control",
+  metaTitle: "Best Beard Trimmer (2026): 7 Picks Reviewed",
   metaDescription:
     "The best beard trimmer for stubble, short and long beards. We ranked Philips Norelco, Braun, Panasonic, Wahl, Remington and Andis on length control and comfort.",
   h1: "The Best Beard Trimmer: Precise Lengths, Clean Lines, Less Irritation",

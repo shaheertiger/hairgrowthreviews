@@ -4,7 +4,7 @@ export const bestBoarBristleHairBrush: RoundupData = {
   slug: "best-boar-bristle-hair-brush",
   hub: "Hair Tools",
   crumb: "Best Boar Bristle Hair Brush",
-  metaTitle: "Best Boar Bristle Hair Brush (2026): 6 Picks for Shine",
+  metaTitle: "Best Boar Bristle Hair Brush (2026): 6 Brands Reviewed",
   metaDescription:
     "The best boar bristle hair brush spreads natural oils for smooth, glossy hair. We ranked Bass Brushes, Kent, Mason Pearson, Denman and more.",
   h1: "The Best Boar Bristle Hair Brush for Smooth, Shiny Hair",

@@ -4,7 +4,7 @@ export const bestNoseHairTrimmer: RoundupData = {
   slug: "best-nose-hair-trimmer",
   hub: "Men's Grooming",
   crumb: "Best Nose Hair Trimmer",
-  metaTitle: "Best Nose Hair Trimmer (2026): 7 Picks Ranked on Comfort",
+  metaTitle: "Best Nose Hair Trimmer (2026): 7 Picks Reviewed",
   metaDescription:
     "The best nose hair trimmer for painless, safe trimming. We ranked Panasonic, Philips Norelco, Wahl, Conair and Tweezerman on comfort, cleaning and value.",
   h1: "The Best Nose Hair Trimmer: Painless, Hygienic and Easy to Clean",

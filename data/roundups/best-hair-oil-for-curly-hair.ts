@@ -4,7 +4,7 @@ export const bestHairOilForCurlyHair: RoundupData = {
   slug: "best-hair-oil-for-curly-hair",
   hub: "Hair Care",
   crumb: "Best Hair Oil for Curly Hair",
-  metaTitle: "Best Hair Oil for Curly Hair (2026): 6 Picks for Softer Curls",
+  metaTitle: "Best Hair Oil for Curly Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best hair oil for curly hair seals in moisture and tames frizz. We ranked Ouidad, SheaMoisture, Mielle, Moroccanoil and more for every curl type.",
   h1: "The Best Hair Oil for Curly Hair: Softer, Shinier, Frizz-Free Curls",

@@ -4,7 +4,7 @@ export const bestBeardGrowthOil: RoundupData = {
   slug: "best-beard-growth-oil",
   hub: "Brows, Lashes & Beard",
   crumb: "Best Beard Growth Oil",
-  metaTitle: "Best Beard Growth Oil (2026): 6 Picks for a Fuller-Looking Beard",
+  metaTitle: "Best Beard Growth Oil (2026): 6 Brands Reviewed",
   metaDescription:
     "The best beard oils for a softer, fuller-looking beard. We ranked Honest Amish, Viking Revolution, Jack Black, Beardbrand and more on feel, comfort and value.",
   h1: "The Best Beard Growth Oil for a Softer, Fuller-Looking Beard",

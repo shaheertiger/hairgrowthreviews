@@ -4,9 +4,9 @@ export const bestOilForLowPorosityHair: RoundupData = {
   slug: "best-oil-for-low-porosity-hair",
   hub: "Hair Care",
   crumb: "Best Oil for Low Porosity Hair",
-  metaTitle: "Best Oils for Low Porosity Hair (2026): 6 Picks Ranked on Weight",
+  metaTitle: "Best Oils for Low Porosity Hair (2026): 6 Brands Reviewed",
   metaDescription:
-    "The best oils for low porosity hair are light ones like jojoba. We ranked 6 picks, flagged the silicone serums, and explain how to apply oil so it absorbs.",
+    "Oils for low porosity hair reviewed: NOW jojoba, PURA D'OR, Briogeo, Moroccanoil, Handcraft Blends and OGX, ranked on weight, plus how to make oil absorb.",
   h1: "The Best Oils for Low Porosity Hair: Light Oils That Soak In Instead of Sitting on Top",
   dek: "Low porosity hair resists water and product, so heavy oils tend to sit on the surface as greasy film. Lighter oils, applied to damp hair with a little warmth, work far better. Here are the picks worth buying, including two popular argan products that are really silicone serums.",
   intro: [

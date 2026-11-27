@@ -4,7 +4,7 @@ export const bestLaserCapForHairGrowth: RoundupData = {
   slug: "best-laser-cap-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Laser Cap for Hair Growth",
-  metaTitle: "Best Laser Cap for Hair Growth (2026): 7 Devices Ranked on Value",
+  metaTitle: "Best Laser Cap for Hair Growth (2026): 7 Devices Reviewed",
   metaDescription:
     "We ranked iRestore, Capillus, HairMax, Theradome and REVIAN on evidence, design and cost, plus what FDA clearance means and how to get great results.",
   h1: "The Best Laser Caps for Hair Growth: Top Picks for Every Routine",

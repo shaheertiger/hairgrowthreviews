@@ -4,7 +4,7 @@ export const bestCoconutOilForHair: RoundupData = {
   slug: "best-coconut-oil-for-hair",
   hub: "Hair Care",
   crumb: "Best Coconut Oil for Hair",
-  metaTitle: "Best Coconut Oil for Hair (2026): 6 Picks for Soft, Strong Hair",
+  metaTitle: "Best Coconut Oil for Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best coconut oil for hair conditions, softens and protects strands. We ranked Viva Naturals, Nature's Way, Majestic Pure, SheaMoisture and more.",
   h1: "The Best Coconut Oil for Soft, Strong, Shiny Hair",

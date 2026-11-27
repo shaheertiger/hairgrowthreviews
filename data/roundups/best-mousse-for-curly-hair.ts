@@ -4,7 +4,7 @@ export const bestMousseForCurlyHair: RoundupData = {
   slug: "best-mousse-for-curly-hair",
   hub: "Hair Care",
   crumb: "Best Mousse for Curly Hair",
-  metaTitle: "Best Mousse for Curly Hair (2026): 6 Foams for Curls & Waves",
+  metaTitle: "Best Mousse for Curly Hair (2026): 6 Foams Reviewed",
   metaDescription:
     "The best mousse for curly hair and waves, with how to apply it. We ranked Ouidad VitalCurl+, John Frieda Dream Curls, Kenra, The Doux and more.",
   h1: "The Best Mousse for Curly Hair: Light, Bouncy Hold for Curls and Waves",

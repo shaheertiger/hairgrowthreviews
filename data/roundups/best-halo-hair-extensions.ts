@@ -4,7 +4,7 @@ export const bestHaloHairExtensions: RoundupData = {
   slug: "best-halo-hair-extensions",
   hub: "Hair Care",
   crumb: "Best Halo Hair Extensions",
-  metaTitle: "Best Halo Hair Extensions (2026): 6 Picks for Thin & Fine Hair",
+  metaTitle: "Best Halo Hair Extensions (2026): 6 Picks Reviewed",
   metaDescription:
     "The best halo hair extensions add length and fullness with no clips or glue. We ranked GOO GOO, Full Shine, Hairro and more, plus clip-in and tape-in picks.",
   h1: "The Best Halo Hair Extensions for Instant Length and Volume",

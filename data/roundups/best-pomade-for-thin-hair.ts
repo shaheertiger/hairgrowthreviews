@@ -4,7 +4,7 @@ export const bestPomadeForThinHair: RoundupData = {
   slug: "best-pomade-for-thin-hair",
   hub: "Men's Grooming",
   crumb: "Best Pomade for Thin Hair",
-  metaTitle: "Best Pomade for Thin Hair (2026): 6 Picks Ranked on Hold & Finish",
+  metaTitle: "Best Pomade for Thin Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "Thin hair needs a matte, light-to-medium hold product used sparingly on dry hair. We ranked Baxter, American Crew, Redken, Suavecito, Bumble and Toppik.",
   h1: "The Best Pomade for Thin Hair: Matte, Light and Used Sparingly",

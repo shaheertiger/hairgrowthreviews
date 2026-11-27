@@ -4,7 +4,7 @@ export const bestShampooForThickHair: RoundupData = {
   slug: "best-shampoo-for-thick-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo for Thick Hair",
-  metaTitle: "Best Shampoo for Thick Hair (2026): 6 Smoothing, Hydrating Picks",
+  metaTitle: "Best Shampoo for Thick Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best shampoo for thick hair cleans well, adds moisture and tames frizz. We ranked Pureology, Redken All Soft, Kérastase Discipline and more.",
   h1: "The Best Shampoo for Thick Hair: Smooth, Soft and Easy to Manage",

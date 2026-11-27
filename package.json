@@ -12,7 +12,8 @@
     "check:markdown": "tsx scripts/check-markdown-routes.ts",
     "amazon:search": "node --env-file-if-exists=.env scripts/amazon/search.mjs",
     "amazon:sync": "tsx --env-file-if-exists=.env scripts/amazon/sync.ts",
-    "indexnow": "tsx scripts/indexnow.ts"
+    "indexnow": "tsx scripts/indexnow.ts",
+    "bing": "tsx --env-file-if-exists=.env scripts/bing.ts"
   },
   "dependencies": {
     "@next/third-parties": "^16.3.1",

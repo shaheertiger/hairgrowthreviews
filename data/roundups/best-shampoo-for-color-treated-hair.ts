@@ -4,7 +4,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
   slug: "best-shampoo-for-color-treated-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo for Color-Treated Hair",
-  metaTitle: "Best Shampoo for Color-Treated Hair (2026): 6 Fade-Fighting Picks",
+  metaTitle: "Best Shampoo for Color-Treated Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "We ranked color-safe shampoos from Redken, L'Oréal, Joico, Kérastase, Aveda and Matrix on fade protection, gentleness and fit for bleached or fine hair.",
   h1: "The Best Shampoo for Color-Treated Hair: Keep Your Color Longer Between Appointments",

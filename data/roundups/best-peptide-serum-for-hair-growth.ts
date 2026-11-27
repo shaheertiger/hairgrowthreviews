@@ -4,7 +4,7 @@ export const bestPeptideSerumForHairGrowth: RoundupData = {
   slug: "best-peptide-serum-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Peptide Serum for Hair Growth",
-  metaTitle: "Best Peptide Serum for Hair Growth (2026): 6 Top Picks Ranked",
+  metaTitle: "Best Peptide Serum for Hair Growth (2026): 6 Brands Reviewed",
   metaDescription:
     "Peptide serums are the hottest step in scalp care. We ranked The Ordinary, Divi, Nutrafol and more, plus how copper peptides fit and how to pair them with minoxidil.",
   h1: "The Best Peptide Serums for Hair Growth: Our Top Picks for Fuller-Looking Hair",

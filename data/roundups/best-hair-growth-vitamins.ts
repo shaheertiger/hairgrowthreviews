@@ -4,7 +4,7 @@ export const bestHairGrowthVitamins: RoundupData = {
   slug: "best-hair-growth-vitamins",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Growth Vitamins",
-  metaTitle: "Best Hair Growth Vitamins (2026): 7 Top Picks for Fuller Hair",
+  metaTitle: "Best Hair Growth Vitamins (2026): 7 Picks Reviewed",
   metaDescription:
     "The best hair vitamins match what your body needs. We ranked Nutrafol, Viviscal, iron, vitamin D, OLLY and more on research, value and safety.",
   h1: "The Best Hair Growth Vitamins: Top Picks and How to Choose the Right One",

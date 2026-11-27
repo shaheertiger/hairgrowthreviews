@@ -4,7 +4,7 @@ export const bestRosemaryShampooForHairGrowth: RoundupData = {
   slug: "best-rosemary-shampoo-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Rosemary Shampoo for Hair Growth",
-  metaTitle: "Best Rosemary Shampoo for Hair Growth (2026): 6 Top Picks",
+  metaTitle: "Best Rosemary Shampoo for Hair Growth (2026): 6 Picks Reviewed",
   metaDescription:
     "The best rosemary shampoo for hair growth cleanses gently and leaves hair fuller-looking. We ranked Mielle, Watermans, Aveda, Kitsch and more.",
   h1: "The Best Rosemary Shampoo for a Healthy Scalp and Fuller-Looking Hair",

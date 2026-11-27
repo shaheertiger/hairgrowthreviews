@@ -4,7 +4,7 @@ export const bestAtHomeHairColor: RoundupData = {
   slug: "best-at-home-hair-color",
   hub: "Hair Care",
   crumb: "Best At-Home Hair Color",
-  metaTitle: "Best At-Home Hair Color (2026): 8 Picks Ranked on Safety",
+  metaTitle: "Best At-Home Hair Color (2026): 8 Picks Reviewed",
   metaDescription:
     "We ranked L'Oreal, Clairol, Garnier, Madison Reed and Revlon box dyes on gray coverage, gentleness and allergy risk, with the 48-hour patch test explained.",
   h1: "The Best At-Home Hair Color: Even Coverage Without Wrecking Fragile Hair",

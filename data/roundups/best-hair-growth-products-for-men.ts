@@ -4,9 +4,9 @@ export const bestHairGrowthProductsForMen: RoundupData = {
   slug: "best-hair-growth-products-for-men",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Growth Products for Men",
-  metaTitle: "Best Hair Growth Products for Men (2026): 7 Picks Ranked on Proof",
+  metaTitle: "Best Hair Growth Products for Men (2026): 7 Brands Reviewed",
   metaDescription:
-    "The best hair growth products for men, one per category: minoxidil, ketoconazole shampoo, laser cap, derma roller, saw palmetto and fibers, ranked on evidence.",
+    "Hair growth products for men reviewed: Rogaine, Kirkland minoxidil, Nizoral, iRestore, NOW saw palmetto and Toppik, one pick per category, ranked on evidence.",
   h1: "The Best Hair Growth Products for Men, Ranked by How Much the Evidence Supports Them",
   dek: "Male pattern hair loss has two cornerstone treatments and a range of helpful add-ons that round out a routine. We picked the best product in each category and ranked them in the order that builds the strongest routine.",
   intro: [

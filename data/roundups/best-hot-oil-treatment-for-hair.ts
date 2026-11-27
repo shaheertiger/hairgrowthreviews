@@ -4,9 +4,9 @@ export const bestHotOilTreatmentForHair: RoundupData = {
   slug: "best-hot-oil-treatment-for-hair",
   hub: "Hair Care",
   crumb: "Best Hot Oil Treatment for Hair",
-  metaTitle: "Best Hot Oil Treatment for Hair (2026): 7 Picks + How To",
+  metaTitle: "Best Hot Oil Treatment for Hair (2026): 7 Brands Reviewed",
   metaDescription:
-    "The best hot oil treatments for hair, from VO5 and Queen Helene tubes to the best oils for a DIY hot oil treatment, plus how to do one safely at home.",
+    "Hot oil treatment reviews: Alberto VO5, OKAY, Queen Helene, Difeel and African Pride compared, plus the best oils for a DIY hot oil treatment and how to do one.",
   h1: "The Best Hot Oil Treatment for Hair",
   dek: "A hot oil treatment is one of the oldest and cheapest ways to soften dry, brittle hair. Here are the ready-made treatments and plain oils worth buying, which suit natural, 4c, curly and low porosity hair, and exactly how to do a hot oil treatment at home without overheating it.",
   intro: [

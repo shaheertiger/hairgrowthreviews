@@ -10,6 +10,8 @@ export const maneNTail: ReviewData = {
     "Mane 'n Tail is a cult-favorite budget shampoo loved for rich lather and easy detangling. Our review, plus the facts on allergy reports and patch testing.",
   h1: "Mane 'n Tail Shampoo: A Budget Favorite, Plus the Allergy Facts",
   dek: "A horse-grooming original turned cult-favorite human hair staple, loved for its rich lather and detangling power. Here's what makes it so popular, plus the simple facts behind the allergy questions.",
+  quickAnswer:
+    "Mane 'n Tail Shampoo rates 3.5/5: a $5–$11 drugstore cleansing shampoo, originally made for horses, loved for rich lather and easy detangling. It is not a hair growth treatment, and a 2021 allergy class action over DMDM hydantoin was dismissed in 2022, so check your bottle's label and patch test if your scalp is sensitive.",
   rating: 3.5,
   reviewCount: 8400,
   ratingBasis: "Aggregated from CVS, Amazon, and Walmart customer review sentiment",

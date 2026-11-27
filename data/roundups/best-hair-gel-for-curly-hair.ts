@@ -4,7 +4,7 @@ export const bestHairGelForCurlyHair: RoundupData = {
   slug: "best-hair-gel-for-curly-hair",
   hub: "Hair Care",
   crumb: "Best Hair Gel for Curly Hair",
-  metaTitle: "Best Hair Gel for Curly Hair (2026): 6 Crunch-Free Picks",
+  metaTitle: "Best Hair Gel for Curly Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best hair gel for curly hair gives defined, frizz-free curls without the crunch. We ranked Ouidad, Aunt Jackie's, Bounce Curl, American Crew and more.",
   h1: "The Best Hair Gel for Curly Hair: Defined Curls, Soft Finish",

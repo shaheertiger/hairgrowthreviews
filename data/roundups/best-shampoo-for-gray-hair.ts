@@ -4,7 +4,7 @@ export const bestShampooForGrayHair: RoundupData = {
   slug: "best-shampoo-for-gray-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo for Gray Hair",
-  metaTitle: "Best Shampoo for Gray Hair (2026): 6 Picks Ranked on Tone & Care",
+  metaTitle: "Best Shampoo for Gray Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best shampoo for gray hair pairs a purple toner used 1-2x a week with a gentle everyday wash. We ranked Clairol, Fanola, Joico, Pureology and more.",
   h1: "The Best Shampoo for Gray Hair: Brighten Yellow Tones and Soften Dry Strands",

@@ -4,7 +4,7 @@ export const bestHairBonnetForSleeping: RoundupData = {
   slug: "best-hair-bonnet-for-sleeping",
   hub: "Hair Care",
   crumb: "Best Hair Bonnet for Sleeping",
-  metaTitle: "Best Hair Bonnet for Sleeping (2026): 6 Satin & Silk Picks",
+  metaTitle: "Best Hair Bonnet for Sleeping (2026): 6 Picks Reviewed",
   metaDescription:
     "The best hair bonnet for sleeping keeps curls soft and frizz-free overnight. We ranked Grace Eleyae, BONNET QUEEN, ZIMASILK, YANIBEST and Kitsch.",
   h1: "The Best Hair Bonnet for Sleeping: Satin and Silk Caps That Stay On",

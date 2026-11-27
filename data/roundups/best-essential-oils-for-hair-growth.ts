@@ -4,7 +4,7 @@ export const bestEssentialOilsForHairGrowth: RoundupData = {
   slug: "best-essential-oils-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Essential Oils for Hair Growth",
-  metaTitle: "Best Essential Oils for Hair Growth (2026): 6 Top Picks",
+  metaTitle: "Best Essential Oils for Hair Growth (2026): 6 Picks Reviewed",
   metaDescription:
     "The best essential oils for hair growth: rosemary, peppermint, lavender, tea tree and cedarwood from Plant Therapy, NOW and Handcraft Blends.",
   h1: "The Best Essential Oils for Hair Growth and a Healthy Scalp",

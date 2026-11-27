@@ -4,7 +4,7 @@ export const bestMinoxidilForMen: RoundupData = {
   slug: "best-minoxidil-for-men",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Minoxidil for Men",
-  metaTitle: "Best Minoxidil for Men (2026): 7 Foams & Liquids Ranked on Value",
+  metaTitle: "Best Minoxidil for Men (2026): 7 Foams & Liquids Reviewed",
   metaDescription:
     "Every 5% minoxidil for men uses the same FDA-approved drug. We ranked Rogaine, Kirkland, Keeps, hims and more on formula, irritation risk, and cost per month.",
   h1: "The Best Minoxidil for Men: 7 Foams and Liquids That Deliver",

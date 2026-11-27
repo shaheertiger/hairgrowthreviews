@@ -4,9 +4,9 @@ export const bestBeardGrowthProducts: RoundupData = {
   slug: "best-beard-growth-products",
   hub: "Brows, Lashes & Beard",
   crumb: "Best Beard Growth Products",
-  metaTitle: "Best Beard Growth Products (2026): Grow It and Groom It Fuller",
+  metaTitle: "Best Beard Growth Products (2026): 8 Picks Reviewed",
   metaDescription:
-    "The best beard growth products for a fuller beard: off-label minoxidil and microneedling tools, plus grooming picks that make your beard look thicker fast.",
+    "Beard growth products reviewed: Rogaine and Kirkland minoxidil, Follicly rollers, The Beard Club, Viking Revolution and Honest Amish for a fuller-looking beard.",
   h1: "The Best Beard Growth Products: Grow More Beard and Make It Look Fuller",
   dek: "The best beard routines combine two things: a product that works on the follicles and grooming that makes every hair count. This guide ranks the best of each and explains how to get the most from every pick.",
   intro: [

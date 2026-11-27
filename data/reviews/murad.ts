@@ -5,7 +5,7 @@ export const murad: ReviewData = {
   productName: "Murad Hair Growth Scalp Serum",
   brand: "Murad",
   category: "Cosmetic Scalp Serum",
-  metaTitle: "Murad Hair Growth Scalp Serum Review: 3.2/5, Gentle Exfoliating Pick",
+  metaTitle: "Murad Hair Growth Scalp Serum Review: 3.2/5 Gentle Exfoliator",
   metaDescription:
     "Murad Hair Growth Scalp Serum rates 3.2/5: a gentle acid-exfoliating scalp serum (~$20–$30) from a trusted skincare brand that leaves oily scalps fresh and clean.",
   h1: "Murad Hair Growth Scalp Serum Review",

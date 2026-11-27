@@ -4,7 +4,7 @@ export const bestShampooAndConditionerForThinHair: RoundupData = {
   slug: "best-shampoo-and-conditioner-for-thin-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo and Conditioner for Thin Hair",
-  metaTitle: "Best Shampoo and Conditioner for Thin Hair (2026): 6 Pairs Ranked",
+  metaTitle: "Best Shampoo and Conditioner for Thin Hair (2026): 6 Reviewed",
   metaDescription:
     "Matching shampoo and conditioner pairs for fine or thinning hair from Living Proof, Kerastase, Nioxin and more, plus how to pair them with a hair loss routine.",
   h1: "The Best Shampoo and Conditioner for Thin Hair: 6 Matching Pairs for Fine and Thinning Hair",

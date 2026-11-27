@@ -4,7 +4,7 @@ export const bestHairSkinAndNailsSupplement: RoundupData = {
   slug: "best-hair-skin-and-nails-supplement",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair, Skin & Nails Supplement",
-  metaTitle: "Best Hair, Skin & Nails Supplement (2026): 6 Gummies & Softgels",
+  metaTitle: "Best Hair, Skin & Nails Supplement (2026): 6 Picks Reviewed",
   metaDescription:
     "The best hair skin nails supplements, ranked: Nature's Bounty, OLLY, Vitafusion and more multi-nutrient beauty gummies and softgels for every budget.",
   h1: "The Best Hair, Skin and Nails Supplements: 6 Beauty Vitamins We Love",

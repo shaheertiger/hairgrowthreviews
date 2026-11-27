@@ -4,7 +4,7 @@ export const bestHairStraighteningBrush: RoundupData = {
   slug: "best-hair-straightening-brush",
   hub: "Hair Tools",
   crumb: "Best Hair Straightening Brush",
-  metaTitle: "Best Hair Straightening Brush (2026): 7 Picks Ranked on Safety",
+  metaTitle: "Best Hair Straightening Brush (2026): 7 Picks Reviewed",
   metaDescription:
     "The best hair straightening brush for smooth hair with less heat stress. We ranked TYMO, L'ANGE, Conair, Revlon, CHI and BaBylissPRO on heat control and value.",
   h1: "The Best Hair Straightening Brush: Smoother Hair With a Gentler Touch",

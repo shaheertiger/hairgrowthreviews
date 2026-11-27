@@ -4,7 +4,7 @@ export const bestHairDryerBrush: RoundupData = {
   slug: "best-hair-dryer-brush",
   hub: "Hair Tools",
   crumb: "Best Hair Dryer Brush",
-  metaTitle: "Best Hair Dryer Brush (2026): 7 Picks Ranked on Volume & Heat",
+  metaTitle: "Best Hair Dryer Brush (2026): 7 Picks Reviewed",
   metaDescription:
     "We ranked Revlon One-Step, Shark FlexStyle, Dyson Airwrap, T3, Drybar and more on volume, heat settings, weight and how gently they treat fine or thinning hair.",
   h1: "The Best Hair Dryer Brush: A Salon-Style Blowout With Less Effort",

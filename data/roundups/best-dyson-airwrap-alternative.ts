@@ -4,7 +4,7 @@ export const bestDysonAirwrapAlternative: RoundupData = {
   slug: "best-dyson-airwrap-alternative",
   hub: "Hair Tools",
   crumb: "Best Dyson Airwrap Alternative",
-  metaTitle: "Best Dyson Airwrap Alternative (2026): 7 Picks Ranked on Value",
+  metaTitle: "Best Dyson Airwrap Alternative (2026): 7 Picks Reviewed",
   metaDescription:
     "We ranked Shark FlexStyle, Dreame, T3, Drybar and Conair air stylers against the Dyson Airwrap on curl quality, heat control, versatility and value.",
   h1: "The Best Dyson Airwrap Alternative: Air-Styled Curls for a Fraction of the Price",

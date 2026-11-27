@@ -4,7 +4,7 @@ export const bestHairGrowthShampoo: RoundupData = {
   slug: "best-hair-growth-shampoo",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Growth Shampoo",
-  metaTitle: "Best Hair Growth Shampoo (2026): 7 Picks for Men and Women",
+  metaTitle: "Best Hair Growth Shampoo (2026): 7 Brands Reviewed",
   metaDescription:
     "The right shampoo keeps your scalp healthy and hair stronger and fuller-looking. We ranked Mielle, Plantur 39, hims, Nutrafol and more for men and women.",
   h1: "The Best Hair Growth Shampoo: Top Picks for Men and Women",

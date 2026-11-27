@@ -4,7 +4,7 @@ export const bestAntiFrizzSerum: RoundupData = {
   slug: "best-anti-frizz-serum",
   hub: "Hair Care",
   crumb: "Best Anti-Frizz Serum",
-  metaTitle: "Best Anti-Frizz Serum (2026): 7 Picks Ranked on Humidity Control",
+  metaTitle: "Best Anti-Frizz Serum (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked anti-frizz serums from John Frieda, Color Wow, Living Proof, Paul Mitchell, Kérastase and more on humidity control, weight on fine hair and value.",
   h1: "The Best Anti-Frizz Serums: Smooth Hair That Survives Humidity",

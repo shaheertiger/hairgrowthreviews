@@ -4,7 +4,7 @@ export const bestSawPalmettoShampoo: RoundupData = {
   slug: "best-saw-palmetto-shampoo",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Saw Palmetto Shampoo",
-  metaTitle: "Best Saw Palmetto Shampoo (2026): 7 DHT Shampoos Checked",
+  metaTitle: "Best Saw Palmetto Shampoo (2026): 7 DHT Shampoos Reviewed",
   metaDescription:
     "The best saw palmetto shampoos for thinning hair: hims, Regenepure, PURA D'OR, Pete & Pedro, Ultrax and more, plus whether saw palmetto shampoo or spray blocks DHT.",
   h1: "The Best Saw Palmetto Shampoo",

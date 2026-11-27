@@ -4,7 +4,7 @@ export const bestCastorOilForHairGrowth: RoundupData = {
   slug: "best-castor-oil-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Castor Oil for Hair Growth",
-  metaTitle: "Best Castor Oil for Hair Growth (2026): 7 Picks Ranked on Purity",
+  metaTitle: "Best Castor Oil for Hair Growth (2026): 7 Picks Reviewed",
   metaDescription:
     "Castor oil seals in moisture, cuts breakage and helps hair keep its length. We ranked Sky Organics, Heritage Store, Tropic Isle JBCO and more on purity and value.",
   h1: "The Best Castor Oil for Hair Growth: Our Top Picks and How to Use Them",

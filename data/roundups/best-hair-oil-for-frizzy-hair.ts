@@ -4,9 +4,9 @@ export const bestHairOilForFrizzyHair: RoundupData = {
   slug: "best-hair-oil-for-frizzy-hair",
   hub: "Hair Care",
   crumb: "Best Hair Oil for Frizzy Hair",
-  metaTitle: "Best Hair Oil for Frizzy Hair (2026): 7 Anti-Frizz Oils",
+  metaTitle: "Best Hair Oil for Frizzy Hair (2026): 7 Brands Reviewed",
   metaDescription:
-    "The best hair oils for frizzy hair, from humidity-blocking styling oils to pure argan, plus how an oil differs from an anti-frizz serum and how to use it.",
+    "Hair oil for frizzy hair reviews: Kérastase, Living Proof, OUAI, Bumble and bumble, Garnier and Ouidad, from humidity-blocking oils to pure argan.",
   h1: "The Best Hair Oil for Frizzy Hair",
   dek: "A good hair oil smooths frizz while it softens and adds shine. Here are the anti-frizz oils worth buying for straight, wavy and curly hair, how they compare with silicone serums, and how to apply them so frizz stays down in humid weather.",
   intro: [

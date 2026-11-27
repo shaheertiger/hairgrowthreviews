@@ -4,7 +4,7 @@ export const bestJojobaOilForHair: RoundupData = {
   slug: "best-jojoba-oil-for-hair",
   hub: "Hair Care",
   crumb: "Best Jojoba Oil for Hair",
-  metaTitle: "Best Jojoba Oil for Hair (2026): 6 Pure Organic Picks",
+  metaTitle: "Best Jojoba Oil for Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best jojoba oil for hair is light, pure and sebum-like. We ranked NOW Solutions, Cliganic, Leven Rose and more for fine hair and a happy scalp.",
   h1: "The Best Jojoba Oil for Hair: Light, Pure Oils for Fine Hair and the Scalp",

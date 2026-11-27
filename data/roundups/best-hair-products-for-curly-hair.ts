@@ -4,7 +4,7 @@ export const bestHairProductsForCurlyHair: RoundupData = {
   slug: "best-hair-products-for-curly-hair",
   hub: "Hair Care",
   crumb: "Best Hair Products for Curly Hair",
-  metaTitle: "Best Hair Products for Curly Hair (2026): 7 Picks by Curl Type",
+  metaTitle: "Best Hair Products for Curly Hair (2026): 7 Brands Reviewed",
   metaDescription:
     "The best hair products for curly hair: curl creams, gels, leave-ins and co-washes from SheaMoisture, Cantu, Ouidad, Bounce Curl and more, ranked by curl type.",
   h1: "The Best Hair Products for Curly Hair: Creams, Gels and Leave-Ins That Define Without Crunch",

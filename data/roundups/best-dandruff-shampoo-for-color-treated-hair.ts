@@ -4,7 +4,7 @@ export const bestDandruffShampooForColorTreatedHair: RoundupData = {
   slug: "best-dandruff-shampoo-for-color-treated-hair",
   hub: "Hair Care",
   crumb: "Best Dandruff Shampoo for Color-Treated Hair",
-  metaTitle: "Best Dandruff Shampoo for Color-Treated Hair (2026): 6 Picks",
+  metaTitle: "Best Dandruff Shampoo for Color-Treated Hair (2026): 6 Reviewed",
   metaDescription:
     "Some dandruff actives are gentle on dyed hair and some carry label warnings. We ranked CeraVe, Head & Shoulders, Nizoral and more by active and color safety.",
   h1: "The Best Dandruff Shampoo for Color-Treated Hair: Clear Flakes Without Wrecking Your Color",

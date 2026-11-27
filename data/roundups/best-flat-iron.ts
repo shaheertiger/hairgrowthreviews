@@ -4,7 +4,7 @@ export const bestFlatIron: RoundupData = {
   slug: "best-flat-iron",
   hub: "Hair Tools",
   crumb: "Best Flat Iron",
-  metaTitle: "Best Flat Iron (2026): 7 Picks Ranked on Heat Control & Damage",
+  metaTitle: "Best Flat Iron (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked ghd, BaBylissPRO, T3, CHI, Dyson, Conair and Remington flat irons on temperature control, plate material and how hard they are on fine hair.",
   h1: "The Best Flat Iron: Smooth Results With Less Heat Damage",

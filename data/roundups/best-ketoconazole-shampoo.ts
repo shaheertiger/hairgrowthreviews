@@ -4,9 +4,9 @@ export const bestKetoconazoleShampoo: RoundupData = {
   slug: "best-ketoconazole-shampoo",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Ketoconazole Shampoo",
-  metaTitle: "Best Ketoconazole Shampoo (2026): 7 Picks for Dandruff and Thinning",
+  metaTitle: "Best Ketoconazole Shampoo (2026): 7 Picks Reviewed",
   metaDescription:
-    "Nizoral 1% is our top OTC ketoconazole shampoo. We compare sizes, the 2% prescription, rotation shampoos for dandruff, and what it does for hair loss.",
+    "Ketoconazole shampoo reviews: Nizoral 1% is our top pick, compared with Head & Shoulders, DHS, Selsun Blue and Neutrogena for dandruff and hair loss.",
   h1: "The Best Ketoconazole Shampoo for Dandruff and Thinning Hair",
   dek: "Ketoconazole is a proven dandruff fighter with an intriguing body of research for hair loss. Over the counter, one brand dominates, so the smarter questions are which size to buy, how to use it, and what to rotate it with.",
   intro: [

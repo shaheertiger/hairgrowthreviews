@@ -4,7 +4,7 @@ export const bestShampooForKeratinTreatedHair: RoundupData = {
   slug: "best-shampoo-for-keratin-treated-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo for Keratin Treated Hair",
-  metaTitle: "Best Shampoo for Keratin Treated Hair (2026): 6 Top Picks",
+  metaTitle: "Best Shampoo for Keratin Treated Hair (2026): 6 Picks Reviewed",
   metaDescription:
     "The best shampoo for keratin treated hair is gentle and sulfate-free so smoothing lasts. We ranked Keratin Complex, Pureology, Redken and more.",
   h1: "The Best Shampoo for Keratin-Treated Hair to Keep It Smooth for Longer",

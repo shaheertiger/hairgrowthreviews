@@ -4,7 +4,7 @@ export const bestShampooForThinningHair: RoundupData = {
   slug: "best-shampoo-for-thinning-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo for Thinning Hair",
-  metaTitle: "Best Shampoo for Thinning Hair (2026): 7 Picks Ranked on Volume",
+  metaTitle: "Best Shampoo for Thinning Hair (2026): 7 Brands Reviewed",
   metaDescription:
     "Nioxin, Living Proof, Viviscal, Kérastase, Aveda and more compared on volume, scalp care and hair type, plus how to get the fullest-looking hair from every wash.",
   h1: "The Best Shampoo for Thinning Hair: Fuller-Looking Hair Starts Here",

@@ -4,7 +4,7 @@ export const bestShampooForMen: RoundupData = {
   slug: "best-shampoo-for-men",
   hub: "Men's Grooming",
   crumb: "Best Shampoo for Men",
-  metaTitle: "Best Shampoo for Men (2026): 7 Picks Ranked on Scalp Type & Value",
+  metaTitle: "Best Shampoo for Men (2026): 7 Brands Reviewed",
   metaDescription:
     "The best shampoo for men by scalp type: American Crew, Every Man Jack, Head & Shoulders, Baxter, Brickell, Redken Brews and Dove Men+Care, ranked on value.",
   h1: "The Best Shampoo for Men: Pick by Scalp, Not by Scent",

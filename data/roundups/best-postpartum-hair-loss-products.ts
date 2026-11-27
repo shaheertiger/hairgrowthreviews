@@ -4,9 +4,9 @@ export const bestPostpartumHairLossProducts: RoundupData = {
   slug: "best-postpartum-hair-loss-products",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Postpartum Hair Loss Products",
-  metaTitle: "Best Postpartum Hair Loss Products (2026): 7 Gentle Picks Ranked",
+  metaTitle: "Best Postpartum Hair Loss Products (2026): 7 Brands Reviewed",
   metaDescription:
-    "Postpartum shedding is temporary. We ranked gentle, breastfeeding-friendly products that make hair look fuller and reduce breakage while it grows back.",
+    "Postpartum hair loss products reviewed: Living Proof, COLOR WOW, Paul Mitchell, Wet Brush and more gentle, breastfeeding-friendly picks while your hair grows back.",
   h1: "The Best Postpartum Hair Loss Products: Gentle Help While Your Hair Recovers",
   dek: "Postpartum hair loss looks alarming but is almost always temporary. The right products make thinning less obvious, cut breakage and keep your routine gentle and breastfeeding-friendly while your hair recovers.",
   intro: [

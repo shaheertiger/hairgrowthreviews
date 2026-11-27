@@ -4,7 +4,7 @@ export const bestSilkPillowcaseForHair: RoundupData = {
   slug: "best-silk-pillowcase-for-hair",
   hub: "Hair Care",
   crumb: "Best Silk Pillowcase for Hair",
-  metaTitle: "Best Silk Pillowcase for Hair (2026): 7 Picks Ranked on Value",
+  metaTitle: "Best Silk Pillowcase for Hair (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked silk pillowcases from Fishers Finery, ZIMASILK, Slip, Blissy and more on momme weight, value and care, plus satin options and how to care for silk.",
   h1: "The Best Silk Pillowcase for Hair: Smoother, Happier Hair Overnight",

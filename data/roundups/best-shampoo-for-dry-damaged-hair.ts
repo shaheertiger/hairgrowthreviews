@@ -4,7 +4,7 @@ export const bestShampooForDryDamagedHair: RoundupData = {
   slug: "best-shampoo-for-dry-damaged-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo for Dry Damaged Hair",
-  metaTitle: "Best Shampoo for Dry Damaged Hair (2026): 6 Picks by Damage Type",
+  metaTitle: "Best Shampoo for Dry Damaged Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The right shampoo cleans gently and helps damaged hair feel softer and stronger. We ranked Olaplex, Pureology, L'Oreal, OGX and more for dry, bleached, brittle hair.",
   h1: "The Best Shampoo for Dry Damaged Hair: Gentle Cleansers and Bond Care for Softer, Stronger Hair",

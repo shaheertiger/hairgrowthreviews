@@ -4,7 +4,7 @@ export const bestSawPalmettoForHairLoss: RoundupData = {
   slug: "best-saw-palmetto-for-hair-loss",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Saw Palmetto for Hair Loss",
-  metaTitle: "Best Saw Palmetto for Hair Loss (2026): 6 Picks Ranked on Dose",
+  metaTitle: "Best Saw Palmetto for Hair Loss (2026): 6 Picks Reviewed",
   metaDescription:
     "Saw palmetto is the best-evidenced herbal DHT blocker for hair loss. We ranked NOW, Doctor's Best and more on extract type, studied dose and cost.",
   h1: "The Best Saw Palmetto for Hair Loss, and How It Compares to Finasteride",

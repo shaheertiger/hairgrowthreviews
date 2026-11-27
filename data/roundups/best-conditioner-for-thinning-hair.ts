@@ -4,7 +4,7 @@ export const bestConditionerForThinningHair: RoundupData = {
   slug: "best-conditioner-for-thinning-hair",
   hub: "Hair Care",
   crumb: "Best Conditioner for Thinning Hair",
-  metaTitle: "Best Conditioner for Thinning Hair (2026): 7 Picks by Weight",
+  metaTitle: "Best Conditioner for Thinning Hair (2026): 7 Brands Reviewed",
   metaDescription:
     "The best conditioner for thinning hair is light enough to keep volume. We ranked Nioxin, Living Proof, Briogeo, Kérastase, Bosley, Pura d'or and OGX.",
   h1: "The Best Conditioner for Thinning Hair: Softness Without the Flatness",

@@ -4,7 +4,7 @@ export const bestPumpkinSeedOilCapsulesForHairLoss: RoundupData = {
   slug: "best-pumpkin-seed-oil-capsules-for-hair-loss",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Pumpkin Seed Oil Capsules",
-  metaTitle: "Best Pumpkin Seed Oil Capsules for Hair Loss (2026): 7 Softgels",
+  metaTitle: "Best Pumpkin Seed Oil Capsules for Hair Loss (2026): 7 Reviewed",
   metaDescription:
     "The best pumpkin seed oil capsules for hair loss, ranked on dose per softgel, serving size, cold pressing and cost per day: NOW, Nature's Way, Solaray and more.",
   h1: "The Best Pumpkin Seed Oil Capsules for Hair Loss",

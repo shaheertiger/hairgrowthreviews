@@ -4,7 +4,7 @@ export const bestHairProductsFor4cHair: RoundupData = {
   slug: "best-hair-products-for-4c-hair",
   hub: "Hair Care",
   crumb: "Best Hair Products for 4C Hair",
-  metaTitle: "Best Hair Products for 4C Hair (2026): 7 Picks Ranked on Moisture",
+  metaTitle: "Best Hair Products for 4C Hair (2026): 7 Picks Reviewed",
   metaDescription:
     "The best hair products for 4C hair add water, slip and a rich seal. We ranked Camille Rose, Aunt Jackie's, SheaMoisture, Cantu and more for wash day and LOC.",
   h1: "The Best Hair Products for 4C Hair: Moisture, Slip and Length Retention",

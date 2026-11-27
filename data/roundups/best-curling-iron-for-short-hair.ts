@@ -4,7 +4,7 @@ export const bestCurlingIronForShortHair: RoundupData = {
   slug: "best-curling-iron-for-short-hair",
   hub: "Hair Tools",
   crumb: "Best Curling Iron for Short Hair",
-  metaTitle: "Best Curling Iron for Short Hair (2026): 6 Picks Ranked by Size",
+  metaTitle: "Best Curling Iron for Short Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best curling iron for short hair is usually 1 inch or smaller. We ranked Hot Tools, BaBylissPRO, CHI, Remington and more by barrel size and control.",
   h1: "The Best Curling Iron for Short Hair: Pick the Barrel Size First",

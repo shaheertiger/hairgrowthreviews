@@ -4,7 +4,7 @@ export const bestBatanaOilShampooAndConditioner: RoundupData = {
   slug: "best-batana-oil-shampoo-and-conditioner",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Batana Shampoo & Conditioner",
-  metaTitle: "Best Batana Oil Shampoo and Conditioner (2026): 7 Picks",
+  metaTitle: "Best Batana Oil Shampoo and Conditioner (2026): 7 Reviewed",
   metaDescription:
     "The best batana oil shampoo and conditioner, ranked on formula, label honesty, sulfate-free cleansing and value: Cantu, Sunny Isle, Gypsophila, ELEGO and more.",
   h1: "The Best Batana Oil Shampoo and Conditioner",

@@ -4,7 +4,7 @@ export const bestShampooForOilyHair: RoundupData = {
   slug: "best-shampoo-for-oily-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo for Oily Hair",
-  metaTitle: "Best Shampoo for Oily Hair (2026): 7 Picks Ranked on Oil Control",
+  metaTitle: "Best Shampoo for Oily Hair (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked shampoos for oily hair from Paul Mitchell, L'Oréal, Head & Shoulders, Kérastase, Aveda and CeraVe on oil control, gentleness and scalp health.",
   h1: "The Best Shampoo for Oily Hair: Fresher Roots Without Stripping Your Scalp",

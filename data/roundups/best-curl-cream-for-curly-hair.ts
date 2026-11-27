@@ -4,7 +4,7 @@ export const bestCurlCreamForCurlyHair: RoundupData = {
   slug: "best-curl-cream-for-curly-hair",
   hub: "Hair Care",
   crumb: "Best Curl Cream for Curly Hair",
-  metaTitle: "Best Curl Cream for Curly Hair (2026): 6 Picks + Wavy & Fine",
+  metaTitle: "Best Curl Cream for Curly Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best curl cream for curly hair, plus picks for wavy and fine hair. We ranked Camille Rose Curlaide, Cantu, Ouidad, Marc Anthony and more.",
   h1: "The Best Curl Cream for Curly Hair, Waves and Fine Curls",

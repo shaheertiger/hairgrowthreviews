@@ -5,7 +5,7 @@ export const justNatural: ReviewData = {
   productName: "Just Natural Hair Growth Treatment",
   brand: "Just Nutritive",
   category: "Natural Oil Treatment",
-  metaTitle: "Just Natural Hair Growth Treatment Review: 3.5/5, a 2–3 Hour Routine",
+  metaTitle: "Just Natural Hair Growth Treatment Review: 3.5/5 Scalp Oil",
   metaDescription:
     "Just Natural Hair Growth Treatment rates 3.5/5: a clean all-natural scalp oil ($46.99) you leave on 2–3 hours or overnight, twice a week.",
   h1: "Just Natural Hair Growth Treatment Review",

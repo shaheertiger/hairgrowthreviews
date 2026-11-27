@@ -4,7 +4,7 @@ export const bestShampooForItchyScalp: RoundupData = {
   slug: "best-shampoo-for-itchy-scalp",
   hub: "Hair Care",
   crumb: "Best Shampoo for Itchy Scalp",
-  metaTitle: "Best Shampoo for Itchy Scalp (2026): 6 Picks Ranked by Cause",
+  metaTitle: "Best Shampoo for Itchy Scalp (2026): 6 Brands Reviewed",
   metaDescription:
     "An itchy scalp has several causes. We matched shampoos from CeraVe, Vanicream, Head & Shoulders, MG217 and more to dandruff, allergy, psoriasis and dry scalp.",
   h1: "The Best Shampoo for Itchy Scalp: Match the Formula to the Cause",

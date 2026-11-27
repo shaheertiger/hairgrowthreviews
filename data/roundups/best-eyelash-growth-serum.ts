@@ -4,7 +4,7 @@ export const bestEyelashGrowthSerum: RoundupData = {
   slug: "best-eyelash-growth-serum",
   hub: "Brows, Lashes & Beard",
   crumb: "Best Eyelash Growth Serum",
-  metaTitle: "Best Eyelash Growth Serum (2026): 6 Picks for Longer Lashes",
+  metaTitle: "Best Eyelash Growth Serum (2026): 6 Brands Reviewed",
   metaDescription:
     "GrandeLASH-MD, RevitaLash, ForChics and more, ranked on ingredients, results and value, plus how over-the-counter serums compare with Latisse.",
   h1: "The Best Eyelash Growth Serums for Longer, Fuller-Looking Lashes",

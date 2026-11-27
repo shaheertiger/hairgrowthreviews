@@ -4,7 +4,7 @@ export const bestHairCareProductsForWomen: RoundupData = {
   slug: "best-hair-care-products-for-women",
   hub: "Hair Care",
   crumb: "Best Hair Care Products for Women",
-  metaTitle: "Best Hair Care Products for Women (2026): 7 Picks Ranked by Step",
+  metaTitle: "Best Hair Care Products for Women (2026): 7 Brands Reviewed",
   metaDescription:
     "The best hair care products for women, one per routine step: shampoo, conditioner, bond repair, leave-in, heat protectant, oil and scalp serum, ranked on value.",
   h1: "The Best Hair Care Products for Women: One Great Pick for Every Step of Your Routine",

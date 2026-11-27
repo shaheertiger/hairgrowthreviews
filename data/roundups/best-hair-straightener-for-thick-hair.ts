@@ -4,7 +4,7 @@ export const bestHairStraightenerForThickHair: RoundupData = {
   slug: "best-hair-straightener-for-thick-hair",
   hub: "Hair Tools",
   crumb: "Best Hair Straightener for Thick Hair",
-  metaTitle: "Best Hair Straightener for Thick Hair (2026): 6 Top Flat Irons",
+  metaTitle: "Best Hair Straightener for Thick Hair (2026): 6 Picks Reviewed",
   metaDescription:
     "The best hair straightener for thick hair has wide, hot, smooth plates. We ranked BaBylissPRO, ghd, CHI, Remington, Dyson and more for thick, coarse hair.",
   h1: "The Best Hair Straightener for Thick Hair: Wide Plates, Real Heat, Fewer Passes",

@@ -4,7 +4,7 @@ export const bestIronSupplementForHairLoss: RoundupData = {
   slug: "best-iron-supplement-for-hair-loss",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Iron Supplement for Hair Loss",
-  metaTitle: "Best Iron Supplement for Hair Loss (2026): 7 Picks Ranked on Form",
+  metaTitle: "Best Iron Supplement for Hair Loss (2026): 7 Brands Reviewed",
   metaDescription:
     "Iron is a key nutrient for hair when ferritin runs low. We ranked Thorne, Solgar, Pure Encapsulations, Slow Fe and more on iron form, tolerability and safety.",
   h1: "The Best Iron Supplements for Hair Loss: Gentle, Effective Picks",

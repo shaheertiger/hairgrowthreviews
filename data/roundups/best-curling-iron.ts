@@ -4,7 +4,7 @@ export const bestCurlingIron: RoundupData = {
   slug: "best-curling-iron",
   hub: "Hair Tools",
   crumb: "Best Curling Iron",
-  metaTitle: "Best Curling Iron (2026): 7 Picks Ranked on Heat Control & Hold",
+  metaTitle: "Best Curling Iron (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked Hot Tools, T3, BaBylissPRO, Conair, CHI, ghd and Remington curling irons and wands on temperature control, barrel size and gentleness on fine hair.",
   h1: "The Best Curling Iron: Lasting Curls Without Frying Your Hair",

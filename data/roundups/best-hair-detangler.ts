@@ -4,7 +4,7 @@ export const bestHairDetangler: RoundupData = {
   slug: "best-hair-detangler",
   hub: "Hair Care",
   crumb: "Best Hair Detangler",
-  metaTitle: "Best Hair Detangler (2026): 7 Picks Ranked on Slip & Gentleness",
+  metaTitle: "Best Hair Detangler (2026): 7 Brands Reviewed",
   metaDescription:
     "The best hair detangler adds slip so knots slide apart. We ranked It's a 10, Kinky-Curly Knot Today, Wet Brush, Kent and more for kids, 4C and natural hair.",
   h1: "The Best Hair Detangler: Sprays, Leave-Ins and Tools That Cut Breakage",

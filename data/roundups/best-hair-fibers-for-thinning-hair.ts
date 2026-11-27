@@ -4,7 +4,7 @@ export const bestHairFibersForThinningHair: RoundupData = {
   slug: "best-hair-fibers-for-thinning-hair",
   hub: "Hair Care",
   crumb: "Best Hair Fibers for Thinning Hair",
-  metaTitle: "Best Hair Fibers for Thinning Hair (2026): 7 Picks Ranked on Hold",
+  metaTitle: "Best Hair Fibers for Thinning Hair (2026): 7 Picks Reviewed",
   metaDescription:
     "Hair fibers hide thinning in seconds when matched and applied well. We ranked Toppik, Boldify, Caboki, Bosley and fiber sprays on realism, hold and value.",
   h1: "The Best Hair Fibers for Thinning Hair: Instant Coverage That Actually Looks Real",

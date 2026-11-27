@@ -4,9 +4,9 @@ export const bestHairOilForDryHair: RoundupData = {
   slug: "best-hair-oil-for-dry-hair",
   hub: "Hair Care",
   crumb: "Best Hair Oil for Dry Hair",
-  metaTitle: "Best Hair Oil for Dry Hair (2026): 7 Picks by Hair Type",
+  metaTitle: "Best Hair Oil for Dry Hair (2026): 7 Brands Reviewed",
   metaDescription:
-    "The best hair oil for dry hair and dry, frizzy hair: salon, drugstore and pure oils compared on weight, ingredients and price, plus how to oil dry hair properly.",
+    "Hair oil for dry hair reviews: Moroccanoil, Gisou, L'Oréal Elvive, Cliganic argan, amika and VERB compared on weight, ingredients and price by hair type.",
   h1: "The Best Hair Oil for Dry Hair",
   dek: "Dry hair needs an oil that softens and seals without leaving it greasy. Here are the oils worth buying for dry, frizzy and damaged hair, which suit fine, thick and textured hair, and how to use them so the moisture actually stays put.",
   intro: [

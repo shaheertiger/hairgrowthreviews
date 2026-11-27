@@ -4,9 +4,9 @@ export const bestHairOilForThinningHair: RoundupData = {
   slug: "best-hair-oil-for-thinning-hair",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Oil for Thinning Hair",
-  metaTitle: "Best Hair Oil for Thinning Hair (2026): 7 Light Picks",
+  metaTitle: "Best Hair Oil for Thinning Hair (2026): 7 Brands Reviewed",
   metaDescription:
-    "The best hair oils for thinning hair, ranked on evidence, weight and scalp comfort, plus the 10 most popular hair growth oils ranked by what the studies show.",
+    "Hair oils for thinning hair reviewed: Mielle, Botanic Hearth, Maple Holistics, Ceremonia and more, ranked on evidence and weight, plus 10 popular oils compared.",
   h1: "The Best Hair Oil for Thinning Hair",
   dek: "Thinning hair needs an oil that helps without weighing strands down. Here are the light scalp oils worth buying, which of the ten most popular hair growth oils have real evidence, and how to use oil so thin hair looks fuller, not flatter.",
   intro: [

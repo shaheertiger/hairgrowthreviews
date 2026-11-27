@@ -4,7 +4,7 @@ export const bestHeatedRollers: RoundupData = {
   slug: "best-heated-rollers",
   hub: "Hair Tools",
   crumb: "Best Heated Rollers",
-  metaTitle: "Best Heated Rollers (2026): 7 Picks Ranked on Volume & Heat",
+  metaTitle: "Best Heated Rollers (2026): 7 Picks Reviewed",
   metaDescription:
     "We ranked Conair, T3, BaBylissPRO, Remington and Calista hot rollers on volume, hold, heat and ease of use, with styling tips for fine or thinning hair.",
   h1: "The Best Heated Rollers: Soft Volume With a Gentler Kind of Heat",

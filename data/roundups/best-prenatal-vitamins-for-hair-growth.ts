@@ -4,7 +4,7 @@ export const bestPrenatalVitaminsForHairGrowth: RoundupData = {
   slug: "best-prenatal-vitamins-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Prenatal Vitamins for Hair Growth",
-  metaTitle: "Best Prenatal Vitamins for Hair Growth (2026): 6 Top Picks",
+  metaTitle: "Best Prenatal Vitamins for Hair Growth (2026): 6 Reviewed",
   metaDescription:
     "The best prenatal vitamins for hair growth deliver iron, folate, biotin and vitamin D for healthy hair. We compare Nature Made, Ritual, Thorne and more.",
   h1: "The Best Prenatal Vitamins for Healthy Hair During Pregnancy and Postpartum",

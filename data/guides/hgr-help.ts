@@ -8,6 +8,8 @@ export const hgrHelp: GuideData = {
     "Common questions and troubleshooting for the HGR Regimen — dealing with initial shedding, irritation, slow results, and how to adjust your routine.",
   h1: "HGR Regimen Help & Troubleshooting",
   dek: "Started your regimen and something feels off? Here's how to troubleshoot the most common issues without abandoning a treatment too early.",
+  quickAnswer:
+    "Most hair loss regimen problems in the first 3 months are normal: extra shedding in the first weeks of minoxidil that usually settles within 4-8 weeks, mild scalp irritation and no visible change yet. Give any treatment 3-6 months, judge it with monthly photos, and stop and see a doctor for a rash, ongoing redness or sudden patchy loss.",
   intro: [
     "Most people who quit a hair-loss regimen do so in the first few months — right when normal, expected adjustment issues are most likely, and right before real results would typically appear. This page covers the most common troubleshooting questions we get.",
     "The problems covered here are overwhelmingly common, expected parts of starting a new routine rather than signs that something has gone wrong. Increased shedding, mild irritation, and a lack of visible change in the early months are all things dermatology sources describe as typical, not exceptions — the challenge is usually psychological (staying consistent through an uncertain-feeling stretch) rather than medical.",

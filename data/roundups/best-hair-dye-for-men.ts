@@ -4,7 +4,7 @@ export const bestHairDyeForMen: RoundupData = {
   slug: "best-hair-dye-for-men",
   hub: "Men's Grooming",
   crumb: "Best Hair Dye for Men",
-  metaTitle: "Best Hair Dye for Men (2026): 7 Picks Ranked on Natural Results",
+  metaTitle: "Best Hair Dye for Men (2026): 7 Picks Reviewed",
   metaDescription:
     "The best hair dye for men, from Just For Men and Control GX to L'Oreal Men Expert and American Crew, ranked on natural look, gray coverage and allergy safety.",
   h1: "The Best Hair Dye for Men: Natural-Looking Gray Coverage, Without the Shoe-Polish Look",

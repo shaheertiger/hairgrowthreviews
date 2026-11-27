@@ -77,22 +77,23 @@ export const staticPages = {
 
 /** Home page: featured reviews, in display order. */
 export const homeFeaturedReviews = [
+  "aveda-invati-scalp-revitalizer",
   "biotopic-premium-hair-regrowth-serum",
   "amplixin-intensive-hair-growth-serum",
   "crinagen",
   "ultrax-labs-hair-lush",
-  "revivogen-scalp-therapy-formula",
   "nizoral-d-anti-dandruff-shampoo",
 ];
 
-/** Home page: featured buyer's guides, in display order. */
+/** Home page: featured buyer's guides, in display order. The click earners
+ *  (Bing + Vercel, Nov 2026) lead; see SEO-RULES.md before reordering. */
 export const homeFeaturedRoundups = [
+  "best-batana-oil",
+  "best-pumpkin-seed-oil-for-hair-loss",
+  "best-hair-growth-products",
+  "best-rosemary-oil-for-hair-growth",
+  "batana-oil-reviews",
   "best-minoxidil-for-men",
-  "best-hair-growth-shampoo",
-  "best-laser-cap-for-hair-growth",
-  "best-minoxidil-for-women",
-  "best-hair-growth-vitamins",
-  "best-hair-growth-serum",
 ];
 
 /** Home page: the "Find a Treatment" cards. */

@@ -4,9 +4,9 @@ export const bestDhtBlocker: RoundupData = {
   slug: "best-dht-blocker",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best DHT Blocker",
-  metaTitle: "Best DHT Blocker (2026): 7 OTC Picks, Ranked vs. Finasteride",
+  metaTitle: "Best DHT Blocker (2026): 7 Picks Reviewed",
   metaDescription:
-    "The best DHT blockers you can buy without a prescription, one per type: saw palmetto, ketoconazole shampoo, pumpkin seed oil and Nutrafol, ranked vs. finasteride.",
+    "DHT blocker reviews: NOW saw palmetto, Nizoral, Nutrafol, Ultrax Labs, PURA D'OR and Regenepure, the best OTC picks per type, ranked against finasteride.",
   h1: "The Best DHT Blocker You Can Buy Over the Counter, by Type",
   dek: "Over the counter, you can choose a pill, a shampoo, a seed oil or a multi-ingredient formula, each with its own strengths. Here is the best of each, how they compare with prescription finasteride, and how to combine them into a strong routine.",
   intro: [

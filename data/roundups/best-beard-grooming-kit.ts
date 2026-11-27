@@ -4,7 +4,7 @@ export const bestBeardGroomingKit: RoundupData = {
   slug: "best-beard-grooming-kit",
   hub: "Brows, Lashes & Beard",
   crumb: "Best Beard Grooming Kit",
-  metaTitle: "Best Beard Grooming Kit (2026): 7 Gift Sets Ranked on Value",
+  metaTitle: "Best Beard Grooming Kit (2026): 7 Gift Sets Reviewed",
   metaDescription:
     "The best beard grooming kit for gifts or your own routine. We ranked Viking Revolution, Every Man Jack, Philips Norelco, Cremo, SheaMoisture and more on value.",
   h1: "The Best Beard Grooming Kit: Gift Sets That Actually Get Used",

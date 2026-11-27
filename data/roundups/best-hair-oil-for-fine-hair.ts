@@ -4,9 +4,9 @@ export const bestHairOilForFineHair: RoundupData = {
   slug: "best-hair-oil-for-fine-hair",
   hub: "Hair Care",
   crumb: "Best Hair Oil for Fine Hair",
-  metaTitle: "Best Hair Oil for Fine Hair (2026): 7 Lightweight Oils",
+  metaTitle: "Best Hair Oil for Fine Hair (2026): 7 Brands Reviewed",
   metaDescription:
-    "The best lightweight hair oils for fine hair that smooth, shine and protect without weighing hair down, plus how much to use and which pure oils are lightest.",
+    "Hair oil for fine hair reviews: VERB, Milbon, Moroccanoil, OLAPLEX, Gisou and Cliganic, lightweight oils that smooth and shine without weighing hair down.",
   h1: "The Best Hair Oil for Fine Hair",
   dek: "Fine hair can enjoy a hair oil, as long as it is the right one and you use far less than you think. Here are the lightweight oils that smooth and shine fine hair without flattening it, the pure oils that are lightest, and how to apply them so your hair keeps its volume.",
   intro: [

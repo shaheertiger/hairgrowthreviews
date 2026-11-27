@@ -4,7 +4,7 @@ export const bestPurpleShampoo: RoundupData = {
   slug: "best-purple-shampoo",
   hub: "Hair Care",
   crumb: "Best Purple Shampoo",
-  metaTitle: "Best Purple Shampoo (2026): 8 Picks Ranked on Toning Strength",
+  metaTitle: "Best Purple Shampoo (2026): 8 Brands Reviewed",
   metaDescription:
     "We ranked purple shampoos from Joico, Fanola, Kristin Ess, Clairol, Redken and more on toning strength and gentleness for blonde, silver and gray hair.",
   h1: "The Best Purple Shampoo for Brassy Blonde, Silver and Gray Hair",

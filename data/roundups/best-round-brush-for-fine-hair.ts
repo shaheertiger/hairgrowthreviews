@@ -4,7 +4,7 @@ export const bestRoundBrushForFineHair: RoundupData = {
   slug: "best-round-brush-for-fine-hair",
   hub: "Hair Tools",
   crumb: "Best Round Brush for Fine Hair",
-  metaTitle: "Best Round Brush for Fine Hair (2026): 6 Picks for Big Volume",
+  metaTitle: "Best Round Brush for Fine Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best round brush for fine hair adds lift without tangles. We ranked Drybar, Wet Brush, Spornette, Olivia Garden and more by barrel size and grip.",
   h1: "The Best Round Brush for Fine Hair: 6 Picks for Bouncy, Full-Looking Blowouts",

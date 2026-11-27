@@ -4,7 +4,7 @@ export const bestHairProductsForFineCurlyHair: RoundupData = {
   slug: "best-hair-products-for-fine-curly-hair",
   hub: "Hair Care",
   crumb: "Best Hair Products for Fine Curly Hair",
-  metaTitle: "Best Hair Products for Fine Curly Hair (2026): 6 Light Picks",
+  metaTitle: "Best Hair Products for Fine Curly Hair (2026): 6 Reviewed",
   metaDescription:
     "The best hair products for fine curly hair add moisture without weight: light creme gels, foams and spray leave-ins. 6 picks, plus how much to use.",
   h1: "The Best Hair Products for Fine Curly Hair: Moisture and Definition Without the Weight",

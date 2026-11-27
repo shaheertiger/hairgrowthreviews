@@ -4,7 +4,7 @@ export const bestMinoxidilFoam: RoundupData = {
   slug: "best-minoxidil-foam",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Minoxidil Foam",
-  metaTitle: "Best Minoxidil Foam (2026): 7 Rogaine & Generic Foams Ranked",
+  metaTitle: "Best Minoxidil Foam (2026): 7 Rogaine & Generic Foams Reviewed",
   metaDescription:
     "The best minoxidil foam for men and women: Rogaine vs Kirkland, Amazon Basics, Keeps and hims, ranked on formula, months per can, seller and value.",
   h1: "The Best Minoxidil Foam",

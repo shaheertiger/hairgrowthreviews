@@ -4,7 +4,7 @@ export const bestHairTreatmentForDamagedHair: RoundupData = {
   slug: "best-hair-treatment-for-damaged-hair",
   hub: "Hair Care",
   crumb: "Best Hair Treatment for Damaged Hair",
-  metaTitle: "Best Hair Treatment for Damaged Hair (2026): 7 Picks by Damage",
+  metaTitle: "Best Hair Treatment for Damaged Hair (2026): 7 Brands Reviewed",
   metaDescription:
     "The best hair treatment for damaged hair: bond builders and masks from K18, Olaplex, Redken, L'Oreal, Briogeo and Moroccanoil, ranked by the damage they suit.",
   h1: "The Best Hair Treatment for Damaged Hair: Bond Builders and Masks Matched to Your Damage",

@@ -4,7 +4,7 @@ export const bestSulfateFreeShampoo: RoundupData = {
   slug: "best-sulfate-free-shampoo",
   hub: "Hair Care",
   crumb: "Best Sulfate-Free Shampoo",
-  metaTitle: "Best Sulfate-Free Shampoo (2026): 7 Picks Ranked on Gentleness",
+  metaTitle: "Best Sulfate-Free Shampoo (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked sulfate-free shampoos from Kristin Ess, Pureology, OGX, Olaplex, SheaMoisture and Briogeo on gentleness, cleansing power and hair type fit.",
   h1: "The Best Sulfate-Free Shampoo: Gentler Cleansing for Dry, Curly and Treated Hair",

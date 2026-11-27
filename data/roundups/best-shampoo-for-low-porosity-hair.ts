@@ -4,7 +4,7 @@ export const bestShampooForLowPorosityHair: RoundupData = {
   slug: "best-shampoo-for-low-porosity-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo for Low Porosity Hair",
-  metaTitle: "Best Shampoo for Low Porosity Hair (2026): 6 Buildup-Free Picks",
+  metaTitle: "Best Shampoo for Low Porosity Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best shampoo for low porosity hair cleans away buildup and leaves room for moisture. We ranked SheaMoisture, Maui Moisture, Bounce Curl and more.",
   h1: "The Best Shampoo for Low Porosity Hair: Light, Clean and Buildup-Free",

@@ -4,7 +4,7 @@ export const bestDryShampoo: RoundupData = {
   slug: "best-dry-shampoo",
   hub: "Hair Care",
   crumb: "Best Dry Shampoo",
-  metaTitle: "Best Dry Shampoo (2026): 7 Picks Ranked on Scalp Health",
+  metaTitle: "Best Dry Shampoo (2026): 7 Picks Reviewed",
   metaDescription:
     "We ranked dry shampoos from Living Proof, Batiste, Klorane, amika and more on oil control, residue, volume and scalp comfort, plus smart tips for aerosol shoppers.",
   h1: "The Best Dry Shampoo for Fresh Roots, Volume and a Happy Scalp",

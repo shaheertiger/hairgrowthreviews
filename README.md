@@ -50,6 +50,10 @@ npx tsx scripts/check-roundup.ts data/roundups/<file>.ts # one roundup before re
 
 ## Article pattern (from what earns clicks)
 
+**Read `SEO-RULES.md` first.** It holds the click rules, the winners list, what not to
+repeat and the daily-run procedure; `npm run bing` pulls the Bing Webmaster data it runs on
+(needs `BING_WEBMASTER_API_KEY`).
+
 Search Console (Nov 2026) shows the pages that earn clicks, `/best-batana-oil`,
 `/best-pumpkin-seed-oil-for-hair-loss` and the Aveda Invati review, share one
 shape. New articles should follow it; `verify:content` enforces the first two rules.

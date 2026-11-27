@@ -10,6 +10,9 @@
  *    hrefs, in-text link targets) points at a page that exists.
  * 5. Every roundup, review and question is the target of an in-text link rule.
  * 6. Every "best" roundup opens with a one-sentence definition ("The best X is …").
+ * 7-10. The click rules in SEO-RULES.md / lib/seo-rules.ts: winners' titles are
+ *    frozen, "best" titles follow the winning pattern, descriptions name brands,
+ *    reviews and guides have a quick answer.
  *
  * Run with: npx tsx scripts/verify-content.ts
  */
@@ -20,6 +23,7 @@ import { questions } from "../data/questions";
 import { ContentSection, ComparisonTableData } from "../lib/types";
 import { guideHref, guideSectionHref, questionHref, reviewHref, roundupHref } from "../lib/links";
 import { autolinkTargets } from "../lib/autolink";
+import { MAX_TITLE, WINNERS } from "../lib/seo-rules";
 
 function normalize(s: string): string {
   return s
@@ -202,6 +206,38 @@ for (const q of questions) if (!linkable.has(questionHref(q.slug))) fail(`NO IN-
 for (const r of roundups)
   if (r.slug.startsWith("best-") && !/^The best /.test(r.intro[0]))
     fail(`NOT ANSWER-FIRST roundup:${r.slug}: intro should open "The best … is …"`);
+
+// 7-10. SEO-RULES.md, from what Bing and Vercel show earning clicks.
+//  7. Winners keep their titles (extend them, never retitle them).
+const titleOf = new Map<string, string>([
+  ...roundups.map((r) => [roundupHref(r.slug), r.metaTitle] as [string, string]),
+  ...reviews.map((r) => [reviewHref(r.slug), r.metaTitle] as [string, string]),
+  ...questions.map((q) => [questionHref(q.slug), q.metaTitle] as [string, string]),
+]);
+for (const [path, w] of Object.entries(WINNERS)) {
+  if (!titleOf.has(path)) fail(`WINNER MISSING ${path} (SEO-RULES.md: never delete or move a winner)`);
+  else if (titleOf.get(path) !== w.title)
+    fail(`WINNER RETITLED ${path}: "${titleOf.get(path)}" (frozen: "${w.title}"; see lib/seo-rules.ts)`);
+}
+//  8. "Best X" titles carry the year, a count and the review modifier, like the
+//     batana winner ("Best Batana Oil for Hair Growth (2026): 6 Brands Reviewed").
+for (const r of roundups) {
+  if (!r.slug.startsWith("best-") || WINNERS[roundupHref(r.slug)]) continue;
+  if (!/\(20\d\d\): \d+ .*Review/.test(r.metaTitle))
+    fail(`TITLE PATTERN roundup:${r.slug}: "${r.metaTitle}" (want "Best X (YEAR): N … Reviewed")`);
+}
+for (const [path, t] of titleOf) if (!WINNERS[path] && t.length > MAX_TITLE) fail(`TITLE TOO LONG ${path}: ${t.length} chars (max ${MAX_TITLE})`);
+//  9. Roundup descriptions name at least two of the brands they rank (brand
+//     names are what review-intent searchers type).
+for (const r of roundups) {
+  if (WINNERS[roundupHref(r.slug)]) continue;
+  const brands = [...new Set(r.products.map((p) => p.brand))];
+  const named = brands.filter((b) => r.metaDescription.toLowerCase().includes(b.toLowerCase().split(/[ ']/)[0]));
+  if (named.length < 2) fail(`DESCRIPTION NAMES ${named.length} BRANDS roundup:${r.slug} (name 2+ of: ${brands.slice(0, 4).join(", ")})`);
+}
+// 10. Every review and guide opens answer-first with a quick answer.
+for (const r of reviews) if (!r.quickAnswer) fail(`NO QUICK ANSWER review:${r.slug}`);
+for (const g of guides) if (!g.quickAnswer) fail(`NO QUICK ANSWER guide:${g.slug}`);
 
 console.log(
   `Checked ${quotesChecked} pull quotes and ${tablesChecked} tables across ` +

@@ -4,7 +4,7 @@ export const bestHairProductsForMen: RoundupData = {
   slug: "best-hair-products-for-men",
   hub: "Men's Grooming",
   crumb: "Best Hair Products for Men",
-  metaTitle: "Best Hair Products for Men (2026): 6 Picks Ranked on Finish",
+  metaTitle: "Best Hair Products for Men (2026): 6 Brands Reviewed",
   metaDescription:
     "The best hair products for men, from American Crew Fiber and Baxter Clay Pomade to Suavecito and Redken Brews, ranked on hold, finish, wash-out and hair type.",
   h1: "The Best Hair Products for Men: Match the Hold and Finish to Your Hair",

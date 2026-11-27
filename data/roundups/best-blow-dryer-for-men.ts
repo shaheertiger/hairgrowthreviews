@@ -4,7 +4,7 @@ export const bestBlowDryerForMen: RoundupData = {
   slug: "best-blow-dryer-for-men",
   hub: "Men's Grooming",
   crumb: "Best Blow Dryer for Men",
-  metaTitle: "Best Blow Dryer for Men's Hair (2026): 6 Picks Ranked on Control",
+  metaTitle: "Best Blow Dryer for Men's Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "Short hair needs a concentrator, gentle heat and a cool shot, not maximum power. We ranked Laifen, Panasonic, BaBylissPRO, Dyson, Shark and Conair for men.",
   h1: "The Best Blow Dryer for Men's Hair: Control Beats Raw Power",

@@ -4,7 +4,7 @@ export const bestShampooForCurlyHair: RoundupData = {
   slug: "best-shampoo-for-curly-hair",
   hub: "Hair Care",
   crumb: "Best Shampoo for Curly Hair",
-  metaTitle: "Best Shampoo for Curly Hair (2026): 6 Picks for Every Curl Type",
+  metaTitle: "Best Shampoo for Curly Hair (2026): 6 Picks Reviewed",
   metaDescription:
     "The best shampoo for curly hair cleans without stripping. We ranked Briogeo, SheaMoisture, Mielle, Ouidad and Curlsmith for curl types 2A to 4C.",
   h1: "The Best Shampoo for Curly Hair, From Loose Waves to Tight Coils",

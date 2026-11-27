@@ -4,7 +4,7 @@ export const bestHeatProtectantSpray: RoundupData = {
   slug: "best-heat-protectant-spray",
   hub: "Hair Care",
   crumb: "Best Heat Protectant Spray",
-  metaTitle: "Best Heat Protectant Spray (2026): 7 Picks Ranked on Breakage",
+  metaTitle: "Best Heat Protectant Spray (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked heat protectant sprays from Living Proof, CHI, TRESemmé, Olaplex, Kérastase and more on hair type, feel and value, with expert tips for fine hair.",
   h1: "The Best Heat Protectant Spray for Hair That Breaks Easily",

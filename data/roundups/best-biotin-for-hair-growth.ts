@@ -4,7 +4,7 @@ export const bestBiotinForHairGrowth: RoundupData = {
   slug: "best-biotin-for-hair-growth",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Biotin for Hair Growth",
-  metaTitle: "Best Biotin for Hair Growth (2026): 6 Picks Ranked on Dose",
+  metaTitle: "Best Biotin for Hair Growth (2026): 6 Brands Reviewed",
   metaDescription:
     "Biotin is the B vitamin behind healthy hair, skin and nails. We ranked Sports Research, Nature's Bounty, NOW, Solgar and more on dose, form and value.",
   h1: "The Best Biotin for Hair Growth: 6 Clean, Simple Picks",

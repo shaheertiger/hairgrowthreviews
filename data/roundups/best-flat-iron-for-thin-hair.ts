@@ -4,7 +4,7 @@ export const bestFlatIronForThinHair: RoundupData = {
   slug: "best-flat-iron-for-thin-hair",
   hub: "Hair Tools",
   crumb: "Best Flat Iron for Thin Hair",
-  metaTitle: "Best Flat Iron for Thin Hair (2026): 6 Picks Ranked on Low Heat",
+  metaTitle: "Best Flat Iron for Thin Hair (2026): 6 Brands Reviewed",
   metaDescription:
     "The best flat iron for thin hair has adjustable low heat and 1-inch plates. We ranked T3, ghd, CHI, BaBylissPRO, Dyson and Conair on gentleness.",
   h1: "The Best Flat Iron for Thin Hair: Lower Heat, Fewer Passes, Less Breakage",

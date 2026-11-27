@@ -4,7 +4,7 @@ export const bestConditionerForDryFrizzyHair: RoundupData = {
   slug: "best-conditioner-for-dry-frizzy-hair",
   hub: "Hair Care",
   crumb: "Best Conditioner for Dry Frizzy Hair",
-  metaTitle: "Best Conditioner for Dry Frizzy Hair (2026): 6 Picks by Hair Type",
+  metaTitle: "Best Conditioner for Dry Frizzy Hair (2026): 6 Picks Reviewed",
   metaDescription:
     "The best conditioner for dry frizzy hair: Redken All Soft, It's a 10, Briogeo, Mielle and more, plus how to layer rinse-out, mask and leave-in to stop frizz.",
   h1: "The Best Conditioner for Dry Frizzy Hair: Rinse-Outs, Masks and Leave-Ins That Actually Smooth",

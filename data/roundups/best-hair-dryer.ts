@@ -4,7 +4,7 @@ export const bestHairDryer: RoundupData = {
   slug: "best-hair-dryer",
   hub: "Hair Tools",
   crumb: "Best Hair Dryer",
-  metaTitle: "Best Hair Dryer (2026): 7 Picks Ranked on Speed & Heat Damage",
+  metaTitle: "Best Hair Dryer (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked Dyson, Shark, Laifen, Panasonic, BaBylissPRO, T3 and Conair dryers on drying speed, heat control and low-heat settings for fine or thinning hair.",
   h1: "The Best Hair Dryer: Dry Faster, Use Less Heat, Break Less Hair",

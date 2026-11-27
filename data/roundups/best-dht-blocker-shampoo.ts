@@ -4,7 +4,7 @@ export const bestDhtBlockerShampoo: RoundupData = {
   slug: "best-dht-blocker-shampoo",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best DHT Blocker Shampoo",
-  metaTitle: "Best DHT Blocker Shampoo (2026): 6 Top Picks Ranked",
+  metaTitle: "Best DHT Blocker Shampoo (2026): 6 Brands Reviewed",
   metaDescription:
     "Ketoconazole, caffeine and saw palmetto shampoos for thinning hair. We ranked Nizoral, Alpecin, Pura d'Or, Revita and more on ingredients, feel and value.",
   h1: "The Best DHT Blocker Shampoo for Thinning Hair",

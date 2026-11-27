@@ -4,7 +4,7 @@ export const bestLeaveInConditioner: RoundupData = {
   slug: "best-leave-in-conditioner",
   hub: "Hair Care",
   crumb: "Best Leave-In Conditioner",
-  metaTitle: "Best Leave-In Conditioner (2026): 7 Picks Ranked by Hair Type",
+  metaTitle: "Best Leave-In Conditioner (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked leave-in conditioners from It's a 10, Kérastase, Olaplex, Briogeo, SheaMoisture and more by hair type: light sprays for fine hair, creams for curls.",
   h1: "The Best Leave-In Conditioner Is the One Matched to Your Hair Type",

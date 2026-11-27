@@ -4,9 +4,9 @@ export const bestDandruffShampoo: RoundupData = {
   slug: "best-dandruff-shampoo",
   hub: "Hair Care",
   crumb: "Best Dandruff Shampoo",
-  metaTitle: "Best Dandruff Shampoo (2026): 8 Picks Ranked by Active Ingredient",
+  metaTitle: "Best Dandruff Shampoo (2026): 8 Picks Reviewed",
   metaDescription:
-    "The best dandruff shampoo depends on its active. We compare ketoconazole, selenium sulfide, pyrithione zinc, salicylic acid and coal tar, plus how to rotate them.",
+    "Dandruff shampoo reviews: Nizoral, CeraVe, Head & Shoulders, MG217, Selsun Blue and Neutrogena T/Sal ranked by active ingredient, plus how to rotate them.",
   h1: "The Best Dandruff Shampoo: Choose the Active, Then the Bottle",
   dek: "Dandruff shampoos are over-the-counter drugs, and the active ingredient in the Drug Facts box matters far more than the brand on the front. Here is how the four active classes differ, which bottle to buy for your scalp, how to rotate them, and why clearing flakes can also calm shedding.",
   intro: [

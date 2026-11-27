@@ -4,7 +4,7 @@ export const bestScalpMassager: RoundupData = {
   slug: "best-scalp-massager",
   hub: "Hair Care",
   crumb: "Best Scalp Massager",
-  metaTitle: "Best Scalp Massager (2026): 7 Picks Ranked on Comfort & Value",
+  metaTitle: "Best Scalp Massager (2026): 7 Brands Reviewed",
   metaDescription:
     "Silicone shampoo brushes vs electric scalp massagers: we ranked HEETA, Kitsch, Tangle Teezer, Briogeo and more on comfort, design, ease of use and value.",
   h1: "The Best Scalp Massager: Affordable Tools for a Cleaner, Happier Scalp",

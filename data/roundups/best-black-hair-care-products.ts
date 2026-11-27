@@ -4,7 +4,7 @@ export const bestBlackHairCareProducts: RoundupData = {
   slug: "best-black-hair-care-products",
   hub: "Hair Care",
   crumb: "Best Black Hair Care Products",
-  metaTitle: "Best Black Hair Care Products (2026): 7 Picks Ranked on Retention",
+  metaTitle: "Best Black Hair Care Products (2026): 7 Brands Reviewed",
   metaDescription:
     "The best Black hair care products for type 4 natural and relaxed hair: leave-ins, butters, protein and scalp oils from SheaMoisture, Mielle, Camille Rose, more.",
   h1: "The Best Black Hair Care Products: Moisture, Strength and Length Retention for Natural and Relaxed Hair",

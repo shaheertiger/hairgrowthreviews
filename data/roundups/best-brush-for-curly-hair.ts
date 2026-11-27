@@ -4,7 +4,7 @@ export const bestBrushForCurlyHair: RoundupData = {
   slug: "best-brush-for-curly-hair",
   hub: "Hair Tools",
   crumb: "Best Brush for Curly Hair",
-  metaTitle: "Best Brush for Curly Hair (2026): 6 Picks Ranked on Gentleness",
+  metaTitle: "Best Brush for Curly Hair (2026): 6 Picks Reviewed",
   metaDescription:
     "The best brush for curly hair is a flexible detangler used on wet, conditioned hair. We ranked Wet Brush, Kent, Tangle Teezer and wide tooth combs.",
   h1: "The Best Brush for Curly Hair: Detangle Wet, Never Brush Curls Dry",

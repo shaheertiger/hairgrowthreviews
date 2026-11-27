@@ -8,6 +8,8 @@ export const theHgrRegimen: GuideData = {
     "The HairGrowthReviews (HGR) Regimen framework — how to combine a topical, a DHT-blocker, scalp care, and nutrition into one consistent routine.",
   h1: "The HGR Regimen",
   dek: "Pattern hair loss has multiple contributing mechanisms — so the most effective approach usually isn't one product, it's a consistent, combined routine.",
+  quickAnswer:
+    "The HGR Regimen combines four pillars into one routine: minoxidil as the topical stimulant, a DHT blocker (finasteride, or saw palmetto as a gentler option), ketoconazole shampoo for scalp care, and nutrition only for confirmed deficiencies. Add one product at a time and judge results with monthly photos.",
   intro: [
     "Because pattern hair loss (androgenetic alopecia) has multiple contributing mechanisms — DHT-driven follicle miniaturization, reduced scalp blood flow, and sometimes nutritional or scalp-health factors — we frame effective treatment as a regimen rather than a single product. The HGR Regimen is our framework for combining proven building blocks into one consistent routine, rather than jumping between unrelated products hoping one works.",
     "Most of the disappointment we hear about doesn't actually trace back to the treatments themselves being ineffective. It traces back to a handful of repeatable mistakes: combining products in a way that makes it impossible to tell what's working, giving up during a normal adjustment period, or judging results on a timeline the biology was never going to meet. The Regimen exists specifically to prevent those failure modes and to help every product you choose do its best work.",

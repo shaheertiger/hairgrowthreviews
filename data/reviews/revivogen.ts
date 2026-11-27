@@ -5,7 +5,7 @@ export const revivogen: ReviewData = {
   productName: "Revivogen Scalp Therapy Formula",
   brand: "Revivogen",
   category: "Topical Serum",
-  metaTitle: "Revivogen Review: 3.6/5, a Natural DHT Blocker With a 90-Day Guarantee",
+  metaTitle: "Revivogen Review: 3.6/5 Natural DHT Blocker, 90-Day Guarantee",
   metaDescription:
     "Revivogen Scalp Therapy rates 3.6/5: a long-standing natural DHT blocker ($99.95 kit) loved for reducing shedding, with a 90-day money-back guarantee.",
   h1: "Revivogen Scalp Therapy Formula Review",

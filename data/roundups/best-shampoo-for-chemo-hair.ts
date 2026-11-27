@@ -4,9 +4,9 @@ export const bestShampooForChemoHair: RoundupData = {
   slug: "best-shampoo-for-chemo-hair",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Shampoo for Chemo Hair",
-  metaTitle: "Best Shampoo and Conditioner for Chemo Hair (2026): 6 Picks",
+  metaTitle: "Best Shampoo and Conditioner for Chemo Hair (2026): 6 Reviewed",
   metaDescription:
-    "Gentle, fragrance-free and sulfate-free shampoos for a tender scalp during and after chemo, plus scalp care, chemo curls and what really helps regrowth.",
+    "Shampoos for chemo hair reviewed: Vanicream, Kristin Ess, L'Oréal, Pureology and Briogeo, gentle fragrance-free picks for a tender scalp and new regrowth.",
   h1: "The Best Shampoo and Conditioner for Chemo Hair: Gentle Picks for a Tender Scalp",
   dek: "The right shampoo keeps a sore, sensitive scalp clean and comfortable through treatment, and treats fragile new growth kindly. These are our favorite gentle picks, plus the simple care habits that make every stage easier.",
   intro: [

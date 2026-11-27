@@ -4,7 +4,7 @@ export const bestHeadShaver: RoundupData = {
   slug: "best-head-shaver",
   hub: "Men's Grooming",
   crumb: "Best Head Shaver",
-  metaTitle: "Best Head Shaver (2026): 6 Picks Ranked on Scalp Comfort",
+  metaTitle: "Best Head Shaver (2026): 6 Picks Reviewed",
   metaDescription:
     "The best head shaver for a smooth bald look. We ranked Skull Shaver, Remington Balder, Philips Norelco, Freebird and HeadBlade on closeness, comfort and value.",
   h1: "The Best Head Shaver: A Smooth Scalp Without the Nicks and Bumps",

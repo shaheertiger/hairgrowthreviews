@@ -4,7 +4,7 @@ export const bestHairGrowthSerum: RoundupData = {
   slug: "best-hair-growth-serum",
   hub: "Hair Growth & Hair Loss",
   crumb: "Best Hair Growth Serum",
-  metaTitle: "Best Hair Growth Serum (2026): 7 Picks for Fuller-Looking Hair",
+  metaTitle: "Best Hair Growth Serum (2026): 7 Brands Reviewed",
   metaDescription:
     "We ranked The Ordinary, Nutrafol, Vegamour, Act+Acre, Kérastase and more on ingredients, feel and value, and show how each pairs with minoxidil.",
   h1: "The Best Hair Growth Serums for Fuller, Healthier-Looking Hair",

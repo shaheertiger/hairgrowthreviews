@@ -4,9 +4,9 @@ export const bestProductsForHairExtensions: RoundupData = {
   slug: "best-products-for-hair-extensions",
   hub: "Hair Care",
   crumb: "Best Products for Hair Extensions",
-  metaTitle: "Best Products for Hair Extensions (2026): 6 Picks Ranked on Care",
+  metaTitle: "Best Products for Hair Extensions (2026): 6 Brands Reviewed",
   metaDescription:
-    "The best products for hair extensions are gentle and kept off the bonds. Our care kit: a soft brush, sulfate-free shampoo, light oil, silk pillowcase and more.",
+    "Hair extension care products reviewed: Wet Brush, Kristin Ess, It's a 10, Slip, Moroccanoil and Bumble and bumble, gentle picks that keep off the bonds.",
   h1: "The Best Products for Hair Extensions: A Care Kit That Protects the Bonds",
   dek: "Extensions are an investment, and the wrong products can loosen tape, break down keratin bonds and leave the hair matted within weeks. Here is the short list of products that actually help, where each one goes, and how to keep your natural hair healthy underneath.",
   intro: [

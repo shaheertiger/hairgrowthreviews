@@ -4,7 +4,7 @@ export const bestElectricShaverForMen: RoundupData = {
   slug: "best-electric-shaver-for-men",
   hub: "Men's Grooming",
   crumb: "Best Electric Shaver for Men",
-  metaTitle: "Best Electric Shaver for Men (2026): 7 Picks Ranked on Comfort",
+  metaTitle: "Best Electric Shaver for Men (2026): 7 Picks Reviewed",
   metaDescription:
     "The best electric shaver for men, foil or rotary. We ranked Braun, Philips Norelco, Panasonic and Remington on closeness, sensitive-skin comfort and value.",
   h1: "The Best Electric Shaver for Men: Close, Comfortable and Worth the Money",

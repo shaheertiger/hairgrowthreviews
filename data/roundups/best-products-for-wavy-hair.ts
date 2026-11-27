@@ -4,9 +4,9 @@ export const bestProductsForWavyHair: RoundupData = {
   slug: "best-products-for-wavy-hair",
   hub: "Hair Care",
   crumb: "Best Products for Wavy Hair",
-  metaTitle: "Best Products for Wavy Hair (2026): 7 Picks Ranked by Wave Type",
+  metaTitle: "Best Products for Wavy Hair (2026): 7 Picks Reviewed",
   metaDescription:
-    "The best products for wavy hair are light gels, mousses and leave-ins that define 2A-2C waves without weight. 7 picks, plus a routine and men's tips.",
+    "Wavy hair products reviewed: Not Your Mother's, Ouidad, Bumble and bumble, Briogeo, Living Proof and SheaMoisture picks that define 2A-2C waves without weight.",
   h1: "The Best Products for Wavy Hair: Light Hold That Defines 2A to 2C Waves Without Flattening Them",
   dek: "Wavy hair sits between straight and curly, and most curl products are built for the curly end. The result is waves that go limp, greasy or stringy. These are the light gels, mousses, leave-ins and shampoos that suit waves, plus the routine that makes them work.",
   intro: [

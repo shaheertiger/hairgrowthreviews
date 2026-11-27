@@ -4,7 +4,7 @@ export const bestScalpScrub: RoundupData = {
   slug: "best-scalp-scrub",
   hub: "Hair Care",
   crumb: "Best Scalp Scrub",
-  metaTitle: "Best Scalp Scrub (2026): 7 Exfoliators Ranked on Gentleness",
+  metaTitle: "Best Scalp Scrub (2026): 7 Exfoliators Reviewed",
   metaDescription:
     "The best scalp scrub for buildup, oil and flakes: Briogeo, The INKEY List, Christophe Robin, Aveda and more, ranked on gentleness, plus how to use them well.",
   h1: "The Best Scalp Scrub: Clear Buildup and Flakes Without Irritating Your Scalp",
