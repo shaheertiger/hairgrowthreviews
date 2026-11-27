@@ -174,6 +174,14 @@ export const avedaInvati: ReviewData = {
       a: "That figure comes from Aveda's 12-week study of the full four-step Invati system. Using the serum together with the shampoo, conditioner and styling treatment is the way to get closest to that result.",
     },
     {
+      q: "Is Invati Ultra Advanced the same as Invati Advanced?",
+      a: "Invati Ultra Advanced is the current version of the line that replaced Invati Advanced on Aveda's shelves, built around the same Densiplex botanical idea. Aveda sells it as a Light and a Rich system. Older Invati Advanced bottles still turn up at resellers, so check the name on the box if you want the current formula.",
+    },
+    {
+      q: "Does Aveda Invati grow hair?",
+      a: "Invati is a cosmetic scalp serum, not a regrowth drug. Aveda's claims are about less hair loss from breakage and hair that looks and feels thicker; its consumer test of the Ultra Advanced Light system had 103 women use the four steps for 4 weeks. For regrowth of pattern hair loss, minoxidil is the proven option, and the two can be used together.",
+    },
+    {
       q: "Is Invati good for pattern hair loss?",
       a: "It's built for breakage-related thinning. If DHT-driven pattern thinning is your primary concern, pair Invati with minoxidil or a dedicated DHT-blocker, which target the follicle, while Invati strengthens hair and supports the scalp.",
     },

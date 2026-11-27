@@ -371,6 +371,18 @@ export const bestPumpkinSeedOilForHairLoss: RoundupData = {
       a: "The main trial was in men, with a smaller topical study in women. Because pumpkin seed oil is thought to act on hormone pathways, women of childbearing age, and anyone pregnant or breastfeeding, should talk to a doctor first. Topical minoxidil is the FDA-approved option for women, and pumpkin seed oil can be used as a scalp oil alongside it.",
     },
     {
+      q: "What did the pumpkin seed oil trial actually find?",
+      a: "In the 2014 trial, average hair count rose about 40% after 24 weeks in men taking 400 mg a day, versus about 10% in the placebo group, a statistically significant difference. Side effects were no different from placebo. It was one small trial, the photos covered the crown, and the capsules contained other plant ingredients too.",
+    },
+    {
+      q: "Is pumpkin seed oil good for men's hair loss?",
+      a: "Men are who it was studied in. The trial enrolled 76 men with mild to moderate male pattern hair loss, so early thinning at the crown in men is the best-supported use. Men with advanced loss or a receding hairline should expect less and consider minoxidil or finasteride alongside it.",
+    },
+    {
+      q: "Are \"Advanced Hair Loss Complex\" pumpkin seed oil softgels better than plain ones?",
+      a: "Not necessarily. Those blends add ingredients such as saw palmetto or biotin, often at undisclosed amounts, and none copies the trial formula. A plain 1,000 mg pumpkin seed oil softgel already exceeds the studied 400 mg dose for less money. Choose a blend only if you want its other ingredients and can see their doses.",
+    },
+    {
       q: "How long does pumpkin seed oil take to work?",
       a: "Give it about six months. The trial measured results after 24 weeks, and hair grows in slow cycles. Take photos before starting and every two months in the same lighting. At six months, compare your photos to see how it is working for you.",
     },
@@ -393,5 +405,5 @@ export const bestPumpkinSeedOilForHairLoss: RoundupData = {
     { href: "/the-hgr-regimen", label: "The HGR Regimen: combining treatments" },
   ],
   publishedDate: "2026-10-14",
-  updatedDate: "2026-11-24",
+  updatedDate: "2026-11-27",
 };

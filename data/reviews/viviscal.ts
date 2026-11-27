@@ -173,6 +173,18 @@ export const viviscal: ReviewData = {
     "Contains shark cartilage and oyster (shellfish) extract — avoid if you have a shellfish allergy or follow a vegan/vegetarian diet.",
   faq: [
     {
+      q: "What is AminoMar marine complex?",
+      a: "AminoMar is Viviscal's proprietary marine ingredient. Church & Dwight's US ingredient disclosure lists it as shark cartilage and oyster extract powder, and published studies describe it as a blend of shark and mollusc powder from marine sources. Some overseas labels word it as collagen and oyster extract, or fish and molluscs. It is found only in Viviscal products.",
+    },
+    {
+      q: "Is the AminoMar in Viviscal dangerous?",
+      a: "For most people it is simply a marine protein ingredient. The real risk is allergy: because it contains shark and oyster (shellfish) material, anyone with a fish or shellfish allergy should avoid it. No published study has tested AminoMar on its own; the brand's trials test the whole tablet.",
+    },
+    {
+      q: "Does Viviscal contain shark fin?",
+      a: "Viviscal's US ingredient disclosure lists shark cartilage, not shark fin, along with oyster extract powder. If avoiding shark products matters to you for ethical or dietary reasons, Viviscal is not a fit either way, and a plant-based hair supplement is the better choice.",
+    },
+    {
       q: "Is Viviscal safe for people with a shellfish allergy?",
       a: "No. Viviscal's AminoMar complex is derived from shark cartilage and oyster extract, making it unsuitable for anyone with a shellfish allergy or a vegan/vegetarian diet. If you're allergic, consult an allergist and choose a plant-based formula.",
     },
