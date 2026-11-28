@@ -1,0 +1,2996 @@
+{
+ "generated": "2026-11-28",
+ "siteUrl": "https://www.hairgrowthreviews.com/",
+ "days": 90,
+ "totals": {
+  "clicks": 166,
+  "impressions": 5177,
+  "pagesWithImpressions": 63,
+  "sitemapPages": 273
+ },
+ "clusters": [
+  {
+   "cluster": "batana",
+   "clicks": 62,
+   "impressions": 2135,
+   "pages": 2,
+   "clicksPerPage": 31
+  },
+  {
+   "cluster": "brand reviews",
+   "clicks": 28,
+   "impressions": 422,
+   "pages": 6,
+   "clicksPerPage": 4.7
+  },
+  {
+   "cluster": "pumpkin seed oil",
+   "clicks": 27,
+   "impressions": 485,
+   "pages": 1,
+   "clicksPerPage": 27
+  },
+  {
+   "cluster": "other",
+   "clicks": 17,
+   "impressions": 789,
+   "pages": 16,
+   "clicksPerPage": 1.1
+  },
+  {
+   "cluster": "supplements",
+   "clicks": 9,
+   "impressions": 175,
+   "pages": 7,
+   "clicksPerPage": 1.3
+  },
+  {
+   "cluster": "minoxidil",
+   "clicks": 6,
+   "impressions": 386,
+   "pages": 4,
+   "clicksPerPage": 1.5
+  },
+  {
+   "cluster": "hair care",
+   "clicks": 5,
+   "impressions": 47,
+   "pages": 11,
+   "clicksPerPage": 0.5
+  },
+  {
+   "cluster": "other oils",
+   "clicks": 4,
+   "impressions": 290,
+   "pages": 2,
+   "clicksPerPage": 2
+  },
+  {
+   "cluster": "styling & tools",
+   "clicks": 4,
+   "impressions": 64,
+   "pages": 8,
+   "clicksPerPage": 0.5
+  },
+  {
+   "cluster": "laser / devices",
+   "clicks": 2,
+   "impressions": 287,
+   "pages": 2,
+   "clicksPerPage": 1
+  },
+  {
+   "cluster": "ketoconazole / dandruff",
+   "clicks": 1,
+   "impressions": 73,
+   "pages": 2,
+   "clicksPerPage": 0.5
+  },
+  {
+   "cluster": "castor",
+   "clicks": 1,
+   "impressions": 3,
+   "pages": 1,
+   "clicksPerPage": 1
+  },
+  {
+   "cluster": "rosemary",
+   "clicks": 0,
+   "impressions": 21,
+   "pages": 1,
+   "clicksPerPage": 0
+  }
+ ],
+ "winners": [
+  {
+   "key": "/best-batana-oil",
+   "clicks": 60,
+   "impressions": 1933,
+   "position": 5.4,
+   "ctr": 3.1
+  },
+  {
+   "key": "/best-pumpkin-seed-oil-for-hair-loss",
+   "clicks": 27,
+   "impressions": 485,
+   "position": 4.7,
+   "ctr": 5.6
+  },
+  {
+   "key": "/reviews/aveda-invati-scalp-revitalizer",
+   "clicks": 27,
+   "impressions": 408,
+   "position": 4.2,
+   "ctr": 6.6
+  },
+  {
+   "key": "/best-hair-growth-products",
+   "clicks": 13,
+   "impressions": 600,
+   "position": 5.9,
+   "ctr": 2.2
+  },
+  {
+   "key": "/reviews/viviscal-extra-strength-hair-nutrient-tablets",
+   "clicks": 6,
+   "impressions": 150,
+   "position": 4.1,
+   "ctr": 4
+  },
+  {
+   "key": "/find-a-treatment/minoxidil-rogaine",
+   "clicks": 5,
+   "impressions": 334,
+   "position": 5.7,
+   "ctr": 1.5
+  },
+  {
+   "key": "/best-hair-growth-oil",
+   "clicks": 3,
+   "impressions": 265,
+   "position": 6.4,
+   "ctr": 1.1
+  },
+  {
+   "key": "/best-shampoo-for-dry-damaged-hair",
+   "clicks": 3,
+   "impressions": 15,
+   "position": 4.7,
+   "ctr": 20
+  },
+  {
+   "key": "/does-batana-oil-grow-hair",
+   "clicks": 2,
+   "impressions": 202,
+   "position": 6.2,
+   "ctr": 1
+  },
+  {
+   "key": "/best-hair-fibers-for-thinning-hair",
+   "clicks": 2,
+   "impressions": 24,
+   "position": 4.6,
+   "ctr": 8.3
+  },
+  {
+   "key": "/best-hair-brush-for-thinning-hair",
+   "clicks": 2,
+   "impressions": 17,
+   "position": 4.5,
+   "ctr": 11.8
+  },
+  {
+   "key": "/best-vitamin-d-supplement-for-hair-loss",
+   "clicks": 2,
+   "impressions": 7,
+   "position": 3.7,
+   "ctr": 28.6
+  },
+  {
+   "key": "/best-scalp-massager",
+   "clicks": 1,
+   "impressions": 286,
+   "position": 6.7,
+   "ctr": 0.3
+  },
+  {
+   "key": "/reviews/nizoral-d-anti-dandruff-shampoo",
+   "clicks": 1,
+   "impressions": 71,
+   "position": 5.5,
+   "ctr": 1.4
+  },
+  {
+   "key": "/best-hair-spray",
+   "clicks": 1,
+   "impressions": 63,
+   "position": 5.7,
+   "ctr": 1.6
+  },
+  {
+   "key": "/best-dyson-supersonic-alternative",
+   "clicks": 1,
+   "impressions": 27,
+   "position": 3.8,
+   "ctr": 3.7
+  },
+  {
+   "key": "/reviews/pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo",
+   "clicks": 1,
+   "impressions": 25,
+   "position": 5.7,
+   "ctr": 4
+  },
+  {
+   "key": "/how-long-does-minoxidil-take-to-work",
+   "clicks": 1,
+   "impressions": 24,
+   "position": 5.5,
+   "ctr": 4.2
+  },
+  {
+   "key": "/best-hair-products-for-men",
+   "clicks": 1,
+   "impressions": 16,
+   "position": 7,
+   "ctr": 6.3
+  },
+  {
+   "key": "/reviews/just-natural-hair-growth-treatment",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 3.3,
+   "ctr": 33.3
+  },
+  {
+   "key": "/best-shampoo-for-color-treated-hair",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 6,
+   "ctr": 33.3
+  },
+  {
+   "key": "/best-castor-oil-for-hair-growth",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 7.7,
+   "ctr": 33.3
+  },
+  {
+   "key": "/best-brush-for-curly-hair",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 4,
+   "ctr": 33.3
+  },
+  {
+   "key": "/best-biotin-for-hair-growth",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 4,
+   "ctr": 50
+  },
+  {
+   "key": "/do-laser-caps-actually-work",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 7,
+   "ctr": 100
+  },
+  {
+   "key": "/best-dry-shampoo",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  }
+ ],
+ "nearMiss": [
+  {
+   "key": "/best-scalp-scrub",
+   "clicks": 0,
+   "impressions": 37,
+   "position": 6.1,
+   "ctr": 0,
+   "topQueries": [
+    {
+     "key": "best scalp scrub for itching",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 4,
+     "ctr": 0
+    },
+    {
+     "key": "best scalp scrub for dandruff buying guide",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 6,
+     "ctr": 0
+    },
+    {
+     "key": "best best scalp scrub for dandruff",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 8.5,
+     "ctr": 0
+    },
+    {
+     "key": "what scalp scrub is good for hair growth",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 5,
+     "ctr": 0
+    },
+    {
+     "key": "best scalp cleaner",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 9,
+     "ctr": 0
+    }
+   ]
+  },
+  {
+   "key": "/best-rosemary-oil-for-hair-growth",
+   "clicks": 0,
+   "impressions": 21,
+   "position": 5,
+   "ctr": 0,
+   "topQueries": [
+    {
+     "key": "best rosemary oil hair growth",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 5.5,
+     "ctr": 0
+    },
+    {
+     "key": "rosemary essential oils for hair and  comparaison",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 4,
+     "ctr": 0
+    },
+    {
+     "key": "whats the best rosemary for your hair",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 3,
+     "ctr": 0
+    },
+    {
+     "key": "rosemary oil routine for hair growth",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 7,
+     "ctr": 0
+    },
+    {
+     "key": "rosemary hair growth oil reviews",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6,
+     "ctr": 0
+    }
+   ]
+  },
+  {
+   "key": "/best-minoxidil-for-women",
+   "clicks": 0,
+   "impressions": 20,
+   "position": 6,
+   "ctr": 0,
+   "topQueries": [
+    {
+     "key": "best minoxidil for women hair growth",
+     "clicks": 0,
+     "impressions": 9,
+     "position": 6,
+     "ctr": 0
+    },
+    {
+     "key": "minoxidil for women foam best",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 5,
+     "ctr": 0
+    },
+    {
+     "key": "best minoxidil for women",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 7,
+     "ctr": 0
+    },
+    {
+     "key": "best minoxidil drops for women",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 5,
+     "ctr": 0
+    },
+    {
+     "key": "best minoxidil product for women",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 7,
+     "ctr": 0
+    }
+   ]
+  },
+  {
+   "key": "/best-silk-pillowcase-for-hair",
+   "clicks": 0,
+   "impressions": 13,
+   "position": 7.2,
+   "ctr": 0,
+   "topQueries": [
+    {
+     "key": "silk pillow cases for hair",
+     "clicks": 0,
+     "impressions": 4,
+     "position": 7.5,
+     "ctr": 0
+    },
+    {
+     "key": "silk pillowcase for hair",
+     "clicks": 0,
+     "impressions": 3,
+     "position": 10,
+     "ctr": 0
+    },
+    {
+     "key": "silk pillowcase for hair 60x24",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 10,
+     "ctr": 0
+    },
+    {
+     "key": "which silk pillowcase is best for hair growth#!#",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 2,
+     "ctr": 0
+    },
+    {
+     "key": "silicone pillow case for hair",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 5,
+     "ctr": 0
+    }
+   ]
+  },
+  {
+   "key": "/",
+   "clicks": 0,
+   "impressions": 11,
+   "position": 5,
+   "ctr": 0,
+   "topQueries": [
+    {
+     "key": "xkq hair growth reviews 2024",
+     "clicks": 0,
+     "impressions": 3,
+     "position": 4,
+     "ctr": 0
+    },
+    {
+     "key": "rosedil for hair growth reviews and complaints",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 6,
+     "ctr": 0
+    },
+    {
+     "key": "atanail for hair growth reviews",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 3,
+     "ctr": 0
+    },
+    {
+     "key": "rosedil for hair growth reviews",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 7,
+     "ctr": 0
+    },
+    {
+     "key": "regrowth shampoo review",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 8,
+     "ctr": 0
+    }
+   ]
+  },
+  {
+   "key": "/best-sulfate-free-shampoo",
+   "clicks": 0,
+   "impressions": 10,
+   "position": 5.9,
+   "ctr": 0,
+   "topQueries": [
+    {
+     "key": "daily cleansing sulfate free shampoos",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 6,
+     "ctr": 0
+    },
+    {
+     "key": "which is better sulphate or non sulphate shampoo",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6,
+     "ctr": 0
+    },
+    {
+     "key": "best shampoo curly dry damaged hair sulfate free review 2026",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 2,
+     "ctr": 0
+    },
+    {
+     "key": "the best phosphate free shampoo",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 4,
+     "ctr": 0
+    },
+    {
+     "key": "best professional sulfate free shampoo for women",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 5,
+     "ctr": 0
+    }
+   ]
+  },
+  {
+   "key": "/best-dyson-airwrap-alternative",
+   "clicks": 0,
+   "impressions": 10,
+   "position": 4.4,
+   "ctr": 0,
+   "topQueries": [
+    {
+     "key": "dyson hair styler alternative",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 1,
+     "ctr": 0
+    },
+    {
+     "key": "what is the best alternative.to dyson airwand",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 7,
+     "ctr": 0
+    },
+    {
+     "key": "shark dyson airwarp alternative",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 5,
+     "ctr": 0
+    },
+    {
+     "key": "dyson airwrap hair brands list",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 5,
+     "ctr": 0
+    },
+    {
+     "key": "best affordable dyson airwrap alternative curls 2026 test",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6,
+     "ctr": 0
+    }
+   ]
+  }
+ ],
+ "lowCtr": [
+  {
+   "key": "/find-a-treatment/minoxidil-rogaine",
+   "clicks": 5,
+   "impressions": 334,
+   "position": 5.7,
+   "ctr": 1.5
+  },
+  {
+   "key": "/best-hair-growth-oil",
+   "clicks": 3,
+   "impressions": 265,
+   "position": 6.4,
+   "ctr": 1.1
+  },
+  {
+   "key": "/does-batana-oil-grow-hair",
+   "clicks": 2,
+   "impressions": 202,
+   "position": 6.2,
+   "ctr": 1
+  },
+  {
+   "key": "/best-scalp-massager",
+   "clicks": 1,
+   "impressions": 286,
+   "position": 6.7,
+   "ctr": 0.3
+  },
+  {
+   "key": "/reviews/nizoral-d-anti-dandruff-shampoo",
+   "clicks": 1,
+   "impressions": 71,
+   "position": 5.5,
+   "ctr": 1.4
+  },
+  {
+   "key": "/best-hair-spray",
+   "clicks": 1,
+   "impressions": 63,
+   "position": 5.7,
+   "ctr": 1.6
+  }
+ ],
+ "zeroClick": [
+  "/best-scalp-scrub",
+  "/best-rosemary-oil-for-hair-growth",
+  "/best-minoxidil-for-women",
+  "/best-silk-pillowcase-for-hair",
+  "/",
+  "/best-sulfate-free-shampoo",
+  "/best-dyson-airwrap-alternative",
+  "/best-minoxidil-for-men",
+  "/best-iron-supplement-for-hair-loss",
+  "/reviews/mane-n-tail-shampoo",
+  "/best-hair-growth-serum",
+  "/best-hair-growth-vitamins",
+  "/best-shampoo-for-itchy-scalp",
+  "/best-beard-growth-products",
+  "/best-hair-dye-for-men",
+  "/best-hair-care-products-for-women",
+  "/best-anti-frizz-serum",
+  "/does-collagen-help-hair-growth",
+  "/best-postpartum-hair-loss-products",
+  "/best-hair-clippers",
+  "/about-hair-growth/stages-hair-loss",
+  "/best-hair-dye-to-cover-gray",
+  "/best-hair-growth-shampoo",
+  "/does-hard-water-cause-hair-loss",
+  "/how-much-hair-loss-is-normal-per-day",
+  "/reviews/revivogen-scalp-therapy-formula",
+  "/best-heated-rollers",
+  "/best-hair-detangler",
+  "/best-dandruff-shampoo",
+  "/reviews",
+  "/does-wearing-a-hat-cause-hair-loss",
+  "/best-nose-hair-trimmer",
+  "/find-a-treatment/supplements",
+  "/best-purple-shampoo",
+  "/best-shampoo-for-chemo-hair",
+  "/best-body-groomer-for-men",
+  "/best-round-brush-for-fine-hair"
+ ],
+ "invisible": [
+  "/best",
+  "/answers",
+  "/find-a-treatment",
+  "/about-hair-growth",
+  "/about",
+  "/contact",
+  "/privacy",
+  "/terms",
+  "/best-minoxidil-foam",
+  "/best-beard-growth-oil",
+  "/best-eyelash-growth-serum",
+  "/best-eyebrow-growth-serum",
+  "/best-hair-growth-products-for-men",
+  "/best-hair-growth-products-for-women",
+  "/best-shampoo-for-men",
+  "/best-conditioner-for-thinning-hair",
+  "/best-saw-palmetto-for-hair-loss",
+  "/best-saw-palmetto-shampoo",
+  "/best-hair-thickening-products",
+  "/best-hair-growth-oil-for-men",
+  "/best-hair-oil-for-thinning-hair",
+  "/best-laser-cap-for-hair-growth",
+  "/best-derma-roller-for-hair-growth",
+  "/best-ketoconazole-shampoo",
+  "/best-dht-blocker-shampoo",
+  "/best-shampoo-for-thinning-hair",
+  "/best-hair-products-for-curly-hair",
+  "/best-black-hair-care-products",
+  "/best-hair-treatment-for-damaged-hair",
+  "/best-beard-trimmer",
+  "/best-collagen-for-hair-growth",
+  "/best-heat-protectant-spray",
+  "/best-hair-dryer",
+  "/best-flat-iron",
+  "/best-curling-iron",
+  "/best-hair-dryer-brush",
+  "/best-leave-in-conditioner",
+  "/best-clarifying-shampoo",
+  "/best-hair-topper-for-thinning-hair",
+  "/best-shower-filter-for-hair",
+  "/best-head-shaver",
+  "/best-electric-shaver-for-men",
+  "/best-hair-straightening-brush",
+  "/best-beard-grooming-kit",
+  "/batana-oil-reviews",
+  "/best-batana-oil-shampoo-and-conditioner",
+  "/best-pumpkin-seed-oil-capsules-for-hair-loss",
+  "/best-wig-for-women-with-hair-loss",
+  "/best-shampoo-for-oily-hair",
+  "/best-at-home-hair-color",
+  "/black-friday-hair-tool-deals",
+  "/best-dht-blocker",
+  "/best-peptide-serum-for-hair-growth",
+  "/best-hair-growth-products-for-black-hair",
+  "/best-shampoo-and-conditioner-for-thin-hair",
+  "/best-products-for-wavy-hair",
+  "/best-hair-products-for-fine-curly-hair",
+  "/best-hair-products-for-4c-hair",
+  "/best-oil-for-low-porosity-hair",
+  "/best-conditioner-for-dry-frizzy-hair",
+  "/best-shampoo-for-gray-hair",
+  "/best-flat-iron-for-thin-hair",
+  "/best-blow-dryer-for-men",
+  "/best-pomade-for-thin-hair",
+  "/best-products-for-hair-extensions",
+  "/best-dandruff-shampoo-for-color-treated-hair",
+  "/best-curling-iron-for-short-hair",
+  "/best-red-light-therapy-for-hair-growth",
+  "/best-prenatal-vitamins-for-hair-growth",
+  "/best-essential-oils-for-hair-growth",
+  "/best-argan-oil-for-hair",
+  "/best-boar-bristle-hair-brush",
+  "/best-coconut-oil-for-hair",
+  "/best-jojoba-oil-for-hair",
+  "/best-hair-skin-and-nails-supplement",
+  "/best-rosemary-shampoo-for-hair-growth",
+  "/best-shampoo-for-keratin-treated-hair",
+  "/best-shampoo-for-curly-hair",
+  "/best-conditioner-for-curly-hair",
+  "/best-curl-cream-for-curly-hair",
+  "/best-mousse-for-curly-hair",
+  "/best-hair-straightener-for-thick-hair",
+  "/best-texture-spray-for-fine-hair",
+  "/best-shampoo-for-low-porosity-hair",
+  "/best-halo-hair-extensions",
+  "/best-hair-cutting-shears",
+  "/best-edge-control-for-4c-hair",
+  "/best-hair-oil-for-curly-hair",
+  "/best-hair-oil-for-dry-hair",
+  "/best-hair-oil-for-frizzy-hair",
+  "/best-hair-oil-for-fine-hair",
+  "/best-hot-oil-treatment-for-hair",
+  "/best-shampoo-for-thick-hair",
+  "/best-hair-gel-for-curly-hair",
+  "/best-hair-bonnet-for-sleeping",
+  "/best-aveda-invati-alternative",
+  "/best-viviscal-alternative",
+  "/how-often-should-you-derma-roll-your-scalp",
+  "/do-hair-fibers-cause-hair-loss",
+  "/does-heat-styling-cause-hair-loss",
+  "/does-dry-shampoo-cause-hair-loss",
+  "/minoxidil-shedding-how-long-does-it-last",
+  "/can-women-use-mens-minoxidil",
+  "/can-you-use-minoxidil-and-ketoconazole-together",
+  "/does-dandruff-cause-hair-loss",
+  "/can-stress-cause-hair-loss",
+  "/how-long-does-postpartum-hair-loss-last",
+  "/does-biotin-really-help-hair-growth",
+  "/does-rosemary-oil-really-grow-hair",
+  "/does-saw-palmetto-block-dht",
+  "/can-low-iron-cause-hair-loss",
+  "/can-vitamin-d-deficiency-cause-hair-loss",
+  "/does-castor-oil-grow-hair",
+  "/does-pumpkin-seed-oil-help-hair-loss",
+  "/does-scalp-massage-help-hair-growth",
+  "/does-ketoconazole-shampoo-help-hair-loss",
+  "/what-happens-if-you-stop-using-minoxidil",
+  "/do-dht-blocker-shampoos-work",
+  "/does-minoxidil-work-for-beard-growth",
+  "/do-eyelash-growth-serums-work",
+  "/does-glp-1-cause-hair-loss",
+  "/does-oral-minoxidil-work",
+  "/how-long-do-eyelashes-take-to-grow-back",
+  "/is-rogaine-the-same-as-minoxidil",
+  "/how-does-minoxidil-work",
+  "/batana-oil-vs-castor-oil",
+  "/batana-oil-vs-rosemary-oil",
+  "/how-to-tell-if-batana-oil-is-real",
+  "/how-to-use-batana-oil-for-hair-growth",
+  "/pumpkin-seed-oil-vs-saw-palmetto",
+  "/nizoral-vs-head-and-shoulders",
+  "/minoxidil-foam-vs-liquid",
+  "/hair-loss-treatments-safe-while-breastfeeding",
+  "/can-you-regrow-hair-after-60",
+  "/viviscal-vs-nutrafol",
+  "/does-brushing-your-hair-cause-hair-loss",
+  "/how-often-should-you-oil-your-hair",
+  "/can-an-itchy-scalp-cause-hair-loss",
+  "/how-much-vitamin-d-should-i-take-for-hair-loss",
+  "/does-batana-oil-darken-hair",
+  "/how-to-use-pumpkin-seed-oil-for-hair",
+  "/pumpkin-seed-oil-vs-rosemary-oil",
+  "/how-to-make-your-hair-grow-faster",
+  "/what-is-batana-oil",
+  "/how-to-use-rosemary-oil-for-hair-growth",
+  "/how-to-use-castor-oil-for-hair-growth",
+  "/is-coconut-oil-good-for-your-hair",
+  "/is-olive-oil-good-for-your-hair",
+  "/how-to-use-argan-oil-for-hair",
+  "/does-tea-tree-oil-help-hair-growth",
+  "/do-prenatal-vitamins-help-hair-growth",
+  "/how-much-biotin-should-i-take-for-hair-growth",
+  "/which-vitamin-deficiency-causes-hair-loss",
+  "/does-creatine-cause-hair-loss",
+  "/does-testosterone-cause-hair-loss",
+  "/how-to-prevent-hair-loss",
+  "/does-head-and-shoulders-cause-hair-loss",
+  "/how-much-does-minoxidil-cost",
+  "/how-long-does-batana-oil-take-to-work",
+  "/batana-oil-side-effects",
+  "/how-long-does-rosemary-oil-take-to-work",
+  "/rosemary-oil-side-effects",
+  "/how-long-does-pumpkin-seed-oil-take-to-work",
+  "/pumpkin-seed-oil-side-effects",
+  "/how-much-pumpkin-seed-oil-should-i-take-for-hair-loss",
+  "/rosemary-oil-vs-minoxidil",
+  "/how-to-use-a-scalp-massager-for-hair-growth",
+  "/how-to-detangle-hair-with-oil",
+  "/how-to-prevent-hair-breakage",
+  "/does-zepbound-cause-hair-loss",
+  "/what-is-low-porosity-hair",
+  "/what-is-high-porosity-hair",
+  "/how-do-hair-grafts-work",
+  "/how-much-does-a-hair-transplant-cost",
+  "/is-a-hair-transplant-permanent",
+  "/how-to-make-hair-thicker",
+  "/how-often-should-you-wash-your-hair",
+  "/is-it-bad-to-sleep-with-wet-hair",
+  "/how-long-does-it-take-for-hair-to-grow-back",
+  "/why-is-my-hair-so-oily",
+  "/why-is-my-hair-so-frizzy",
+  "/how-to-grow-curly-hair",
+  "/what-hair-type-do-i-have",
+  "/can-masturbation-cause-hair-loss",
+  "/does-shaving-make-hair-grow-back-thicker",
+  "/is-grapeseed-oil-good-for-hair",
+  "/is-black-seed-oil-good-for-hair",
+  "/how-to-use-amla-oil-for-hair",
+  "/reviews/biotopic-premium-hair-regrowth-serum",
+  "/reviews/amplixin-intensive-hair-growth-serum",
+  "/reviews/crinagen",
+  "/reviews/murad-hair-growth-scalp-serum",
+  "/reviews/ultrax-labs-hair-lush",
+  "/reviews/ultrax-labs-hair-surge-caffeine-hair-loss-hair-growth-stimulating-shampoo",
+  "/reviews/burst-by-nourish-beaute",
+  "/reviews/spark-new",
+  "/reviews/hydrobrush",
+  "/reviews/nunutrients-advanced-hair-regrowth-treatment",
+  "/reviews/bloom",
+  "/reviews/basis-hair-regrowth-system",
+  "/reviews/clofina-hair-revival-ampoule",
+  "/reviews/tangl-hair-loss-treatment",
+  "/reviews/vegamour-gro-hair-serum",
+  "/reviews/divi-scalp-serum",
+  "/reviews/nutrafol",
+  "/mane-n-tail-shampoo-read-first",
+  "/about-hair-growth/hair-loss-cycle",
+  "/about-hair-growth/hair-growth-encyclopedia",
+  "/find-a-treatment/scalp-reduction",
+  "/the-hgr-regimen",
+  "/the-hgr-regimen/help"
+ ],
+ "queries": [
+  {
+   "key": "best batana oil for hair growth",
+   "clicks": 3,
+   "impressions": 57,
+   "position": 5,
+   "ctr": 5.3
+  },
+  {
+   "key": "best pumpkin seed oil capsules for hair loss",
+   "clicks": 3,
+   "impressions": 28,
+   "position": 2.8,
+   "ctr": 10.7
+  },
+  {
+   "key": "best batana oil",
+   "clicks": 3,
+   "impressions": 25,
+   "position": 2.3,
+   "ctr": 12
+  },
+  {
+   "key": "what is the best batana oil for hair growth",
+   "clicks": 3,
+   "impressions": 9,
+   "position": 2.9,
+   "ctr": 33.3
+  },
+  {
+   "key": "hairgrowthreview.com",
+   "clicks": 3,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 300
+  },
+  {
+   "key": "aveda invati reviews",
+   "clicks": 2,
+   "impressions": 16,
+   "position": 2.8,
+   "ctr": 12.5
+  },
+  {
+   "key": "aminomar marine complex",
+   "clicks": 2,
+   "impressions": 10,
+   "position": 2.6,
+   "ctr": 20
+  },
+  {
+   "key": "aveda invati advanced scalp revitalizer",
+   "clicks": 2,
+   "impressions": 9,
+   "position": 5.4,
+   "ctr": 22.2
+  },
+  {
+   "key": "invati aveda reviews",
+   "clicks": 2,
+   "impressions": 5,
+   "position": 1.6,
+   "ctr": 40
+  },
+  {
+   "key": "batana oil from honduras reviews",
+   "clicks": 2,
+   "impressions": 2,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "which brand batana oil is the real deal?",
+   "clicks": 2,
+   "impressions": 2,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "best botana oil",
+   "clicks": 2,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "which batana hair oil brand works the best?",
+   "clicks": 2,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 200
+  },
+  {
+   "key": "is there organic batana oil",
+   "clicks": 2,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 200
+  },
+  {
+   "key": "batana reviews",
+   "clicks": 2,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 200
+  },
+  {
+   "key": "nizoral shampoo acts like monoxidil?",
+   "clicks": 2,
+   "impressions": 1,
+   "position": 6,
+   "ctr": 200
+  },
+  {
+   "key": "batana hair oil",
+   "clicks": 1,
+   "impressions": 86,
+   "position": 6,
+   "ctr": 1.2
+  },
+  {
+   "key": "batana oil hair growth reviews",
+   "clicks": 1,
+   "impressions": 53,
+   "position": 5.3,
+   "ctr": 1.9
+  },
+  {
+   "key": "men's hair care products",
+   "clicks": 1,
+   "impressions": 42,
+   "position": 5,
+   "ctr": 2.4
+  },
+  {
+   "key": "best hair growth products",
+   "clicks": 1,
+   "impressions": 30,
+   "position": 8.1,
+   "ctr": 3.3
+  },
+  {
+   "key": "best pumpkin seed oil for hair growth",
+   "clicks": 1,
+   "impressions": 28,
+   "position": 6.6,
+   "ctr": 3.6
+  },
+  {
+   "key": "batana oil hair growth",
+   "clicks": 1,
+   "impressions": 25,
+   "position": 8.3,
+   "ctr": 4
+  },
+  {
+   "key": "does batana oil grow hair",
+   "clicks": 1,
+   "impressions": 14,
+   "position": 6,
+   "ctr": 7.1
+  },
+  {
+   "key": "aveda invati reviews hair growth",
+   "clicks": 1,
+   "impressions": 8,
+   "position": 1.6,
+   "ctr": 12.5
+  },
+  {
+   "key": "batana hair oil reviews",
+   "clicks": 1,
+   "impressions": 7,
+   "position": 4.9,
+   "ctr": 14.3
+  },
+  {
+   "key": "invatia ultra advanced revitalise scalp serum reviews",
+   "clicks": 1,
+   "impressions": 4,
+   "position": 4,
+   "ctr": 25
+  },
+  {
+   "key": "best pumpkin seed oil for hair loss",
+   "clicks": 1,
+   "impressions": 4,
+   "position": 4,
+   "ctr": 25
+  },
+  {
+   "key": "what is the best batana oil",
+   "clicks": 1,
+   "impressions": 4,
+   "position": 1,
+   "ctr": 25
+  },
+  {
+   "key": "aveda invati advanced reviews",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 2,
+   "ctr": 33.3
+  },
+  {
+   "key": "amino mar",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 2,
+   "ctr": 33.3
+  },
+  {
+   "key": "best batana oil to buy",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 1.7,
+   "ctr": 33.3
+  },
+  {
+   "key": "best pumpkin seed oil for hair",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 5,
+   "ctr": 33.3
+  },
+  {
+   "key": "best koneo oil",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 4,
+   "ctr": 33.3
+  },
+  {
+   "key": "batana oil trustworthy brands amazon",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 4,
+   "ctr": 33.3
+  },
+  {
+   "key": "best batana oil for hair growth brand",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 1,
+   "ctr": 33.3
+  },
+  {
+   "key": "aveda invati serum reviews",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 50
+  },
+  {
+   "key": "pura d'or shampoo reviews",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 7,
+   "ctr": 50
+  },
+  {
+   "key": "best for pumpkin seed for hairbloss and hair",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 50
+  },
+  {
+   "key": "supersonic hair dryer that isn't dyson",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 50
+  },
+  {
+   "key": "adidas scalp revitalize at nordstrom",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 4,
+   "ctr": 50
+  },
+  {
+   "key": "topical rogaine topical minoxidil what's the difference",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 3,
+   "ctr": 50
+  },
+  {
+   "key": "does reviveogen really work for hair growth",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 50
+  },
+  {
+   "key": "mane n tail shampoo complaints consumer reports",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 50
+  },
+  {
+   "key": "is rogain otc only good for crown of the head hair regrowth",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 50
+  },
+  {
+   "key": "cold pressed pumpkin seed oil for hair loss",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 50
+  },
+  {
+   "key": "handcraft blends raw botana oil reviews",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 50
+  },
+  {
+   "key": "botana oil reviews",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 50
+  },
+  {
+   "key": "the best batana oil to use",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 50
+  },
+  {
+   "key": "best raw organic batana oil",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 50
+  },
+  {
+   "key": "preciousvita batana oil reviews",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 4,
+   "ctr": 50
+  },
+  {
+   "key": "best batana companies",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 50
+  },
+  {
+   "key": "best pumpkin seed oil brand for hair growth",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 50
+  },
+  {
+   "key": "what is the best botana oil with positive reviews",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 1,
+   "ctr": 50
+  },
+  {
+   "key": "qual o melhor óleo de batana?",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 50
+  },
+  {
+   "key": "best hair oil for growth",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 9,
+   "ctr": 50
+  },
+  {
+   "key": "best vitamin d for hair",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 50
+  },
+  {
+   "key": "best vitamin d supplement for hair",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 50
+  },
+  {
+   "key": "shark black friday deals 2026 hair dryer",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 4,
+   "ctr": 50
+  },
+  {
+   "key": "hair shears choosng",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 3,
+   "ctr": 50
+  },
+  {
+   "key": "minoxdil timeline",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 3,
+   "ctr": 50
+  },
+  {
+   "key": "redo haircare detangler review",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 9,
+   "ctr": 50
+  },
+  {
+   "key": "google review aveda invati",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "invati revitalizing scalp serum reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "does aveda invati grow hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "viviscal amino mar marine complex",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "just nutritive reviews hair growth",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "viviscal extra strength marine protein powder",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "aminomar marine complex tga",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "oilsforextremehairgrowth",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 6,
+   "ctr": 100
+  },
+  {
+   "key": "best light hold men's hair products reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "what is the best hair fibers for thinning hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "how costly is rogaine and how long will foam last",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "where to buy bstaan oil",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 6,
+   "ctr": 100
+  },
+  {
+   "key": "hair massage devie",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 6,
+   "ctr": 100
+  },
+  {
+   "key": "does colour save shampoo work",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 7,
+   "ctr": 100
+  },
+  {
+   "key": "the best batana oil brand",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "best pumpkn seed for hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "is aveda scalp revitalizer good",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "who is the best at regrowing hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "do laser caps work",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 7,
+   "ctr": 100
+  },
+  {
+   "key": "aveda invati ultra review",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best pumpkin seed oil - advanced hair loss complex softgels",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 6,
+   "ctr": 100
+  },
+  {
+   "key": "le bonapatana oils on sale through amazon",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 7,
+   "ctr": 100
+  },
+  {
+   "key": "best pumpkin seed oilx fjr hair groth",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "what is the best pumpkin seed pil to buy for hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "anvati advanced scalp aveda",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 7,
+   "ctr": 100
+  },
+  {
+   "key": "aveda invati ultra advanced revitalizing scalp serum reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "aveda invati review",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "sweatvresistant hair fiber for thinning hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "what are the best pumpkin seed oils for hair growth",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "aveda invati hair treatment serum review",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "what brand is the best batana oil for hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "aveda invati ultra advanced revitalizing scalp serum for dry or wet hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "is there better hairgrowth vitamins than nutrafor",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "new flamingo batana oil",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 8,
+   "ctr": 100
+  },
+  {
+   "key": "company batana purity test 2026",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "aveda aviati scape revitalizer",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "are ther any other suppliers of batana oil other than kuri nuka",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "l'orea; elnett haitrspray vs kenra hairspray",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "how much to buy minoxidil and how long does it last",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "best authentic clean pumpkin seed oil supplement for hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "invati reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "5 best pumpkin seed oil for hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "pumpkin seed oil best one for hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "avh invati ultra serum 150ml review",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "good brands of batana oil",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "dyson supersonic nural™ hair dryer alternatives",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "the best bantan oil for hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "ayurveda invarti scalp revitaliser",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "what are the best batana oils is it curie k u r i",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best caspr oil 4c hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "ufna batana oil best brands",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "is aveda invati any good",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "best oumplin seed oil for hair loss uk reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "best botana oil n the market",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "evidence based hair oil for men hair growth studies",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 10,
+   "ctr": 100
+  },
+  {
+   "key": "pumpkin seed oil advanced hair loss complex best brand",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "www.the best batana oil.com",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "the best pumkin seed oil for hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "northquick hair growth",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 6,
+   "ctr": 100
+  },
+  {
+   "key": "best on-line hair growth priduct??",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "what is the best batana oil for hair growth and thickness",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "hiro. grow hair oil reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 9,
+   "ctr": 100
+  },
+  {
+   "key": "doesrevivogen have scientific data that shows it should work",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "whats the number one batana oil",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "pumpkin oil capsules for hair health to buy what is best rate product",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "is maddox still the same as rogaine",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "dyson supersonic hair dryer alternative",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "the best batan oil",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best minoxidil for women 5% in the market",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "what is a good hair regrowth product",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 9,
+   "ctr": 100
+  },
+  {
+   "key": "best customer reviews for women’s hair growth products",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "keneo banana oil any good",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 7,
+   "ctr": 100
+  },
+  {
+   "key": "what is the best performing pumpkin seed oil supplement for hair loss- non biased study",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "most pure batana on the market",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "majestic pure batana oil",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "regrow hair products",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "best pumpkin seed oil in pill form to help with hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best pumkin seed oil for hair growth",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "loreal shampoos for dry damaged hair 2026",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "biotin for hair growth trusted reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "3 best old school hair growth oils",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "which brst pumpkin seed oil for hair thinning to buy",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 7,
+   "ctr": 100
+  },
+  {
+   "key": "is toppik or batiste dry shampoo better for scalp",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "best vitamin d for hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "mple batana oil reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "handcrafter blends batana oil versus kuri batana oil",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best bantana oil",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "which bafna oil is good",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "konoe oil best",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "best batana oil to buy directly from the manufacturer",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "weight loss hair regrowth products",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "how long it takes minoxidil works for hair growth?",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 8,
+   "ctr": 100
+  },
+  {
+   "key": "scientific proven hair growth product",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "nizoral a-d 1% shampoo for dht hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best sulfurfree shampoo for dry damaged hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "lkotaneo banana oil",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "100% batana oil hair growth",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "best reviewed hair growth products",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "best honduras batana oil for black hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "do heated rollers have heat adjustment on their devices",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "bataan oil reviews and ratings chart",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "top rated hair brushes for thinning gray hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "who makes the best batana oil for hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best hair regrowth treatments",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "how well does divi hair serum work",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "which batana oil is best for hair growth",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best dyson hair alternatives",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 8,
+   "ctr": 100
+  },
+  {
+   "key": "best batana hair growth product",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "top batana oils brand in usa",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best brand of liquid minoxidil for women hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "ckinical hair growth vitsmins reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "best pimkind seed oil.for hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "head massager reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 7,
+   "ctr": 100
+  },
+  {
+   "key": "best hair growth shampoos",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "ode rosemary hair oil reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 5,
+   "ctr": 100
+  },
+  {
+   "key": "revuew nizoral shampoo for hair loss",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "shark hair black friday",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 4,
+   "ctr": 100
+  },
+  {
+   "key": "best gentle hairbrush for thinning hair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "minoxidil pills have effect after how long",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "best ultra thin flat iron",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "duson hair tools black friday",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "best kinky hair detangling kit",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best brush for thin hair to not",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "above hair shears reviews",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "inexpensive scalp massagers",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 10,
+   "ctr": 100
+  },
+  {
+   "key": "shark hair tool balkc friday",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 3,
+   "ctr": 100
+  },
+  {
+   "key": "lab certified hair growth products",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 1,
+   "ctr": 100
+  },
+  {
+   "key": "best topical dht blokers",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 2,
+   "ctr": 100
+  },
+  {
+   "key": "batana oil reviews",
+   "clicks": 0,
+   "impressions": 83,
+   "position": 6.7,
+   "ctr": 0
+  },
+  {
+   "key": "hair growth products",
+   "clicks": 0,
+   "impressions": 78,
+   "position": 8.2,
+   "ctr": 0
+  },
+  {
+   "key": "pumpkin oil for thinning hair reviews",
+   "clicks": 0,
+   "impressions": 24,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "scalp massager",
+   "clicks": 0,
+   "impressions": 21,
+   "position": 7.7,
+   "ctr": 0
+  },
+  {
+   "key": "koneo batana oil",
+   "clicks": 0,
+   "impressions": 17,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "batana oil",
+   "clicks": 0,
+   "impressions": 16,
+   "position": 8.9,
+   "ctr": 0
+  },
+  {
+   "key": "best scalp massager for hair growth",
+   "clicks": 0,
+   "impressions": 13,
+   "position": 7.3,
+   "ctr": 0
+  },
+  {
+   "key": "batana oil for hair",
+   "clicks": 0,
+   "impressions": 13,
+   "position": 8.5,
+   "ctr": 0
+  },
+  {
+   "key": "aveda hair growth spray",
+   "clicks": 0,
+   "impressions": 12,
+   "position": 5.3,
+   "ctr": 0
+  },
+  {
+   "key": "batana oil for hair growth reviews",
+   "clicks": 0,
+   "impressions": 12,
+   "position": 7.2,
+   "ctr": 0
+  },
+  {
+   "key": "bomasi batana oil",
+   "clicks": 0,
+   "impressions": 12,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "batana oil for hair growth",
+   "clicks": 0,
+   "impressions": 11,
+   "position": 6.8,
+   "ctr": 0
+  },
+  {
+   "key": "highly-rated oveall hair growth  products",
+   "clicks": 0,
+   "impressions": 11,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "bantu oil for hair oil",
+   "clicks": 0,
+   "impressions": 10,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "koneo batana oil for hair growth",
+   "clicks": 0,
+   "impressions": 10,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "aveda invati scalp revitalizer",
+   "clicks": 0,
+   "impressions": 9,
+   "position": 5.2,
+   "ctr": 0
+  },
+  {
+   "key": "aveda hair growth serum",
+   "clicks": 0,
+   "impressions": 9,
+   "position": 7.1,
+   "ctr": 0
+  },
+  {
+   "key": "hair spray",
+   "clicks": 0,
+   "impressions": 9,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "men's hair care",
+   "clicks": 0,
+   "impressions": 9,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "consumer report hair growth products",
+   "clicks": 0,
+   "impressions": 8,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "dyson hair tools black friday 2026",
+   "clicks": 0,
+   "impressions": 8,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "aveda scalp revitalizer",
+   "clicks": 0,
+   "impressions": 7,
+   "position": 5.4,
+   "ctr": 0
+  },
+  {
+   "key": "olcg batana oil reviews",
+   "clicks": 0,
+   "impressions": 7,
+   "position": 8.1,
+   "ctr": 0
+  },
+  {
+   "key": "soren hair regrowth reviews",
+   "clicks": 0,
+   "impressions": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "invati",
+   "clicks": 0,
+   "impressions": 6,
+   "position": 6.3,
+   "ctr": 0
+  },
+  {
+   "key": "aveda hair growth spray reviews",
+   "clicks": 0,
+   "impressions": 6,
+   "position": 5.7,
+   "ctr": 0
+  },
+  {
+   "key": "viviscal extra strength",
+   "clicks": 0,
+   "impressions": 6,
+   "position": 4.7,
+   "ctr": 0
+  },
+  {
+   "key": "extra-strength marine protein",
+   "clicks": 0,
+   "impressions": 5,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "batana natural hair growth reviews",
+   "clicks": 0,
+   "impressions": 5,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "annatto oil brands",
+   "clicks": 0,
+   "impressions": 5,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "does saw palmetto spray block dht",
+   "clicks": 0,
+   "impressions": 5,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "botana oil",
+   "clicks": 0,
+   "impressions": 5,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "aveda invati clinical study hair loss results official",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "aveda invati clinical study hair loss turmeric",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "viviscal extra strength hair nutrient tablets",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 6.8,
+   "ctr": 0
+  },
+  {
+   "key": "invati advanced scalp revitalizer",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 4.5,
+   "ctr": 0
+  },
+  {
+   "key": "nizoral a-d anti-dandruff shampoo antifungal shampoo",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "what causes aveda scalp serum to stop hair loss",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "dcxc batana oil for hair growth",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "best scalp scrub for dandruff",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "reviews of beverly pumpkin seed oil for hair loss",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "elego batana oil hair conditioner reviews",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "best pumpkin seed oil capsules for hair growth",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "best minoxidil for women",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "which batana oil is best",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 2.3,
+   "ctr": 0
+  },
+  {
+   "key": "best 100% batana oil",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "fvna batana oil for hair",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "is batana oil ok for blonde hair",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "ufna batana oil",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "best hair products for men",
+   "clicks": 0,
+   "impressions": 4,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "system 4 bio botanical serum reviews hair loss",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "avea hair growth",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "pura dor makes hair fall out",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "would basic health mane and tail spray cause an allergic reaction on the neck",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "silk pillowcase for hair",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "xkq hair growth reviews 2024",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "which cleàrasil scrub is the most sandy feeling",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "nizoral a-d",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "review bantana oil",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "hair oil to prevent everyday hair loss",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "invati ultra advanced reviews",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "nizoral a-d anti-dandruff shampoo seborrheic dermatitis shampoo",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 5.3,
+   "ctr": 0
+  },
+  {
+   "key": "rosemary oil hair growth reviews",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "what are the 3 top authentic batana oil brands available to consumers in the us?",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "hair sprays that are good for your hair",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "viviscal flavor",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "best brand of batana oil for hair growth",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 5.7,
+   "ctr": 0
+  },
+  {
+   "key": "which hair oil is best for hair growth and thickness",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "follow#n#top 10 most powerful hair growth oils in the world#n##n#15",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "silk pillow cases for hair",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "cantu batana oil review",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "best men's hair growth products",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "best brand of pure batana oil for hair growth",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "best shampoo for itchy scabby scalp",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "what is a good scalp massager",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "best shampoo for postpartum hair loss if breast feeding",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "products for hair growth",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "best silky detangler treatment",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "do hair fibers cause hair loss",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "shark hair tools black friday",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "dyson airwrap black friday",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "how to make 4c hair not wrinkle when doing edges",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "best men's hair care products",
+   "clicks": 0,
+   "impressions": 3,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "invati scalp revitalizer",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "invati adv scalp revital 10ml/.34floz",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 3.5,
+   "ctr": 0
+  },
+  {
+   "key": "is aveda serum good for hair loss",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "invati aveda",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "invati ultra advanced re 10ml/.34floz",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "pura d'or beard shampoo user reviews",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "aveda invati scalp serum",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "aminomar hair growth",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "viviscal hair growth extra strength reviews",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "invati serum",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "pura d'or hair loss prevention",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "aveda invati",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 8.5,
+   "ctr": 0
+  },
+  {
+   "key": "rogaine_women_cmo_briefing_rogaine_brand",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "what shampoo has nizotal a-d",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "viviscal oral supplements",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "aveda hair growth product reviews",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "does pura d'or shampoo lather well",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "viviscal extra strength:",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "aveda invati men™ scalp revitalizer - thinning solutions (30ml)",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "secret frizz fix serum",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "comparing which is the best hair growth serum  the ordinary vs dr reju-all vs seapuri vs dr for hair growth",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "atanail for hair growth reviews",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "best hair colour for men",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "best hair grownth oils in georgia country",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "hair care women best  2026 october",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "aveda revitalizing scalp serum on mens hair",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "just nutritive hair growth reviews",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "rosedil for hair growth reviews and complaints",
+   "clicks": 0,
+   "impressions": 2,
+   "position": 6,
+   "ctr": 0
+  }
+ ]
+}
