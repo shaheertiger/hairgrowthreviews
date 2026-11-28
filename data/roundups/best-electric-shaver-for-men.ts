@@ -409,6 +409,9 @@ export const bestElectricShaverForMen: RoundupData = {
     "best-hair-products-for-men",
     "best-shampoo-for-men",
   ],
+  relatedGuides: [
+    { href: "/does-shaving-make-hair-grow-back-thicker", label: "Does shaving make hair grow back thicker?" },
+  ],
   publishedDate: "2026-10-13",
   updatedDate: "2026-10-13",
 };

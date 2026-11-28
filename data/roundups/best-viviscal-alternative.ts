@@ -257,6 +257,16 @@ export const bestViviscalAlternative: RoundupData = {
       ],
       keyPoint:
         "For allergies, check collagen, omega-3 and glucosamine sources; for diets, prefer a clear vegan label; for cost, compare price per month.",
+      table: {
+        columns: ["Why It Matters", "What to Look For"],
+        rows: [
+          { label: "Collagen", values: ["Often fish-derived", "A stated plant or non-marine source, or skip it"] },
+          { label: "Omega-3 / DHA", values: ["Can come from fish oil or algae", "Algae or flax named on the label"] },
+          { label: "Glucosamine / chondroitin", values: ["Can come from shellfish", "Avoid if the source is not stated"] },
+          { label: "Gummy base", values: ["Gelatin is animal-derived", "Pectin for a plant-based gummy"] },
+          { label: "Diet label", values: ["Vegetarian is not the same as vegan", "An explicit vegan claim"] },
+        ],
+      },
     },
     {
       id: "test-before-you-supplement",

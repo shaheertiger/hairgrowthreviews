@@ -392,6 +392,10 @@ export const bestCurlingIronForShortHair: RoundupData = {
     "best-heated-rollers",
     "best-hair-spray",
   ],
+  relatedGuides: [
+    { href: "/does-heat-styling-cause-hair-loss", label: "Does heat styling cause hair loss?" },
+    { href: "/how-to-prevent-hair-breakage", label: "How to prevent hair breakage" },
+  ],
   publishedDate: "2026-11-08",
   updatedDate: "2026-11-08",
 };

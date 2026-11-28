@@ -242,6 +242,17 @@ for (const r of roundups) {
 for (const r of roundups)
   if (!roundups.some((x) => x.slug !== r.slug && x.relatedRoundups.includes(r.slug)))
     fail(`NO CLUSTER LINK BACK roundup:${r.slug} (add it to its pillar's relatedRoundups)`);
+// 12. The rest of the playbook's structure (SEO-RULES.md §0.2-0.3), sitewide: every roundup links
+//     out to 5+ sibling guides and to at least one question post or guide, carries a section
+//     table and a comparison table; every question post lists the guide it feeds.
+for (const r of roundups) {
+  if (r.relatedRoundups.length < 5) fail(`FEW RELATED ROUNDUPS roundup:${r.slug}: ${r.relatedRoundups.length} (need 5+)`);
+  if (!r.relatedGuides?.length) fail(`NO RELATED GUIDES roundup:${r.slug} (link its question posts / guides)`);
+  if (!r.sections.some((s) => s.table)) fail(`NO SECTION TABLE roundup:${r.slug}`);
+  if (!r.comparisonTable) fail(`NO COMPARISON TABLE roundup:${r.slug}`);
+}
+for (const q of questions)
+  if (!q.relatedRoundups.includes(q.pillarSlug)) fail(`PILLAR NOT IN RELATED question:${q.slug} (add ${q.pillarSlug})`);
 // 10. Every review and guide opens answer-first with a quick answer.
 for (const r of reviews) if (!r.quickAnswer) fail(`NO QUICK ANSWER review:${r.slug}`);
 for (const g of guides) if (!g.quickAnswer) fail(`NO QUICK ANSWER guide:${g.slug}`);

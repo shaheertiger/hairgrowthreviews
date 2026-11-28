@@ -406,6 +406,10 @@ export const bestShampooForMen: RoundupData = {
     "best-dht-blocker-shampoo",
   ],
   relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo"],
+  relatedGuides: [
+    { href: "/how-often-should-you-wash-your-hair", label: "How often should you wash your hair?" },
+    { href: "/does-ketoconazole-shampoo-help-hair-loss", label: "Does ketoconazole shampoo help hair loss?" },
+  ],
   publishedDate: "2026-10-09",
   updatedDate: "2026-10-09",
 };

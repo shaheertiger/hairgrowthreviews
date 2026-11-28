@@ -237,7 +237,7 @@ export const minoxidilFoamVsLiquid: QuestionData = {
   ],
   bottomLine:
     "Minoxidil foam vs liquid is not a contest of results, because at the same strength both deliver the same drug. Choose liquid if your scalp is comfortable with it and you want the lowest cost or need a dropper for long hair. Choose foam if you have a sensitive scalp, want a fast-drying, low-residue routine, or are a woman looking for once-daily convenience. Whichever you pick, apply it to a dry scalp, keep it away from cats, and stay consistent; you can switch formats any time without losing ground.",
-  pillarSlug: "best-minoxidil-for-men",
+  pillarSlug: "best-minoxidil-foam",
   relatedQuestions: [
     "is-rogaine-the-same-as-minoxidil",
     "how-does-minoxidil-work",

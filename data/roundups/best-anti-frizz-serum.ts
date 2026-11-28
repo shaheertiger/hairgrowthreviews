@@ -428,6 +428,10 @@ export const bestAntiFrizzSerum: RoundupData = {
     "best-hair-oil-for-frizzy-hair",
     "best-hair-oil-for-dry-hair",
   ],
+  relatedGuides: [
+    { href: "/why-is-my-hair-so-frizzy", label: "Why is my hair so frizzy?" },
+    { href: "/what-is-high-porosity-hair", label: "What is high porosity hair?" },
+  ],
   publishedDate: "2026-10-14",
   updatedDate: "2026-11-24",
 };

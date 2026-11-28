@@ -391,6 +391,10 @@ export const bestHairGelForCurlyHair: RoundupData = {
     "best-hair-products-for-men",
     "best-edge-control-for-4c-hair",
   ],
+  relatedGuides: [
+    { href: "/how-to-grow-curly-hair", label: "How to grow curly hair" },
+    { href: "/what-hair-type-do-i-have", label: "What hair type do I have?" },
+  ],
   publishedDate: "2026-11-16",
   updatedDate: "2026-11-16",
 };

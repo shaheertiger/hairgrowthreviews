@@ -375,6 +375,10 @@ export const bestHairProductsForMen: RoundupData = {
     "best-hair-fibers-for-thinning-hair",
     "best-beard-growth-oil",
   ],
+  relatedGuides: [
+    { href: "/how-to-make-hair-thicker", label: "How to make hair thicker" },
+    { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
+  ],
   publishedDate: "2026-10-09",
   updatedDate: "2026-10-09",
 };

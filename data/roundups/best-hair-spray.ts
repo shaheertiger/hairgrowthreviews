@@ -422,6 +422,10 @@ export const bestHairSpray: RoundupData = {
     "best-anti-frizz-serum",
     "best-hair-care-products-for-women",
   ],
+  relatedGuides: [
+    { href: "/does-heat-styling-cause-hair-loss", label: "Does heat styling cause hair loss?" },
+    { href: "/how-to-make-hair-thicker", label: "How to make hair thicker" },
+  ],
   publishedDate: "2026-10-14",
   updatedDate: "2026-10-14",
 };

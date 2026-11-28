@@ -438,6 +438,8 @@ export const bestDhtBlocker: RoundupData = {
     "best-dht-blocker-shampoo",
     "best-pumpkin-seed-oil-for-hair-loss",
     "best-minoxidil-for-men",
+    "best-hair-growth-products-for-men",
+    "best-ketoconazole-shampoo",
   ],
   relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo", "ultrax-labs-hair-surge-caffeine-hair-loss-hair-growth-stimulating-shampoo", "pura-dor-hair-loss-prevention-therapy-premium-organic-argan-oil-shampoo", "crinagen", "nunutrients-advanced-hair-regrowth-treatment", "tangl-hair-loss-treatment", "spark-new"],
   relatedGuides: [

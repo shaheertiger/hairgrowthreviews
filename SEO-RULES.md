@@ -11,6 +11,22 @@ This is the format behind every page that earns Bing clicks (`/best-batana-oil`,
 oil guide, the Aveda and Viviscal reviews and their "alternative" guides). Follow it step by step.
 **(checked)** = `npm run verify:content` or `scripts/check-roundup.ts` fails the build if you skip it.
 
+**It applies to every page on the site, not only new ones.** All 150 roundups, 98 question posts and 26 reviews meet
+the checked rules as of 2026-11-28, so a regression on any existing page fails the build.
+When you touch an old page, bring anything unchecked up to the playbook too: the honesty rules, the "how we compared"
+line and the prose links. Sitewide checks:
+- answer-first intro;
+- title pattern and length;
+- description names 2+ brands;
+- an autolink rule;
+- a link back from another roundup;
+- 5+ related roundups;
+- 1+ related guides;
+- a section table and a comparison table;
+- question posts list their pillar;
+- reviews have a quick answer;
+- winners' titles frozen.
+
 ### 0.1 What to write
 
 - **Only Amazon buying guides**: `best-X` roundups with verified ASINs. Also allowed: "<brand> review" pages and
@@ -179,6 +195,7 @@ Cluster pieces still missing (check `data/` first; someone may have shipped one)
 
 ## 5. Log
 
+- 2026-11-28 (sitewide): The playbook now applies to every page. Fixed the gaps: relatedGuides on 8 roundups, 5+ related roundups on `best-dht-blocker` and `best-beard-growth-products`, a section table on `best-viviscal-alternative`, and `/minoxidil-foam-vs-liquid` now feeds `/best-minoxidil-foam`. New sitewide checks in verify:content: FEW RELATED ROUNDUPS, NO RELATED GUIDES, NO SECTION TABLE, NO COMPARISON TABLE, PILLAR NOT IN RELATED.
 - 2026-11-28 (playbook): Codified what works as section 0, the step-by-step playbook. Every session loads it via `CLAUDE.md` → `@SEO-RULES.md`. New enforced check in `verify:content`: every roundup must be listed in another roundup's `relatedRoundups` ("NO CLUSTER LINK BACK"). Fixed the 10 pages that had no links back, including `/best-aveda-invati-alternative` (now linked from the hair growth serum and peptide serum guides) and `/best-viviscal-alternative` (hair growth vitamins, hair skin & nails). Bing URL submission (SubmitUrlBatch) added to the ship step.
 - 2026-11-28 (15 single-ingredient guides): Bing keyword research (GetKeyword, US, 90 days) on product queries in the winning batana format. Added 15 Amazon roundups: `/best-black-seed-oil-for-hair` (black seed oil 11,321 imp), `/best-peppermint-oil-for-hair-growth` (peppermint oil 5,855), `/best-tea-tree-shampoo` (2,071 + tea tree oil shampoo 505), `/best-emu-oil-for-hair` (1,053), `/best-biotin-shampoo` (742), `/best-caffeine-shampoo` (alpecin caffeine shampoo 449 + 167), `/best-onion-shampoo` (426 + 405), `/best-amla-oil-for-hair` (448 + 175), `/best-rice-water-shampoo` (291 + rice water for hair 282), `/best-olive-oil-for-hair` (135), `/best-bhringraj-oil` (100), `/best-chebe-powder` (95 + 73), `/best-ginger-shampoo` (88), `/best-tea-tree-oil-for-hair` (86), `/best-aloe-vera-gel-for-hair` (75). Skipped Jamaican black castor oil (486; already ranked in the castor oil guide). Autolinks route the first mention to the guide and later mentions to the existing question posts. No question posts. Re-check on Bing around 2026-12-12.
 - 2026-11-28 (batana buying guides): `BINGAPIKEY2` returns NotAuthorized for site stats (`npm run bing`), but works for Bing keyword research (GetKeyword / GetRelatedKeywords, US, 90 days). Audience angles (batana for men, beard, edges, mask, butter, + rosemary) show 0 Bing impressions; demand sits in brand names: KONEO 1,995 (+ reviews 493, for hair growth 346), Azure 1,760 (+ reviews 610, website 393), UFNA 1,247 (+ hair oil 142), OLCG 1,070 + 528, Lebanta paste 187. KONEO, OLCG, Azure and Lebanta all sell batana as a paste; UFNA sells a serum and a spray. Added Amazon roundups `/best-batana-oil-paste` (7 pastes) and `/best-batana-oil-serum` (7 serums and sprays). Winner extended with a format section + 1 FAQ (title and intro untouched); Azure and UFNA FAQs added to `/batana-oil-reviews`, leave-in FAQ to the shampoo guide. No question posts. Re-check on Bing around 2026-12-12.

@@ -388,6 +388,9 @@ export const bestHairCuttingShears: RoundupData = {
     "best-hair-detangler",
     "best-beard-grooming-kit",
   ],
+  relatedGuides: [
+    { href: "/how-to-prevent-hair-breakage", label: "How to prevent hair breakage" },
+  ],
   publishedDate: "2026-11-16",
   updatedDate: "2026-11-16",
 };
