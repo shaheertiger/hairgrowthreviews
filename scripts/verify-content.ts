@@ -236,6 +236,12 @@ for (const r of roundups) {
   const named = brands.filter((b) => r.metaDescription.toLowerCase().includes(b.toLowerCase().split(/[ ']/)[0]));
   if (named.length < 2) fail(`DESCRIPTION NAMES ${named.length} BRANDS roundup:${r.slug} (name 2+ of: ${brands.slice(0, 4).join(", ")})`);
 }
+// 11. Two-way cluster links (SEO-RULES.md §0): every roundup is listed in at least one OTHER
+//     roundup's relatedRoundups, so its pillar links back to it, the way best-batana-oil links
+//     its brand-check page and spin-offs. A guide that only links out is a dead end.
+for (const r of roundups)
+  if (!roundups.some((x) => x.slug !== r.slug && x.relatedRoundups.includes(r.slug)))
+    fail(`NO CLUSTER LINK BACK roundup:${r.slug} (add it to its pillar's relatedRoundups)`);
 // 10. Every review and guide opens answer-first with a quick answer.
 for (const r of reviews) if (!r.quickAnswer) fail(`NO QUICK ANSWER review:${r.slug}`);
 for (const g of guides) if (!g.quickAnswer) fail(`NO QUICK ANSWER guide:${g.slug}`);

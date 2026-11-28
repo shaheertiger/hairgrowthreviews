@@ -417,6 +417,7 @@ export const bestHairGrowthSerum: RoundupData = {
     "best-hair-growth-oil",
     "best-derma-roller-for-hair-growth",
     "best-hair-growth-products-for-women",
+    "best-aveda-invati-alternative",
   ],
   relatedReviewSlugs: ["biotopic-premium-hair-regrowth-serum", "amplixin-intensive-hair-growth-serum", "revivogen-scalp-therapy-formula", "vegamour-gro-hair-serum", "divi-scalp-serum", "burst-by-nourish-beaute", "spark-new", "aveda-invati-scalp-revitalizer"],
   relatedGuides: [

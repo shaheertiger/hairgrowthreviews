@@ -433,6 +433,7 @@ export const bestCurlingIron: RoundupData = {
     "best-hair-products-for-curly-hair",
     "best-hair-treatment-for-damaged-hair",
     "best-hair-thickening-products",
+    "best-curling-iron-for-short-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-growth-encyclopedia", label: "The hair growth encyclopedia" },

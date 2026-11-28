@@ -383,6 +383,7 @@ export const bestHairSkinAndNailsSupplement: RoundupData = {
     "best-vitamin-d-supplement-for-hair-loss",
     "best-iron-supplement-for-hair-loss",
     "best-postpartum-hair-loss-products",
+    "best-viviscal-alternative",
   ],
   relatedReviewSlugs: ["viviscal-extra-strength-hair-nutrient-tablets", "nutrafol", "bloom"],
   relatedGuides: [

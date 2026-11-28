@@ -414,6 +414,7 @@ export const bestLaserCapForHairGrowth: RoundupData = {
     "best-hair-growth-products-for-men",
     "best-hair-growth-products-for-women",
     "best-derma-roller-for-hair-growth",
+    "best-red-light-therapy-for-hair-growth",
   ],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

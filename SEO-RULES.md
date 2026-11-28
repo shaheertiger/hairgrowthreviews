@@ -5,6 +5,111 @@ Every session and every daily run on this repo follows these rules. The data is
 machine-checked parts live in `lib/seo-rules.ts` and are enforced by
 `npm run verify:content`, so breaking a rule fails the build checks.
 
+## 0. The playbook: how every new page is chosen, built, linked and shipped
+
+This is the format behind every page that earns Bing clicks (`/best-batana-oil`, the pumpkin seed
+oil guide, the Aveda and Viviscal reviews and their "alternative" guides). Follow it step by step.
+**(checked)** = `npm run verify:content` or `scripts/check-roundup.ts` fails the build if you skip it.
+
+### 0.1 What to write
+
+- **Only Amazon buying guides**: `best-X` roundups with verified ASINs. Also allowed: "<brand> review" pages and
+  "best <brand> alternative" roundups. **No new question/informational posts**: AI overviews answer those, and they
+  earn almost nothing. Extend the existing question posts instead.
+- **Pick from Bing data only.** Use `npm run bing` for site queries (Bing position ≤ 20, impressions, few clicks).
+  Use Bing keyword research for demand: `GetKeyword` / `GetRelatedKeywords` at
+  `https://ssl.bing.com/webmaster/api.svc/json/` with `q`, `country=us`, `language=en-US`, `startDate`, `endDate`
+  and `apikey`. Only write a page whose query (or its brand/product variants) shows Bing impressions.
+  Record the numbers in the commit message and the log below.
+- **Shapes that work**:
+  - a single ingredient or oil (batana, pumpkin seed, black seed, amla, emu…);
+  - a product-type spin-off of a winner (batana shampoo, batana paste, batana serum);
+  - a product-type spin-off of an ingredient (tea tree shampoo, caffeine shampoo, onion shampoo, rice water shampoo);
+  - "<brand> alternative".
+  - Not head terms ("best hair growth shampoo") and not generic hair care or styling tools.
+- **No cannibalising.** Grep `data/` for the keyword first. If an existing page nearly answers it, extend that page.
+  Example: Jamaican black castor oil was skipped because the castor oil guide ranks it.
+  A spin-off must target a distinct product type, not the pillar's query.
+- **Winners are frozen.** Never retitle, re-intro, delete or move them **(checked)**. Extend them only with a new
+  section or FAQ that routes to the new spin-off.
+
+### 0.2 How to build it (copy `data/roundups/best-batana-oil.ts` / `best-batana-oil-paste.ts`)
+
+- **Title**: `Best X (2026): N <Brands|Oils|Shampoos|Picks> Reviewed`, keyword first, ≤ 65 characters **(checked)**.
+- **Description**: ≤ 165 characters, opens with the keyword, names 2+ ranked brands by their exact `brand`
+  string **(checked)**.
+- **Intro**: `intro[0]` opens "The best X is …" and names the #1 pick in the first sentence **(checked)**.
+  The intro then says how we compared: listing titles, bullets, labels, sellers, price and buyer feedback in
+  <month year>. It also says no lab tests and no hands-on testing.
+- **Body**:
+  - ≥ 3,000 words of prose (aim 3,600-4,400) **(checked)**.
+  - 5 key takeaways.
+  - 4 sections, with the picks after section 1 (`picksAfter: 1`) **(checked range)**.
+  - One section `table` and a `comparisonTable`; the row label is not a column **(checked)**.
+  - Exactly 5 mistakes **(checked)** and 6-8 FAQs **(checked)**.
+  - A `bottomLine` that recaps the ranking.
+  - Every `pullQuote` copied verbatim from its own section's body **(checked)**.
+- **Products**: 5-7 per page **(checked)**, each with an ASIN from `npm run amazon:search -- "<query>"`
+  **(checked format)**.
+  - Base every product claim on that listing's title, bullets, seller and price only.
+  - Prices: "about $X when we checked".
+  - Prefer brand-sold listings, and say when a listing is sold by a third-party storefront.
+  - Then run `npm run amazon:sync`.
+- **Honesty**:
+  - No invented studies, stats, ratings, quotes or testing.
+  - Call out listing claims that overreach ("regrows hair", "eliminates dandruff") instead of repeating them.
+  - Cite a study only if you can describe it exactly and conservatively (e.g. the 2015 rosemary vs 2% minoxidil
+    trial, the 2002 5% tea tree dandruff trial, the 2014 peppermint mouse study). Otherwise say the evidence is
+    limited.
+  - Point thinning readers to minoxidil or a dermatologist.
+- **Check one file**: `npx tsx scripts/check-roundup.ts data/roundups/<slug>.ts` until it prints OK, then register
+  it in `data/roundups/index.ts`.
+
+### 0.3 How to interlink it (this is what turns one page into a cluster)
+
+The batana cluster earns clicks because every piece links to every other piece, both in cards and in prose.
+Do all five for every new page:
+
+1. **Autolink rule** in `lib/autolink.tsx` **(checked)**. Add a phrase that matches how other articles naturally
+   mention the topic, e.g. `"tea tree (?:oil )?shampoos?"` or `"batana (?:oil )?(?:pastes?|butters?)"`.
+   - Put it before broader rules for the same words.
+   - When a question post already owns the generic phrase, give the buying guide the first mention and keep the
+     question post as the fallback target. Example: `"black seed oil|nigella sativa"` →
+     `["/is-black-seed-oil-good-for-hair", "/best-black-seed-oil-for-hair"]`.
+2. **Out-links (cards)**: `relatedRoundups` lists the pillar, the sibling spin-offs and 5-8 related guides.
+   `relatedGuides` lists the matching question posts. `relatedReviewSlugs` lists any reviewed product.
+   All of them must resolve **(checked)**.
+3. **Links back (cards)**: add the new slug to the `relatedRoundups` of its pillar and 1-2 related guides. Every
+   roundup must be listed by at least one other roundup **(checked: "NO CLUSTER LINK BACK")**. Pillars so far:
+   - oils → `best-hair-growth-oil`;
+   - essential oils → `best-essential-oils-for-hair-growth`;
+   - growth shampoos → `best-hair-growth-shampoo` and `best-shampoo-for-thinning-hair`;
+   - scalp → `best-dandruff-shampoo` and `best-shampoo-for-itchy-scalp`;
+   - textured hair → `best-black-hair-care-products` and `best-hair-products-for-4c-hair`;
+   - batana → `best-batana-oil`.
+4. **Question posts feed the guide**: point the matching question post's `pillarSlug` at the new buying guide, and
+   add the guide to the post's `relatedRoundups`. That puts the guide's top picks on the question page.
+5. **Prose links from the cluster**: link the new page in the text of the winner or pillar and 1-2 cluster pages.
+   - Winners: a new section or FAQ only.
+   - Other pages: an FAQ or sentence that names the topic so the autolink fires.
+   - Confirm after `npm run build` with `grep -rl 'href="/<slug>"' .next/server/app --include=*.html`.
+   - `npm run audit:links` must show 0 broken links and no new page with fewer than 3 in-body inbound links.
+
+### 0.4 How to ship it
+
+1. `npm run verify:content && npm run lint && npm run build && npm run audit:links && npm run check:markdown`.
+   All must pass. Never weaken a check to pass.
+2. Work on a branch, then merge into `main` and push. If the push is rejected, fetch and merge `origin/main`.
+   Commit messages carry the Bing numbers behind each page.
+3. After Vercel deploys, curl the new URLs until they return 200. Then submit the new and changed paths twice:
+   - `npm run indexnow -- <paths>`;
+   - Bing `SubmitUrlBatch` (`POST https://ssl.bing.com/webmaster/api.svc/json/SubmitUrlBatch?apikey=…` with
+     `{"siteUrl":"https://www.hairgrowthreviews.com","urlList":[…]}`). The quota is 80 URLs a day and 280 a month.
+   - Only the `apikey` variable is authorized for this site. `BINGAPIKEY2` works for keyword research only.
+     Never print key values.
+4. Add a line to the log in section 5: the data used, pages added and changed, the checks and the submission
+   status. Re-check the new pages on Bing about 2 weeks later.
+
 ## 1. What is working (the winners)
 
 Bing Webmaster, 90 days to 2026-11-27 (`data/bing/2026-11-27.json`, `lib/seo-rules.ts` → `WINNERS`):
@@ -74,6 +179,7 @@ Cluster pieces still missing (check `data/` first; someone may have shipped one)
 
 ## 5. Log
 
+- 2026-11-28 (playbook): Codified what works as section 0, the step-by-step playbook. Every session loads it via `CLAUDE.md` → `@SEO-RULES.md`. New enforced check in `verify:content`: every roundup must be listed in another roundup's `relatedRoundups` ("NO CLUSTER LINK BACK"). Fixed the 10 pages that had no links back, including `/best-aveda-invati-alternative` (now linked from the hair growth serum and peptide serum guides) and `/best-viviscal-alternative` (hair growth vitamins, hair skin & nails). Bing URL submission (SubmitUrlBatch) added to the ship step.
 - 2026-11-28 (15 single-ingredient guides): Bing keyword research (GetKeyword, US, 90 days) on product queries in the winning batana format. Added 15 Amazon roundups: `/best-black-seed-oil-for-hair` (black seed oil 11,321 imp), `/best-peppermint-oil-for-hair-growth` (peppermint oil 5,855), `/best-tea-tree-shampoo` (2,071 + tea tree oil shampoo 505), `/best-emu-oil-for-hair` (1,053), `/best-biotin-shampoo` (742), `/best-caffeine-shampoo` (alpecin caffeine shampoo 449 + 167), `/best-onion-shampoo` (426 + 405), `/best-amla-oil-for-hair` (448 + 175), `/best-rice-water-shampoo` (291 + rice water for hair 282), `/best-olive-oil-for-hair` (135), `/best-bhringraj-oil` (100), `/best-chebe-powder` (95 + 73), `/best-ginger-shampoo` (88), `/best-tea-tree-oil-for-hair` (86), `/best-aloe-vera-gel-for-hair` (75). Skipped Jamaican black castor oil (486; already ranked in the castor oil guide). Autolinks route the first mention to the guide and later mentions to the existing question posts. No question posts. Re-check on Bing around 2026-12-12.
 - 2026-11-28 (batana buying guides): `BINGAPIKEY2` returns NotAuthorized for site stats (`npm run bing`), but works for Bing keyword research (GetKeyword / GetRelatedKeywords, US, 90 days). Audience angles (batana for men, beard, edges, mask, butter, + rosemary) show 0 Bing impressions; demand sits in brand names: KONEO 1,995 (+ reviews 493, for hair growth 346), Azure 1,760 (+ reviews 610, website 393), UFNA 1,247 (+ hair oil 142), OLCG 1,070 + 528, Lebanta paste 187. KONEO, OLCG, Azure and Lebanta all sell batana as a paste; UFNA sells a serum and a spray. Added Amazon roundups `/best-batana-oil-paste` (7 pastes) and `/best-batana-oil-serum` (7 serums and sprays). Winner extended with a format section + 1 FAQ (title and intro untouched); Azure and UFNA FAQs added to `/batana-oil-reviews`, leave-in FAQ to the shampoo guide. No question posts. Re-check on Bing around 2026-12-12.
 - 2026-11-28: Bing API data unchanged from 11-27 (lag); used the user's Bing Webmaster exports and Vercel exports (`data/bing/exports/`, `data/vercel/`). Bing daily clicks rising (10-12/day Nov 23-26 vs 2-7 earlier); Vercel Nov 27 search referrers: DuckDuckGo 14, Yahoo 5, Bing 4, Google 3. "batana oil reviews" 83 imp / 0 clicks lands on `/best-batana-oil` while `/batana-oil-reviews` is invisible: winner now routes KONEO/OLCG/Kuri Nuka questions to the brand-check page. Added brand reviews from the queue: `/reviews/wild-growth-hair-oil`, `/reviews/mielle-rosemary-mint-oil`. All IndexNowed.

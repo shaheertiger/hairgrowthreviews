@@ -371,6 +371,7 @@ export const bestBeardGrowthOil: RoundupData = {
     "best-shampoo-for-men",
     "best-eyebrow-growth-serum",
     "best-hair-growth-oil",
+    "best-beard-growth-products",
   ],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

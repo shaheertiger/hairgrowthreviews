@@ -389,6 +389,7 @@ export const bestShampooForColorTreatedHair: RoundupData = {
     "best-heat-protectant-spray",
     "best-clarifying-shampoo",
     "best-shampoo-for-keratin-treated-hair",
+    "best-dandruff-shampoo-for-color-treated-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },

@@ -418,6 +418,7 @@ export const bestHairClippers: RoundupData = {
     "best-hair-growth-products-for-men",
     "best-minoxidil-for-men",
     "best-hair-fibers-for-thinning-hair",
+    "best-hair-cutting-shears",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/stages-hair-loss", label: "Stages of hair loss: where are you?" },

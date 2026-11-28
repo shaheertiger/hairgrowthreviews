@@ -405,6 +405,7 @@ export const bestShampooForThinningHair: RoundupData = {
     "best-hair-growth-products-for-women",
     "best-caffeine-shampoo",
     "best-biotin-shampoo",
+    "best-shampoo-for-chemo-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/stages-hair-loss", label: "Stages of hair loss: where are you?" },

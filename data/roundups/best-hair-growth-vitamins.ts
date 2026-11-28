@@ -413,6 +413,8 @@ export const bestHairGrowthVitamins: RoundupData = {
     "best-hair-growth-products-for-men",
     "best-minoxidil-for-women",
     "best-hair-growth-serum",
+    "best-prenatal-vitamins-for-hair-growth",
+    "best-viviscal-alternative",
   ],
   relatedReviewSlugs: ["nutrafol", "viviscal-extra-strength-hair-nutrient-tablets", "bloom"],
   relatedGuides: [

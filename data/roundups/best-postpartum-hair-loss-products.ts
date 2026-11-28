@@ -411,6 +411,7 @@ export const bestPostpartumHairLossProducts: RoundupData = {
     "best-hair-fibers-for-thinning-hair",
     "best-hair-thickening-products",
     "best-hair-growth-products-for-women",
+    "best-prenatal-vitamins-for-hair-growth",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },

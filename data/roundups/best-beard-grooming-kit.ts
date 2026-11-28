@@ -420,6 +420,7 @@ export const bestBeardGroomingKit: RoundupData = {
     "best-nose-hair-trimmer",
     "best-body-groomer-for-men",
     "best-hair-products-for-men",
+    "best-beard-growth-products",
   ],
   relatedGuides: [
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },

@@ -393,6 +393,7 @@ export const bestPeptideSerumForHairGrowth: RoundupData = {
     "best-hair-growth-products",
     "best-shampoo-for-thinning-hair",
     "best-derma-roller-for-hair-growth",
+    "best-aveda-invati-alternative",
   ],
   relatedReviewSlugs: ["clofina-hair-revival-ampoule", "burst-by-nourish-beaute", "murad-hair-growth-scalp-serum", "vegamour-gro-hair-serum"],
   relatedGuides: [
