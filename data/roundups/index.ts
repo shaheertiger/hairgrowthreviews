@@ -126,6 +126,21 @@ import { blackFridayHairToolDeals } from "./black-friday-hair-tool-deals";
 import { bestBatanaOilShampooAndConditioner } from "./best-batana-oil-shampoo-and-conditioner";
 import { bestBatanaOilPaste } from "./best-batana-oil-paste";
 import { bestBatanaOilSerum } from "./best-batana-oil-serum";
+import { bestBlackSeedOilForHair } from "./best-black-seed-oil-for-hair";
+import { bestPeppermintOilForHairGrowth } from "./best-peppermint-oil-for-hair-growth";
+import { bestTeaTreeShampoo } from "./best-tea-tree-shampoo";
+import { bestEmuOilForHair } from "./best-emu-oil-for-hair";
+import { bestBiotinShampoo } from "./best-biotin-shampoo";
+import { bestCaffeineShampoo } from "./best-caffeine-shampoo";
+import { bestOnionShampoo } from "./best-onion-shampoo";
+import { bestAmlaOilForHair } from "./best-amla-oil-for-hair";
+import { bestRiceWaterShampoo } from "./best-rice-water-shampoo";
+import { bestOliveOilForHair } from "./best-olive-oil-for-hair";
+import { bestBhringrajOil } from "./best-bhringraj-oil";
+import { bestChebePowder } from "./best-chebe-powder";
+import { bestGingerShampoo } from "./best-ginger-shampoo";
+import { bestTeaTreeOilForHair } from "./best-tea-tree-oil-for-hair";
+import { bestAloeVeraGelForHair } from "./best-aloe-vera-gel-for-hair";
 import { bestHairGrowthOilForMen } from "./best-hair-growth-oil-for-men";
 import { bestHairOilForThinningHair } from "./best-hair-oil-for-thinning-hair";
 import { bestMinoxidilFoam } from "./best-minoxidil-foam";
@@ -209,6 +224,21 @@ export const roundups: RoundupData[] = [
   bestBatanaOilShampooAndConditioner,
   bestBatanaOilPaste,
   bestBatanaOilSerum,
+  bestBlackSeedOilForHair,
+  bestPeppermintOilForHairGrowth,
+  bestTeaTreeShampoo,
+  bestEmuOilForHair,
+  bestBiotinShampoo,
+  bestCaffeineShampoo,
+  bestOnionShampoo,
+  bestAmlaOilForHair,
+  bestRiceWaterShampoo,
+  bestOliveOilForHair,
+  bestBhringrajOil,
+  bestChebePowder,
+  bestGingerShampoo,
+  bestTeaTreeOilForHair,
+  bestAloeVeraGelForHair,
   bestCastorOilForHairGrowth,
   bestPumpkinSeedOilForHairLoss,
   bestPumpkinSeedOilCapsulesForHairLoss,
