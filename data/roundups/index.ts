@@ -124,6 +124,8 @@ import { batanaOilReviews } from "./batana-oil-reviews";
 import { bestPumpkinSeedOilCapsulesForHairLoss } from "./best-pumpkin-seed-oil-capsules-for-hair-loss";
 import { blackFridayHairToolDeals } from "./black-friday-hair-tool-deals";
 import { bestBatanaOilShampooAndConditioner } from "./best-batana-oil-shampoo-and-conditioner";
+import { bestBatanaOilPaste } from "./best-batana-oil-paste";
+import { bestBatanaOilSerum } from "./best-batana-oil-serum";
 import { bestHairGrowthOilForMen } from "./best-hair-growth-oil-for-men";
 import { bestHairOilForThinningHair } from "./best-hair-oil-for-thinning-hair";
 import { bestMinoxidilFoam } from "./best-minoxidil-foam";
@@ -205,6 +207,8 @@ export const roundups: RoundupData[] = [
   bestBatanaOil,
   batanaOilReviews,
   bestBatanaOilShampooAndConditioner,
+  bestBatanaOilPaste,
+  bestBatanaOilSerum,
   bestCastorOilForHairGrowth,
   bestPumpkinSeedOilForHairLoss,
   bestPumpkinSeedOilCapsulesForHairLoss,

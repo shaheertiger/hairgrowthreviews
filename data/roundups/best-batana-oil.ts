@@ -322,6 +322,17 @@ export const bestBatanaOil: RoundupData = {
       keyPoint:
         "Honduras origin links a jar to the traditional supply, organic only means something with a USDA seal or named certifier, and any brand can be checked with the same four label tests.",
     },
+    {
+      id: "batana-paste-serum-or-spray",
+      heading: "Batana Paste, Serum or Spray: Which Format to Buy",
+      body: [
+        "Batana is now sold in three main formats, and the right one depends on how you want to use it. Raw batana is naturally semi-solid at room temperature, so the traditional product often comes as a dark, earthy-smelling paste in a jar. That is the format behind many of the batana brands people search for most, including KONEO, OLCG, Azure and Lebanta. Our guide to the best batana oil paste compares seven of those jars on their ingredient claims, their sellers and their price, with Nubiana, Lebanta and TheravitaRX at the top.",
+        "If you would rather not wash out a thick mask, a lighter blend may suit you better. Because raw batana cannot drip from a dropper or come out of a spray nozzle on its own, every batana serum or spray mixes it with thinner oils such as castor, rosemary or argan, or with a water-based leave-in formula. That makes them easier to use daily, but it also means none of them is pure batana. Our guide to the best batana oil serum compares Lebanta's batana and rosemary scalp oil, UFNA's serum and spray, BELLISSO, Hair Chemist and others on what their labels actually name.",
+        "For most people the simplest routine is one of each: a raw paste or one of the pure oils above as a weekly pre-wash treatment, and a light serum or leave-in spray between washes if your hair is dry or frizzy. Whatever the format, the same rules apply. Read the ingredient list, check that the seller matches the brand, and expect softer, shinier hair that breaks less rather than new growth.",
+      ],
+      keyPoint:
+        "Paste is the raw, traditional form for weekly masks; serums and sprays are lighter blends for daily use. Neither format changes what batana can realistically do.",
+    },
   ],
   comparisonTable: {
     columns: ["Type", "Size", "Pure or Blend", "Best For"],
@@ -402,6 +413,10 @@ export const bestBatanaOil: RoundupData = {
       a: "Our batana oil reviews page checks those Amazon brands one by one, along with seven others, for real Elaeis oleifera oil, fillers and seller signals. For PreciousVita, UNFA or any brand not listed, use the same checks: Elaeis oleifera as the only ingredient if it says pure, a stated origin, the brand's own storefront, and reviews describing a dark, thick oil with a roasted smell.",
     },
     {
+      q: "Is batana oil paste the same as batana oil?",
+      a: "Raw batana is semi-solid at room temperature, so a jar of raw batana paste and a raw batana oil are usually the same material; it melts into an oil when warmed. Liquid batana products are more often refined oils or blends. Our batana oil paste guide compares Nubiana, Lebanta, KONEO, OLCG and other jars, and our batana oil serum guide covers the lighter blends.",
+    },
+    {
       q: "Does batana oil darken hair?",
       a: "Raw batana is a dark oil, and some users with very light, gray or color-treated hair report a slight tint after use. It is not a hair dye and results vary. If you have light hair, test it on a hidden section first, and protect towels and pillowcases from staining.",
     },
@@ -425,5 +440,5 @@ export const bestBatanaOil: RoundupData = {
     { href: "/find-a-treatment/minoxidil-rogaine", label: "Minoxidil & Rogaine: the complete guide" },
   ],
   publishedDate: "2026-10-14",
-  updatedDate: "2026-11-27",
+  updatedDate: "2026-11-28",
 };

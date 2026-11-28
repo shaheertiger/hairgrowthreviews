@@ -66,6 +66,8 @@ const rules: Rule[] = [
   { pattern: "batana oil (?:vs\\.?|versus|or) rosemary oil|rosemary oil (?:vs\\.?|versus|or) batana(?: oil)?", targets: ["/batana-oil-vs-rosemary-oil"] },
   { pattern: "batana oil darken(?:s|ing)?(?: hair)?|darken(?:s|ing)? (?:your |gray )?hair", targets: ["/does-batana-oil-darken-hair"] },
   { pattern: "batana (?:oil )?(?:shampoos?|conditioners?)|batana hair products", targets: ["/best-batana-oil-shampoo-and-conditioner"] },
+  { pattern: "batana (?:oil )?(?:pastes?|butters?)|raw batana (?:oil )?paste", targets: ["/best-batana-oil-paste"] },
+  { pattern: "batana (?:oil )?(?:hair )?(?:serums?|sprays?)|batana (?:and|&) rosemary (?:serums?|blends?|scalp oils?)", targets: ["/best-batana-oil-serum"] },
   { pattern: "batana oil reviews|batana (?:oil )?brands", targets: ["/batana-oil-reviews", "/how-to-tell-if-batana-oil-is-real"] },
   { pattern: "how long (?:does )?batana oil (?:takes?|to work)|batana oil timeline", targets: ["/how-long-does-batana-oil-take-to-work"] },
   { pattern: "batana oil side effects|side effects of batana oil", targets: ["/batana-oil-side-effects"] },

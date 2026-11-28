@@ -479,6 +479,14 @@ export const batanaOilReviews: RoundupData = {
       a: "Yes, many. Batana is sold by established oil brands such as Handcraft Blends, Majestic Pure, Botanic Hearth and Sky Organics, and by newer brands like Natural Riches, BatanaCo and Lebanta. The Kuri Nuka name itself appeared under several different storefronts on Amazon when we checked, so whichever brand you choose, check the seller and the ingredient list.",
     },
     {
+      q: "Is Azure batana oil real?",
+      a: "When we searched Amazon in November 2026 we found several Azure Batana listings, oils and a paste, plus one using the Azure name under a different brand field. The paste called itself a cold-pressed, single-ingredient oil but also fast-absorbing and non-greasy, and was sold by a third-party storefront. Check the ingredient panel and seller before buying; our batana oil paste guide compares it with six other jars.",
+    },
+    {
+      q: "Is UFNA batana oil pure batana?",
+      a: "UFNA's dropper serum describes wild-harvested, cold-pressed batana but also calls itself non-greasy and weightless, which raw batana is not, and its bullets name no other ingredients. UFNA's Hair Growth Spray is openly a blend with rosemary, castor, biotin and caffeine. Both were sold by a third-party storefront when we checked. Our batana oil serum guide compares them with other batana serums and sprays.",
+    },
+    {
       q: "What is the difference between Elaeis oleifera and Elaeis guineensis?",
       a: "Elaeis oleifera is the American oil palm, the source of batana oil. Elaeis guineensis is the African oil palm, the source of ordinary palm and palm kernel oil, which is cheaper and is not batana. A product sold as batana should list Elaeis oleifera, not Elaeis guineensis.",
     },
@@ -504,5 +512,5 @@ export const batanaOilReviews: RoundupData = {
     { href: "/does-batana-oil-grow-hair", label: "Does batana oil grow hair?" },
   ],
   publishedDate: "2026-11-23",
-  updatedDate: "2026-11-24",
+  updatedDate: "2026-11-28",
 };

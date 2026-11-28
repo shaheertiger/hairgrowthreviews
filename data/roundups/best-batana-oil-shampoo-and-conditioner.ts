@@ -386,6 +386,10 @@ export const bestBatanaOilShampooAndConditioner: RoundupData = {
       a: "Both, if you like batana. The pure oil, used as a pre-wash treatment, is what delivers the softening benefit. A batana shampoo and conditioner are a gentle way to wash it out. If you only buy one, buy the oil.",
     },
     {
+      q: "Is there a batana leave-in conditioner or spray?",
+      a: "Yes. Hair Chemist makes a batana leave-in conditioning spray to go with its shampoo and conditioner set, and brands such as UFNA, Creip and KPEBN sell batana scalp sprays with rosemary and other ingredients. They are blends, not pure batana. Our batana oil serum guide compares them, and our batana oil paste guide covers the raw jars for a weekly mask.",
+    },
+    {
       q: "Can I use batana shampoo every day?",
       a: "Most sulfate-free batana shampoos are gentle enough for frequent use, but few people need to shampoo daily. Dry, curly and coily hair usually does best washed once or twice a week. Oily scalps may need more frequent washing with a lighter formula.",
     },
@@ -417,5 +421,5 @@ export const bestBatanaOilShampooAndConditioner: RoundupData = {
     { href: "/how-to-tell-if-batana-oil-is-real", label: "How to tell if batana oil is real" },
   ],
   publishedDate: "2026-11-24",
-  updatedDate: "2026-11-24",
+  updatedDate: "2026-11-28",
 };
