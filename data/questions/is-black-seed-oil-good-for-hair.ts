@@ -177,7 +177,7 @@ export const isBlackSeedOilGoodForHair: QuestionData = {
   ],
   bottomLine:
     "Black seed oil is a reasonable conditioning and scalp oil, and its main compound, thymoquinone, has interesting antioxidant, anti-inflammatory and antimicrobial effects in the lab. But the evidence that it grows hair or treats hair loss is honestly limited: a few small human studies, some using blends, and nothing showing it works for pattern hair loss. It is also a recognised cause of allergic skin reactions, so patch test and dilute it. Enjoy it as part of a hair care routine if it suits you, and see a doctor or dermatologist for real hair loss.",
-  pillarSlug: "best-hair-growth-oil",
+  pillarSlug: "best-black-seed-oil-for-hair",
   relatedQuestions: [
     "does-rosemary-oil-really-grow-hair",
     "does-castor-oil-grow-hair",
@@ -188,6 +188,7 @@ export const isBlackSeedOilGoodForHair: QuestionData = {
     "is-grapeseed-oil-good-for-hair",
   ],
   relatedRoundups: [
+    "best-black-seed-oil-for-hair",
     "best-hair-growth-oil",
     "best-essential-oils-for-hair-growth",
     "best-rosemary-oil-for-hair-growth",

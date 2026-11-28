@@ -389,6 +389,11 @@ export const bestHairGrowthOil: RoundupData = {
     "best-hot-oil-treatment-for-hair",
     "best-hair-oil-for-fine-hair",
     "best-hair-oil-for-dry-hair",
+    "best-black-seed-oil-for-hair",
+    "best-amla-oil-for-hair",
+    "best-bhringraj-oil",
+    "best-emu-oil-for-hair",
+    "best-olive-oil-for-hair",
   ],
   relatedReviewSlugs: ["just-natural-hair-growth-treatment"],
   relatedGuides: [

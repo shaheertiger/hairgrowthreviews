@@ -203,7 +203,7 @@ export const isOliveOilGoodForYourHair: QuestionData = {
   ],
   bottomLine:
     "Olive oil is good for your hair, especially if it is dry, coarse, curly or damaged. Its oleic acid and squalene soften strands, smooth the cuticle, add shine and reduce breakage, which helps you keep more of the length you grow. Use extra virgin or regular olive oil as a pre-wash treatment or DIY mask once or twice a week, go lighter on fine hair, keep it on the lengths if you have dandruff and patch test first. For a ready-made option, explore the ranked oils in our hair growth oil guide.",
-  pillarSlug: "best-hair-growth-oil",
+  pillarSlug: "best-olive-oil-for-hair",
   relatedQuestions: [
     "is-coconut-oil-good-for-your-hair",
     "how-to-use-argan-oil-for-hair",
@@ -217,6 +217,7 @@ export const isOliveOilGoodForYourHair: QuestionData = {
     "how-to-detangle-hair-with-oil",
   ],
   relatedRoundups: [
+    "best-olive-oil-for-hair",
     "best-hair-growth-oil",
     "best-argan-oil-for-hair",
     "best-jojoba-oil-for-hair",

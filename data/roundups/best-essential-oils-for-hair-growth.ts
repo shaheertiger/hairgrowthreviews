@@ -383,6 +383,8 @@ export const bestEssentialOilsForHairGrowth: RoundupData = {
     "best-castor-oil-for-hair-growth",
     "best-scalp-massager",
     "best-hair-growth-serum",
+    "best-peppermint-oil-for-hair-growth",
+    "best-tea-tree-oil-for-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },

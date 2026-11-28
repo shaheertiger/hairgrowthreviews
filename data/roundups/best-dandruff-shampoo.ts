@@ -481,6 +481,7 @@ export const bestDandruffShampoo: RoundupData = {
     "best-shampoo-for-itchy-scalp",
     "best-shampoo-for-oily-hair",
     "best-scalp-scrub",
+    "best-tea-tree-shampoo",
   ],
   relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo"],
   relatedGuides: [

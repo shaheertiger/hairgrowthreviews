@@ -404,6 +404,8 @@ export const bestBlackHairCareProducts: RoundupData = {
     "best-hair-growth-oil",
     "best-hair-care-products-for-women",
     "best-hair-growth-products-for-women",
+    "best-chebe-powder",
+    "best-aloe-vera-gel-for-hair",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-loss-cycle", label: "The hair growth cycle explained" },

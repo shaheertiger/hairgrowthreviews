@@ -403,6 +403,8 @@ export const bestShampooForThinningHair: RoundupData = {
     "best-minoxidil-for-women",
     "best-hair-fibers-for-thinning-hair",
     "best-hair-growth-products-for-women",
+    "best-caffeine-shampoo",
+    "best-biotin-shampoo",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/stages-hair-loss", label: "Stages of hair loss: where are you?" },

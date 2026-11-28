@@ -184,7 +184,7 @@ export const howToUseAmlaOilForHair: QuestionData = {
   ],
   bottomLine:
     "Amla oil is amla fruit infused into a base oil, and popular bottles like Dabur Amla are often mostly mineral oil with a little amla extract, fragrance and colour. Used the traditional way, warmed, massaged into the scalp, left on for 30 minutes to overnight and shampooed out twice, it is a good conditioning and pre-wash oil that adds shine and reduces breakage. The evidence that it grows hair or reverses greying is weak, so enjoy it for what it does well, patch test fragranced versions, and see a doctor or dermatologist about real hair loss or unusually early greying.",
-  pillarSlug: "best-hair-growth-oil",
+  pillarSlug: "best-amla-oil-for-hair",
   relatedQuestions: [
     "how-often-should-you-oil-your-hair",
     "is-coconut-oil-good-for-your-hair",
@@ -195,6 +195,7 @@ export const howToUseAmlaOilForHair: QuestionData = {
     "what-is-low-porosity-hair",
   ],
   relatedRoundups: [
+    "best-amla-oil-for-hair",
     "best-hair-growth-oil",
     "best-coconut-oil-for-hair",
     "best-hair-oil-for-dry-hair",

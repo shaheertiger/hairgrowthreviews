@@ -402,6 +402,11 @@ export const bestHairGrowthShampoo: RoundupData = {
     "best-hair-growth-products-for-men",
     "best-hair-growth-products-for-women",
     "best-rosemary-oil-for-hair-growth",
+    "best-caffeine-shampoo",
+    "best-biotin-shampoo",
+    "best-onion-shampoo",
+    "best-rice-water-shampoo",
+    "best-ginger-shampoo",
   ],
   relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo"],
   relatedGuides: [

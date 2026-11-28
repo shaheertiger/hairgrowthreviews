@@ -196,7 +196,7 @@ export const doesTeaTreeOilHelpHairGrowth: QuestionData = {
   ],
   bottomLine:
     "Tea tree oil is good for hair because it is good for the scalp. It cleanses oil and buildup, helps control dandruff and eases itch, which creates the best setting for healthy hair, though it is not a regrowth treatment. Dilute it to about 1 to 2%, patch test, and try Paul Mitchell Tea Tree Special or a Handcraft Blends Tea Tree blend two to three times a week.",
-  pillarSlug: "best-essential-oils-for-hair-growth",
+  pillarSlug: "best-tea-tree-oil-for-hair",
   relatedQuestions: [
     "how-to-use-rosemary-oil-for-hair-growth",
     "does-rosemary-oil-really-grow-hair",
@@ -209,6 +209,7 @@ export const doesTeaTreeOilHelpHairGrowth: QuestionData = {
     "how-long-does-minoxidil-take-to-work",
   ],
   relatedRoundups: [
+    "best-tea-tree-oil-for-hair",
     "best-essential-oils-for-hair-growth",
     "best-shampoo-for-oily-hair",
     "best-dandruff-shampoo",

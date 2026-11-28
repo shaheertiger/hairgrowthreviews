@@ -422,6 +422,8 @@ export const bestHairProductsFor4cHair: RoundupData = {
     "best-hair-growth-products-for-black-hair",
     "best-oil-for-low-porosity-hair",
     "best-silk-pillowcase-for-hair",
+    "best-chebe-powder",
+    "best-ginger-shampoo",
   ],
   relatedGuides: [
     { href: "/about-hair-growth/hair-growth-encyclopedia", label: "Hair growth encyclopedia" },

@@ -397,6 +397,9 @@ export const bestShampooForItchyScalp: RoundupData = {
     "best-scalp-scrub",
     "best-shampoo-for-color-treated-hair",
     "best-minoxidil-for-men",
+    "best-tea-tree-shampoo",
+    "best-tea-tree-oil-for-hair",
+    "best-aloe-vera-gel-for-hair",
   ],
   relatedReviewSlugs: ["nizoral-d-anti-dandruff-shampoo"],
   relatedGuides: [
