@@ -270,6 +270,7 @@ export const bestHairGrowthOil: RoundupData = {
         "If your scalp is dry and your hair is thick, coarse, curly or coily, richer oils such as castor or a ready-made blend like Mielle make more sense. Textured hair is more prone to dryness and breakage because natural scalp oils travel down the hair shaft less easily, and sealing oils can noticeably improve length retention.",
         "Think carefully if you have dandruff or seborrheic dermatitis. The yeast involved in those conditions feeds on certain oils, and some people find heavy oiling makes flaking and itching worse. A medicated shampoo with ketoconazole is a great first step, with oils used sparingly and washed out.",
         "Finally, decide between a single oil and a blend. Single oils are cheap, pure and let you control exactly what goes on your scalp. Blends are more convenient and often nicer to use, but they add fragrance and essential oils, which increase the chance of irritation. If you have reacted to products before, start simple.",
+        "If you have seen Wild Growth Hair Oil, the drugstore classic in the green bottle, it is a blend built on coconut, olive and jojoba oils. Our Wild Growth Hair Oil review covers what it does well, what it cannot do for hair loss, and how it compares with the oils on this page.",
       ],
       pullQuote: "If you have reacted to products before, start simple.",
     },

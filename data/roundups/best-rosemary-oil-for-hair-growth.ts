@@ -246,6 +246,7 @@ export const bestRosemaryOilForHairGrowth: RoundupData = {
         "Ready-to-use blends have already done the diluting for you, usually in castor, jojoba, coconut or other carrier oils. They are faster, more convenient and safer for anyone who does not want to measure drops. The trade-off is that very few blends disclose how much rosemary they contain, and many add fragrance, biotin or other botanicals for extra nourishment and a pleasant feel.",
         "Rosemary water and rosemary sprays are a third category. They feel light and are ideal for fine hair, but they contain much less of the oil's aromatic compounds and are the furthest from what was studied. Rosemary shampoos are further still, because they rinse off within a minute or two.",
         "Our rule of thumb is simple. If you are comfortable mixing and want the most rosemary for your money, buy a pure oil and a carrier. If you value convenience or are new to essential oils, buy a blend. If oils of any kind weigh your hair down, rosemary water is a pleasant, lightweight alternative.",
+        "The best-known ready-made blend is Mielle Rosemary Mint Scalp & Hair Strengthening Oil, a carrier-oil base with rosemary, peppermint and biotin. Our Mielle Rosemary Mint Oil review covers what is in the bottle, how it compares with pure rosemary oil, and why the 2015 rosemary study does not test it directly.",
       ],
       pullQuote: "If you value convenience or are new to essential oils, buy a blend.",
       table: {

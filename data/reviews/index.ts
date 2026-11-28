@@ -22,6 +22,8 @@ import { tangl } from "./tangl";
 import { vegamour } from "./vegamour";
 import { divi } from "./divi";
 import { nutrafol } from "./nutrafol";
+import { wildGrowthHairOil } from "./wild-growth-hair-oil";
+import { mielleRosemaryMintOil } from "./mielle-rosemary-mint-oil";
 
 export const reviews = [
   biotopic,
@@ -48,4 +50,6 @@ export const reviews = [
   vegamour,
   divi,
   nutrafol,
+  wildGrowthHairOil,
+  mielleRosemaryMintOil,
 ];

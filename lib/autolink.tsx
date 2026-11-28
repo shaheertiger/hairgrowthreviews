@@ -34,6 +34,8 @@ const rules: Rule[] = [
   { pattern: "men" + A + "s minoxidil|minoxidil for men", targets: ["/best-minoxidil-for-men", "/can-women-use-mens-minoxidil"] },
   { pattern: "generic minoxidil|kirkland(?: signature)? minoxidil|rogaine vs\\.? minoxidil|rogaine (?:is )?the same as minoxidil", targets: ["/is-rogaine-the-same-as-minoxidil"] },
   { pattern: "minoxidil costs?|cost of minoxidil|price of minoxidil", targets: ["/how-much-does-minoxidil-cost"] },
+  { pattern: "mielle(?:" + A + "s| organics)? rosemary mint(?: (?:hair |scalp (?:& |and )?hair strengthening )?oil)?|mielle rosemary(?: mint)? oil", targets: [reviewHref("mielle-rosemary-mint-oil")] },
+  { pattern: "wild growth(?: hair)? oil", targets: [reviewHref("wild-growth-hair-oil")] },
   { pattern: "rosemary oil (?:vs\\.?|versus) minoxidil|minoxidil (?:vs\\.?|versus) rosemary(?: oil)?", targets: ["/rosemary-oil-vs-minoxidil"] },
   { pattern: "how minoxidil works|minoxidil sulfate", targets: ["/how-does-minoxidil-work"] },
   { pattern: "minoxidil|rogaine", targets: ["/find-a-treatment/minoxidil-rogaine", "/best-minoxidil-for-men", "/how-long-does-minoxidil-take-to-work"] },
